@@ -52,3 +52,29 @@
 
 - Differentiator from Primal Hunter: theology is present from minute one; the Holy Spirit rewriting the AI companion is not a power fantasy — it's divine purpose
 - Avoid direct parallels to Primal Hunter opening despite similar inciting structure
+
+
+
+---
+
+## Session 002 — 2026-03-20
+
+**Platform:** Claude.ai web
+**Focus:** Full MCP tool audit — forge-mcp and git-forge connectors
+
+**Server State Confirmed**
+- forge-mcp: port 8765, 0.0.0.0, Funnel `/` to `/mcp`, 20 tools
+- git-forge-mcp: port 8093, 127.0.0.1 (localhost only — Funnel proxies Windows side), `/git-forge` to `/mcp`, 12 tools
+- Both services healthy. iOS commute workflow viable via Tailscale Funnel.
+
+**Audit Results**
+- git-forge 12/12 operational. Intermittent drop/recover is expected behavior — retry resolves within 1-2 attempts. Colon-style commit messages (chore: foo) fail on Claude.ai web client-side shell parsing — use plain messages as workaround, no server fix needed.
+- FORGE-mcp 20/20 operational. forge_codex_context multi-entity and forge_codex_get entity #4 both showed transient errors that self-healed. Test capture ID 69 sitting in nova-capture — no delete tool available via MCP.
+
+**Fix Deployed This Session**
+- read_file large file error (CLAUDE.md) — offset/limit params added server-side and deployed. Toggle git-forge connector off/on in Claude.ai settings to refresh schema and surface the new params. Use search_repo as workaround until toggled.
+
+**Known Quirks (no fix needed)**
+- git-forge drop/recover: retry on error
+- git_commit colon messages: client-side, use plain messages
+- forge_codex_get transient errors: self-heal
