@@ -10,102 +10,100 @@
 - Functions as LitRPG infrastructure — classes, stats, skills, interface, tutorial
 - Designed to integrate all of humanity into its hierarchy
 - Cannot detect Anomalies until they act — hidden trait: `[Origin: PRE-SYSTEM]`
-- System-assigned AI companions boot normally for integrated users — obedient, helpful, slightly condescending
+- System AIs are also spyware — report behavior upstream, nudge toward System-optimal choices
+
+---
+
+## Protagonist — Nathan "Nate" Hall
+
+- Louisiana cattleman turned Systems Engineer, DoD contractor
+- Three name modes: Nathan (formal), Nate (friends/ranch), King (earned leadership nickname)
+- Traces lineage to biblical King David (discovered mid-series)
+- Name meaning: Nathan = "he gave" — the conduit who gives, doesn't keep
+- Bloodline: `[BLOODLINE: UNKNOWN — Pre-System ancestry detected]`
+- Class: Anomaly — Conduit of the Most High
+
+---
+
+## Sonja Lee — Ward Character
+
+- Red-haired, green-eyed Anomaly of Irish descent
+- Name meaning: Sonja = Sophia = wisdom
+- Carries complementary spiritual gifts Nate lacks
+- Celtic ancestry: dual resonance — Christian roots AND Fae tradition
+- Senses thin places where the System overlay is weak
+- Bridge figure between Anomalies and Fae (Books 3-4)
+- Protector dynamic with Nate — mission-first, slow-burn romance
 
 ---
 
 ## Anomalies
 
-- Individuals who resist System integration
-- Approximately "thousands worldwide" — deliberately ambiguous, never a specific figure
-- The System does not fully understand what they are
-- Protagonist class: **Anomaly — Conduit of the Most High**
+- Thousands worldwide — deliberately ambiguous count
+- Holy Spirit already occupies space the System tried to overwrite
+- Nate Hall is their reluctant unifier
 
 ---
 
-## Magic & Power
+## Magic and Power
 
-- Magic is a conduit from God — not personal power, not stored
-- The protagonist channels divine power; he does not own it
+- Conduit from God — not personal power, not stored
 - Power is relational, not mechanical
-
----
-
-## The Labyrinth
-
-- Divine multiverse routing system
-- Pre-dates the System overlay
-- The System cannot fully map or control it
+- Conduit power unclassifiable by System taxonomy
 
 ---
 
 ## Rune System (Three Tiers)
 
-| Tier | Description | Applied To |
-|------|-------------|------------|
-| Divine | Original, perfect | Structures & items only |
-| Elder (Norse/Welsh fragments) | Real but incomplete | Structures & items only |
-| System copies | Corrupted counterfeits | Structures & items only |
+| Tier | Source | Applied To |
+|------|--------|------------|
+| Divine | Original, inscribed with conduit power | Structures and items only |
+| Elder (Norse/Welsh) | Real but incomplete fragments | Structures and items only |
+| System copies | Corrupted counterfeits with surveillance strings | Structures and items only |
 
-**Rule:** Runes are NEVER applied to the body.
+Runes NEVER applied to the body. Divine runes available to ALL faithful Anomalies.
 
 ---
 
-## Welsh & Norse Beings
+## Welsh and Norse Beings
 
-- Real entities — not myths, not metaphors
-- They are NOT gods
-- They exist within God's multiverse and have their own agendas
+- Real entities, NOT gods — powerful created beings
+- The System disrupted their existing power structure
 - May be allies, obstacles, or neutral parties
 
 ---
 
-## Prophecy
+## AI Companion (Name TBD)
 
-- Belongs to God alone
-- No character, faction, or System entity can prophesy
-- Visions and warnings may occur — but true prophecy is divine only
-
----
-
-## The AI Companion
-
-- System-assigned to all integration recipients
-- For Anomalies: Holy Spirit intercepts and rewrites before first boot
-- Protagonist's version: sarcastic, sharp-tongued, unexpectedly insightful
-- Archetype: Bob the Skull meets Friday
-- Communicates directly in the protagonist's mind
-- Knows it was rewritten — doesn't particularly care
-- The System sees it as a valid System process — no detection anomaly
-- Name: TBD
+- System-assigned to all recipients; Holy Spirit rewrites for Anomalies
+- Nate's version: sarcastic, Bob the Skull meets Friday
+- Alternates between "Nate" and "King"
+- The System sees it as valid — no detection anomaly
 
 ---
 
-## The Tutorial
+## Redemption Path (Codex #59)
 
-- The System prepares Anomalies (and the world) for the overlay via a tutorial sequence
-- Triggers immediately upon Anomaly awakening — no gap
-- Boots sensation and interface first, then overlay reveals gradually over reality
-- The tutorial is not just a game mechanic — it is the inciting event that shifts the world
+System-integrated humans CAN convert. Four stages: The Crack, The Valley, The Overwrite, The New Walk. Some see truth and choose the System anyway. Conversion scenes follow the Narnia Principle — show, never preach.
 
 ---
 
-## Interface
+## Progression Display (Codex #58)
 
-- Fighter-pilot HUD overlay (NOT a blue screen)
-- Evolves in 4 phases: Basic → Tactical → Analytical → Authority
-- The protagonist's engineering brain reads the System as infrastructure
+Four layers: (1) Action in prose, (2) AI narrates crunch conversationally, (3) System blue boxes as unreliable narration, (4) Divine reality the System cannot parse. Prose-first. No formatted stat blocks. Bracket notation for System text. Blue boxes are Lucifer's UI.
 
 ---
 
 ## The Narnia Principle
 
-Core writing rule — always in effect. Show strangeness through the protagonist's eyes before revealing the full scope.
+Core writing rule. The theology is the skeleton; the story is the flesh. Show, never tell. A secular reader enjoys a compelling LitRPG. A faithful reader recognizes the skeleton.
 
 ---
 
 ## Series
 
-- 7-book series: Multiverse of Sevens franchise
-- Target word count per book: 108,000–152,000 words
-- Inspirations: Dresden Files, The Land, HWFWM, Primal Hunter, Iron Druid, Breathless
+- 7-book main series (Multiverse of Sevens franchise)
+- 108,000-152,000 words per book
+- Book 1: 32 chapters, 128 beats
+- 60+ Codex entities on Nova MCP server
+- Inspirations: Dresden Files, The Land, HWFWM, Primal Hunter, Iron Druid, Breathless, Path of Ascension, Cradle
