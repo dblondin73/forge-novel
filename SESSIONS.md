@@ -78,3 +78,26 @@
 - git-forge drop/recover: retry on error
 - git_commit colon messages: client-side, use plain messages
 - forge_codex_get transient errors: self-heal
+
+
+---
+
+## Session 003 — 2026-03-20
+
+**Platform:** Claude.ai web (post-connector-toggle)
+**Focus:** Schema refresh verification — confirmed read_file offset/limit fix live
+
+**What Was Done**
+- Toggled git-forge connector off/on in Claude.ai Settings to force schema refresh
+- Confirmed `read_file` now exposes `offset` and `limit` params (CLAUDE.md reads cleanly at 518 lines)
+- Re-ran spot checks across both servers post-reconnect — all 32 tools healthy
+- Updated CLAUDE.md Troubleshooting section with three new entries:
+  - Connector schema refresh procedure (toggle off/on)
+  - git-forge intermittent drop/recover with orphan PID kill command
+  - read_file large file paging via offset/limit
+
+**Final Confirmed State**
+- git-forge: 12/12 tools operational, read_file paging working
+- FORGE-mcp: 20/20 tools operational
+- Both connectors live at Tailscale Funnel URLs
+- forge-novel repo clean at HEAD, all session logs committed and pushed

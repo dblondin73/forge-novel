@@ -454,6 +454,26 @@ Once the server is running, every creative session follows this pattern:
 
 ## Troubleshooting
 
+**Claude.ai web connector schema stale (tools show old params):**
+Toggle the affected connector off/on in Claude.ai Settings → Connected Apps to force a
+schema refresh. Do this after any server-side tool signature changes (e.g. adding params).
+- git-forge connector URL: `https://nova.taild7cf8c.ts.net/git-forge/mcp`
+- forge-mcp connector URL: `https://nova.taild7cf8c.ts.net/mcp`
+
+**git-forge intermittent drop/recover (Claude.ai web):**
+Individual tool calls occasionally error with no pattern — this is a known quirk of the
+Streamable HTTP transport over Tailscale Funnel. Retry; recovers within 1-2 attempts.
+If repeated failures persist across multiple tools, kill orphan PIDs:
+```bash
+ssh nova "wsl -d Ubuntu -e bash -c 'pkill -f git-forge || true && sudo systemctl restart git-forge-mcp'"
+```
+
+**read_file on large files (e.g. CLAUDE.md at 518 lines):**
+`read_file` supports `offset` (0-based line number) and `limit` (max lines) params.
+Use `search_repo` first to find relevant line numbers, then page in with offset/limit.
+- First 50 lines:  `offset=0, limit=50`
+- Lines 454-518:   `offset=454, limit=65`
+
 **Server not responding:**
 ```bash
 ssh nova "wsl -d Ubuntu -e sudo systemctl status git-forge-mcp --no-pager"
