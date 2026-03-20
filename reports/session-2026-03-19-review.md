@@ -8,11 +8,13 @@
 
 ## Part One: What Is This Project?
 
-I'm writing a seven-book fantasy series called *Forge*. The genre is **LitRPG** — "Literary Role-Playing Game" — a rapidly growing subgenre of fantasy where the world operates on video-game-style mechanics. Characters have stats, levels, classes, and skills. They see interface screens. They earn experience points. Think *Ready Player One* meets *The Lord of the Rings*, but the game mechanics are real, not virtual.
+I'm writing a seven-book fantasy series. The overall franchise is called **Multiverse of Sevens**, and the first book's working title is ***Forge***. The genre is **LitRPG** — "Literary Role-Playing Game" — a rapidly growing subgenre of fantasy where the world operates on video-game-style mechanics. Characters have stats, levels, classes, and skills. They see interface screens. They earn experience points. Think *Ready Player One* meets *The Lord of the Rings*, but the game mechanics are real, not virtual.
 
 LitRPG has exploded in the last decade, driven by web serialization platforms like Royal Road and self-publishing through Amazon's Kindle Unlimited. Top series have millions of readers. But the genre has a gap: there's almost no LitRPG written from a Christian worldview. Faith, when it appears at all, is either absent, treated as a joke, or reduced to "gods" that function as game mechanics — patron deities you pick from a menu for stat bonuses.
 
-Forge fills that gap — but it does so without preaching. More on that below.
+*Forge* fills that gap — but it does so without preaching. More on that below.
+
+*(A note on the name: "Forge" refers to the novel itself. There's also a set of development tools I built to track the worldbuilding — a Story Bible database and a version-controlled manuscript repository — but those are just infrastructure. The book is what matters.)*
 
 ---
 
@@ -42,9 +44,11 @@ The world operates on five layers:
 
 ### The Anomalies
 
-Out of approximately eight billion people integrated, roughly seven thousand cannot be fully absorbed. The System calls them **Anomalies**. They're people in whom the Holy Spirit already occupies the space the System tried to overwrite. The integration fails. They don't get the standard blue-screen interface. They get something else — a variant the System didn't design and can't control.
+Out of approximately eight billion people integrated, a small fraction cannot be fully absorbed — on the order of a hundred thousand worldwide, though the exact number is deliberately never stated in the text. The System calls them **Anomalies**. They're people in whom the Holy Spirit already occupies the space the System tried to overwrite. The integration fails. They don't get the standard blue-screen interface. They get something else — a variant the System didn't design and can't control.
 
-The Anomalies are not defined by denomination, church attendance, or theological sophistication. They're defined by whether the Spirit genuinely dwells in them. They're scattered globally, mostly alone, mostly confused about what they are. They recognize each other not by a System tag but by *a knowing* — a felt recognition that predates the System.
+The Anomalies are not defined by denomination, church attendance, or theological sophistication. They're defined by whether the Spirit genuinely dwells in them. They're scattered globally across every nation and culture — mostly alone, mostly confused about what they are. They recognize each other not by a System tag but by *a knowing* — a felt recognition that predates the System.
+
+The number matters narratively: large enough that Anomalies exist everywhere on Earth (enabling stories set in any culture or country), but small enough relative to eight billion that they are hunted, outnumbered, and unable to simply overwhelm the System with force. They are a remnant, not an army.
 
 The protagonist is one of them.
 
@@ -107,7 +111,7 @@ The AI companion is NOT the Holy Spirit — they are two separate things that co
 
 **The System** — The antagonist. Lucifer's hierarchy presenting as benevolent game managers. Assigns classes, grants powers, rewards compliance, punishes deviation. Looks like a game. Feels like empowerment. Is actually a system of control.
 
-**The Anomalies** — Thousands of believers worldwide whose integration failed. Scattered, hunted, mostly confused about their own nature. Nate is their reluctant unifier.
+**The Anomalies** — Believers worldwide whose integration failed — perhaps a hundred thousand scattered across every nation and culture, though the exact count is deliberately ambiguous. Hunted, outnumbered, mostly confused about their own nature. Nate is their reluctant unifier.
 
 **The Patrons** — Fallen spiritual beings posing as gods within the System framework. Some are loyal to the centralized System. Some chafe at losing the independence they had before Lucifer consolidated everything. This internal tension creates potential for uneasy alliances.
 
@@ -141,7 +145,7 @@ Nate builds communities in locations where the System's overlay is weak — usin
 
 ## Part Six: The Series Structure
 
-Seven books. Seven because it is the biblical number of completion.
+Seven books. Seven because it is the biblical number of completion. The franchise is called **Multiverse of Sevens**; *Forge* is the working title for Book 1.
 
 | Book | Title | Arc |
 |------|-------|-----|
@@ -182,11 +186,11 @@ C.S. Lewis never preached in Narnia. Aslan never says "I am Jesus." But millions
 
 ## Part Eight: What We Built in Tonight's Session
 
-With the full world established, here's what tonight's work focused on:
+With the full world established over several weeks of development sessions, here's what tonight's work focused on:
 
 ### 1. Progression Display Strategy
 
-We researched how six successful LitRPG series handle character stats and progression — ranging from full numeric stat blocks (The Primal Hunter) to zero interface whatsoever (Cradle). We developed a four-layer system unique to Forge:
+We researched how six successful LitRPG series handle character stats and progression — ranging from full numeric stat blocks (The Primal Hunter) to zero interface whatsoever (Cradle). We developed a four-layer system unique to *Forge*:
 
 1. **What Nate can do** — shown through prose and action, never stat blocks
 2. **What his AI companion says about it** — conversational delivery that replaces formatted data dumps with dialogue that has personality
@@ -240,4 +244,4 @@ These are the areas where your perspective as an English teacher would be most v
 
 ---
 
-*This document covers the full Forge project as of March 19, 2026. The Story Bible contains 60 tracked worldbuilding entities with 33 relationships. Book 1 is outlined at 32 chapters with 128 scene beats.*
+*This document covers the full* Forge *project as of March 19, 2026. The Story Bible contains 60 tracked worldbuilding entities with 33 relationships. Book 1 is outlined at 32 chapters with 128 scene beats.*

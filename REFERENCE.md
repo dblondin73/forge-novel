@@ -39,7 +39,8 @@
 
 ## Anomalies
 
-- Thousands worldwide — deliberately ambiguous count
+- On the order of a hundred thousand worldwide — exact count deliberately never stated in text
+- Large enough to be globally distributed across every nation and culture; small enough to be hunted and scattered
 - Holy Spirit already occupies space the System tried to overwrite
 - Nate Hall is their reluctant unifier
 
@@ -103,6 +104,7 @@ Core writing rule. The theology is the skeleton; the story is the flesh. Show, n
 ## Series
 
 - 7-book main series (Multiverse of Sevens franchise)
+- *Forge* is the working title for Book 1
 - 108,000-152,000 words per book
 - Book 1: 32 chapters, 128 beats
 - 60+ Codex entities on Nova MCP server
