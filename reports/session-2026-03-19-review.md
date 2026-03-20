@@ -1,4 +1,4 @@
-# Forge — Project Overview and Session Report
+# Novel Series — Project Overview and Session Report
 
 **For:** Review and feedback from an English teacher's perspective
 **Author:** David Blondin
@@ -8,13 +8,13 @@
 
 ## Part One: What Is This Project?
 
-I'm writing a seven-book fantasy series. The overall franchise is called **Multiverse of Sevens**, and the first book's working title is ***Forge***. The genre is **LitRPG** — "Literary Role-Playing Game" — a rapidly growing subgenre of fantasy where the world operates on video-game-style mechanics. Characters have stats, levels, classes, and skills. They see interface screens. They earn experience points. Think *Ready Player One* meets *The Lord of the Rings*, but the game mechanics are real, not virtual.
+I'm writing a seven-book fantasy series. The overall franchise is called **Multiverse of Sevens**. The book and series titles are still TBD. The genre is **LitRPG** — "Literary Role-Playing Game" — a rapidly growing subgenre of fantasy where the world operates on video-game-style mechanics. Characters have stats, levels, classes, and skills. They see interface screens. They earn experience points. Think *Ready Player One* meets *The Lord of the Rings*, but the game mechanics are real, not virtual.
 
 LitRPG has exploded in the last decade, driven by web serialization platforms like Royal Road and self-publishing through Amazon's Kindle Unlimited. Top series have millions of readers. But the genre has a gap: there's almost no LitRPG written from a Christian worldview. Faith, when it appears at all, is either absent, treated as a joke, or reduced to "gods" that function as game mechanics — patron deities you pick from a menu for stat bonuses.
 
-*Forge* fills that gap — but it does so without preaching. More on that below.
+This series fills that gap — but it does so without preaching. More on that below.
 
-*(A note on the name: "Forge" refers to the novel itself. There's also a set of development tools I built to track the worldbuilding — a Story Bible database and a version-controlled manuscript repository — but those are just infrastructure. The book is what matters.)*
+*(A note on the name "Forge": that's what I call the development tooling — a Story Bible database and version-controlled manuscript repository I built to track worldbuilding. The book series itself doesn't have a title yet.)*
 
 ---
 
@@ -145,17 +145,17 @@ Nate builds communities in locations where the System's overlay is weak — usin
 
 ## Part Six: The Series Structure
 
-Seven books. Seven because it is the biblical number of completion. The franchise is called **Multiverse of Sevens**; *Forge* is the working title for Book 1.
+Seven books. Seven because it is the biblical number of completion. The franchise is called **Multiverse of Sevens**; individual book titles are TBD.
 
-| Book | Title | Arc |
-|------|-------|-----|
-| 1 | **Integration** | System arrives. Nate survives the tutorial. Discovers he's different. Establishes first safe zone. |
-| 2 | **Foundation** | Builds the settlement. Discovers forging and first runes. Meets Sonja. Protector dynamic begins. |
-| 3 | **Revelation** | Enters the Labyrinth properly. Realizes it's infrastructure, not dungeon. First encounter with Welsh/Norse beings. |
-| 4 | **Alliance** | Faction politics. Uneasy partnerships with Old Powers. Teaching other Anomalies to inscribe runes. Sonja bridges the Fae. |
-| 5 | **War** | The System escalates. Admins take direct action. The cost of opposition becomes real. |
-| 6 | **Deep Labyrinth** | Other worlds. Other civilizations the System integrated before Earth. The scope of the counterfeit revealed. |
-| 7 | **Completion** | Reaching the observation point. Seeing the full truth. Broadcasting it. Not defeating the System through combat but through *revelation*. |
+| Book | Arc |
+|------|-----|
+| 1 | **Integration** — System arrives. Nate survives the tutorial. Discovers he's different. Establishes first safe zone. |
+| 2 | **Foundation** — Builds the settlement. Discovers forging and first runes. Meets Sonja. Protector dynamic begins. |
+| 3 | **Revelation** — Enters the Labyrinth properly. Realizes it's infrastructure, not dungeon. First encounter with Welsh/Norse beings. |
+| 4 | **Alliance** — Faction politics. Uneasy partnerships with Old Powers. Teaching other Anomalies to inscribe runes. Sonja bridges the Fae. |
+| 5 | **War** — The System escalates. Admins take direct action. The cost of opposition becomes real. |
+| 6 | **Deep Labyrinth** — Other worlds. Other civilizations the System integrated before Earth. The scope of the counterfeit revealed. |
+| 7 | **Completion** — Reaching the observation point. Seeing the full truth. Broadcasting it. Not defeating the System through combat but through *revelation*. |
 
 The series ends not with a battle but with a choice — giving everyone, integrated and Anomaly alike, a genuine choice by exposing the counterfeit and making the original visible. The truth will set you free.
 
@@ -190,7 +190,7 @@ With the full world established over several weeks of development sessions, here
 
 ### 1. Progression Display Strategy
 
-We researched how six successful LitRPG series handle character stats and progression — ranging from full numeric stat blocks (The Primal Hunter) to zero interface whatsoever (Cradle). We developed a four-layer system unique to *Forge*:
+We researched how six successful LitRPG series handle character stats and progression — ranging from full numeric stat blocks (The Primal Hunter) to zero interface whatsoever (Cradle). We developed a four-layer system unique to this series:
 
 1. **What Nate can do** — shown through prose and action, never stat blocks
 2. **What his AI companion says about it** — conversational delivery that replaces formatted data dumps with dialogue that has personality
@@ -244,4 +244,4 @@ These are the areas where your perspective as an English teacher would be most v
 
 ---
 
-*This document covers the full* Forge *project as of March 19, 2026. The Story Bible contains 60 tracked worldbuilding entities with 33 relationships. Book 1 is outlined at 32 chapters with 128 scene beats.*
+*This document covers the full novel project as of March 19, 2026. The Story Bible contains 60 tracked worldbuilding entities with 33 relationships. Book 1 is outlined at 32 chapters with 128 scene beats. "Forge" is the development tooling; the book series title is TBD.*

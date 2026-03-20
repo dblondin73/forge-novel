@@ -1,17 +1,20 @@
-# Forge — Novel Series Repository
+# Novel Series Repository
 
 **Series:** Multiverse of Sevens  
-**Book 1:** Forge (working title)  
+**Book 1:** Title TBD  
 **Target:** 108,000–152,000 words  
 **Genre:** Christian LitRPG / Epic Fantasy  
+**Tooling:** Forge (Story Bible database + development infrastructure)
 
 ---
 
 ## What This Repo Is
 
-This repository tracks all creative development for the *Forge* novel series — session notes, worldbuilding reference, character sheets, and locked decisions. It is the bridge between Claude.ai web sessions, Claude Desktop, and local development in VS Code.
+This repository tracks all creative development for the novel series — session notes, worldbuilding reference, character sheets, and locked decisions. It is the bridge between Claude.ai web sessions, Claude Desktop, and local development in VS Code.
 
 Both web UI (claude.ai) and desktop can read and write to this repo, making it accessible whether working from the RV, commuting, or at the desk.
+
+The name "Forge" refers to the development tooling (forge-cli, forge-codex, forge-novel repo) — NOT the book series itself. The series title is TBD.
 
 ---
 
@@ -23,9 +26,11 @@ forge-novel/
 ├── REFERENCE.md            — Locked worldbuilding decisions
 ├── SESSIONS.md             — Running log of creative sessions
 ├── CLAUDE.md               — Build plan for Claude Code
-└── characters/
-    ├── nate-hall.md         — Protagonist: Nathan "Nate" Hall
-    └── sonja-lee.md         — Ward character: Sonja Lee
+├── characters/
+│   ├── nate-hall.md         — Protagonist: Nathan "Nate" Hall
+│   └── sonja-lee.md         — Ward character: Sonja Lee
+└── reports/
+    └── session-2026-03-19-review.md  — Session report for review
 ```
 
 ---

@@ -1,5 +1,6 @@
-# Forge — Session Log
+# Novel Series — Session Log
 
+*"Forge" is the development tooling. The book series title is TBD.*
 *Append each working session below. Most recent session at top.*
 
 ---

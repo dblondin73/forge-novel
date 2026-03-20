@@ -1,6 +1,6 @@
-# Forge — Locked Worldbuilding Reference
+# Locked Worldbuilding Reference
 
-*This document tracks confirmed, locked decisions. Do not change without deliberate session review.*
+*This document tracks confirmed, locked decisions for the novel series (title TBD). "Forge" refers to the development tooling, not the book. Do not change without deliberate session review.*
 
 ---
 
@@ -104,7 +104,7 @@ Core writing rule. The theology is the skeleton; the story is the flesh. Show, n
 ## Series
 
 - 7-book main series (Multiverse of Sevens franchise)
-- *Forge* is the working title for Book 1
+- Book and series title: TBD
 - 108,000-152,000 words per book
 - Book 1: 32 chapters, 128 beats
 - 60+ Codex entities on Nova MCP server
