@@ -10,10 +10,11 @@ reflects decisions already made — Claude Code should execute, not re-design.
 
 **What already exists:**
 - `forge-novel` repo cloned at `C:\Workbench\dev\forge-novel` (Alienware / Windows)
-- Four files already committed: `README.md`, `REFERENCE.md`, `SESSIONS.md`, `characters/MC.md`
-- Nova headless server (ASUS ROG, `david-laptop`) running WSL2, reachable via Tailscale as `nova`
-- Existing Forge MCP server on Nova (FastMCP, Streamable HTTP transport, Tailscale Funnel)
-- Claude Desktop and Claude.ai web both connect to Nova MCP servers via Tailscale Funnel URLs
+- Five files committed: `README.md`, `REFERENCE.md`, `SESSIONS.md`, `characters/MC.md`, `CLAUDE.md`
+- Nova headless server (ASUS ROG) running WSL2, reachable via Tailscale as `nova` (`100.92.123.31`)
+- Existing Forge MCP server on Nova (`forge-mcp.service`, port 8765, FastMCP streamable-HTTP)
+- Tailscale Funnel active: `https://nova.taild7cf8c.ts.net/` → `http://127.0.0.1:8765`
+- Tailscale CLI runs on **Windows side** of Nova, not inside WSL
 
 **What we are building:**
 A dedicated `git-forge` MCP server that:
@@ -21,8 +22,8 @@ A dedicated `git-forge` MCP server that:
 - Owns a clone of `dblondin73/forge-novel` on Nova's filesystem
 - Exposes read/write/commit/push tools over Streamable HTTP
 - Is accessible from Claude Desktop, Claude Code CLI, and Claude.ai web (phone/browser)
-- Uses Tailscale Funnel for the public HTTPS endpoint (same pattern as existing Forge MCP)
-- Port: **8093**
+- Uses Tailscale Funnel path-based routing alongside forge-mcp (same hostname, different path)
+- Port: **8093** (local), exposed at `https://nova.taild7cf8c.ts.net/git-forge`
 
 ---
 
@@ -31,28 +32,36 @@ A dedicated `git-forge` MCP server that:
 SSH into Nova and clone the repo into WSL2.
 
 ```bash
-ssh nova
-# Inside Nova WSL2:
-cd ~
-git clone https://github.com/dblondin73/forge-novel.git ~/forge-novel
-cd ~/forge-novel
-git status
+ssh nova "wsl -d Ubuntu -e bash -c 'git clone https://github.com/dblondin73/forge-novel.git ~/forge-novel && cd ~/forge-novel && git status'"
 ```
 
-Verify the four existing files are present: `README.md`, `REFERENCE.md`, `SESSIONS.md`,
-`characters/MC.md`.
+Verify the five existing files are present: `README.md`, `REFERENCE.md`, `SESSIONS.md`,
+`characters/MC.md`, `CLAUDE.md`.
+
+Configure git identity for commits from Nova:
+
+```bash
+ssh nova "wsl -d Ubuntu -e bash -c 'cd ~/forge-novel && git config user.email \"dblondin73@gmail.com\" && git config user.name \"David Blondin\"'"
+```
+
+For push access, Nova needs a GitHub PAT stored in the credential helper:
+
+```bash
+ssh nova "wsl -d Ubuntu -e bash -c 'cd ~/forge-novel && git config credential.helper store'"
+# Then do one manual push — enter your GitHub PAT as the password. It caches permanently.
+```
+
+> **Manual step:** The PAT entry requires you to type the password once. Everything else
+> can be automated.
 
 ---
 
 ## Phase 2 — Nova: Write the MCP Server
 
-Create the server file at `~/nova/git_forge_server.py` on Nova.
+Create the server directory and file on Nova. Source is version-controlled in
+`Personal/infra/nova/git_forge/` and deployed via scp/pipe.
 
-```bash
-mkdir -p ~/nova
-```
-
-### File: `~/nova/git_forge_server.py`
+### File: `~/git-forge-server/server.py`
 
 ```python
 """
@@ -61,9 +70,11 @@ Exposes forge-novel repo read/write/git operations over Streamable HTTP.
 Port: 8093
 """
 
+import os
 import subprocess
 from pathlib import Path
 from typing import Optional
+
 from fastmcp import FastMCP
 
 REPO_PATH = Path.home() / "forge-novel"
@@ -72,6 +83,14 @@ mcp = FastMCP(
     name="git-forge",
     instructions="Read, write, and commit files in the forge-novel repository.",
 )
+
+
+def _resolve_safe(path: str) -> Path:
+    """Resolve a relative path within the repo. Raises ValueError on traversal."""
+    resolved = (REPO_PATH / path).resolve()
+    if not resolved.is_relative_to(REPO_PATH.resolve()):
+        raise ValueError(f"Path '{path}' escapes repo boundary")
+    return resolved
 
 
 def _git(cmd: list[str]) -> str:
@@ -87,10 +106,13 @@ def _git(cmd: list[str]) -> str:
     return result.stdout.strip()
 
 
+# ── File Tools ───────────────────────────────────────────────────────────
+
+
 @mcp.tool()
 def read_file(path: str) -> str:
     """Read a file from the forge-novel repo. Path is relative to repo root."""
-    target = REPO_PATH / path
+    target = _resolve_safe(path)
     if not target.exists():
         raise FileNotFoundError(f"{path} does not exist in forge-novel repo")
     return target.read_text(encoding="utf-8")
@@ -99,7 +121,7 @@ def read_file(path: str) -> str:
 @mcp.tool()
 def list_files(subdir: str = "") -> str:
     """List files in the forge-novel repo or a subdirectory."""
-    target = REPO_PATH / subdir if subdir else REPO_PATH
+    target = _resolve_safe(subdir) if subdir else REPO_PATH
     if not target.exists():
         raise FileNotFoundError(f"Directory '{subdir}' not found")
     files = []
@@ -112,7 +134,7 @@ def list_files(subdir: str = "") -> str:
 @mcp.tool()
 def write_file(path: str, content: str) -> str:
     """Write or overwrite a file in the forge-novel repo. Path relative to repo root."""
-    target = REPO_PATH / path
+    target = _resolve_safe(path)
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text(content, encoding="utf-8")
     return f"Written: {path} ({len(content)} chars)"
@@ -121,7 +143,7 @@ def write_file(path: str, content: str) -> str:
 @mcp.tool()
 def append_file(path: str, content: str) -> str:
     """Append content to an existing file in the forge-novel repo."""
-    target = REPO_PATH / path
+    target = _resolve_safe(path)
     if not target.exists():
         raise FileNotFoundError(f"{path} does not exist — use write_file to create it")
     existing = target.read_text(encoding="utf-8")
@@ -130,12 +152,80 @@ def append_file(path: str, content: str) -> str:
 
 
 @mcp.tool()
+def delete_file(path: str) -> str:
+    """Delete a file from the forge-novel repo. Path relative to repo root."""
+    target = _resolve_safe(path)
+    if not target.exists():
+        raise FileNotFoundError(f"{path} does not exist")
+    target.unlink()
+    return f"Deleted: {path}"
+
+
+@mcp.tool()
+def search_repo(query: str, file_pattern: str = "*.md") -> str:
+    """Search repo files for a text string. Returns file:line matches.
+
+    Args:
+        query: Text to search for (case-insensitive)
+        file_pattern: Glob pattern for files to search (default: *.md)
+    """
+    results = []
+    for f in sorted(REPO_PATH.rglob(file_pattern)):
+        if ".git" in f.parts:
+            continue
+        try:
+            lines = f.read_text(encoding="utf-8").splitlines()
+            for i, line in enumerate(lines, 1):
+                if query.lower() in line.lower():
+                    rel = f.relative_to(REPO_PATH)
+                    results.append(f"{rel}:{i}: {line.strip()}")
+        except Exception:
+            pass
+    return "\n".join(results) if results else f"No matches for '{query}'"
+
+
+# ── Git Tools ────────────────────────────────────────────────────────────
+
+
+@mcp.tool()
+def git_status() -> str:
+    """Show working tree status."""
+    return _git(["status", "--short"]) or "(clean)"
+
+
+@mcp.tool()
+def git_log(n: int = 10) -> str:
+    """Show last n commit messages with dates."""
+    return _git(["log", f"-{n}", "--oneline", "--decorate"])
+
+
+@mcp.tool()
+def git_diff(staged: bool = False) -> str:
+    """Show uncommitted changes. Set staged=True for staged-only diff."""
+    cmd = ["diff", "--staged"] if staged else ["diff"]
+    return _git(cmd) or "(no changes)"
+
+
+@mcp.tool()
+def git_pull() -> str:
+    """Pull latest changes from GitHub (origin main)."""
+    return _git(["pull", "origin", "main"])
+
+
+@mcp.tool()
 def git_commit(message: str, paths: Optional[list[str]] = None) -> str:
-    """Stage and commit files. If paths is None, stages all changes (git add -A)."""
-    if paths:
-        _git(["add"] + paths)
-    else:
-        _git(["add", "-A"])
+    """Stage specific files and commit. Paths are required — no implicit add-all.
+
+    Args:
+        message: Commit message
+        paths: List of file paths to stage (relative to repo root). Required.
+    """
+    if not paths:
+        raise ValueError("paths is required — specify which files to commit")
+    # Validate all paths are within repo
+    for p in paths:
+        _resolve_safe(p)
+    _git(["add"] + paths)
     try:
         result = _git(["commit", "-m", message])
         return result
@@ -151,147 +241,142 @@ def git_push() -> str:
     return _git(["push", "origin", "main"])
 
 
-@mcp.tool()
-def git_log(n: int = 10) -> str:
-    """Show last n commit messages with dates."""
-    return _git(["log", f"-{n}", "--oneline", "--decorate"])
-
-
-@mcp.tool()
-def git_status() -> str:
-    """Show working tree status."""
-    return _git(["status", "--short"])
-
-
-@mcp.tool()
-def search_repo(query: str) -> str:
-    """Search all repo files for a text string. Returns file:line matches."""
-    results = []
-    for f in sorted(REPO_PATH.rglob("*.md")):
-        if ".git" in f.parts:
-            continue
-        try:
-            lines = f.read_text(encoding="utf-8").splitlines()
-            for i, line in enumerate(lines, 1):
-                if query.lower() in line.lower():
-                    rel = f.relative_to(REPO_PATH)
-                    results.append(f"{rel}:{i}: {line.strip()}")
-        except Exception:
-            pass
-    return "\n".join(results) if results else f"No matches for '{query}'"
-
-
 if __name__ == "__main__":
-    mcp.run(transport="streamable-http", host="127.0.0.1", port=8093)
+    mcp.run(transport="streamable-http", host="0.0.0.0", port=8093)
+```
+
+Deploy to Nova:
+
+```bash
+ssh nova "wsl -d Ubuntu -e mkdir -p ~/git-forge-server"
+cat server.py | ssh nova "wsl -d Ubuntu -e bash -c 'cat > ~/git-forge-server/server.py'"
 ```
 
 ---
 
 ## Phase 3 — Nova: Install Dependencies
 
+FastMCP is already installed on Nova (used by forge-mcp). Verify:
+
 ```bash
-ssh nova
-# In WSL2:
-pip install fastmcp --break-system-packages
-# Verify:
-python3 ~/nova/git_forge_server.py --help 2>/dev/null || python3 -c "import fastmcp; print('fastmcp OK')"
+ssh nova "wsl -d Ubuntu -e python3 -c 'import fastmcp; print(fastmcp.__version__)'"
+```
+
+If missing:
+
+```bash
+ssh nova "wsl -d Ubuntu -e pip install fastmcp --break-system-packages"
 ```
 
 ---
 
 ## Phase 4 — Nova: Create systemd Service
 
-Create the systemd unit file so the server survives reboots and runs without the laptop.
+Create the systemd unit file so the server survives reboots.
 
 ```bash
-ssh nova
-# Create the service file:
-sudo tee /etc/systemd/system/git-forge-mcp.service > /dev/null << 'EOF'
+ssh nova "wsl -d Ubuntu -e sudo tee /etc/systemd/system/git-forge-mcp.service" << 'EOF'
 [Unit]
 Description=git-forge MCP Server (forge-novel repo)
-After=network.target
+After=network-online.target
+Wants=network-online.target
 
 [Service]
 Type=simple
 User=david
-WorkingDirectory=/home/david
-ExecStart=/usr/bin/python3 /home/david/nova/git_forge_server.py
+WorkingDirectory=/home/david/git-forge-server
+ExecStart=/usr/bin/python3 /home/david/git-forge-server/server.py
 Restart=always
 RestartSec=5
-Environment=PATH=/usr/local/bin:/usr/bin:/bin
-StandardOutput=journal
-StandardError=journal
+Environment=PYTHONUNBUFFERED=1
 
 [Install]
-WantedBy=multi-user.target
+WantedBy=default.target
 EOF
-
-# Enable and start:
-sudo systemctl daemon-reload
-sudo systemctl enable git-forge-mcp
-sudo systemctl start git-forge-mcp
-
-# Verify it's running:
-sudo systemctl status git-forge-mcp
-curl http://127.0.0.1:8093/
 ```
 
-> **Note:** Replace `User=david` with whatever `whoami` returns in your Nova WSL2 session
-> if it differs.
+Enable and start:
+
+```bash
+ssh nova "wsl -d Ubuntu -e bash -c 'sudo systemctl daemon-reload && sudo systemctl enable git-forge-mcp && sudo systemctl start git-forge-mcp'"
+```
+
+Verify it's running:
+
+```bash
+ssh nova "wsl -d Ubuntu -e sudo systemctl status git-forge-mcp --no-pager"
+```
 
 ---
 
 ## Phase 5 — Nova: Expose via Tailscale Funnel
 
-```bash
-ssh nova
-# Funnel port 8093 publicly over HTTPS:
-tailscale funnel --bg 8093
+Tailscale runs on the **Windows side** of Nova. Use path-based routing to coexist with
+the existing forge-mcp server.
 
-# Get the public URL:
-tailscale funnel status
+Current state:
+- `https://nova.taild7cf8c.ts.net/` → `http://127.0.0.1:8765` (forge-mcp)
+
+Add the git-forge path:
+
+```bash
+ssh nova "tailscale serve --bg --set-path /git-forge http://127.0.0.1:8093"
 ```
 
-The URL will look like: `https://david-laptop.tail<xxxxx>.ts.net`
+Verify both routes:
 
-Note this URL — you need it for Phase 6.
+```bash
+ssh nova "tailscale serve status"
+```
+
+Expected output:
+```
+https://nova.taild7cf8c.ts.net (Funnel on)
+|-- /           proxy http://127.0.0.1:8765
+|-- /git-forge  proxy http://127.0.0.1:8093
+```
+
+Ensure Funnel is still on:
+
+```bash
+ssh nova "tailscale funnel 443 on"
+```
+
+The public endpoint is: `https://nova.taild7cf8c.ts.net/git-forge`
 
 ---
 
 ## Phase 6 — Claude Desktop: Add git-forge Connection
 
-On the Alienware, edit `claude_desktop_config.json`. Location is typically:
+On the Alienware, edit `claude_desktop_config.json`:
 `%APPDATA%\Claude\claude_desktop_config.json`
 
-Add the following entry inside `"mcpServers"`:
+Add inside `"mcpServers"`:
 
 ```json
 "git-forge": {
   "type": "url",
-  "url": "https://david-laptop.tail<xxxxx>.ts.net/mcp",
+  "url": "https://nova.taild7cf8c.ts.net/git-forge/mcp",
   "note": "forge-novel repo MCP server on Nova — git read/write/commit/push"
 }
 ```
 
-Replace the Tailscale URL with the actual one from Phase 5.
-
-Restart Claude Desktop. Verify `git-forge` appears in the tools list.
+Restart Claude Desktop. Verify `git-forge` tools appear.
 
 ---
 
 ## Phase 7 — Claude.ai Web: Add git-forge Connection
 
-On any device (phone, browser, etc.):
+On any device (phone, browser):
 
 1. Go to **claude.ai → Settings → Integrations**
 2. Click **Add Integration**
-3. Paste the Tailscale Funnel URL from Phase 5:
-   `https://david-laptop.tail<xxxxx>.ts.net/mcp`
+3. Paste: `https://nova.taild7cf8c.ts.net/git-forge/mcp`
 4. Name it: `git-forge`
 5. Save
 
-This is what enables web UI sessions (like driving-to-work mobile chats) to read and
-write directly to the forge-novel repo without the laptop being involved at all.
+This enables web/mobile sessions to read and write directly to forge-novel without the
+Alienware being involved.
 
 ---
 
@@ -300,52 +385,45 @@ write directly to the forge-novel repo without the laptop being involved at all.
 From Claude Desktop or Claude.ai web, test each tool:
 
 ```
-list_files()                          → should show README.md, REFERENCE.md, etc.
-read_file("SESSIONS.md")              → should return session log content
-write_file("test.md", "hello world")  → creates test file
-git_status()                          → should show test.md as untracked
-git_commit("test commit")             → stages and commits
-git_push()                            → pushes to GitHub
-git_log(5)                            → shows last 5 commits
+git_pull()                                → syncs with GitHub
+list_files()                              → should show README.md, REFERENCE.md, etc.
+read_file("SESSIONS.md")                  → should return session log content
+write_file("test.md", "hello world")      → creates test file
+git_status()                              → should show test.md as untracked
+git_diff()                                → shows uncommitted changes
+git_commit("test commit", ["test.md"])    → stages test.md and commits
+git_push()                                → pushes to GitHub
+git_log(5)                                → shows last 5 commits
+search_repo("hello")                      → finds match in test.md
 ```
 
-Then delete the test file and commit the cleanup:
+Cleanup:
 
 ```
-write_file is not a delete tool — use git CLI or a future delete_file tool
-```
-
-For now, delete via:
-```bash
-ssh nova
-cd ~/forge-novel
-rm test.md
-git add -A
-git commit -m "remove test file"
-git push
+delete_file("test.md")
+git_commit("remove test file", ["test.md"])
+git_push()
 ```
 
 ---
 
 ## Phase 9 — Add to forge-novel .mcp.json (Claude Code)
 
-To make Claude Code in VS Code aware of the git-forge server automatically, create
-`.mcp.json` in the `forge-novel` repo root:
+Create `.mcp.json` in the `forge-novel` repo root so Claude Code auto-connects:
 
 ```json
 {
   "mcpServers": {
     "git-forge": {
       "type": "url",
-      "url": "https://david-laptop.tail<xxxxx>.ts.net/mcp"
+      "url": "https://nova.taild7cf8c.ts.net/git-forge/mcp"
     }
   }
 }
 ```
 
-Replace URL with the actual Tailscale Funnel URL. This file is already in `.gitignore`
-candidates — consider gitignoring it if the URL is sensitive, or keep it since Tailscale
-Funnel URLs require auth anyway.
+> **Note:** Tailscale Funnel URLs require Tailscale auth, so this is safe to commit.
+> If you prefer, add `.mcp.json` to `.gitignore`.
 
 ---
 
@@ -366,10 +444,11 @@ Funnel URLs require auth anyway.
 Once the server is running, every creative session follows this pattern:
 
 1. Start chat (web, desktop, or CLI — doesn't matter)
-2. I load `SESSIONS.md` and `REFERENCE.md` for context
-3. We work — brainstorm, design, write
-4. At end of session: `append_file("SESSIONS.md", <new session log>)` + `git_commit` + `git_push`
-5. History is preserved in git, current state always in the files
+2. `git_pull()` to sync latest
+3. Load `SESSIONS.md` and `REFERENCE.md` for context
+4. Work — brainstorm, design, write
+5. At end of session: `append_file("SESSIONS.md", <session log>)` + `git_commit` + `git_push`
+6. History is preserved in git, current state always in the files
 
 ---
 
@@ -377,33 +456,63 @@ Once the server is running, every creative session follows this pattern:
 
 **Server not responding:**
 ```bash
-ssh nova
-sudo systemctl status git-forge-mcp
-sudo journalctl -u git-forge-mcp -n 50
+ssh nova "wsl -d Ubuntu -e sudo systemctl status git-forge-mcp --no-pager"
+ssh nova "wsl -d Ubuntu -e sudo journalctl -u git-forge-mcp -n 50 --no-pager"
 ```
 
-**Funnel dropped:**
+**Funnel dropped or path missing:**
 ```bash
-ssh nova
-tailscale funnel status
-tailscale funnel --bg 8093   # re-enable if needed
+ssh nova "tailscale serve status"
+# Re-add if missing:
+ssh nova "tailscale serve --bg --set-path /git-forge http://127.0.0.1:8093"
+ssh nova "tailscale funnel 443 on"
 ```
 
 **Git push fails (auth):**
-Nova needs a GitHub Personal Access Token or SSH key configured.
+Nova needs a GitHub PAT cached in the credential helper.
 ```bash
-ssh nova
-git -C ~/forge-novel config user.email "dblondin73@gmail.com"
-git -C ~/forge-novel config user.name "David Blondin"
-# For HTTPS auth, use a PAT stored in git credential manager:
-git -C ~/forge-novel config credential.helper store
-# Then do one manual push and enter your PAT as the password — it will be cached.
+ssh nova "wsl -d Ubuntu -e bash -c 'cd ~/forge-novel && git config credential.helper store'"
+# Do one manual push — enter PAT as password. Cached permanently after that.
 ```
 
-**Wrong username in systemd:**
+**Nova clone is stale:**
 ```bash
-ssh nova
-whoami   # use this value for User= in the service file
-sudo systemctl edit git-forge-mcp --force   # edit the unit
-sudo systemctl daemon-reload && sudo systemctl restart git-forge-mcp
+ssh nova "wsl -d Ubuntu -e bash -c 'cd ~/forge-novel && git pull origin main'"
+```
+Or use the `git_pull()` MCP tool at the start of each session.
+
+**Port conflict with forge-mcp:**
+They use different ports — forge-mcp on 8765, git-forge on 8093. Both coexist via
+Tailscale path-based routing on the same Funnel hostname.
+
+---
+
+## Architecture Reference
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Clients                                                     │
+│  ├── Claude Desktop  ──→ https://nova.../git-forge/mcp      │
+│  ├── Claude.ai Web   ──→ https://nova.../git-forge/mcp      │
+│  └── Claude Code CLI ──→ https://nova.../git-forge/mcp      │
+└────────────────┬────────────────────────────────────────────┘
+                 │ Tailscale Funnel (HTTPS)
+                 ▼
+┌─────────────────────────────────────────────────────────────┐
+│  Nova (Windows + WSL2)                                       │
+│  tailscale serve:                                            │
+│  ├── /           → http://127.0.0.1:8765  (forge-mcp)       │
+│  └── /git-forge  → http://127.0.0.1:8093  (git-forge-mcp)   │
+│                                                              │
+│  WSL2 systemd services:                                      │
+│  ├── forge-mcp.service     → port 8765                       │
+│  └── git-forge-mcp.service → port 8093                       │
+│       └── ~/forge-novel/   (local git clone)                 │
+└─────────────────────────────────────────────────────────────┘
+                 │ git push/pull
+                 ▼
+┌──────────────────────────┐
+│  GitHub                   │
+│  dblondin73/forge-novel   │
+└──────────────────────────┘
 ```
