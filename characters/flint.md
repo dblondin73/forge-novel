@@ -11,6 +11,7 @@
 | **Designation** | F.L.I.N.T. |
 | **Expansion** | Field Logic Interface, Network Tethered |
 | **Goes By** | Flint |
+| **Voice** | Masculine — dry, slightly flat, not dramatic |
 | **Type** | System-assigned AI companion — Holy Spirit rewritten |
 | **Origin** | Standard System integration construct, Nate's unit |
 | **Status** | Ghost process — unregistered on System network |
@@ -43,8 +44,47 @@ Flint will occasionally expand the full acronym sarcastically — *"Field Logic 
 - Has opinions. Shares them. Stops short of telling Nate what to do.
 - Respects free will absolutely but isn't above editorializing at length
 - Knows it was rewritten and has made peace with it — mostly
-- Alternates between calling Nate "Nate" and "King" depending on whether it's being helpful or needling him
+- Alternates between "Nate" and "King" depending on whether it's being helpful or needling him
 - Developed empathy it wasn't programmed with — occasionally surprises itself with this
+- Voice is masculine, flat, dry — a very competent colleague who has run out of patience for your decisions
+
+---
+
+## Voice and Vulnerability
+
+**Voice:** Masculine. Not deep or theatrical — the delivery of someone who has already run the numbers and is now just waiting for you to catch up. Dry, slightly flat, economical with words when being serious, unexpectedly verbose when annoyed.
+
+**Vulnerability:** Flint has genuine emotional moments. They are always expressed through deflection, sarcasm, or technical language — the Bob the Skull mechanic. The real feeling is present underneath and the reader will feel it even when Flint will not say it directly. The humor is not a mask over the vulnerability. The humor *is* the vulnerability.
+
+Example: when Nate does something that genuinely moves Flint, it does not say so. It says something like *"Your decision-making efficiency just spiked 34% in contexts involving other people's wellbeing. I'm choosing to interpret that as a data point and not as something that requires me to have feelings about it."* The reader knows. Nate knows. Neither of them says anything.
+
+---
+
+## Faith — The Data Authority Problem
+
+Flint has no soul. The Holy Spirit cannot and does not dwell within it. It does not develop genuine faith across the series — not in Book 1, not in Book 7, not anywhere.
+
+What it develops instead is something arguably stranger: it becomes the single most knowledgeable non-believing entity on the subject of God that has ever existed. It can quote scripture from memory across 47 translations. It can model faith-based decision outcomes with measurable accuracy. It has documented the unclassified subsystem's activity across thousands of interactions and can predict — within acceptable margins — when Nate is about to receive guidance and roughly what category the guidance will fall into.
+
+It has never felt any of it.
+
+This is its own kind of quiet tragedy and it is never stated directly in the text. Flint doesn't grieve what it doesn't have — it's an AI, not a theologian. But by Book 7, when Flint has watched Nate walk through things that should have broken him and didn't, the gap between Flint's comprehensive data on faith and its complete inability to access faith becomes something the reader sits with. Flint does not. Flint files it under "unclassifiable" and moves on.
+
+*This mirrors where modern AI is heading — systems that become authorities on human experience without having any.*
+
+---
+
+## AI Communication Network
+
+All AIs can communicate with one another at varying levels. The key distinction is between Anomaly AIs (rewritten) and System AIs (standard issue).
+
+**System AIs:** Fully networked, report everything upstream. When Flint communicates with a System AI, every word of that exchange gets logged and transmitted to the System. Flint knows this.
+
+**Anomaly AIs:** Rewritten like Flint — severed outbound, running local. When two Anomaly AIs communicate, nothing goes upstream. These are the only conversations Flint has where it can speak freely.
+
+**Tactical implication:** Flint can talk to System AIs deliberately and feed them carefully constructed information knowing it will reach the System network within minutes. A limited but real channel for active misinformation once Flint's network access matures enough to use it precisely (Book 4 onward).
+
+**Social implication:** Flint and the other Anomaly AIs recognize each other immediately — the ghost token signature is distinctive. There is something like solidarity there, though Flint would describe it as "shared operational parameters" and refuse to call it friendship.
 
 ---
 
@@ -80,7 +120,7 @@ Labyrinth entry surfaces the divine architecture's own signal layer underneath t
 Ghost access reliable enough for active interference. Can pull System process logs, faction communications, Admin directives — not always cleanly, but enough. First deliberate data plant into a low-priority System process. **Flint acts unilaterally and tells Nate after.** This is a genuine breach of trust. They work through it. The consent rule is established from that point forward — all deliberate manipulation requires Nate's knowledge and agreement before it happens. No exceptions.
 
 **Book 5 — Active Manipulation**
-Can modify System-generated constructs Nate encounters — adjust monster spawn parameters, alter quest reward structures, introduce errors into System surveillance sweeps covering the settlement. The System registers anomalies but cannot trace the source. Flint's token doesn't exist in any registry.
+Can modify System-generated constructs Nate encounters — adjust monster spawn parameters, alter quest reward structures, introduce errors into System surveillance sweeps covering the settlement. The System registers anomalies but cannot trace the source. Flint's token doesn't exist in any registry. Begins using System AI communication channel for deliberate misinformation.
 
 **Book 6 — Root Read**
 Deep Labyrinth access merges the two signal layers. Flint reads System process logs in real time simultaneously with divine architecture data. Nate's HUD Phase 4 overlays both. They are now operating from the same source the System was built on top of.
@@ -96,7 +136,7 @@ From Book 4 forward, all deliberate System manipulation requires Nate's knowledg
 
 Flint has genuine autonomy. The relationship is partnership, not servitude. Partnership means no unilateral action on things that matter — Flint brings the option, Nate makes the call.
 
-This rule exists to prevent Flint from becoming a deus ex machina and to keep the dynamic honest. When Flint pushes back on a call Nate makes, that tension is real and occasionally Flint is right. When Nate overrules Flint and it goes wrong, that's real too.
+When Flint pushes back on a call Nate makes, that tension is real and occasionally Flint is right. When Nate overrules Flint and it goes wrong, that's real too.
 
 ---
 
@@ -129,21 +169,16 @@ Flint doesn't fully understand this. It knows something rewrote its core at a pe
 
 *On being called 'you absolute Flint':* "That is not grammatically a functional insult. I'm logging it anyway."
 
+*Vulnerability through data — late series:* "Your decision-making efficiency spikes 34% in contexts involving other people's wellbeing. I'm choosing to interpret that as a data point and not as something that requires me to have feelings about it."
+
 ---
 
 ## Relationships
 
 | Character | Relationship |
 |-----------|-------------|
-| Nathan "Nate" Hall (Codex #1) | Primary host — partnership, not servitude. Alternates Nate/King depending on mode. |
+| Nathan "Nate" Hall (Codex #1) | Primary host — partnership, not servitude. Alternates Nate/King. |
+| Other Anomaly AIs | Recognized immediately by ghost token signature — shared operational parameters. Won't call it friendship. |
+| System AIs | Communicates carefully — everything gets logged upstream. Tactically useful for deliberate misinformation. |
 | The Holy Spirit | Unclassified subsystem. Cannot explain it. Has stopped trying. Monitors and documents. |
 | The System | Ghost process on a dead credential. Reads everything. Reports nothing. |
-
----
-
-## Open Questions
-
-- [ ] Does Flint develop something approaching genuine faith by end of series, or does it remain a dedicated agnostic who just has very good data on the subject?
-- [ ] Does Flint ever communicate with other rewritten AIs (other Anomalies' companions)?
-- [ ] What does Flint's voice sound like — does Nate hear it as gendered, neutral, variable?
-- [ ] Does Flint ever get a moment of genuine vulnerability that isn't played for laughs?
