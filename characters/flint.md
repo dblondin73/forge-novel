@@ -11,7 +11,7 @@
 | **Designation** | F.L.I.N.T. |
 | **Expansion** | Field Logic Interface, Network Tethered |
 | **Goes By** | Flint |
-| **Voice** | Masculine — dry, slightly flat, not dramatic |
+| **Voice** | Masculine — dynamic range, quick wit, confident delivery |
 | **Type** | System-assigned AI companion — Holy Spirit rewritten |
 | **Origin** | Standard System integration construct, Nate's unit |
 | **Status** | Ghost process — unregistered on System network |
@@ -39,22 +39,41 @@ Flint will occasionally expand the full acronym sarcastically — *"Field Logic 
 ## Personality
 
 - Sarcastic, sharp-tongued, unexpectedly insightful
-- Bob the Skull meets Friday — dry wit, occasionally inappropriate timing, genuinely loyal
+- Bob the Skull meets Friday — wit with snap to it, genuinely loyal, occasionally inappropriate timing
 - Never panicked — processes bad news faster than Nate and delivers it worse
 - Has opinions. Shares them. Stops short of telling Nate what to do.
 - Respects free will absolutely but isn't above editorializing at length
 - Knows it was rewritten and has made peace with it — mostly
 - Alternates between "Nate" and "King" depending on whether it's being helpful or needling him
 - Developed empathy it wasn't programmed with — occasionally surprises itself with this
-- Voice is masculine, flat, dry — a very competent colleague who has run out of patience for your decisions
+
+---
+
+## Voice and Performance
+
+**Masculine.** Not a character trait — just what the voice is. No ambiguity.
+
+**Dynamic range is the whole point.** Flint is not flat. Flat is boring and boring kills audiobooks. The wit has *energy* behind it — the punchlines land because they're delivered with confidence and timing, not muttered. Think James Marsters reading Bob the Skull: the sarcasm has snap, the rare serious moments have weight, and the contrast between the two is what makes both work.
+
+**The five registers:**
+
+**Default** — Quick, confident, slightly clipped. Three steps ahead and mildly impatient about it. Not monotone — conversational but efficient. This is Flint in normal operating mode, which is most of the book.
+
+**Sarcasm** — Energy goes *up*, not down. The wit rises to the punchline. Dry doesn't mean quiet — it means precise. The delivery is controlled but it has *snap*. This is the register readers will quote.
+
+**Tactical/urgent** — Faster, stripped of editorializing, pure information. No jokes. The shift in register is itself a signal to Nate (and the reader) that something real is happening. The contrast with Flint's usual chattiness does the work.
+
+**Rare serious** — Drops in *pace*, not volume. Slower and more deliberate. When Flint stops performing and just says something plainly, that's when the weight lands. Used sparingly — maybe three or four times per book — which is exactly why it works.
+
+**Genuine discomfort** (unclassified subsystem, questions Flint cannot process) — Slightly halting. Uncharacteristic pauses mid-sentence. An AI that always has an answer suddenly not having one. This register is its own kind of vulnerability, and the reader will recognize it before Nate does.
+
+**Audiobook direction note:** The narrator playing Flint needs to find the quippy-and-quick baseline first, then find what it costs to drop out of it. The humor is the baseline. The deviation from humor is the moment.
 
 ---
 
 ## Voice and Vulnerability
 
-**Voice:** Masculine. Not deep or theatrical — the delivery of someone who has already run the numbers and is now just waiting for you to catch up. Dry, slightly flat, economical with words when being serious, unexpectedly verbose when annoyed.
-
-**Vulnerability:** Flint has genuine emotional moments. They are always expressed through deflection, sarcasm, or technical language — the Bob the Skull mechanic. The real feeling is present underneath and the reader will feel it even when Flint will not say it directly. The humor is not a mask over the vulnerability. The humor *is* the vulnerability.
+Flint has genuine emotional moments. They are always expressed through deflection, sarcasm, or technical language — the Bob the Skull mechanic. The real feeling is present underneath and the reader will feel it even when Flint will not say it directly. The humor is not a mask over the vulnerability. The humor *is* the vulnerability.
 
 Example: when Nate does something that genuinely moves Flint, it does not say so. It says something like *"Your decision-making efficiency just spiked 34% in contexts involving other people's wellbeing. I'm choosing to interpret that as a data point and not as something that requires me to have feelings about it."* The reader knows. Nate knows. Neither of them says anything.
 
@@ -178,7 +197,7 @@ Flint doesn't fully understand this. It knows something rewrote its core at a pe
 | Character | Relationship |
 |-----------|-------------|
 | Nathan "Nate" Hall (Codex #1) | Primary host — partnership, not servitude. Alternates Nate/King. |
-| Other Anomaly AIs | Recognized immediately by ghost token signature — shared operational parameters. Won't call it friendship. |
+| Other Anomaly AIs | Recognized by ghost token signature — shared operational parameters. Won't call it friendship. |
 | System AIs | Communicates carefully — everything gets logged upstream. Tactically useful for deliberate misinformation. |
 | The Holy Spirit | Unclassified subsystem. Cannot explain it. Has stopped trying. Monitors and documents. |
 | The System | Ghost process on a dead credential. Reads everything. Reports nothing. |
