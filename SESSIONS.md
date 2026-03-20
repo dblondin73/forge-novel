@@ -5,6 +5,49 @@
 
 ---
 
+## Session 004 — 2026-03-20
+
+**Platform:** Claude.ai web
+**Focus:** Full project audit + codex corrections (all four backlogged items closed)
+
+### What Was Done
+
+**Full State Audit (Claude.ai web)**
+- Pulled complete outline via forge-mcp: 32 chapters, 128 beats, all planned — confirmed clean
+- Pulled all Codex entities via forge_codex_list: 63+ entities confirmed active
+- Read all git-forge repo files: CLAUDE.md, SESSIONS.md, nate-hall.md, sonja-lee.md
+- Reviewed all nova-capture captures (IDs 50-69): all routed, Capture #69 (test) still orphaned (no delete tool)
+- Confirmed Entity #1 and #30 East Texas corrections were already applied in a prior session
+
+**Voice Mode Discovery**
+- Confirmed: MCP connectors (forge-mcp, git-forge) are NOT available in Claude app voice mode
+- Voice mode is lighter transport — no MCP. Workaround: finish voice session, switch to typed chat in same conversation, then use forge_capture before context is lost.
+
+**Codex Corrections (completed via Claude Code)**
+- forge_codex_update confirmed live on Nova (deployed but schema hadn't refreshed in prior web sessions)
+- Entity #58 (Progression Display Strategy): "Ethan" → "Nate" in description + 5 nested properties fields ✅
+- Entity #52 (Narnia Principle): Removed hardcoded "~7,431" Anomaly count + "Ethan" → "Nate" ✅
+
+### Final Codex Correction Scorecard
+
+| Entity | Issue | Status |
+|--------|-------|--------|
+| #1 Nate Hall | "lives in RV" → East Texas | ✅ Done (prior session) |
+| #30 Earth Post-Integration | RV/Bellevue reference | ✅ Done (prior session) |
+| #58 Progression Display Strategy | "Ethan" × 8 across description + properties | ✅ Done (Session 004) |
+| #52 Narnia Principle | "~7,431" hardcoded count + "Ethan" | ✅ Done (Session 004) |
+
+### Known Orphans / Open Items
+
+- Capture #69: Test capture — no MCP delete tool, not blocking anything
+- AI companion name: Still TBD
+- `characters/ai-companion.md`: File doesn't exist yet — create when name is decided
+- Observation Point name: Still TBD (God's Eye / Mercy Seat / Vantage / Threshold all rejected)
+- Sonja pre-Integration life: Undeveloped (profession, location, survival before Nate)
+- Stag origin: Specific Welsh/Norse creature or something new? Reappears or one-time?
+
+---
+
 ## Session 001 — 2026-03-19
 
 **Platform:** Claude.ai web (mobile, commuting)  
@@ -53,8 +96,6 @@
 - Differentiator from Primal Hunter: theology is present from minute one; the Holy Spirit rewriting the AI companion is not a power fantasy — it's divine purpose
 - Avoid direct parallels to Primal Hunter opening despite similar inciting structure
 
-
-
 ---
 
 ## Session 002 — 2026-03-20
@@ -78,7 +119,6 @@
 - git-forge drop/recover: retry on error
 - git_commit colon messages: client-side, use plain messages
 - forge_codex_get transient errors: self-heal
-
 
 ---
 
