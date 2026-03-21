@@ -296,3 +296,61 @@
 - FORGE-mcp: 20/20 tools operational
 - Both connectors live at Tailscale Funnel URLs
 - forge-novel repo clean at HEAD, all session logs committed and pushed
+
+
+---
+
+## Session 007 — 2026-03-21
+
+**Platform:** Claude.ai web (Forge Project)
+**Focus:** Codex corrections, RV outline cleanup (via Cowork), NovelCrafter setup, series title locked
+
+### What Was Done
+
+**Codex Corrections Applied (3 of 5 — 2 already clean)**
+- Entity #6 (The Anomalies): Removed "on the order of a hundred thousand globally" → now "thousands worldwide," deliberately uncounted ✅
+- Entity #34 (Pre-System Bonding): Replaced partnership/equality language with Genesis stewardship hierarchy ✅
+- Entity #40 (Distributed Mechanics): Removed "prophetic sight" from ward character options, added explicit lockout ✅
+- Entity #2 (F.L.I.N.T.): Already corrected in prior session — AI/Holy Spirit distinction clean ✅
+- Entity #30 (Earth Post-Integration): Already clean — "thousands worldwide" already present ✅
+- Entity #52 (Narnia Principle): Already clean — no anomaly count present ✅
+
+**RV Outline Cleanup (via Cowork)**
+- Cowork prompt generated and executed — all 6 "RV" references in Forge outline fixed
+- Ch 11 summary: "RV" → "ranch house" ✅
+- Ch 19 summary: "RV" → "front porch of the ranch house" ✅
+- Beat 53 (Ch 14): "RV territory" → "ranch territory" ✅
+- Beat 67 (Ch 17): "RV territory" → "Ranch territory" ✅
+- Beat 68 (Ch 17): "RV territory" → "Ranch territory" ✅
+- Beat 72 (Ch 18): "RV territory" → "Ranch territory" ✅
+
+**NovelCrafter**
+- Reviewed pricing tiers — Hobbyist ($8.56/mo) confirmed as correct tier (BYOK, scene beats, codex)
+- Account created, "Create a new novel" selected to begin Book 1 project setup
+
+### LOCKED DECISION — Series Title
+
+**Series: Beneath the Overlay**
+**Book 1: Beneath the Overlay: Integration**
+
+Amazon KDP search verified clean — zero competing titles as of March 2026.
+
+Title works on three levels:
+- LitRPG reader: "something hidden under the game system"
+- Engineer: "the real infrastructure underneath the UI layer"
+- Faithful reader: "the truth beneath the counterfeit"
+
+Mirrors the 7-book arc — overlay thins progressively until Book 7 strips it off entirely.
+"Forge" remains the internal tooling name only.
+
+Open Question Q6 is now RESOLVED.
+
+### Open Items Carried Forward
+
+- Observation Point name (Q2): Still TBD
+- AI companion name in prose (Q8): F.L.I.N.T. locked in Codex, not yet confirmed for prose
+- Ward character gift (Q9): Still TBD
+- Pen name (Q10): Still TBD
+- Rex post-Integration fate: Undecided
+- Stag origin: Research done, decision not made
+- Marcus Webb fate: Undecided
