@@ -1,6 +1,19 @@
-# Research — East Texas Soil (Panola County / Carthage Area)
+# Research — East Texas Soil & Ranch Location (Panola County / Carthage Area)
 
 *Compiled: 2026-03-20 | Sources: TX State Historical Assoc., TX Almanac, USDA soil classification*
+
+---
+
+## Ranch Location — Pinned
+
+**North of Carthage, Panola County, East Texas.** Off a county road between Carthage and Marshall along the US-59 corridor, closer to Carthage (~10 miles south) than Marshall (~17 miles north). Deep rural — nearest neighbor is distance.
+
+- **Carthage to Marshall**: ~27 miles as the crow flies, ~28 miles by road on US-59 N
+- **Ranch position**: Roughly 10 miles north of Carthage, in the rolling pasture and pine country between the two towns
+- **Carthage**: County seat, pop. ~7,000 — hardware store, feed store, Panola College. Nate's supply town.
+- **Marshall**: Larger town to the north, pop. ~23,000 — Harrison County seat. Further drive, bigger selection.
+- **County**: Panola (from Choctaw "ponolo" meaning cotton), borders Louisiana to the east
+- **Region**: East Texas Timberlands / Piney Woods
 
 ---
 
@@ -33,17 +46,8 @@ Think of it this way: iron ore is a vein of metal. Red clay is dirt that blushes
 
 ---
 
-## What the Character Sheet Says
-
-> Terrain: Rolling pasture, bahiagrass, post oak tree lines, creek bottoms, red clay soil
-
-**Verdict: Accurate shorthand.** The subsoil is red clay. Ranchers in the area would call it "red clay" or "red dirt" without qualifying it further.
-
----
-
 ## Additional Panola County Details (for prose accuracy)
 
-- **Nearest town**: Carthage (county seat, pop. ~7,000)
 - **County name**: Panola — from Choctaw word "ponolo" meaning cotton
 - **Rainfall**: 43.9 inches/year average
 - **Temperature range**: 34°F (Jan avg low) to 94°F (July avg high)
@@ -55,7 +59,7 @@ Think of it this way: iron ore is a vein of metal. Red clay is dirt that blushes
 
 ---
 
-## Nearest Town — Why Carthage, Not Lufkin
+## Why Carthage, Not Lufkin
 
 **Carthage** is the county seat of Panola County — northeast East Texas, bordering Louisiana. Population ~7,000. Hardware stores, feed stores, Panola College. Twenty-six miles south of Marshall, sixty-five miles southeast of Tyler.
 
@@ -65,4 +69,4 @@ Carthage is the right scale — small enough that Nate would know the hardware s
 
 ---
 
-*No changes needed to Ch1 draft or character sheet. Soil descriptions are accurate for Panola County.*
+*Ch1 draft soil descriptions are accurate for Panola County. Character sheet terrain updated to "sandy loam topsoil over red clay subsoil."*

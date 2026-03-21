@@ -15,7 +15,7 @@
 | **Age** | Mid-40s |
 | **Background** | Louisiana cattleman turned Systems Engineer, DoD contractor |
 | **Faith** | Faithful Christian — Holy Spirit dwells in him |
-| **Base** | Thousand-acre ranch, rural East Texas |
+| **Base** | Thousand-acre ranch, Panola County, East Texas — north of Carthage on a county road between Carthage and Marshall, closer to Carthage. Nearest town for supplies is Carthage (~10 miles south). |
 | **Mother's Maiden Name** | Hall — the surname carries her line |
 | **Lineage** | Traces ancestry to biblical King David (discovered mid-series, not at Integration) |
 
@@ -39,7 +39,7 @@
 - Mother pushed him toward a Computer Science / Systems Engineering degree
 - Always gravitated back to the land despite the professional path
 - Career: Systems Engineer and DoD contractor (SCIF environment veteran)
-- Now owns and lives on a thousand-acre East Texas ranch running cattle and horses
+- Now owns and lives on a thousand-acre ranch north of Carthage in Panola County, East Texas, running cattle and horses
 - The ranch is his permanent base of operations throughout the series
 
 ---
@@ -48,13 +48,14 @@
 
 | Asset | Detail |
 |-------|--------|
+| **Location** | North of Carthage, Panola County — off a county road between Carthage and Marshall along US-59, closer to Carthage (~10 mi) than Marshall (~17 mi). Deep rural, nearest neighbor is distance. |
 | **Cattle** | 63 head of Red Angus |
 | **Herd Bull** | Congressman — 1,800-lb registered Red Angus (eats more than he works, impossible to move) |
 | **Horses** | Quarter horses — used for working stock and riding |
 | **Working Dog** | Rex — 4-year-old Border Collie (Codex #64). Rides in the truck bed, works cattle on eye contact. Patient disapproval of non-cattle activities. |
 | **Truck** | Ford — runs fence line and ranch rounds on dirt tracks. Tailgate doubles as a workbench. |
 | **Equipment** | Tractor (hydraulics leak at the cylinder base), water pump (22 years old, bearings failing), fencing tools |
-| **Terrain** | Rolling pasture, bahiagrass, post oak tree lines, creek bottoms, red clay soil |
+| **Terrain** | Rolling pasture, bahiagrass, post oak tree lines, creek bottoms, sandy loam topsoil over red clay subsoil |
 | **Wildlife** | Whitetail deer, feral hogs (persistent fence invaders), mockingbirds, armadillos |
 
 ---
