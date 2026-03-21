@@ -388,3 +388,15 @@ Open Question Q2 is now RESOLVED.
 - Functionally alone at Integration: just him, Rex, and the cattle.
 
 Open Questions Q3 and Q4 are now RESOLVED.
+
+
+
+### Additional Locks — Rex, Flint Voice, Marcus Webb
+
+**Rex:** No voice. No speech. No System communication. Communicates through behavior only. Stays purely organic.
+
+**Flint voice model:** James Marsters' Bob the Skull (Dresden Files audiobooks). Higher energy than Nate, theatrical intelligence, rapid-fire delivery. Nate talks slow, Flint talks fast. When Flint goes quiet, something is very wrong.
+
+**Marcus Webb:** Fictional. Details TBD during prose polish.
+
+**Stag identity:** Parked. Research done, hybrid direction recommended, decision deferred.
