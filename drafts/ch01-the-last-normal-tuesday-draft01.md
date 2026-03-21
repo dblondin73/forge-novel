@@ -131,3 +131,24 @@ And then the birds went silent.
 All of them. At the same time. As if someone had pressed mute on the entire East Texas Pineywoods.
 
 Nate stood in the silence and felt the hair on his arms rise. Not from cold. The temperature hadn't changed. The air was still warm, still humid
+, still carrying the smell of pine and bahiagrass and cattle. But his skin was reading something his brain hadn't caught up with yet — a prickling across both forearms, the kind he got before a lightning strike, the air itself carrying a charge that had no business being there on a clear March morning.
+
+Rex jumped out of the truck bed without being told. Landed beside Nate and pressed against his left leg — not the work-press of a dog positioning for a command, but something Nate had never felt from him before. The dog was shaking. Not visible shaking — Nate could feel it through his jeans, a fine tremor running through the animal's body like a current.
+
+He put his hand on Rex's head. The dog didn't look up. He was still staring at the sky.
+
+"Easy," Nate said. His voice sounded wrong. Flat. Like the air was swallowing sound before it could travel.
+
+The amber light intensified. Not brighter — denser. As if the sunlight itself was being compressed, the color deepening from amber to gold to something that didn't have a name, a color that lived in the space between light and heat. The parallel lines across the sky had multiplied until there was no blue left between them, just those thin perfect streaks from horizon to horizon, and they were moving now — not drifting like clouds but sliding, precisely, mechanically, like tracks on a circuit board.
+
+Nate's engineering brain offered him the comparison before he could stop it: *That's not weather. That's not any kind of light. That's a signal.*
+
+The pressure dropped again. His ears popped hard enough to make his eyes water. The cattle were lowing — all of them, a wall of sound that vibrated in his sternum. Rex pressed harder against his leg, and Nate felt something he'd never felt from the dog before — not through touch, not through sound, but somewhere behind his ribs where instinct lived. A single impression, wordless and absolute:
+
+*Wrong. All of it. Wrong.*
+
+He didn't know if that was Rex or himself. It didn't matter. They were both right.
+
+The gold light reached a frequency that made the fillings in his back teeth ache, and then the sky opened, and the world went white, and the last thing Nate Hall felt before everything he knew ended was the weight of his dog against his shin — warm and real and shaking and loyal and the only thing in the universe that was still exactly what it was supposed to be.
+
+And then there was nothing but the white.
