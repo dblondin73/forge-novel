@@ -12,7 +12,13 @@ He sat back on his heels and looked at the pump the way he looked at everything 
 
 The morning was still cool enough to be pleasant. Six-fifteen, maybe six-twenty. The sun was a handwidth above the tree line to the east, throwing long shadows across the pasture and turning the dew on the bahiagrass into something that looked like a field of broken glass. A mockingbird was running through its catalog somewhere in the post oaks behind the wellhead — cardinal, blue jay, car alarm, cardinal again. Nate had been listening to that particular bird for three years and was fairly certain it had learned the car alarm from the UPS truck that came down the county road every Thursday.
 
-He stood, one knee popping the way it always did after crouching, and walked back to his truck. The Ford was parked on the two-track that ran along the fence line, tailgate down, a five-gallon bucket of fencing staples sitting next to a post driver and a coil of high-tensile wire. He'd been heading out to check the northeast corner when the pump noise caught his ear. The fence could wait. The fence was always waiting — something pushed through it every week, usually the Red Angus, occasionally a feral hog, once a particularly determined armadillo that had somehow loosened three staples and a clip without leaving any evidence of how.
+He stood, one knee popping the way it always did after crouching, and walked back to his truck. The Ford was parked on the two-track that ran along the fence line, tailgate down, a five-gallon bucket of fencing staples sitting next to a post driver and a coil of high-tensile wire. Rex was watching him from the truck bed, chin resting on the side rail, the Border Collie's black-and-white face wearing the expression it always wore when Nate was doing something that didn't involve moving cattle — patient disapproval. The dog had been his shadow for four years now, and in that time had developed a very clear opinion about what constituted real work and what was a waste of both their mornings.
+
+"Pump bearings," Nate told him. "Not everything is about cows."
+
+Rex's ears twitched forward and back. Unconvinced.
+
+He'd been heading out to check the northeast corner when the pump noise caught his ear. The fence could wait. The fence was always waiting — something pushed through it every week, usually the Red Angus, occasionally a feral hog, once a particularly determined armadillo that had somehow loosened three staples and a clip without leaving any evidence of how.
 
 Nate pulled a shop rag from behind the seat and cleaned his hands. The rag was already stained with grease from yesterday's work on the tractor hydraulics, which had decided to develop a slow leak at the cylinder base. Not a catastrophic failure — just a thin film of fluid where there shouldn't be any. He'd found it because he noticed the response time lagging by about a quarter second on the loader arms, and a quarter second of lag meant fluid was going somewhere it wasn't supposed to. He'd traced the leak, ordered the o-ring set, and it would be here Thursday with the UPS truck and the car alarm.
 
@@ -21,6 +27,8 @@ This was what his days looked like, and he was fine with it. More than fine. The
 ---
 
 He poured coffee from the thermos on the passenger seat — black, no sugar, brewed at five AM in a drip maker that was older than the water pump and twice as reliable — and leaned against the truck's fender. The pasture spread out in front of him, rolling gently south toward the creek bottom where the post oaks thickened into something that almost qualified as woods. Sixty-three Red Angus were scattered across the visible acreage, mostly still bedded down, a few early risers already grazing. He could see the bull — an eighteen-hundred-pound registered Red Angus named Congressman, because he ate more than he worked and was impossible to move when he'd made up his mind — standing at the far edge of the herd, facing east, chewing nothing.
+
+Rex had jumped down from the truck bed and was sitting at Nate's boots, locked onto the herd with that flat, unblinking stare that Border Collies were born with. The dog could watch cattle for hours without moving anything but his eyes. Nate had seen him hold a breakaway heifer at a gate for twenty minutes on nothing but eye contact and the quiet promise that moving was a bad idea. There were dogs that worked cattle because they were trained to. Rex worked cattle because it was what he was for, and he knew it, and the cattle knew it too.
 
 Nate watched the cattle the way he watched everything. Not staring — scanning. Reading the herd the same way he'd read system logs at work for twenty years: looking for the anomaly, the thing that didn't fit the pattern. A cow standing away from the group might be sick. A calf lying flat when the others were up might be in trouble. A cluster of cattle all facing the same direction meant something had their attention — coyote, loose dog, or just a deer moving through the brush. Sixty-three animals, each one a data point. The pattern was the baseline. Deviation from the pattern was the signal.
 
@@ -34,7 +42,7 @@ He finished the coffee and screwed the thermos cap back on. Somewhere in the tre
 
 ---
 
-His phone buzzed in his shirt pocket at six-forty-two. He glanced at the screen: Marcus Webb. He answered it leaning against the tailgate with the post driver at his feet.
+His phone buzzed in his shirt pocket at six-forty-two. He glanced at the screen: Marcus Webb. He answered it leaning against the tailgate with the post driver at his feet. Rex had jumped back into the truck bed and was lying with his head on his paws, one ear cocked toward Nate's voice.
 
 "Morning."
 
@@ -82,7 +90,7 @@ He hung up and slid the phone back into his pocket. The morning was quiet again.
 
 He thought about Marcus's phantom alerts — sensors reporting things that weren't there. In his experience, sensors didn't lie. They reported what they detected, and if what they detected didn't match what you expected, the problem was almost never the sensor. The problem was your model of what should be happening. The sensor was telling you the truth. You just didn't know the right question yet.
 
-He swung the tailgate up, latched it, and climbed into the cab. Time to run the fence.
+He swung the tailgate up, latched it, and climbed into the cab. Rex shifted in the bed behind him, nails clicking on the spray-in liner. Time to run the fence.
 
 ---
 
@@ -96,9 +104,15 @@ The wind wasn't doing either. The wind had stopped.
 
 He noticed it the way you notice a sound that's been there and isn't anymore — by the absence. The morning breeze that had been steady out of the southeast since dawn was simply gone. The bahiagrass was motionless. The post oaks, which had been rustling quietly for the last hour, were still. Not calm — still. Like a photograph.
 
+Rex whined.
+
+It was a small sound — barely audible over the Ford's idle — but it snapped Nate's attention like a gunshot. In four years, he had heard Rex bark, growl, yip in his sleep, and once howl at a coyote pack that got too close to the calving pen. He had never heard Rex whine. The dog didn't have it in his vocabulary. Border Collies worked or they watched or they waited, but they did not whine, because whining was for dogs that didn't know what to do about a problem, and Rex always knew what to do about a problem.
+
+Nate looked through the rear window. Rex was standing in the truck bed, rigid, every hair on his spine raised from the base of his skull to the root of his tail. He wasn't looking at the cattle. He wasn't looking at the tree line. He was looking straight up.
+
 Nate killed the engine and stepped out of the truck. The silence without the Ford's idle was immediate and total — no wind, no birds, no insects. He stood beside the open door and looked at the world around him with the first faint stirring of attention that wasn't routine. Something was off. He couldn't say what. He couldn't point at it. But his body knew before his brain did — the same instinct that told him when a cow was about to kick, when a quarter horse was about to spook, when a system log had a line in it that looked normal until you read it twice.
 
-The cattle felt it first.
+The cattle felt it next.
 
 He heard Congressman low — a deep, resonant sound that carried across the pasture, not a feeding call, not a territorial warning, something else entirely. A sound the bull made when a thunderstorm was building over the horizon and the barometric pressure was dropping fast enough for eighteen hundred pounds of animal to feel it in his sinuses. Nate looked at the sky. There was no storm. The amber light was still there, strange and sourceless, and the cirrus clouds had multiplied — dozens of them now, perfect parallel lines stretching from horizon to horizon like someone had dragged a comb across the sky.
 
@@ -118,6 +132,8 @@ All of them. At the same time. As if someone had pressed mute on the entire East
 
 Nate stood in the silence and felt the hair on his arms rise. Not from cold. The temperature hadn't changed. The air was still warm, still humid, still carrying the smell of red clay and bahiagrass and cattle. But something in the electromagnetic spectrum had shifted — he could feel it the way he felt a server room running hot before the temperature alarm triggered, a hum in the infrastructure that wasn't audible but was absolutely real.
 
+Rex pressed against his leg. Not seeking comfort — offering proximity. The dog was shaking, a fine tremor running through his whole body, but he hadn't bolted and he hadn't hidden. He was standing with his person because that was where he was supposed to be when the world stopped making sense.
+
 The amber light brightened.
 
 Not from the sun. The sun was where it had been. The light was coming from everywhere — the sky, the ground, the air itself — a uniform golden white that intensified by degrees, washing out the shadows, washing out the tree line, washing out the fence and the truck and the cattle standing motionless in the field. The world was being overexposed. He raised his hand in front of his face and watched the lines on his palm disappear into brightness.
@@ -130,7 +146,7 @@ Congressman bellowed once — a sound Nate had never heard from the bull in six 
 
 Then the light swallowed everything.
 
-Nate Hall braced one hand against the truck's door frame and felt his knees unlock, felt the world he had spent forty-six years learning to read dissolve into a brightness that had no source and no edge and no end.
+Nate Hall braced one hand against the truck's door frame, felt Rex's weight still solid against his shin, felt his knees unlock, felt the world he had spent forty-six years learning to read dissolve into a brightness that had no source and no edge and no end.
 
 His last coherent thought was diagnostic.
 
