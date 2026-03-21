@@ -58,7 +58,7 @@ Nate shifted his weight and looked out at the pasture without seeing it. Marcus 
 
 "Must be nice. Sitting on a ranch, dialing into meetings, pretending you're in an office."
 
-"Marcus, I fixed a tractor yesterday, I'm about to rebuild a water pump, and later today I'm going to walk a fence line looking for hog damage. Then I'm going to dial into a meeting and talk about infrastructure architecture for three hours. The ranch is not the easy part of my day."
+"Marcus, I fixed a tractor yesterday, I'm about to rebuild a water pump, and later today I'm going to run fence line looking for hog damage. Then I'm going to dial into a meeting and talk about infrastructure architecture for three hours. The ranch is not the easy part of my day."
 
 Marcus laughed. "Fair. Hey, did you see the ticket Reeves opened on the monitoring stack?"
 
@@ -82,13 +82,13 @@ He hung up and slid the phone back into his pocket. The morning was quiet again.
 
 He thought about Marcus's phantom alerts — sensors reporting things that weren't there. In his experience, sensors didn't lie. They reported what they detected, and if what they detected didn't match what you expected, the problem was almost never the sensor. The problem was your model of what should be happening. The sensor was telling you the truth. You just didn't know the right question yet.
 
-He picked up the post driver and set it in the truck bed. Time to check the fence.
+He swung the tailgate up, latched it, and climbed into the cab. Time to run the fence.
 
 ---
 
 He noticed the light first.
 
-Not a change, exactly — more like a shift in quality. The way a room looks different when someone opens a curtain in another part of the house. The sun was still above the tree line, still throwing the same long shadows, but the color of it had gone wrong. Too warm. Almost amber, like late October light showing up in the middle of March. He stopped walking along the fence line and looked east, squinting.
+Not a change, exactly — more like a shift in quality. The way a room looks different when someone opens a curtain in another part of the house. The sun was still above the tree line, still throwing the same long shadows, but the color of it had gone wrong. Too warm. Almost amber, like late October light showing up in the middle of March. He eased off the gas and let the Ford idle on the two-track, leaning forward over the steering wheel to squint east through the windshield.
 
 Nothing there. Clear sky. A few high cirrus clouds that hadn't been there ten minutes ago, thin as smoke, arranged in parallel lines that reminded him of something he couldn't name. He watched them for a few seconds. Clouds didn't bother him. Clouds were weather, and weather was just another system — pressure differentials, moisture content, thermal gradients. He'd been reading weather since he was twelve and his mother had taught him that a backing wind meant rain was coming and a veering wind meant it was leaving.
 
@@ -96,7 +96,7 @@ The wind wasn't doing either. The wind had stopped.
 
 He noticed it the way you notice a sound that's been there and isn't anymore — by the absence. The morning breeze that had been steady out of the southeast since dawn was simply gone. The bahiagrass was motionless. The post oaks, which had been rustling quietly for the last hour, were still. Not calm — still. Like a photograph.
 
-Nate stood at the fence line with a pair of fencing pliers in his right hand and looked at the world around him with the first faint stirring of attention that wasn't routine. Something was off. He couldn't say what. He couldn't point at it. But his body knew before his brain did — the same instinct that told him when a cow was about to kick, when a horse was about to spook, when a system log had a line in it that looked normal until you read it twice.
+Nate killed the engine and stepped out of the truck. The silence without the Ford's idle was immediate and total — no wind, no birds, no insects. He stood beside the open door and looked at the world around him with the first faint stirring of attention that wasn't routine. Something was off. He couldn't say what. He couldn't point at it. But his body knew before his brain did — the same instinct that told him when a cow was about to kick, when a quarter horse was about to spook, when a system log had a line in it that looked normal until you read it twice.
 
 The cattle felt it first.
 
@@ -130,7 +130,7 @@ Congressman bellowed once — a sound Nate had never heard from the bull in six 
 
 Then the light swallowed everything.
 
-Nate Hall stood in the white and felt the fencing pliers fall from his hand, felt his knees unlock, felt the world he had spent forty-six years learning to read dissolve into a brightness that had no source and no edge and no end.
+Nate Hall braced one hand against the truck's door frame and felt his knees unlock, felt the world he had spent forty-six years learning to read dissolve into a brightness that had no source and no edge and no end.
 
 His last coherent thought was diagnostic.
 
