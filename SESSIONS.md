@@ -5,6 +5,84 @@
 
 ---
 
+## Session 006 — 2026-03-20
+
+**Platform:** Claude.ai web (Project)
+**Focus:** Prose cleanup, ranch location pinning, soil research, publishing pipeline
+**Commits:** 4 (a938d3f → 135f151) + this session commit
+**Capture:** #75
+
+### What Was Done
+
+**"Two-track" → "Dirt Track" (repo-wide)**
+- Searched all repo files for "two-track" — found 4 instances
+- Replaced in: Ch1 draft (2 hits), characters/nate-hall.md (1 hit), SESSIONS.md (1 hit)
+- Verified zero remaining matches after commit
+- Committed and pushed: `a938d3f`
+
+**RV-to-Ranch Outline Cleanup Flagged**
+- Identified 6 leftover "RV" references in the Forge outline (2 chapter summaries, 4 beat locations)
+- Wrote `reports/rv-to-ranch-outline-cleanup.md` with exact IDs and suggested fixes
+- Flagged for Cowork session — requires `forge_outline_update_chapter` and `forge_outline_update_beat`
+- Committed and pushed: `ab1750b`
+
+**Lufkin → Carthage Verification**
+- Searched repo and Codex for "Lufkin" — zero matches anywhere
+- Confirmed Carthage is already the only town name in the project (Ch1 draft hardware store reference)
+- Change was made in a prior frozen chat and survived into the draft
+
+**East Texas Soil Research**
+- Researched Panola County soil composition from TX State Historical Assoc., TX Almanac, USDA sources
+- Confirmed: sandy loam topsoil over red clay subsoil (Ultisol classification)
+- Red color is from iron oxide (weathered rust), NOT iron ore — cannot be smelted
+- Ch1 draft prose verified accurate: "sandy clay... red subsoil showing through"
+- Updated character sheet terrain from "red clay soil" to "sandy loam topsoil over red clay subsoil"
+- Wrote `research/east-texas-soil.md` with full findings
+- Committed and pushed: `044e0db`
+
+**Ranch Location Pinned**
+- Placed ranch north of Carthage, Panola County — off a county road between Carthage and Marshall along the US-59 corridor
+- Closer to Carthage (~10 miles) than Marshall (~17 miles)
+- Updated: characters/nate-hall.md (Base field, Location row, Backstory), research/east-texas-soil.md
+- Updated Codex Entity #1 (Nate) and #30 (Earth Post-Integration) with specific location
+- Committed and pushed: `135f151`
+
+**Chapter 1 Review**
+- David confirmed he has finished reading Chapter 1 and likes the prose
+
+**NovelCrafter Identified as Prose Polish Tool**
+- Recovered from frozen chat — novelcrafter.com
+- BYOK (Bring Your Own Key) model — connect Anthropic API key for Claude-powered prose editing
+- $8/mo Hobbyist tier + API usage costs
+- Also supports OpenRouter, local models via Ollama/LM Studio
+- Added "Publishing Pipeline — Prose Polish" section to CLAUDE.md
+- Captured as Capture #75 on Nova
+
+### Decisions Locked This Session
+
+| Decision | Detail |
+|----------|--------|
+| Ranch road terminology | "dirt track" (not "two-track") |
+| Ranch location | North of Carthage, Panola County — ~10 mi to Carthage, ~17 mi to Marshall, US-59 corridor |
+| Nearest supply town | Carthage (county seat, pop. ~7,000) — confirmed, not Lufkin |
+| Soil description | Sandy loam topsoil over red clay subsoil (iron oxide, not iron ore) |
+| Prose polish tool | NovelCrafter (novelcrafter.com) — BYOK with Anthropic API key |
+| Publishing pipeline | Draft in Forge → Polish in NovelCrafter → Final in repo |
+
+### Open Questions (carried forward)
+
+- AI companion name: F.L.I.N.T. locked in Codex, needs final confirmation in narrative
+- Observation Point name: Still TBD
+- Does Rex survive the Integration event?
+- Does the System attempt to integrate animals?
+- Rex awareness: System-adjacent or purely organic?
+- Stag origin: Specific Welsh/Norse creature or something new?
+- Marcus Webb — survive? Reappear? Same geographic area?
+- Congressman the bull — survive Integration?
+- RV-to-ranch outline cleanup: 6 edits flagged for Cowork (see reports/rv-to-ranch-outline-cleanup.md)
+
+---
+
 ## Session 005 — 2026-03-20
 
 **Platform:** Cowork (Claude desktop app)

@@ -536,3 +536,21 @@ Tailscale path-based routing on the same Funnel hostname.
 │  dblondin73/forge-novel   │
 └──────────────────────────┘
 ```
+
+
+---
+
+## Publishing Pipeline — Prose Polish
+
+After drafting chapters in the Forge workflow, prose goes through **NovelCrafter**
+(novelcrafter.com) for polishing before final commit:
+
+1. Draft chapter in Forge (Claude.ai web / Cowork / Claude Code)
+2. Export draft `.md` to NovelCrafter project
+3. Connect Anthropic API key (BYOK — Bring Your Own Key)
+4. Use NovelCrafter's prose editing modes to tighten, refine voice, catch inconsistencies
+5. Final polished chapter back into `drafts/` → `git_commit` + `git_push`
+
+NovelCrafter pricing: $8/mo Hobbyist tier (BYOK) + API usage costs.
+Also supports OpenRouter, local models via Ollama/LM Studio.
+Capture #75 on Nova records this decision.
