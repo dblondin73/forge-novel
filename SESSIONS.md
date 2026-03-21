@@ -421,3 +421,15 @@ Complements Nate's engineering track: he reads blueprints (slow, technical, lear
 - Books 5-7: full fluency in divine architecture notation
 
 Open Question Q9 is now RESOLVED.
+
+
+
+### Character Updates — Age and Physical Descriptions
+
+**Nate age:** mid-40s changed to mid-30s (~35). Still has full career and life experience.
+
+**Nate build:** Fit from ranch work. Lean, broad-shouldered, weathered hands, tanned.
+
+**Sonja appearance:** Beautiful, very fit, athletic. Red Sonja parallel intentional. Vivid red hair, green eyes, fair-skinned, striking.
+
+**Repo files needing mid-40s to mid-30s update:** REFERENCE.md (2 hits), characters/nate-hall.md (1 hit). Cowork task.
