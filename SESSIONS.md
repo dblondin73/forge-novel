@@ -400,3 +400,24 @@ Open Questions Q3 and Q4 are now RESOLVED.
 **Marcus Webb:** Fictional. Details TBD during prose polish.
 
 **Stag identity:** Parked. Research done, hybrid direction recommended, decision deferred.
+
+
+
+### LOCKED DECISION — Q9: Sonja's Spiritual Gift
+
+**The Witness** — sees the true nature of what she looks at. Not prophecy. Present truth.
+
+- Looks at a person → sees real character underneath System stats
+- Looks at a System construct → sees what it actually is beneath the overlay
+- Looks at Nate → knew what he was before he did
+- Cannot be deceived — the one thing a deception-based System cannot tolerate
+
+Complements Nate's engineering track: he reads blueprints (slow, technical, learned). She sees truth (instant, intuitive, absolute). He reads what it says. She sees what it means.
+
+**Also locked: Nate's Rune Reading Progression**
+- Book 1: sees patterns, cannot read them
+- Book 2: reproduces patterns while forging, imprecise without Sonja's help
+- Books 3-4: builds vocabulary, reads basic runes independently
+- Books 5-7: full fluency in divine architecture notation
+
+Open Question Q9 is now RESOLVED.
