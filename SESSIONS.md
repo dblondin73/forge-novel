@@ -364,3 +364,13 @@ Open Question Q6 is now RESOLVED.
 The initials honor David's father, who went by J.D. and whose ranching life is the foundation for the MC's character. Surname is real. Amazon Author Central pages are separate per account — one other J.D. Blondin exists (historical fantasy, single title) but genre differentiation is clear.
 
 Open Question Q10 is now RESOLVED.
+
+
+
+### LOCKED DECISION — Observation Point Name
+
+**The Keystone**
+
+The series endgame location deep in the Labyrinth where the full architecture is visible. In architecture, a keystone holds the arch together — remove it and the structure collapses. From the Keystone, Nate and Flint broadcast the truth in Book 7. The System's overlay is exposed as counterfeit. The arch falls. Not a battle — a revelation.
+
+Open Question Q2 is now RESOLVED.
