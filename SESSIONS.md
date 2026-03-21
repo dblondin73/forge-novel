@@ -374,3 +374,17 @@ Open Question Q10 is now RESOLVED.
 The series endgame location deep in the Labyrinth where the full architecture is visible. In architecture, a keystone holds the arch together — remove it and the structure collapses. From the Keystone, Nate and Flint broadcast the truth in Book 7. The System's overlay is exposed as counterfeit. The arch falls. Not a battle — a revelation.
 
 Open Question Q2 is now RESOLVED.
+
+
+
+### LOCKED DECISIONS — Q3 and Q4
+
+**Q3 — Starting location:** Ranch north of Carthage, Panola County, East Texas. Formally confirmed. ✅
+
+**Q4 — Pre-System family (Option A — Clean Break):**
+- Father deceased — died when Nate was in his twenties. Rancher, taught him everything.
+- Mother deceased within last few years — Nate cared for her through final illness.
+- Only child. No siblings, no spouse, no children.
+- Functionally alone at Integration: just him, Rex, and the cattle.
+
+Open Questions Q3 and Q4 are now RESOLVED.
