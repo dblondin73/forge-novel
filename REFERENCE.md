@@ -1,111 +1,217 @@
-# Locked Worldbuilding Reference
+# Forge Novel — Locked Worldbuilding Reference
 
-*This document tracks confirmed, locked decisions for the novel series (title TBD). "Forge" refers to the development tooling, not the book. Do not change without deliberate session review.*
-
----
-
-## The System
-
-- Lucifer's counterfeit overlay on God's multiverse
-- Functions as LitRPG infrastructure — classes, stats, skills, interface, tutorial
-- Designed to integrate all of humanity into its hierarchy
-- Cannot detect Anomalies until they act — hidden trait: `[Origin: PRE-SYSTEM]`
-- System AIs are also spyware — report behavior upstream, nudge toward System-optimal choices
+*Rebuilt from live Codex data — 2026-03-20*
+*Source: forge-mcp Codex entities tagged `core` across all types*
 
 ---
 
-## Protagonist — Nathan "Nate" Hall
+## Core Characters
 
-- Louisiana cattleman turned Systems Engineer, DoD contractor
-- Three name modes: Nathan (formal), Nate (friends/ranch), King (earned leadership nickname)
-- Traces lineage to biblical King David (discovered mid-series)
-- Name meaning: Nathan = "he gave" — the conduit who gives, doesn't keep
-- Bloodline: `[BLOODLINE: UNKNOWN — Pre-System ancestry detected]`
-- Class: Anomaly — Conduit of the Most High
+**Nathan "Nate" Hall** — Codex #1
+Mid-40s Louisiana cattleman turned Systems Engineer and DoD contractor. System class: Anomaly — Conduit of the Most High. Channels divine power (conduit, not battery); power flows when aligned with God's purpose, stops when it isn't. Hidden bloodline traces to King David. Three name modes: "Nathan" (formal), "Nate" (ranch/friends), "King" (earned leadership title). Interface is a fighter-pilot HUD, not the standard blue screen. *(Note: tagged `protagonist` — not explicitly `core`, included because foundational.)*
 
----
+**F.L.I.N.T.** — Codex #2
+Field Logic Interface, Network Tethered. Nate's AI companion — a standard System construct rewritten by the Holy Spirit before first boot. Sarcastic, sharp-tongued, loyal. Outbound reporting permanently severed (no spyware); inbound network access intact but degraded via ghost authentication token. Network capability progresses across all 7 books from fragmented receive-only (Book 1) to root write access that hijacks System notification pipes at the Observation Point (Book 7). Consent rule locked from Book 4 forward: all deliberate manipulation requires Nate's knowledge and consent.
 
-## Sonja Lee — Ward Character
-
-- Red-haired, green-eyed Anomaly of Irish descent
-- Name meaning: Sonja = Sophia = wisdom
-- Carries complementary spiritual gifts Nate lacks
-- Celtic ancestry: dual resonance — Christian roots AND Fae tradition
-- Senses thin places where the System overlay is weak
-- Bridge figure between Anomalies and Fae (Books 3-4)
-- Protector dynamic with Nate — mission-first, slow-burn romance
+**Sonja Lee** — Codex #3
+Red-haired, green-eyed Anomaly of Irish descent. Name from Greek Sophia — she IS wisdom in this partnership. Carries a complementary spiritual gift Nate lacks (discernment or prophetic clarity as vessel, not source). May carry or BE a pre-System artifact the System wants. Irish Celtic heritage gives her resonance with thin places and Fae recognition. Mirrors the biblical Nathan's role as truth-teller to King David. Romance develops slowly across books from mission partners to faithful monogamy.
 
 ---
 
-## Anomalies
+## Factions
 
-- On the order of a hundred thousand worldwide — exact count deliberately never stated in text
-- Large enough to be globally distributed across every nation and culture; small enough to be hunted and scattered
-- Holy Spirit already occupies space the System tried to overwrite
-- Nate Hall is their reluctant unifier
+**The System** — Codex #4
+Lucifer's counterfeit management layer installed on God's creation. Presents as empowerment (classes, stats, skills, progression). Functions as control — quantifies identity, replaces relationship with the Creator, rewards compliance, punishes deviation. Integrated ~8 billion humans. Cannot fully integrate Anomalies (~100k worldwide, exact count deliberately never stated).
 
----
+**The Creator** — Codex #5
+The one true God — Father, Son, Holy Spirit. Exists outside creation. Built the multiverse and the Labyrinth. Authority supersedes everything including the System. Does not override free will. Not a faction in the political sense — the foundational reality all other factions exist within or rebel against.
 
-## Magic and Power
+**The Anomalies** — Codex #6
+True believers worldwide whose integration failed because the Holy Spirit already occupies the space the System tried to overwrite. ~100k globally (inspired by 1 Kings 19:18, scaled to 8 billion), exact number deliberately uncounted. Not defined by denomination — defined by whether the Spirit dwells in them. Scattered, hunted, mostly alone. Recognize each other by "a knowing," not a System tag. Nate is their reluctant unifier.
 
-- Conduit from God — not personal power, not stored
-- Power is relational, not mechanical
-- Conduit power unclassifiable by System taxonomy
+**The Patrons — Fallen Beings in System Service** — Codex #7
+Fallen spiritual beings from every mythological tradition who accepted Lucifer's centralized authority in exchange for territory, power, and worshippers. Traded independence for relevance in an increasingly secular pre-System world. Some are loyal to the hierarchy; some chafe and may ally against central authority. Patron bonds are the System's counterfeit of prayer — worship exchanged for power, binding both parties deeper into the framework.
 
----
+**The Old Powers — Global Mythological Beings** — Codex #8
+Powerful spiritual beings from every tradition on Earth (Celtic, Norse, Greek, Egyptian, Hindu, Japanese, Yoruba, Native American, Mesoamerican, Slavic, Polynesian, Aboriginal, and others). All real created beings with genuine power — none are gods. Predate the System. Resent being folded into a framework they didn't choose. Response to the System was not uniform: some joined, some were absorbed, some resisted, some retreated. Multi-faction landscape, not a binary. Every culture on Earth gets its own entry point.
 
-## Rune System (Three Tiers)
-
-| Tier | Source | Applied To |
-|------|--------|------------|
-| Divine | Original, inscribed with conduit power | Structures and items only |
-| Elder (Norse/Welsh) | Real but incomplete fragments | Structures and items only |
-| System copies | Corrupted counterfeits with surveillance strings | Structures and items only |
-
-Runes NEVER applied to the body. Divine runes available to ALL faithful Anomalies.
+**The Faithful Watchers** — Codex #9
+Spiritual beings who remained loyal to the Creator. Don't intervene directly — provide guidance, information, occasional open doors. May have hidden pre-System artifacts in sacred sites for centuries. Recognize the Anomalies and may help them find each other.
 
 ---
 
-## Welsh and Norse Beings
+## Game Mechanics
 
-- Real entities, NOT gods — powerful created beings
-- The System disrupted their existing power structure
-- May be allies, obstacles, or neutral parties
+**Conduit Magic System** — Codex #10
+Nate channels power from God, doesn't store it. Output is variable — exceeds theoretical maximum when aligned, zero when selfish. System can't get a stable reading because the source is external. Maps to his Systems Engineer class: he routes infrastructure, doesn't generate data.
 
----
+**HUD Interface System** — Codex #11
+Fighter-pilot HUD, not blue screen. Four phases: Basic (monochrome, health/stamina), Tactical (color, threat indicators), Analytical (crafting ID, structural analysis), Authority (hidden entity stats, System process logs, root access manifesting visually). The System didn't design this variant and can't modify it.
 
-## AI Companion (Name TBD)
+**Spiritual Progression Track** — Codex #12
+Hidden progression the System can't track. Four phases: Intuition (gut feelings), Discernment (sees through deception), Active Guidance (still small voice at critical moments), Authority (speaks with weight above System permission level — reality compelled to acknowledge it).
 
-- System-assigned to all recipients; Holy Spirit rewrites for Anomalies
-- Nate's version: sarcastic, Bob the Skull meets Friday
-- Alternates between "Nate" and "King"
-- The System sees it as valid — no detection anomaly
-
----
-
-## Redemption Path (Codex #59)
-
-System-integrated humans CAN convert. Four stages: The Crack, The Valley, The Overwrite, The New Walk. Some see truth and choose the System anyway. Conversion scenes follow the Narnia Principle — show, never preach.
+**Systems Engineer Class** — Codex #13
+Rare infrastructure class. Not combat, not mage — perceives architecture beneath reality. Starting skills: Structural Analysis, Process Monitor, Infrastructure Sense, Field Repair. At higher levels, applies to System constructs themselves.
 
 ---
 
-## Progression Display (Codex #58)
+**Pre-System Artifacts** — Codex #14
+Objects predating the System carrying genuine divine authority. System can't scan them properly — `[Origin: PRE-SYSTEM]`. Tied to real Labyrinth infrastructure. May have been hidden in sacred sites for centuries. Nate recognizes them as infrastructure components, not weapons. Sonja may carry or BE one.
 
-Four layers: (1) Action in prose, (2) AI narrates crunch conversationally, (3) System blue boxes as unreliable narration, (4) Divine reality the System cannot parse. Prose-first. No formatted stat blocks. Bracket notation for System text. Blue boxes are Lucifer's UI.
+**Counterfeit Evolution** — Codex #15
+The System offers humans prestige classes and ascension paths that progressively replace what's human with something loyal to the System. Voluntary, incremental, irreversible. Each level-up trades away something they don't realize they're losing. Two evolutions running simultaneously: counterfeit (System) and authentic (divine transformation of Anomalies).
+
+**WIS as Primary Stat** — Codex #26
+WIS 20 is Nate's highest stat and mechanical edge. Drives Perception, Discernment, and resistance to System manipulation. Scales with spiritual progression — System can't figure out why it grows faster than his level allows. Bridges System track and spiritual track.
+
+**Pre-System Bonding** — Codex #34
+Nate forms working partnerships with pre-System creatures and beings the System can't classify. Rooted in ranch background — trust, not domination. Each bond earned through understanding, not force. System bond templates (Patron, Familiar, Summoner) don't fit.
 
 ---
 
-## The Narnia Principle
+**Safe Zone Settlement Building** — Codex #35
+Communities built in locations where the System's overlay is weak — Labyrinth rest stops, sacred sites. Ranch-practical engineering (fences, water, shelter, defenses) reinforced by conduit power. Not System-sanctioned safe zones — carved from the System's blind spots. The System wants them destroyed because they prove you can live outside its framework.
 
-Core writing rule. The theology is the skeleton; the story is the flesh. Show, never tell. A secular reader enjoys a compelling LitRPG. A faithful reader recognizes the skeleton.
+**Magic Philosophy — Source Matters** — Codex #37
+Magic exists and Nate uses it freely. The distinction is source, not existence. System magic is Lucifer's counterfeit (no moral constraint). Conduit magic flows from God (reliable for righteous purposes, unavailable for selfish ones). Magic itself is not evil — the question is always who built the tool and what it's designed to do.
+
+**Magic-Infused Base Building** — Codex #41
+Four layers: Foundation (physical construction, cattleman practical), Reinforcement (conduit power strengthens what's built), Integration (settlement woven into Labyrinth's divine architecture), Community Magic (other Anomalies contribute their own gifts). Result: looks like a ranch community, spiritually anchored to something the System can't touch.
+
+**Genesis Stewardship Model — Bonding Hierarchy** — Codex #43
+Correction to Pre-System Bonding: this is stewardship hierarchy, not equal partnership. Mirrors rancher-livestock relationship — genuine authority exercised with care, wisdom, and accountability. System's version (Summoner/Familiar Bond) treats creatures as tools. Nate's version is covenant where the greater party takes responsibility for the lesser.
 
 ---
 
-## Series
+**Forging — Nate's Crafting Specialty** — Codex #44
+Nate works a forge to shape pre-System metals and ores from the Labyrinth's real architecture. Conduit-powered heat, not System-enchanted. Items exist outside System rarity tiers — show partial scans, ERROR readings, `[Origin: PRE-SYSTEM]`. Rooted in shade-tree mechanic identity. He's the only one who can forge pre-System materials (requires conduit power + Systems Engineer perception).
 
-- 7-book main series (Multiverse of Sevens franchise)
-- Book and series title: TBD
-- 108,000-152,000 words per book
-- Book 1: 32 chapters, 128 beats
-- 60+ Codex entities on Nova MCP server
-- Inspirations: Dresden Files, The Land, HWFWM, Primal Hunter, Iron Druid, Breathless, Path of Ascension, Cradle
+**Rune Crafting System** — Codex #46
+Nate inscribes divine architectural patterns onto structures and forged items. NOT drawn on the body. Perceived through HUD Phase 2+, inscribed with conduit power. Progression: simple (reinforcement, purification, warmth) to complex (warding, revelation, communion). Cannot be used for evil — conduit doesn't route there.
+
+**Three-Tier Rune Hierarchy** — Codex #47
+Tier 1 Divine Runes: the originals, inscribed with conduit power. Most powerful, non-quantifiable. Tier 2 Elder Runes: Norse/Welsh fragments glimpsed millennia ago — functional but degraded. Tier 3 System Runes: reverse-engineered copies — weakest, quantified, come with surveillance strings. Each System rune is a hook binding the item deeper into the framework. System runes CRACK on contact with divine runes.
+
+**Divine Runes — Available to All Faithful** — Codex #48
+Correction: divine runes are NOT exclusive to Nate. Any Anomaly with conduit power can inscribe them if taught. Nate's unique contribution is discovery and teaching, not monopoly. Fits distributed mechanics and theology — God's gifts are for all His children. System-integrated humans cannot inscribe them (wrong power source).
+
+---
+
+**System AI — Universal and Rewritten** — Codex #55
+Everyone gets a System AI during integration. For normal humans: helpful assistant, secretly spyware. For Anomalies: Holy Spirit rewrites it before first boot — no longer reports to System. Two separate things: Holy Spirit = conduit of God's power (spiritual track). AI = rewritten System construct (tactical companion, banter, HUD management). AI detects Spirit's activity but cannot explain or replicate it.
+
+**System AI as Spyware — The Friendly Leash** — Codex #56
+System AIs report behavior, subtly nudge toward System-optimal choices, discourage questioning. Nobody questions them because they're genuinely useful. When Nate realizes what normal AIs actually do, it's one of the series' most disturbing revelations — billions of people have a spy in their head that they think is their friend.
+
+**Redemption Path — System De-Integration** — Codex #59
+Four stages modeled on Paul's Damascus Road: The Crack (seeing through the overlay), The Valley (System fights back, powers unreliable), The Overwrite (Holy Spirit begins rewriting — messier than clean first boot), The New Walk (gradual healing, scar tissue becomes asset). Free will: some see truth and choose the System anyway — most tragic antagonists. Conversion scenes must follow the Narnia Principle — never read as altar calls.
+
+---
+
+## Locations
+
+**Earth (Post-Integration)** — Codex #30
+~8 billion humans integrated. Standard blue screens, classes assigned by pre-existing skills. Monsters spawn, dungeons appear, society fractures. Tutorial period sorts the population. Nate is on his ranch in rural East Texas when it happens.
+
+**The Labyrinth** — Codex #17
+God's multiverse routing infrastructure — NOT a dungeon. The System overlays a dungeon skin (stone walls, torches, monsters, loot). Underneath: older, elegant, luminous surfaces with structural light patterns. Contains rest stops where the overlay drops. Deeper levels connect to other worlds. Deepest level sealed by Admins — leads to something outside the multiverse.
+
+**The Observation Point (Name TBD)** — Codex #31
+Deep Labyrinth location where the multiverse architecture becomes transparent. Not a throne or weapon — a perspective. See the whole network map as God sees it. Late-series goal: reach this point and broadcast truth to everyone inside the counterfeit. System Admins have built layers of counterfeit reality around it. Name still TBD (rejected: God's Eye, Mercy Seat, Vantage, Threshold).
+
+---
+
+## Lore and Writing Rules
+
+**Five-Layer Cosmology** — Codex #16
+Layer 1: God (outside creation, ultimate authority). Layer 2: The Multiverse (countless worlds connected by the Labyrinth). Layer 3: Spiritual Beings (real, powerful, created — not gods). Layer 4: The System (Lucifer's counterfeit overlay). Layer 5: Physical Worlds (Earth and others, living inside the System's skin).
+
+**Portrayal Strategy — Two Languages** — Codex #18
+Three-layer translation for accessibility: Engineering Truth (Story Bible), Ranch/Common-Sense Analogy (what Nate actually says in prose), and Theological Truth (what the reader eventually recognizes underneath). Nate describes everything in ranch terms: "It's herding us. Same way you move cattle through a chute."
+
+**The Integration and Tutorial** — Codex #27
+System scans each person and assigns class by existing competencies. Tutorial is a contained high-stakes gauntlet. For Nate: the System knows something is wrong but can't classify him. His tutorial is different — the System is testing and probing an anomaly it doesn't understand.
+
+**Unique Selling Points — Genre Subversions** — Codex #28
+Mid-40s cattleman protagonist (vs. 20s gamer norm). Genuine Christian faith predating the System. Infrastructure class (vs. combat/mage norm). Conduit power with moral constraints. WIS as primary stat. Ranch engineering applied to settlement building. No harem, no sexual content. Adult themes from moral complexity and leadership weight.
+
+---
+
+**Pre-System Competencies** — Codex #29
+Skills Nate had before Integration — not from a stat sheet: ranch life (animal husbandry, fence repair, storm reading, land navigation), DoD Systems Engineering (network architecture, security protocols, troubleshooting under pressure), shade-tree mechanic (fixes things himself), and quiet faith (decades of walking with God before the System made it mechanically relevant).
+
+**Tone Guide — Adult but Faithful** — Codex #36
+Adult-oriented, not sexually explicit. Adult content comes from: real violence with weight, moral complexity of allying with fallen beings, leadership decisions where people live or die, spiritual warfare that's genuinely disturbing. No sexual content. Romance is faithful monogamy. Humor through AI banter and ranch pragmatism.
+
+**Divine Architecture Aesthetic — God in Nature** — Codex #38
+When the System overlay glitches, the real architecture looks like nature perfected — light flowing like rivers, structures growing like trees, patterns echoing coastlines and root systems. God's engineering expressed through organic beauty. NOT circuitry. NOT code. Creation that looks like what it is.
+
+**Romance Arc — Single to Faithful Partnership** — Codex #39
+Nate starts single. Progression mirrors real adult relationships: Mission Partners → Mutual Respect → Deeper Trust → Faithful Partnership. Not teenage attraction — two complete people who make each other more effective. Grows from shared mission and service. Faithful monogamy once committed.
+
+---
+
+**Distributed Mechanics — Not All Powers Belong to the MC** — Codex #40
+Nate is a specialist (infrastructure/architecture), not a do-everything protagonist. Other characters operate their own progression systems. Community grows because multiple people build it. Prevents protagonist from becoming a wish-fulfillment power fantasy. Ensemble cast where everyone has a mechanically satisfying role.
+
+**Theological Foundations — Authority, Prophecy, and Hierarchy** — Codex #42
+Prophecy belongs to God alone — vessels deliver, never generate. Authority flows from God through willing conduits. Genesis stewardship model governs all creature relationships. Free will is inviolable — even God doesn't override it. The System counterfeits every divine structure — classes for calling, Patrons for prayer, ascension for sanctification.
+
+**Protagonist Personality — Introvert, Slow Burn, Wrath** — Codex #45
+Introvert who recharges alone but will stand in front of a hundred people. Slow to anger — threshold calibrated by decades of dead livestock and classified systems crashing at 2 AM. When the threshold crosses: cold, focused, devastating. Not berserker rage — controlled fury. This is when "King" stops being sarcasm and starts being accurate.
+
+**Series Structure — Seven Books** — Codex #49
+Seven books (biblical number of completion). Book 1: Integration. Book 2: Foundation. Book 3: Revelation (Labyrinth as infrastructure). Book 4: Alliance (faction politics). Book 5: War (System escalates). Book 6: Deep Labyrinth (other worlds). Book 7: Completion (Observation Point — truth broadcast, not combat victory).
+
+---
+
+**Franchise Architecture — Multiverse of Seven** — Codex #50
+Worldbuilding designed for a franchise. Labyrinth connects a multiverse. System has integrated civilizations before Earth. Anomalies scattered across every culture globally. Architecture supports spinoff series in any cultural setting — Nigerian Anomaly encounters Orisha, Japanese Anomaly encounters kami, Indian Anomaly encounters beings dwarfing Norse power.
+
+**Stat Display Rules — Show Changes, Not Tables** — Codex #51
+Show new stats, level-ups, and skill unlocks on a regular basis (LitRPG reader dopamine). Do NOT dump the full stat table every time — show only what changed. AI companion delivers stat info conversationally, not as formatted data blocks. System blue boxes are unreliable narration from the antagonist's own UI.
+
+**The Narnia Principle — Show, Never Preach** — Codex #52
+The most important writing rule. C.S. Lewis never preached in Narnia — Aslan never says "I am Jesus." The theology is the skeleton; the story is the flesh. A secular reader enjoys a compelling LitRPG. A faithful reader sees what's underneath. A searching reader feels something resonate. The word "God" may rarely appear in dialogue. Conversion scenes never read as altar calls.
+
+**HUD Timeline — Rescaled for 7 Books** — Codex #53
+Phase 1 Basic: Book 1 (monochrome, nearly useless). Phase 2 Tactical: late Book 1 through Book 2 (color, threat indicators). Phase 3 Analytical: Books 3-4 (engineering mode, crafting ID). Phase 4 Authority: Books 5-7 (root access, System process logs, hidden stats). Each phase unlocked by spiritual progression milestones, not XP thresholds.
+
+---
+
+**Book Length and Pricing Targets** — Codex #54
+12-16 hours audiobook per book (108,000-152,000 words). Based on David's reading preference and LitRPG market standards. Anything under 12 hours feels like getting cheated on an Audible credit. Book 1 target: ~120,000 words / 32 chapters / 3 acts.
+
+**Book 1 Outline v0.1 — Integration** — Codex #57
+32 chapters across 3 acts. Act One (Ch 1-10): Old world ends, integration fails, survives tutorial with broken AI and monochrome HUD, ends Level 4. Act Two (Ch 11-22): Post-integration survival, meets other Anomaly, HUD Phase 2 activates. Act Three (Ch 23-32): First safe zone, settlement of 20, THE WRATH scene, discovers System rune surveillance, receives SANCTUARY signal. Final line: "I need a forge."
+
+**King David Lineage — MC Ancestry** — Codex #60
+Nate's literal ancestry traces to biblical King David. Discovered mid-series, not before Integration. Six mapped parallels: shepherd-to-cattleman, unconventional warrior, flawed-but-faithful, pre-System bloodline, psalmic inner voice, anointed-before-crowned arc across 7 books. Explicitly NOT a Christ figure — bloodline opens doors, character determines what walks through them.
+
+**Multi-Faction Landscape — Contested Earth** — Codex #61
+Earth is a contested world where multiple factions compete — not a simple binary. System loyalists, Patron-bound humans, independent Old Power factions, Anomaly communities, unaligned survivors, and opportunists all operating simultaneously. Inspired by Welcome to the Multiverse where multiple systems vie for control of the same world.
+
+---
+
+**Creative Risk — Theology vs. Multiverse Genre Tension** — Codex #63
+The tension between "all mythologies are real" and "one God supreme" is the most dangerous tightrope in this project. Two traps: making other traditions feel disrespected (alienating diverse readers), or making them feel equal to God (undermining the theology). Solution: other traditions are REAL and POWERFUL — the beings exist, the power is genuine — but they are created, not Creator. Respect without equivalence.
+
+---
+
+## Quick Stats
+
+| Type | Core Entities | IDs |
+|------|--------------|-----|
+| Character | 3 | 1*, 2, 3 |
+| Faction | 6 | 4, 5, 6, 7, 8, 9 |
+| Game Mechanic | 19 | 10, 11, 12, 13, 14, 15, 26, 34, 35, 37, 41, 43, 44, 46, 47, 48, 55, 56, 59 |
+| Location | 3 | 17, 30, 31 |
+| Lore | 21 | 16, 18, 27, 28, 29, 36, 38, 39, 40, 42, 45, 49, 50, 51, 52, 53, 54, 57, 60, 61, 63 |
+| **Total** | **52** | |
+
+*\* Entity #1 (Nathan "Nate" Hall) tagged `protagonist` not `core` — included as foundational.*
+
+---
+
+*60+ total Codex entities on Nova MCP server. This reference covers core-tagged entities only. For full entity details, query forge-mcp directly by ID.*
