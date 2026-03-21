@@ -52,7 +52,7 @@
 | **Herd Bull** | Congressman — 1,800-lb registered Red Angus (eats more than he works, impossible to move) |
 | **Horses** | Quarter horses — used for working stock and riding |
 | **Working Dog** | Rex — 4-year-old Border Collie (Codex #64). Rides in the truck bed, works cattle on eye contact. Patient disapproval of non-cattle activities. |
-| **Truck** | Ford — runs fence line and ranch rounds on two-tracks. Tailgate doubles as a workbench. |
+| **Truck** | Ford — runs fence line and ranch rounds on dirt tracks. Tailgate doubles as a workbench. |
 | **Equipment** | Tractor (hydraulics leak at the cylinder base), water pump (22 years old, bearings failing), fencing tools |
 | **Terrain** | Rolling pasture, bahiagrass, post oak tree lines, creek bottoms, red clay soil |
 | **Wildlife** | Whitetail deer, feral hogs (persistent fence invaders), mockingbirds, armadillos |

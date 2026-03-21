@@ -64,7 +64,7 @@
 | Herd bull | Congressman — 1,800-lb registered Red Angus |
 | Horses | Quarter horses |
 | Working dog | Rex — Border Collie, 4 years old (Codex #64) |
-| Ranch transport | Ford truck on two-tracks, not foot |
+| Ranch transport | Ford truck on dirt tracks, not foot |
 | Ch1 structure | 4 beats, ends with Integration white-out, no stag (stag is Ch2) |
 | Ch1 last thought | Diagnostic: "That's a signal" |
 | Rex as sensor | First creature to react to Integration — whines, hackles up, stares straight up |

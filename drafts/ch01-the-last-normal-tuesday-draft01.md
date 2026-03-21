@@ -4,15 +4,15 @@
 
 The water pump was dying the way everything on a ranch died — slowly, loudly, and at the worst possible time.
 
-Nate Hall crouched beside the wellhead at the north pasture, his boots sunk two inches into the red clay that East Texas called soil and everyone else called a mistake. The pump housing was warm under his palm. Not hot — warm. Bearings, not motor. He could feel the vibration running wrong through the casing, a subtle grinding rhythm where there should have been smooth rotation. Three months ago it had been a whisper. Now it sounded like a dentist's drill buried under forty feet of pipe.
+Nate Hall crouched beside the wellhead at the north pasture, his boots sunk two inches into the sandy clay that had built up around the base over twenty-two years of water splash and foot traffic, the red subsoil showing through where the topsoil had long since washed away. The pump housing was warm under his palm. Not hot — warm. Bearings, not motor. He could feel the vibration running wrong through the casing, a subtle grinding rhythm where there should have been smooth rotation. Three months ago it had been a whisper. Now it sounded like a dentist's drill buried under forty feet of pipe.
 
-He pulled his hand back and wiped it on his jeans. The pump was twenty-two years old. He'd replaced the seals twice, the pressure switch once, and the check valve three times because the first replacement had been a cheap one from the hardware store in Lufkin and cheap check valves were a false economy he would never repeat. The bearings were original. Twenty-two years of spinning in East Texas humidity, pulling water from the Trinity aquifer for sixty head of cattle that didn't care about maintenance schedules.
+He pulled his hand back and wiped it on his jeans. The pump was twenty-two years old. He'd replaced the seals twice, the pressure switch once, and the check valve three times because the first replacement had been a cheap one from the hardware store in Carthage and cheap check valves were a false economy he would never repeat. The bearings were original. Twenty-two years of spinning in East Texas humidity, pulling water from the Trinity aquifer for sixty head of cattle that didn't care about maintenance schedules.
 
 He sat back on his heels and looked at the pump the way he looked at everything that was broken — not with frustration, but with the quiet attention of a man who'd been opening hoods and finding problems since before he could drive. The pump didn't owe him anything. Twenty-two years was a good run. He just needed it to hold until the weekend, when he could pull it, swap the bearings, and have it back in the ground before the afternoon heat made the cattle drink the stock tank dry.
 
 The morning was still cool enough to be pleasant. Six-fifteen, maybe six-twenty. The sun was a handwidth above the tree line to the east, throwing long shadows across the pasture and turning the dew on the bahiagrass into something that looked like a field of broken glass. A mockingbird was running through its catalog somewhere in the post oaks behind the wellhead — cardinal, blue jay, car alarm, cardinal again. Nate had been listening to that particular bird for three years and was fairly certain it had learned the car alarm from the UPS truck that came down the county road every Thursday.
 
-He stood, one knee popping the way it always did after crouching, and walked back to his truck. The Ford was parked on the two-track that ran along the fence line, tailgate down, a five-gallon bucket of fencing staples sitting next to a post driver and a coil of high-tensile wire. Rex was watching him from the truck bed, chin resting on the side rail, the Border Collie's black-and-white face wearing the expression it always wore when Nate was doing something that didn't involve moving cattle — patient disapproval. The dog had been his shadow for four years now, and in that time had developed a very clear opinion about what constituted real work and what was a waste of both their mornings.
+He stood, one knee popping the way it always did after crouching, and walked back to his truck. The Ford was parked on the dirt track that ran along the fence line, tailgate down, a five-gallon bucket of fencing staples sitting next to a post driver and a coil of high-tensile wire. Rex was watching him from the truck bed, chin resting on the side rail, the Border Collie's black-and-white face wearing the expression it always wore when Nate was doing something that didn't involve moving cattle — patient disapproval. The dog had been his shadow for four years now, and in that time had developed a very clear opinion about what constituted real work and what was a waste of both their mornings.
 
 "Pump bearings," Nate told him. "Not everything is about cows."
 
@@ -96,7 +96,7 @@ He swung the tailgate up, latched it, and climbed into the cab. Rex shifted in t
 
 He noticed the light first.
 
-Not a change, exactly — more like a shift in quality. The way a room looks different when someone opens a curtain in another part of the house. The sun was still above the tree line, still throwing the same long shadows, but the color of it had gone wrong. Too warm. Almost amber, like late October light showing up in the middle of March. He eased off the gas and let the Ford idle on the two-track, leaning forward over the steering wheel to squint east through the windshield.
+Not a change, exactly — more like a shift in quality. The way a room looks different when someone opens a curtain in another part of the house. The sun was still above the tree line, still throwing the same long shadows, but the color of it had gone wrong. Too warm. Almost amber, like late October light showing up in the middle of March. He eased off the gas and let the Ford idle on the dirt track, leaning forward over the steering wheel to squint east through the windshield.
 
 Nothing there. Clear sky. A few high cirrus clouds that hadn't been there ten minutes ago, thin as smoke, arranged in parallel lines that reminded him of something he couldn't name. He watched them for a few seconds. Clouds didn't bother him. Clouds were weather, and weather was just another system — pressure differentials, moisture content, thermal gradients. He'd been reading weather since he was twelve and his mother had taught him that a backing wind meant rain was coming and a veering wind meant it was leaving.
 
@@ -130,26 +130,4 @@ And then the birds went silent.
 
 All of them. At the same time. As if someone had pressed mute on the entire East Texas Pineywoods.
 
-Nate stood in the silence and felt the hair on his arms rise. Not from cold. The temperature hadn't changed. The air was still warm, still humid, still carrying the smell of red clay and bahiagrass and cattle. But something in the electromagnetic spectrum had shifted — he could feel it the way he felt a server room running hot before the temperature alarm triggered, a hum in the infrastructure that wasn't audible but was absolutely real.
-
-Rex pressed against his leg. Not seeking comfort — offering proximity. The dog was shaking, a fine tremor running through his whole body, but he hadn't bolted and he hadn't hidden. He was standing with his person because that was where he was supposed to be when the world stopped making sense.
-
-The amber light brightened.
-
-Not from the sun. The sun was where it had been. The light was coming from everywhere — the sky, the ground, the air itself — a uniform golden white that intensified by degrees, washing out the shadows, washing out the tree line, washing out the fence and the truck and the cattle standing motionless in the field. The world was being overexposed. He raised his hand in front of his face and watched the lines on his palm disappear into brightness.
-
-His phone buzzed in his pocket. He reached for it without thinking — muscle memory, twenty years of being the man who answered when the system went down. The screen was lit but he couldn't read it. The light was too bright. He pressed the power button. Nothing happened.
-
-The ground vibrated. Not an earthquake — he'd felt those, small ones, tremors that rattled dishes and confused the cattle. This was different. This was a hum, a resonance, as if the bedrock under the East Texas clay had started vibrating at a frequency just below hearing. He felt it in his boots, in his teeth, in the bones of his skull.
-
-Congressman bellowed once — a sound Nate had never heard from the bull in six years. Not anger. Not fear. Something older than either.
-
-Then the light swallowed everything.
-
-Nate Hall braced one hand against the truck's door frame, felt Rex's weight still solid against his shin, felt his knees unlock, felt the world he had spent forty-six years learning to read dissolve into a brightness that had no source and no edge and no end.
-
-His last coherent thought was diagnostic.
-
-*That's not sunlight. That's not any kind of light. That's a signal.*
-
-And then there was nothing but the white.
+Nate stood in the silence and felt the hair on his arms rise. Not from cold. The temperature hadn't changed. The air was still warm, still humid
