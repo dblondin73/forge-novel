@@ -1,6 +1,6 @@
 # Character Sheet — Nathan "Nate" Hall
 
-*Codex ID: 1 | Status: Active | Last Updated: 2026-03-19*
+*Codex ID: 1 | Status: Active | Last Updated: 2026-03-20*
 
 ---
 
@@ -24,7 +24,7 @@
 ## Personality
 
 - Direct, truthful, common-sense-driven
-- Introvert — recharges alone, walks the fence line after leading
+- Introvert — recharges alone, drives the fence line after leading
 - Slow to anger, easy-going — threshold calibrated by a lifetime of real problems
 - Brings the Wrath — when the threshold crosses, cold/focused/devastating controlled fury
 - Shade tree mechanic mindset — opens the hood, figures out what's broken, fixes it
@@ -41,6 +41,21 @@
 - Career: Systems Engineer and DoD contractor (SCIF environment veteran)
 - Now owns and lives on a thousand-acre East Texas ranch running cattle and horses
 - The ranch is his permanent base of operations throughout the series
+
+---
+
+## Ranch Details
+
+| Asset | Detail |
+|-------|--------|
+| **Cattle** | 63 head of Red Angus |
+| **Herd Bull** | Congressman — 1,800-lb registered Red Angus (eats more than he works, impossible to move) |
+| **Horses** | Quarter horses — used for working stock and riding |
+| **Working Dog** | Rex — 4-year-old Border Collie (Codex #64). Rides in the truck bed, works cattle on eye contact. Patient disapproval of non-cattle activities. |
+| **Truck** | Ford — runs fence line and ranch rounds on two-tracks. Tailgate doubles as a workbench. |
+| **Equipment** | Tractor (hydraulics leak at the cylinder base), water pump (22 years old, bearings failing), fencing tools |
+| **Terrain** | Rolling pasture, bahiagrass, post oak tree lines, creek bottoms, red clay soil |
+| **Wildlife** | Whitetail deer, feral hogs (persistent fence invaders), mockingbirds, armadillos |
 
 ---
 
@@ -125,15 +140,20 @@ During a **sunrise horseback ride** checking his cattle, he spots a mythological
 
 | Character | Relationship |
 |-----------|-------------|
-| AI Companion (Name TBD) | System-assigned, Holy Spirit rewritten — sarcastic, trusted advisor; alternates "Nate" and "King" |
-| Sonja Lee | Mission-driven protector relationship; she has gifts he lacks — the one person who can say "you're wrong, King" and he listens |
+| F.L.I.N.T. (Codex #2) | System-assigned AI, Holy Spirit rewritten — sarcastic, trusted advisor; alternates "Nate" and "King" |
+| Sonja Lee (Codex #3) | Mission-driven protector relationship; she has gifts he lacks — the one person who can say "you're wrong, King" and he listens |
+| Rex (Codex #64) | Border Collie. Working dog, early warning sensor, constant companion. First creature to react to the Integration event. |
+| Congressman | Herd bull. 1,800-lb Red Angus. Named for his temperament. |
 
 ---
 
 ## Open Questions
 
-- [ ] AI Companion name
+- [ ] AI Companion name — F.L.I.N.T. locked in Codex, needs final confirmation in narrative
 - [ ] Does he have family on the ranch (hands, relatives)?
 - [ ] Specific military/DoD background details
 - [ ] What is his relationship to the Welsh/Norse beings before awakening?
 - [ ] Does the stag reappear later in the story?
+- [ ] Does Rex survive Integration? Does the System integrate animals?
+- [ ] Does Congressman survive? System-enhanced livestock?
+- [ ] Marcus Webb — colleague. Does he survive? Reappear? Same geographic area?

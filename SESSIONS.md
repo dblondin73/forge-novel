@@ -5,6 +5,83 @@
 
 ---
 
+## Session 005 — 2026-03-20
+
+**Platform:** Cowork (Claude desktop app)
+**Focus:** MC rename audit, REFERENCE.md rebuild, stag research, Chapter 1 first prose draft, ranch realism corrections
+**Commits:** 8 (21567cf → 07aa6c9)
+**Capture:** #73
+
+### What Was Done
+
+**MC-to-Nate Audit**
+- Searched all .md files in repo for leftover "MC" placeholder references
+- Found 9 matches: 3 in CLAUDE.md (old filename `characters/MC.md`), 6 in SESSIONS.md (Session 001 pre-naming notes)
+- Generated `reports/mc-to-nate-audit.md` — report only, no changes made
+- Committed and pushed
+
+**REFERENCE.md Rebuilt from Live Codex**
+- Pulled all Codex entities across 5 types (character, faction, game_mechanic, location, lore)
+- Filtered for `core` tag — 52 entities total
+- Organized into scannable sections: Core Characters, Factions, Game Mechanics, Locations, Lore and Writing Rules
+- Each entry: name, 2-3 sentence summary of locked decisions, Codex ID
+- Added `core` tag to Nate (Entity #1) — was missing
+- Committed and pushed
+
+**Stag Mythology and Whitetail Deer Research**
+- Compiled `research/stag-mythology.md` covering 4 sections + cross-tradition synthesis:
+  - Section 1: East Texas Pineywoods whitetail biology, dawn behavior, alarm sequence, "what wrong looks like" to a rancher
+  - Section 2: Welsh white stag — Mabinogion (Pwyll/Arawn), Cwn Annwn, Arthurian quest catalyst
+  - Section 3: Celtic Christian — St. Hubert (Good Friday crucifix), St. Eustace (conversion hunt), thin places, Cernunnos redeemed
+  - Section 4: Norse — Eikþyrnir (cosmic stag, antler-to-river cycle), four stags of Yggdrasil, deer as infrastructure
+  - Section 5: Cross-tradition synthesis mapping all four layers onto the inciting incident
+- Committed and pushed
+
+**Chapter 1 First Prose Draft — "The Last Normal Tuesday"**
+- 4 beats, ~3,800 words, close third person POV from Nate
+- Beat 1: Water pump diagnosis at dawn, Ford truck, ranch established
+- Beat 2: Herd scan (63 Red Angus, Congressman the bull), engineering-brain voice
+- Beat 3: Marcus Webb phone call — DoD context, phantom alerts foreshadowing
+- Beat 4: Integration event — light shift, wind dies, Rex whines first, cattle orient, birds scream then silence, the white
+- Narnia Principle applied: no faith stated, theology is the skeleton
+- Final line: *"That's not sunlight. That's not any kind of light. That's a signal."*
+- Saved to `drafts/ch01-the-last-normal-tuesday-draft01.md`
+
+**Revision Commits (3 corrections after initial draft)**
+1. Hereford → Red Angus, bull weight corrected to 1,800 lbs
+2. Fence checking by truck (not foot), quarter horse reference added
+3. Rex the Border Collie threaded throughout (6 appearances)
+
+**Codex Updates**
+- Created Entity #64: Rex (Border Collie, companion, core-tagged)
+- Updated Entity #1 (Nate): added Red Angus herd, Congressman, quarter horses, Rex, Ford truck for rounds
+
+### Decisions Locked This Session
+
+| Decision | Detail |
+|----------|--------|
+| Cattle breed | Red Angus (63 head) |
+| Herd bull | Congressman — 1,800-lb registered Red Angus |
+| Horses | Quarter horses |
+| Working dog | Rex — Border Collie, 4 years old (Codex #64) |
+| Ranch transport | Ford truck on two-tracks, not foot |
+| Ch1 structure | 4 beats, ends with Integration white-out, no stag (stag is Ch2) |
+| Ch1 last thought | Diagnostic: "That's a signal" |
+| Rex as sensor | First creature to react to Integration — whines, hackles up, stares straight up |
+
+### Open Questions (carried forward + new)
+
+- AI companion name: Still TBD
+- Observation Point name: Still TBD
+- Does Rex survive the Integration event?
+- Does the System attempt to integrate animals?
+- Does Rex gain System-adjacent awareness or remain purely organic?
+- Stag origin: Specific Welsh/Norse creature or something new?
+- Marcus Webb — does he survive? Reappear? Is he in the same geographic area?
+- Congressman the bull — does he survive Integration? Become System-enhanced livestock?
+
+---
+
 ## Session 004 — 2026-03-20
 
 **Platform:** Claude.ai web
