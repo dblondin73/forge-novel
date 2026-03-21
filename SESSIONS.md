@@ -354,3 +354,13 @@ Open Question Q6 is now RESOLVED.
 - Rex post-Integration fate: Undecided
 - Stag origin: Research done, decision not made
 - Marcus Webb fate: Undecided
+
+
+
+### LOCKED DECISION — Pen Name
+
+**J.D. Blondin**
+
+The initials honor David's father, who went by J.D. and whose ranching life is the foundation for the MC's character. Surname is real. Amazon Author Central pages are separate per account — one other J.D. Blondin exists (historical fantasy, single title) but genre differentiation is clear.
+
+Open Question Q10 is now RESOLVED.
