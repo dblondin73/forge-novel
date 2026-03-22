@@ -174,7 +174,7 @@ It stood at the tree line with its impossible antlers and its luminous eyes and 
 
 _That's not weather,_ Nate's engineering brain whispered, the last useful thing it would offer before the world changed. _That's not any kind of light. That's a signal._
 
-The mockingbird in the post oaks screamed. Every call it knew, all at once. Then the blue jays. Then the crows. Then silence — all of them, at the same time, as if someone had pressed mute on the entire East Texas Pine trees.
+The mockingbird in the post oaks screamed. Every call it knew, all at once. Then the blue jays. Then the crows. Then silence — all of them, at the same time, as if someone had pressed mute on every pine tree in East Texas.
 
 Rex pressed harder against his leg, and Nate felt it again — the thing that wasn't touch, wasn't sound, but lived somewhere behind his ribs where instinct made its home. A single wordless impression, absolute and certain:
 
