@@ -106,7 +106,7 @@ Nate straightened up from the fence and followed Rex's gaze into the post oaks, 
 
 Rex wasn't flicking his ears. Rex was vibrating.
 
-The dog's whole body had gone taut, a fine tremor running from his shoulders to his haunches, the kind of tension Nate had only seen once before — the night a cougar had passed through the north pasture and every animal on the ranch had known it was there before Nate found the tracks the next morning. Rex had stood exactly like this on the porch that night, shaking and locked on, watching something in the dark that outranked every threat in his experience.
+The dog's whole body had gone taut, a fine tremor running from his shoulders to his haunches, the kind of tension Nate had only seen once before — the night a black bear had passed through the north pasture and every animal on the ranch had known it was there before Nate found the tracks the next morning. Rex had stood exactly like this on the porch that night, shaking and locked on, watching something in the dark that outranked every threat in his experience.
 
 "What do you see, bud?" Nate said quietly.
 
