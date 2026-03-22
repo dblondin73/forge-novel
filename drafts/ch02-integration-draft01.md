@@ -104,7 +104,7 @@ He rolled onto his side and pressed his palms flat against the ground. Dirt. Rea
 
 The sharp thing under his shoulder blade was a fence staple. He was lying in his own pasture, about thirty yards from where he'd been standing next to the truck when the sky went wrong.
 
-The truck was still there. Tailgate down. Bucket of fence staples on the bed. The post driver exactly where he'd left it. Rex was—
+The truck was still there. Tailgate down. Bucket of T-post clips on the bed. The post driver exactly where he'd left it. Rex was—
 
 Rex.
 
