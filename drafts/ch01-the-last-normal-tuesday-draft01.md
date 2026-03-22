@@ -12,8 +12,7 @@ He sat back on his heels and looked at the pump the way he looked at everything 
 
 The morning was still cool enough to be pleasant. Six-fifteen, maybe six-twenty. The sun was a handwidth above the tree line to the east, throwing long shadows across the pasture and turning the dew on the bahiagrass into something that looked like a field of broken glass. A mockingbird was running through its catalog somewhere in the post oaks behind the wellhead — cardinal, blue jay, car alarm, cardinal again. Nate had been listening to that particular bird for three years and was fairly certain it had learned the car alarm from the UPS truck that came down the county road every Thursday.
 
-He stood, one knee popping the way it always did after crouching, and walked back to his truck. The Ford was parked on the dirt track that ran along the fence line, tailgate down, a a bucket of T-post 
-clips sitting next to a post driver and a coil of barbed wire. Rex was watching him from the truck bed, chin resting on the side rail, the Border Collie's black-and-white face wearing the expression it always wore when Nate was doing something that didn't involve moving cattle — patient disapproval. The dog had been his shadow for four years now, and in that time had developed a very clear opinion about what constituted real work and what was a waste of both their mornings.
+He stood, one knee popping the way it always did after crouching, and walked back to his truck. The Ford was parked on the dirt track that ran along the fence line, tailgate down, a bucket of T-post clips sitting next to a post driver and a coil of barbed wire. Rex was watching him from the truck bed, chin resting on the side rail, the Border Collie's black-and-white face wearing the expression it always wore when Nate was doing something that didn't involve moving cattle — patient disapproval. The dog had been his shadow for four years now, and in that time had developed a very clear opinion about what constituted real work and what was a waste of both their mornings.
 
 "Pump bearings," Nate told him. "Not everything is about cows."
 
@@ -95,61 +94,90 @@ He swung the tailgate up, latched it, and climbed into the cab. Rex shifted in t
 
 ---
 
-He noticed the light first.
+He was halfway down the east fence line when Rex stopped watching the cattle and started watching the tree line.
 
-Not a change, exactly — more like a shift in quality. The way a room looks different when someone opens a curtain in another part of the house. The sun was still above the tree line, still throwing the same long shadows, but the color of it had gone wrong. Too warm. Almost amber, like late October light showing up in the middle of March. He eased off the gas and let the Ford idle on the dirt track, leaning forward over the steering wheel to squint east through the windshield.
+Nate noticed because Rex never stopped watching cattle. It was the dog's entire operating system — scan the herd, track movement, calculate intercept angles for animals that hadn't decided to run yet. Rex watched cattle the way Nate watched system logs: continuously, passively, with just enough attention allocated to catch the anomaly when it appeared. The dog had been doing it from the truck bed for the entire drive, chin on the side rail, eyes tracking the herd as it scrolled past.
 
-Nothing there. Clear sky. A few high cirrus clouds that hadn't been there ten minutes ago, thin as smoke, arranged in parallel lines that reminded him of something he couldn't name. He watched them for a few seconds. Clouds didn't bother him. Clouds were weather, and weather was just another system — pressure differentials, moisture content, thermal gradients. He'd been reading weather since he was twelve and his mother had taught him that a backing wind meant rain was coming and a veering wind meant it was leaving.
+Now Rex was standing. Not the lazy stand of a dog shifting position — the rigid, locked stand of a Border Collie who'd found something worth every ounce of his attention. His head was turned toward the post oaks that thickened along the creek bottom to the south, ears pricked so far forward they were nearly touching, and his body had gone still the way it went still before he moved cattle. Total focus. Zero wasted motion. Every molecule of the dog aimed at one point in the tree line like a compass needle finding north.
 
-The wind wasn't doing either. The wind had stopped.
+Nate eased off the gas and let the Ford idle. He followed Rex's gaze into the post oaks, scanning the shadows the way he scanned everything — looking for the thing that didn't fit the pattern. Coyote, maybe. Loose dog. Feral hog, though hogs usually didn't move this time of morning. A deer was the most likely answer. Whitetails were common enough along the creek bottom, and Rex had seen hundreds of them without more than a flick of his ears.
 
-He noticed it the way you notice a sound that's been there and isn't anymore — by the absence. The morning breeze that had been steady out of the southeast since dawn was simply gone. The bahiagrass was motionless. The post oaks, which had been rustling quietly for the last hour, were still. Not calm — still. Like a photograph.
+Rex wasn't flicking his ears. Rex was vibrating.
 
-Rex whined.
+The dog's whole body had gone taut, a fine tremor running from his shoulders to his haunches, the kind of tension Nate had only seen once before — the night a cougar had passed through the north pasture and every animal on the ranch had known it was there before Nate found the tracks the next morning. Rex had stood exactly like this on the porch that night, shaking and locked on, watching something in the dark that outranked every threat in his experience.
 
-It was a small sound — barely audible over the Ford's idle — but it snapped Nate's attention like a gunshot. In four years, he had heard Rex bark, growl, yip in his sleep, and once howl at a coyote pack that got too close to the calving pen. He had never heard Rex whine. The dog didn't have it in his vocabulary. Border Collies worked or they watched or they waited, but they did not whine, because whining was for dogs that didn't know what to do about a problem, and Rex always knew what to do about a problem.
+"What do you see, bud?" Nate said quietly.
 
-Nate looked through the rear window. Rex was standing in the truck bed, rigid, every hair on his spine raised from the base of his skull to the root of his tail. He wasn't looking at the cattle. He wasn't looking at the tree line. He was looking straight up.
+The answer came out of the tree line on legs that were too long.
 
-Nate killed the engine and stepped out of the truck. The silence without the Ford's idle was immediate and total — no wind, no birds, no insects. He stood beside the open door and looked at the world around him with the first faint stirring of attention that wasn't routine. Something was off. He couldn't say what. He couldn't point at it. But his body knew before his brain did — the same instinct that told him when a cow was about to kick, when a quarter horse was about to spook, when a system log had a line in it that looked normal until you read it twice.
+It was a deer. That was the first thing his brain offered, because his brain was trying to be helpful, trying to slot what he was seeing into a category that made sense. A deer. A buck. Standing at the edge of the post oaks where the shadows met the morning light, maybe sixty yards from the truck.
 
-The cattle felt it next.
+Except it wasn't right.
 
-He heard Congressman low — a deep, resonant sound that carried across the pasture, not a feeding call, not a territorial warning, something else entirely. A sound the bull made when a thunderstorm was building over the horizon and the barometric pressure was dropping fast enough for eighteen hundred pounds of animal to feel it in his sinuses. Nate looked at the sky. There was no storm. The amber light was still there, strange and sourceless, and the cirrus clouds had multiplied — dozens of them now, perfect parallel lines stretching from horizon to horizon like someone had dragged a comb across the sky.
+Nate's hands tightened on the steering wheel without his permission. He'd grown up around whitetail deer. He'd watched them from truck cabs and deer blinds and kitchen windows for thirty years. He knew their proportions the way he knew the proportions of his own truck — by feel, by accumulated exposure, by the deep animal pattern-recognition that came from sharing a landscape with something long enough to know what it looked like in every light and every season.
 
-The herd was moving. Not panicking — shifting. Sixty-three animals turning to face the same direction, which was east, which was toward the light, which was wrong because cattle don't face into strange light. They face away from threat. They were facing into this one the way iron filings orient to a magnet — not choosing to, just pulled.
+This animal's proportions were wrong.
 
-His ears popped.
+The legs were too long by six inches, maybe eight — not dramatically, not cartoonishly, but enough that his eye caught it the way his ear caught a bearing running rough. The body was leaner than a whitetail's, the chest deeper, the neck longer and carried at an angle that no East Texas deer had ever used. The rack was massive and branching in a pattern he didn't recognize — not the upward-reaching tines of a whitetail, but something that swept forward and out, the antlers curving in geometry that reminded him, absurdly, of the branching architecture of a root system. Wide. Ancient-looking. Wrong for any species he'd ever seen in Panola County or anywhere else.
 
-The sensation was sudden and sharp, the way it felt on a fast descent in a small plane — the pressure around him had changed, dropping, and his eardrums equalized with a painful click that made him swallow reflexively. He worked his jaw. His ears popped again. The pressure was still falling.
+It was the most beautiful animal he had ever looked at.
 
-The mockingbird in the post oaks started screaming.
+The thought arrived without his consent and settled in with absolute certainty. Beautiful the way a thunderstorm was beautiful — the kind of beauty that had nothing to do with comfort and everything to do with scale. The animal's coat was a deep reddish brown that caught the morning light and held it, and the light that came back off the fur was warmer than the light that went in, as if the deer — the thing that looked like a deer — was running at a slightly higher temperature than the world around it.
 
-Not singing — screaming. Every call it knew, all at once, layered over each other in a wall of sound that wasn't music anymore. It was alarm. Pure, unfiltered alarm. And then other birds joined it — blue jays, crows, a red-shouldered hawk somewhere to the south — all of them calling at once, and the sound built until it was a physical thing, a pressure in the air that matched the pressure dropping in his ears.
+Nate sat very still. The Ford idled. Rex trembled against the truck bed at his back. The herd, which should have been the most important thing in any direction, had ceased to exist for both of them.
 
-And then the birds went silent.
+The stag — it was a stag, whatever it was, the word felt more accurate than deer or buck — stood at the tree line and did not move. It was facing perpendicular to the truck, its flank toward Nate, and it was doing something he'd never seen a deer do in thirty years of watching them. It was still. Not frozen, not alert, not calculating escape routes the way every prey animal in East Texas calculated escape routes every second of every day. Just still. The way a mountain was still. The way the creek bed was still. Present and unhurried and completely unconcerned with anything as small as a truck on a dirt track sixty yards away.
 
-All of them. At the same time. As if someone had pressed mute on the entire East Texas Pineywoods.
+His engineering brain was running hot, throwing comparisons and analyses at him faster than he could process them. The antler geometry was wrong — no North American cervid grew antlers in that branching pattern. The proportions were wrong — too tall at the shoulder, too deep in the chest, legs scaled for an animal thirty percent larger than any whitetail he'd ever seen. The coat color was wrong — too warm, too saturated, too alive in the light. The behavior was wrong — no prey animal stood in the open at the edge of a tree line in broad daylight with that kind of unconcern. Everything about it was wrong, and all the wrongness added up to something his engineering brain couldn't do anything with, because there was no category for it, no template to match it against, no pattern in his thirty years of experience that produced this result.
 
-Nate stood in the silence and felt the hair on his arms rise. Not from cold. The temperature hadn't changed. The air was still warm, still humid
-, still carrying the smell of pine and bahiagrass and cattle. But his skin was reading something his brain hadn't caught up with yet — a prickling across both forearms, the kind he got before a lightning strike, the air itself carrying a charge that had no business being there on a clear March morning.
+*Sensors reporting events that aren't there.*
 
-Rex jumped out of the truck bed without being told. Landed beside Nate and pressed against his left leg — not the work-press of a dog positioning for a command, but something Nate had never felt from him before. The dog was shaking. Not visible shaking — Nate could feel it through his jeans, a fine tremor running through the animal's body like a current.
+Marcus's words. But Nate's sensors weren't wrong. His eyes were reporting exactly what was in front of them. The animal was there. It was real. It was just impossible.
 
-He put his hand on Rex's head. The dog didn't look up. He was still staring at the sky.
+Then it turned its head and looked at him.
 
-"Easy," Nate said. His voice sounded wrong. Flat. Like the air was swallowing sound before it could travel.
+The eyes were wrong too. Not the dark liquid brown of a whitetail — something lighter, something that caught the morning light and threw it back with a luminance that had no biological explanation. Gold, maybe. Or amber. Or something between the two that shifted depending on the angle, the way oil on water shifted, except this wasn't refraction. This was something behind the eyes generating its own light, a low steady glow that was barely visible in the morning sun but would have been unmistakable at dusk.
 
-The amber light intensified. Not brighter — denser. As if the sunlight itself was being compressed, the color deepening from amber to gold to something that didn't have a name, a color that lived in the space between light and heat. The parallel lines across the sky had multiplied until there was no blue left between them, just those thin perfect streaks from horizon to horizon, and they were moving now — not drifting like clouds but sliding, precisely, mechanically, like tracks on a circuit board.
+Those eyes found his through the windshield glass at sixty yards, and Nate Hall — a man who had stared down eighteen-hundred-pound bulls, who had walked into SCIF briefings where the wrong word ended careers, who had held his mother's hand while she died and hadn't looked away — felt his breath stop.
 
-Nate's engineering brain offered him the comparison before he could stop it: *That's not weather. That's not any kind of light. That's a signal.*
+Not from fear. He wasn't afraid. He was certain of that, even as his hands went white on the steering wheel and his heart rate climbed past what was medically advisable. The thing looking at him through the windshield was not threatening him. It was *seeing* him. The distinction mattered the way the distinction between floating and suspended had been about to matter very soon in a way he couldn't yet imagine. There was a difference between being looked at and being seen, and this animal — this impossible, beautiful, wrong animal — was seeing him the way the sunrise saw the land. Completely. Without judgment. Without agenda. Just the full, unhurried weight of attention from something that had been paying attention for a very long time.
 
-The pressure dropped again. His ears popped hard enough to make his eyes water. The cattle were lowing — all of them, a wall of sound that vibrated in his sternum. Rex pressed harder against his leg, and Nate felt something he'd never felt from the dog before — not through touch, not through sound, but somewhere behind his ribs where instinct lived. A single impression, wordless and absolute:
+One second. Two. Three.
+
+Nate's engineering brain, for the first time in his adult life, had nothing to offer. No comparison. No analysis. No category. Just the raw, unprocessed data of eye contact with something his experience couldn't explain and his instincts wouldn't let him look away from.
+
+The stag blinked.
+
+And the light changed.
+
+Not gradually — the way it had been changing all morning without him noticing, the subtle amber shift he might have caught if he hadn't been looking at an impossible animal. This was sudden. The quality of the sunlight compressed in a single heartbeat, the gold deepening to something past gold, past amber, past any color that belonged to a March morning in East Texas. The sky above the tree line fractured into parallel lines — thin, precise, mechanical — stretching from horizon to horizon like someone had dragged a comb across the sky and left the teeth marks.
+
+The wind stopped. Every blade of bahiagrass went still. The post oaks froze mid-rustle. The world went silent the way a server room goes silent when the power cuts — total, instant, absolute.
+
+Rex made a sound Nate had never heard from him. Not a bark, not a whine — something deeper, almost subsonic, a vibration that came up through the truck bed and into Nate's spine. The dog launched from the bed without being told, landed beside Nate's open door, and pressed against his leg with the full weight of his forty-five pounds — shaking, rigid, but not running. Not leaving. Staying.
+
+The cattle were lowing — all sixty-three, a wall of sound that shouldn't have been audible in the dead-air silence but was, vibrating in Nate's sternum like a bass note played through a church floor. Congressman's voice cut through the rest, that deep resonant bellow the bull saved for storms that hadn't arrived yet and pressure drops that made his sinuses ache.
+
+Nate's ears popped. Hard. The pressure was falling fast enough to feel, fast enough to make his eyes water, and the parallel lines across the sky were moving now — sliding in unison, precisely, mechanically, like tracks on a circuit board.
+
+The stag hadn't moved.
+
+It stood at the tree line with its impossible antlers and its luminous eyes and it watched Nate the way Nate watched broken systems — with the patient attention of something that already knew what was wrong and was waiting for him to catch up.
+
+*That's not weather,* Nate's engineering brain whispered, the last useful thing it would offer before the world ended. *That's not any kind of light. That's a signal.*
+
+The mockingbird in the post oaks screamed. Every call it knew, all at once. Then the blue jays. Then the crows. Then silence — all of them, at the same time, as if someone had pressed mute on the entire East Texas Pineywoods.
+
+Rex pressed harder against his leg, and Nate felt it again — the thing that wasn't touch, wasn't sound, but lived somewhere behind his ribs where instinct made its home. A single wordless impression, absolute and certain:
 
 *Wrong. All of it. Wrong.*
 
-He didn't know if that was Rex or himself. It didn't matter. They were both right.
+The stag's eyes held his. Gold and ancient and luminous and utterly, impossibly calm in a world that was coming apart at the seams.
 
-The gold light reached a frequency that made the fillings in his back teeth ache, and then the sky opened, and the world went white, and the last thing Nate Hall felt before everything he knew ended was the weight of his dog against his shin — warm and real and shaking and loyal and the only thing in the universe that was still exactly what it was supposed to be.
+And Nate realized, in the last clear thought he would have for a very long time, that the stag wasn't afraid of what was happening.
+
+The stag had been waiting for it.
+
+The gold light reached a frequency that made the fillings in his teeth ache, and then the sky opened, and the world went white, and the last thing Nate Hall felt before everything he knew ended was two things at once — the weight of his dog against his shin, warm and real and shaking and loyal, and the steady, unblinking gaze of an animal that could not exist, watching him disappear into the light with the patience of something that would still be there when he came back.
 
 And then there was nothing but the white.
