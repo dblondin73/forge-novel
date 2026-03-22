@@ -5,6 +5,52 @@
 
 ---
 
+## Session 008 — 2026-03-22
+
+**Platform:** Claude.ai web (Forge Project)
+**Focus:** Chapter 1 editorial pass — grammar, consistency, prose polish
+
+### What Was Done
+
+**Full editorial sweep of Ch1 "The Last Normal Tuesday" (draft01)**
+
+Five critical fixes applied:
+- Stage direction removed: `mumbles "Bearings, not motor."` → `"Bearings, not motor," he muttered.`
+- Em dash corrected: `Now --` → `Now —`
+- Missing article: `leaving hole` → `leaving a hole`
+- Double "because" clause and `hydrolice` typo → `He'd found it in the pool of hydraulic fluid on the ground.`
+- Dialogue tag punctuation: `"Morning." Nate said.` → `"Morning," Nate said.`
+
+Two judgment call improvements:
+- Phone screen redundancy: `Marcus Webb scrolled across it` → `He glanced at it — Marcus Webb`
+- UPS truck mockingbird callback: `its horn` → `the car horn`
+
+Final line polish (caught on full-file read after push):
+- `as if someone had pressed mute on the entire East Texas Pine trees` → `as if someone had pressed mute on every pine tree in East Texas`
+
+**MCP Server Issues**
+- Both FORGE-mcp and git-forge dropped intermittently during session
+- Recovered via connector toggle and Nova PID restart
+- All tools operational by session end
+
+### Decisions / Notes
+
+- No structural changes to Ch1 — prose is solid, stag sequence and ending confirmed strong
+- "Anything as small as a man" — keeper line, do not touch
+- Final line "And then there was nothing but the white." — locked, do not touch
+- Chapter ready to move forward
+
+### Open Items Carried Forward
+
+- Observation Point name: RESOLVED (The Keystone)
+- AI companion name in prose: F.L.I.N.T. locked
+- Pen name: RESOLVED (J.D. Blondin)
+- Rex post-Integration fate: Undecided
+- Stag origin: Research done, decision deferred
+- Marcus Webb fate: Undecided
+
+---
+
 ## Session 006 — 2026-03-20
 
 **Platform:** Claude.ai web (Project)
