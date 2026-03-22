@@ -433,3 +433,9 @@ Open Question Q9 is now RESOLVED.
 **Sonja appearance:** Beautiful, very fit, athletic. Red Sonja parallel intentional. Vivid red hair, green eyes, fair-skinned, striking.
 
 **Repo files needing mid-40s to mid-30s update:** REFERENCE.md (2 hits), characters/nate-hall.md (1 hit). Cowork task.
+
+
+
+### NovelCrafter Setup Complete
+
+32 chapters across 3 acts built in NovelCrafter. 6 Codex entries populated. Remaining: paste Ch1 draft into Scene 1, connect Anthropic API key.
