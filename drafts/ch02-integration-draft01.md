@@ -34,7 +34,7 @@ Not possessions. Not skills. Something else — something that occupied a space 
 
 The scanning presence paused.
 
-In twenty years of systems work, Nate had seen that pause a thousand times — the half-second delay when an installation routine encountered a partition it didn't recognize. Not an error. Not yet. Just the system taking a beat to figure out what it was looking at before deciding what to do about it.
+In fifteen years of systems work, Nate had seen that pause a thousand times — the half-second delay when an installation routine encountered a partition it didn't recognize. Not an error. Not yet. Just the system taking a beat to figure out what it was looking at before deciding what to do about it.
 
 It decided to proceed.
 
@@ -114,29 +114,44 @@ He got to his feet. It took two attempts. The world tilted on the first try, the
 
 People were standing in the pasture.
 
-Not his pasture — he could see across the fence line to the county road, and beyond it to the Hendersons' land, and there were people standing in the Hendersons' field who hadn't been there twenty minutes ago. People standing motionless, arms slightly raised, faces tilted up, eyes open and glowing with a faint blue light that had no business coming out of a human being's eyes.
+Not his pasture — he could see across the fence line to the county road, and beyond it to the Hendersons' land, and there were people standing in the Hendersons' field who hadn't been there twenty minutes ago. They were reading something. He could tell by their eyes — focused on a point just in front of their faces, fixed and slightly inward the way you stare at something only you can see. From thirty yards he caught the blue. Not a screen hanging in the air. Not anything he could read or even properly locate. Just a faint blue tint reflected in their pupils when the angle was right, there for a moment and then gone. No external glow. No visible interface. Whatever they were receiving was aimed at a space only they had access to. Their hands hung at their sides. Their bodies were still. Whatever it was had all of their attention.
 
-They were reading something. He could see it — not clearly, not with any detail, but enough to register the shape of it. Translucent blue panels hanging in the air in front of each person's face, neatly organized, glowing with clean white text. Smooth rectangular frames with sharp corners. Status bars. Icons. Categories. The kind of interface a premium app designer would build if they wanted the user to feel empowered and informed and slightly addicted to checking their stats.
-
-It looked, Nate thought with the detached clarity of a man who was probably in shock, like the most polished piece of software he'd ever seen.
-
-Every single person in his field of vision had one. Dozens of them — people who'd been in their houses, in their trucks, in their barns — all standing still, all reading their blue screens, all receiving whatever the System was telling them about who they were now. Some were smiling. A woman by the county road was laughing, her hands pressed to her mouth, reading something that delighted her. A man in the Hendersons' pasture was flexing his hand open and closed, watching a small flame dance across his palm, his blue screen showing a skill tree that branched like lightning.
+Some were smiling. A woman by the county road was laughing, her hands pressed to her mouth, reading something that delighted her. A man in the Hendersons' pasture was flexing his hand open and closed, watching a small flame dance across his palm, his eyes bright and blue-lit with whatever his screen was showing him.
 
 Nate looked down at his own hands.
 
-Nothing. No blue screen. No clean interface. No class assignment, no stat sheet, no skill tree, no helpful introduction to the new world order. Just his hands — calloused, dirt-stained, still carrying the faint smell of pump grease from this morning's work on the wellhead.
+Nothing visible. He searched for something. Anything.
 
-He searched for something. Anything. Some sign that the process had done what it was supposed to do, that he'd received whatever everyone else was receiving. He looked inward the way he looked under a hood — methodically, checking each system in turn.
+It found him.
 
-There. At the very edge of his vision. So faint he thought he was imagining it. A shimmer. Not blue — green. Monochrome, barely visible, like looking at a distant city through heat haze. Two thin curved lines at the bottom of his peripheral vision, arcs that looked like parentheses made of light. One a fraction longer than the other. He couldn't read them. He didn't know what they meant.
+A screen materialized in his vision — sudden, sharp-edged, blue. Not subtle. Not peripheral. Full center, fully legible, the same interface he'd just watched everyone else receive. Stats. Attributes. A class designation field. Health and stamina bars rendered in crisp blue-white.
 
-That was it. That was everything the System had managed to install. While everyone else stood bathed in blue light reading their new identities, Nate Hall had two green lines he couldn't read and a headache that was settling in behind his left eye with the particular commitment of something that planned to stay.
+`CLASS: [PROCESSING]`
+`WIS: 20 | STR: 14 | CON: 16 | DEX: 11 | INT: 17`
+
+Two seconds. Completely operational. He had time to read every line.
+
+Then it glitched.
+
+Not a soft fade — a hard corruption. A horizontal tear opened across the middle, splitting the stat fields. The clean lettering fractured into pixel artifacts. The health bar stretched and then compressed to half its proper height. A low vibration hit somewhere behind his eyes, like a processor running too hot, and the screen flickered twice — off, on, broken — each cycle worse than the last.
+
+Something else was bleeding through underneath it.
+
+Green. Monochrome. Moving in arcs rather than the System's clean rectangles — curving, structural shapes, the geometry of something load-bearing. The System's interface kept trying to reassert: the class field flared bright for a half-second before dissolving into static, the stat rows attempted to restabilize and couldn't. The green thing behind it didn't fight. It just kept growing, unhurried, following its own geometry.
+
+The blue screen lost coherence in pieces. Status bars first. Then the skill scaffolding. Then the class designation field — the last thing to go, and it went ugly, collapsing into a cascade of error characters before the green arcs swallowed it entirely.
+
+What remained was far less impressive: two thin curved lines at the bottom of his peripheral vision, barely visible, monochrome green — parentheses made of faint light. One a fraction longer than the other. Text was there, he could see the shape of characters, but he couldn't resolve them into anything readable.
+
+That was it. That was everything the System had managed to give him.
+
+While everyone else stood bathed in blue light reading their new identities, Nate Hall had two ghost-green lines he couldn't read and a headache settling in behind his left eye with the particular commitment of something that planned to stay.
 
 Rex whined softly and got to his feet, shaking his head the way he did after a bath. The dog walked to Nate and leaned against his leg. Not the work-press. The other one. The one from before the white.
 
 Nate put his hand on the dog's head and stood in his pasture and watched the world receive its gift.
 
-The woman by the county road was still laughing. The man with the fire was showing it to someone else now, both of them grinning, their blue screens bright and beautiful and full of promise.
+The woman by the county road was still laughing. The man with the fire was showing it to someone else now, both of them grinning, their eyes bright with whatever promise they were reading.
 
 Nate looked at his two green lines and said nothing.
 
