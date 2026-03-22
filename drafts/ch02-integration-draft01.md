@@ -94,64 +94,95 @@ The void began to break apart.
 
 Not violently — the way ice breaks in spring. Cracks of real light appearing in the darkness, not the cold data-overflow flickers from before but actual light, warm and diffuse, carrying the smell of — was that bahiagrass? — and the sound of wind. The real world leaking back in through the fractures in whatever space the System had pulled him into.
 
-Nate felt gravity first. Then weight. Then the specific, undeniable sensation of lying on his back on hard ground with something sharp pressing into his left shoulder blade.
+Nate felt gravity first. Then weight. Then the specific, undeniable sensation of lying on his side on hard ground with something pressing into his hip.
 
-He gasped.
+He gasped. Air — real air — flooded his lungs. It tasted like East Texas in March: pine and humidity and the faint iron tang of red clay.
 
-The air tasted like East Texas in March — pine, humidity, the faint iron smell of red clay subsoil where the topsoil had been scraped away. His eyes were open but everything was too bright, too sharp, as if someone had turned the contrast on the world up by twenty percent and left it there. His ears were ringing. His head felt like someone had taken the top off, rearranged the furniture, and set it back down slightly crooked.
+He kept his eyes shut. Not ready yet.
 
-He rolled onto his side and pressed his palms flat against the ground. Dirt. Real dirt. Sandy loam with bits of gravel and the dried stems of last year's grass. He could feel every grain of it against his skin, every texture amplified, his nervous system apparently running at a sensitivity level it had never operated at before.
+---
 
-The sharp thing under his shoulder blade was a fence staple. He was lying in his own pasture, about thirty yards from where he'd been standing next to the truck when the sky went wrong.
+*Twelve minutes earlier, the world had stopped.*
 
-The truck was still there. Tailgate down. Bucket of T-post clips on the bed. The post driver exactly where he'd left it. Rex was—
+*Not slowed. Stopped. In the space between one heartbeat and the next, every moving thing on Earth paused as if someone had pressed a button on a cosmic remote. Cars on Highway 59 between Carthage and Marshall hung motionless in their lanes, engines idling, tires neither turning nor skidding — just still, held in place by whatever force had decided that eight billion simultaneous brain surgeries required a stable operating table.*
 
-Rex.
+*In Ruthie's Diner on the Carthage square, Darlene Mackey had been pouring coffee for a booth of pipeline workers when her arm locked mid-pour. The coffee hung in a curved amber ribbon between the pot and the cup, suspended, perfect, defying every law she'd ever learned about gravity without apologizing for it. The pipeline workers were frozen mid-conversation — one man's mouth open around a word he'd never finish, another's fork halfway to his lips, a third reaching for the sugar caddy with fingers that would not close.*
 
-Nate pushed himself to his knees and looked for the dog. Rex was lying on his side ten feet away, legs twitching the way they did when he dreamed about chasing cattle. Not hurt — stunned. Breathing. Nate watched the dog's ribcage rise and fall three times before he let himself exhale.
+*The diner was silent. The grill was silent. The jukebox, which had been playing Merle Haggard's "Mama Tried" for the nine hundredth time, was silent.*
 
-He got to his feet. It took two attempts. The world tilted on the first try, the horizon line swinging thirty degrees to the left before his inner ear caught up and stabilized. On the second try he made it upright and stood there, swaying slightly, one hand on the truck's fender, and looked at what the world had become.
+*The white came for all of them at the same time.*
 
-People were standing in the pasture.
+---
 
-Not his pasture — he could see across the fence line to the county road, and beyond it to the Hendersons' land, and there were people standing in the Hendersons' field who hadn't been there twenty minutes ago. They were reading something. He could tell by their eyes — focused on a point just in front of their faces, fixed and slightly inward the way you stare at something only you can see. From thirty yards he caught the blue. Not a screen hanging in the air. Not anything he could read or even properly locate. Just a faint blue tint reflected in their pupils when the angle was right, there for a moment and then gone. No external glow. No visible interface. Whatever they were receiving was aimed at a space only they had access to. Their hands hung at their sides. Their bodies were still. Whatever it was had all of their attention.
+*On I-20 outside Shreveport, a hundred and ten miles east of Nate's pasture, the westbound lanes looked like a photograph. Eighteen-wheelers, sedans, a school bus full of junior high basketball players returning from a tournament in Monroe — all of them locked in position at highway speed, engines running, occupants suspended in the moment between awareness and whatever came next.*
 
-Some were smiling. A woman by the county road was laughing, her hands pressed to her mouth, reading something that delighted her. A man in the Hendersons' pasture was flexing his hand open and closed, watching a small flame dance across his palm, his eyes bright and blue-lit with whatever his screen was showing him.
+*A red Honda Civic in the right lane held a young mother and two children in car seats. The mother's hands were at ten and two. Her eyes were open. She was not blinking. In the back seat, a three-year-old's juice box hung in the air where he'd dropped it, rotating slowly, the straw pointing at nothing.*
 
-Nate looked down at his own hands.
+*When the white came, it came for all of them equally — the truck drivers and the children and the basketball players and the mother with her hands at ten and two. It did not ask permission. It did not explain. It simply arrived, the way a system update arrives on a phone at three in the morning: without consent, without context, with the absolute confidence of something that had already decided what you needed.*
 
-Nothing visible. He searched for something. Anything.
+---
 
-It found him.
+*In a classroom in Lagos, Nigeria, forty-seven students sat at wooden desks with their notebooks open and their teacher frozen at the chalkboard, her hand raised, a half-drawn diagram of cellular mitosis suspended mid-stroke. The chalk dust hung in the air.*
 
-A screen materialized in his vision — sudden, sharp-edged, blue. Not subtle. Not peripheral. Full center, fully legible, the same interface he'd just watched everyone else receive. Stats. Attributes. A class designation field. Health and stamina bars rendered in crisp blue-white.
+*In a market in Chengdu, China, a fishmonger's knife paused above a cutting board. The fish beneath it would never feel the blade.*
 
-`CLASS: [PROCESSING]`
-`WIS: 20 | STR: 14 | CON: 16 | DEX: 11 | INT: 17`
+*In a cathedral in Cologne, Germany, an organist's fingers rested on keys that would not move, and the pipes held a note that had been beautiful a moment ago and was now eternal — a single sustained chord vibrating in stone walls that had stood for seven hundred years and had never heard silence quite like this.*
 
-Two seconds. Completely operational. He had time to read every line.
+*Eight billion people. Every continent. Every country. Every house and car and boat and plane. All at once. All together. All held in the perfect, terrible stillness of something that had planned this moment with the patience of a thing that had been waiting a very, very long time.*
 
-Then it glitched.
+*The Integration took twelve minutes.*
 
-Not a soft fade — a hard corruption. A horizontal tear opened across the middle, splitting the stat fields. The clean lettering fractured into pixel artifacts. The health bar stretched and then compressed to half its proper height. A low vibration hit somewhere behind his eyes, like a processor running too hot, and the screen flickered twice — off, on, broken — each cycle worse than the last.
+*Nobody experienced the passage of time. Nobody experienced anything at all, except the ones the System couldn't reach — and those, scattered and few and utterly alone, experienced everything.*
 
-Something else was bleeding through underneath it.
+---
 
-Green. Monochrome. Moving in arcs rather than the System's clean rectangles — curving, structural shapes, the geometry of something load-bearing. The System's interface kept trying to reassert: the class field flared bright for a half-second before dissolving into static, the stat rows attempted to restabilize and couldn't. The green thing behind it didn't fight. It just kept growing, unhurried, following its own geometry.
+Nate opened his eyes.
 
-The blue screen lost coherence in pieces. Status bars first. Then the skill scaffolding. Then the class designation field — the last thing to go, and it went ugly, collapsing into a cascade of error characters before the green arcs swallowed it entirely.
+The world was still unfreezing.
 
-What remained was far less impressive: two thin curved lines at the bottom of his peripheral vision, barely visible, monochrome green — parentheses made of faint light. One a fraction longer than the other. Text was there, he could see the shape of characters, but he couldn't resolve them into anything readable.
+He could see it happening — not all at once but in waves, like watching a pond thaw from the edges inward. The bahiagrass around him was already moving in the breeze, but the post oaks at the tree line were still locked, their leaves rigid, mid-rustle. As he watched, the stillness released them — a ripple of motion spreading through the canopy like someone running a hand across piano keys, each tree picking up the wind a half-second after the one beside it.
 
-That was it. That was everything the System had managed to give him.
+His ears popped. Sound flooded back — not gradually but in layers, each one arriving a moment after the last. Wind first. Then birds — the mockingbird in the post oaks, resuming its catalog exactly where it had stopped, cardinal-blue jay-car alarm, as if nothing had interrupted it. Then, from the direction of the county road, the low rumble of an engine.
 
-While everyone else stood bathed in blue light reading their new identities, Nate Hall had two ghost-green lines he couldn't read and a headache settling in behind his left eye with the particular commitment of something that planned to stay.
+A car was stopped on the road.
 
-Rex whined softly and got to his feet, shaking his head the way he did after a bath. The dog walked to Nate and leaned against his leg. Not the work-press. The other one. The one from before the white.
+Not pulled over — stopped. A white Chevy Tahoe sitting in the middle of the county road about forty yards from his fence line, engine idling, both front doors hanging open. It had been driving when the freeze hit — Nate could see it in the position, the angle of the wheels turned slightly toward a curve it had been navigating when everything stopped. Whoever was driving had been mid-turn. Now they were just... parked. In the road. At an angle that made no sense unless you understood that twelve minutes ago, nothing on Earth had been given a choice about where it stopped.
 
-Nate put his hand on the dog's head and stood in his pasture and watched the world receive its gift.
+Nate pushed himself up. His vision swam. The two faint green arcs shimmered at the edge of his sight — thin curved lines, parentheses of pale light. He blinked them away. They came back. He blinked again. They stayed.
 
-The woman by the county road was still laughing. The man with the fire was showing it to someone else now, both of them grinning, their eyes bright with whatever promise they were reading.
+Rex was ten feet away, lying on his side, legs twitching the way they did when he dreamed about working cattle. Not hurt. Stunned. Breathing. Nate watched the dog's ribcage rise and fall three times before he let himself exhale.
+
+Movement at the Tahoe.
+
+A man climbed out of the driver's side — mid-thirties, work boots, ball cap, the build of someone who made a living with his hands. He stood in the road with his arms slightly out from his sides and his head tilted back, staring at something just in front of his face that Nate couldn't see. His mouth was open. His eyes were wet.
+
+A woman came around from the passenger side, one hand on the roof of the Tahoe for balance, the other pressed flat against her chest. She was crying — not scared crying, not hurt crying, the overwhelmed crying of someone who'd been handed something she didn't understand and couldn't put down. A translucent blue glow pulsed faintly behind her eyes when the light caught them right — not a screen hanging in the air, not anything Nate could read from this distance, but a reflection of something aimed at a space only she could see.
+
+Two kids scrambled out of the back seat. A boy, maybe ten, and a girl younger — seven or eight. The boy was waving his hands through something invisible, swiping and poking at the air in front of him with the focused intensity of a kid who'd just discovered a new video game. The girl was standing very still, staring at her own hands, turning them over slowly, watching something on her palms that made her face cycle through wonder and confusion and wonder again.
+
+The man looked up from his screen and saw Nate standing at the fence line. They locked eyes for a moment across forty yards of East Texas morning — two men on either side of a fence, one of them bathed in blue light he could read and the other with nothing but two green lines he couldn't.
+
+"You seeing this?" the man called out, his voice cracking with something between joy and terror. "You getting the — the screen? The class thing?"
+
+Nate looked down at his own hands. Nothing visible. He searched his vision for the blue panels, the stat sheets, the class assignments he'd seen reflected in the family's eyes. Nothing. Just the two faint green arcs, curved and thin and stubbornly monochrome, pulsing at the edge of his peripheral vision like a heartbeat he could see but not read.
+
+"No," Nate said. "I'm not getting that."
+
+The man stared at him for a moment, confused, then the blue light pulled his attention back and he was gone — lost in whatever the System was showing him. The woman had sat down on the Tahoe's running board, still crying, still reading. The boy was trying to show his sister something on his invisible screen and she wasn't paying attention because whatever was on her hands was more interesting.
+
+From the direction of Carthage, the sounds were growing. Car horns — not alarmed now but celebratory, people honking the way they honked after a football game. Shouting. Laughter. Someone, somewhere, was shooting a gun into the air, because this was East Texas and that was how certain kinds of good news were received. Over the tree line, the sky had taken on a faint blue cast — not weather, not cloud cover. The accumulated glow of a million blue screens reflecting off the atmosphere, the whole town lit up with whatever gift the System had handed out.
+
+The man by the Tahoe was grinning now. He held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. His son was already trying to replicate it, holding his own palm up, concentrating, the blue light in his eyes intensifying.
+
+Nate watched.
+
+Rex had gotten to his feet and shaken himself off, the way he did after a bath — full body, ears flapping, a vigorous reset. The dog walked to Nate and leaned against his leg. Not the work-press of a Border Collie positioning for a task. The other lean — the quiet one, the one that said *I don't know what just happened but I know where I belong.*
+
+Nate put his hand on the dog's head and stood at his fence line and watched the world receive its gift.
+
+The System had given everyone something. Everyone was reading the same beautiful blue interface, receiving their class, discovering their stats, testing abilities that shouldn't exist. The woman's crying had turned to laughing. The man's fire was bigger now — a sustained flame that rose from his palm like a candle and didn't burn his skin. The boy had produced a small spark of his own and was whooping with a ten-year-old's uncomplicated joy.
+
+They looked happy. They looked grateful. They looked like people who'd been given exactly what they needed.
 
 Nate looked at his two green lines and said nothing.
 
