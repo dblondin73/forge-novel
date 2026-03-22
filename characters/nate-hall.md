@@ -170,7 +170,7 @@ While **checking the northeast fence on foot** — truck parked on the dirt trac
 - Luminous gold-amber eyes generating their own light
 - Stands with absolute unconcern — no prey behavior, no escape calculation
 
-Nate observes it with his engineering brain running comparisons against thirty years of whitetail data and getting zero matches. The stag turns its head. **Eye contact locks across sixty yards of open pasture.** The stag is not afraid. It was waiting.
+Nate observes it with his engineering brain running comparisons against twenty-five years of whitetail data and getting zero matches. The stag turns its head. **Eye contact locks across sixty yards of open pasture.** The stag is not afraid. It was waiting.
 
 Rex launches from the truck bed and presses against Nate's leg — not fleeing, staying. The sky fractures into parallel lines. Pressure drops. Birds scream then go silent. The world goes white. The last things Nate feels: Rex against his shin, and the stag's steady gaze watching him disappear into the light with the patience of something that would still be there when he came back.
 

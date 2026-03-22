@@ -16,7 +16,7 @@ He felt it the way he felt someone standing behind him in an empty room — not 
 
 Then it went deeper.
 
-The scan moved past his body and into something else — into the space behind his thoughts, the architecture of who he was. It mapped his neural pathways the way he would map a network topology: where the connections ran, how they clustered, which nodes carried the most traffic. It found his engineering training and measured it. It found his ranch instincts and measured those too. It found the muscle memory of thirty years of physical work, the spatial awareness that came from navigating thousand-acre pastures in fog, the pattern-recognition that came from reading system logs until the anomalies stood up and waved at you.
+The scan moved past his body and into something else — into the space behind his thoughts, the architecture of who he was. It mapped his neural pathways the way he would map a network topology: where the connections ran, how they clustered, which nodes carried the most traffic. It found his engineering training and measured it. It found his ranch instincts and measured those too. It found the muscle memory of twenty-five years of physical work, the spatial awareness that came from navigating thousand-acre pastures in fog, the pattern-recognition that came from reading system logs until the anomalies stood up and waved at you.
 
 It was efficient. It was thorough. It was completely indifferent to whether he wanted it to happen.
 
