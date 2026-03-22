@@ -58,7 +58,7 @@ The protagonist is one of them.
 
 ### Nathan "Nate" Hall — The Protagonist
 
-A mid-forties Louisiana cattleman turned Systems Engineer and DoD contractor. He lives on a thousand-acre ranch in rural East Texas, running cattle and horses. His father died young; Nate helped his mother run the ranch before she pushed him toward a Computer Science degree. He always gravitated back to the land.
+A mid-thirties Louisiana cattleman turned Systems Engineer and DoD contractor. He lives on a thousand-acre ranch in rural East Texas, running cattle and horses. His father died young; Nate helped his mother run the ranch before she pushed him toward a Computer Science degree. He always gravitated back to the land.
 
 **Three name modes:**
 - "Nathan" — in formal and professional contexts
@@ -159,7 +159,7 @@ Seven books. Seven because it is the biblical number of completion. The franchis
 
 The series ends not with a battle but with a choice — giving everyone, integrated and Anomaly alike, a genuine choice by exposing the counterfeit and making the original visible. The truth will set you free.
 
-Book 1 is outlined at 32 chapters across three acts, targeting approximately 120,000 words.
+Book 1 is outlined at 32 chapters across three acts, targeting approximately 145,000 words.
 
 ---
 
@@ -228,7 +228,7 @@ These are the areas where your perspective as an English teacher would be most v
 
 2. **The Narnia Principle** — the theology is never stated, only shown. Is this approach strong enough to carry seven books, or will it frustrate readers who want the subtext made explicit? Does it risk being *too* subtle for some audiences or *too* obvious for others?
 
-3. **The protagonist** — Nate is mid-forties, introverted, direct, a cattleman and engineer. LitRPG protagonists are usually young gamers. Does Nate feel like someone you'd want to follow for seven books? What literary archetypes does he evoke for you?
+3. **The protagonist** — Nate is mid-thirties, introverted, direct, a cattleman and engineer. LitRPG protagonists are usually young gamers. Does Nate feel like someone you'd want to follow for seven books? What literary archetypes does he evoke for you?
 
 4. **The ward dynamic** — Nate and Sonja as protector/truth-teller, gift/wisdom, hands/eyes. Does this feel like a partnership readers would invest in? How does it compare to pairings you've seen work (or fail) in fantasy?
 

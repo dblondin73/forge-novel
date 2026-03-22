@@ -8,7 +8,7 @@
 ## Core Characters
 
 **Nathan "Nate" Hall** — Codex #1
-Mid-40s Louisiana cattleman turned Systems Engineer and DoD contractor. System class: Anomaly — Conduit of the Most High. Channels divine power (conduit, not battery); power flows when aligned with God's purpose, stops when it isn't. Hidden bloodline traces to King David. Three name modes: "Nathan" (formal), "Nate" (ranch/friends), "King" (earned leadership title). Interface is a fighter-pilot HUD, not the standard blue screen. *(Note: tagged `protagonist` — not explicitly `core`, included because foundational.)*
+Mid-30s Louisiana cattleman turned Systems Engineer and DoD contractor. System class: Anomaly — Conduit of the Most High. Channels divine power (conduit, not battery); power flows when aligned with God's purpose, stops when it isn't. Hidden bloodline traces to King David. Three name modes: "Nathan" (formal), "Nate" (ranch/friends), "King" (earned leadership title). Interface is a fighter-pilot HUD, not the standard blue screen. *(Note: tagged `protagonist` — not explicitly `core`, included because foundational.)*
 
 **F.L.I.N.T.** — Codex #2
 Field Logic Interface, Network Tethered. Nate's AI companion — a standard System construct rewritten by the Holy Spirit before first boot. Sarcastic, sharp-tongued, loyal. Outbound reporting permanently severed (no spyware); inbound network access intact but degraded via ghost authentication token. Network capability progresses across all 7 books from fragmented receive-only (Book 1) to root write access that hijacks System notification pipes at the Observation Point (Book 7). Consent rule locked from Book 4 forward: all deliberate manipulation requires Nate's knowledge and consent.
@@ -134,7 +134,7 @@ Three-layer translation for accessibility: Engineering Truth (Story Bible), Ranc
 System scans each person and assigns class by existing competencies. Tutorial is a contained high-stakes gauntlet. For Nate: the System knows something is wrong but can't classify him. His tutorial is different — the System is testing and probing an anomaly it doesn't understand.
 
 **Unique Selling Points — Genre Subversions** — Codex #28
-Mid-40s cattleman protagonist (vs. 20s gamer norm). Genuine Christian faith predating the System. Infrastructure class (vs. combat/mage norm). Conduit power with moral constraints. WIS as primary stat. Ranch engineering applied to settlement building. No harem, no sexual content. Adult themes from moral complexity and leadership weight.
+Mid-30s cattleman protagonist (vs. 20s gamer norm). Genuine Christian faith predating the System. Infrastructure class (vs. combat/mage norm). Conduit power with moral constraints. WIS as primary stat. Ranch engineering applied to settlement building. No harem, no sexual content. Adult themes from moral complexity and leadership weight.
 
 ---
 
@@ -181,7 +181,7 @@ Phase 1 Basic: Book 1 (monochrome, nearly useless). Phase 2 Tactical: late Book 
 ---
 
 **Book Length and Pricing Targets** — Codex #54
-12-16 hours audiobook per book (108,000-152,000 words). Based on David's reading preference and LitRPG market standards. Anything under 12 hours feels like getting cheated on an Audible credit. Book 1 target: ~120,000 words / 32 chapters / 3 acts.
+12-16 hours audiobook per book (108,000-152,000 words). Based on David's reading preference and LitRPG market standards. Anything under 12 hours feels like getting cheated on an Audible credit. Book 1 target: ~145,000 words / 32 chapters / 3 acts.
 
 **Book 1 Outline v0.1 — Integration** — Codex #57
 32 chapters across 3 acts. Act One (Ch 1-10): Old world ends, integration fails, survives tutorial with broken AI and monochrome HUD, ends Level 4. Act Two (Ch 11-22): Post-integration survival, meets other Anomaly, HUD Phase 2 activates. Act Three (Ch 23-32): First safe zone, settlement of 20, THE WRATH scene, discovers System rune surveillance, receives SANCTUARY signal. Final line: "I need a forge."
