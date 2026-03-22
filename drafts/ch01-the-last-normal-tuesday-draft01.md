@@ -4,33 +4,37 @@
 
 The water pump was dying the way everything on a ranch died — slowly, loudly, and at the worst possible time.
 
-Nate Hall crouched beside the wellhead at the north pasture, his boots sunk two inches into the sandy clay that had built up around the base over twenty-two years of water splash and foot traffic, the red subsoil showing through where the topsoil had long since washed away. The pump housing was warm under his palm. Not hot — warm. Bearings, not motor. He could feel the vibration running wrong through the casing, a subtle grinding rhythm where there should have been smooth rotation. Three months ago it had been a whisper. Now it sounded like a dentist's drill buried under forty feet of pipe.
+Nate Hall crouched beside the wellhead at the north pasture, his boots sunk two inches into the sandy clay that had built up around the base over twenty-two years of water splash and foot traffic, the red subsoil showing through where the topsoil had long since washed away. The pump housing was warm under his palm. Not hot — warm.
 
-He pulled his hand back and wiped it on his jeans. The pump was twenty-two years old. He'd replaced the seals twice, the pressure switch once, and the check valve three times because the first replacement had been a cheap one from the hardware store in Carthage and cheap check valves were a false economy he would never repeat. The bearings were original. Twenty-two years of spinning in East Texas humidity, pulling water from the Trinity aquifer for sixty head of cattle that didn't care about maintenance schedules.
+"Bearings, not motor," he muttered.
+
+He could feel the vibration running wrong through the casing, a subtle grinding rhythm where there should have been smooth rotation. Three months ago it had been a whisper. Now — it sounded like a dentist's drill buried under forty feet of pipe.
+
+He pulled his hand back and wiped it on his jeans. He'd replaced the seals twice, the pressure switch once, and the check valve three times. The first replacement had been cheap. He didn't make that mistake twice. The bearings were original. Twenty-two years of spinning in East Texas humidity, pulling water from the Trinity aquifer for sixty head of cattle that didn't care about maintenance schedules.
 
 He sat back on his heels and looked at the pump the way he looked at everything that was broken — not with frustration, but with the quiet attention of a man who'd been opening hoods and finding problems since before he could drive. The pump didn't owe him anything. Twenty-two years was a good run. He just needed it to hold until the weekend, when he could pull it, swap the bearings, and have it back in the ground before the afternoon heat made the cattle drink the stock tank dry.
 
-The morning was still cool enough to be pleasant. Six-fifteen, maybe six-twenty. The sun was a handwidth above the tree line to the east, throwing long shadows across the pasture and turning the dew on the bahiagrass into something that looked like a field of broken glass. A mockingbird was running through its catalog somewhere in the post oaks behind the wellhead — cardinal, blue jay, car alarm, cardinal again. Nate had been listening to that particular bird for three years and was fairly certain it had learned the car alarm from the UPS truck that came down the county road every Thursday.
+The morning was still cool enough to be pleasant. Six-fifteen, maybe six-twenty. The sun was a handwidth above the tree line to the east, throwing long shadows across the pasture and turning the dew on the bahiagrass into something that looked like a field of broken glass. A mockingbird was running through its catalog somewhere in the pine trees behind the wellhead — cardinal, blue jay, car alarm, cardinal again. Nate had been listening to that particular bird for three years and was fairly certain it had learned the car horn from the UPS truck that came down the county road every Thursday.
 
-He stood, one knee popping the way it always did after crouching, and walked back to his truck. The Ford was parked on the dirt track that ran along the fence line, tailgate down, a bucket of T-post clips sitting next to a post driver and a coil of barbed wire. Rex was watching him from the truck bed, chin resting on the side rail, the Border Collie's black-and-white face wearing the expression it always wore when Nate was doing something that didn't involve moving cattle — patient disapproval. The dog had been his shadow for four years now, and in that time had developed a very clear opinion about what constituted real work and what was a waste of both their mornings.
+He stood, one knee popping the way it always did after crouching, and walked back to his truck. The Ford was parked on the dirt track that ran along the fence line, tailgate down, a bucket of T-post clips sitting next to a post driver and a coil of barbed wire. Rex was watching him from the truck bed, chin resting on the side rail, the Border Collie's black-and-white face wearing the expression it always wore when Nate was doing something that didn't involve moving cattle — patient disapproval. The dog had been his shadow for four years now, and in that time had developed a very clear opinion about what constituted real work and what was a waste of time.
 
-"Pump bearings," Nate told him. "Not everything is about cows."
+"Pump bearings," Nate told him. "Not everything is about cattle."
 
 Rex's ears twitched forward and back. Unconvinced.
 
-He'd been heading out to check the northeast corner when the pump noise caught his ear. The fence could wait. The fence was always waiting — something pushed through it every week, usually the Red Angus, occasionally a feral hog, once a particularly determined armadillo that had somehow worked three T-post clips loose without leaving any evidence of how.
+He'd been heading out to check the northeast corner when the pump noise caught his ear. The fence could wait. The fence was always waiting — something pushed through it every week, usually the Red Angus bull, occasionally a feral hog, once a particularly determined armadillo that had somehow worked a T-post loose leaving a hole.
 
-Nate pulled a shop rag from behind the seat and cleaned his hands. The rag was already stained with grease from yesterday's work on the tractor hydraulics, which had decided to develop a slow leak at the cylinder base. Not a catastrophic failure — just a thin film of fluid where there shouldn't be any. He'd found it because he noticed the response time lagging by about a quarter second on the loader arms, and a quarter second of lag meant fluid was going somewhere it wasn't supposed to. He'd traced the leak, ordered the o-ring set, and it would be here Thursday with the UPS truck and the car alarm.
+Nate pulled a shop rag from behind the seat and cleaned his hands. The rag was already stained with grease from yesterday's work on the tractor hydraulics, which had decided to develop a slow leak at the cylinder base. Not a catastrophic failure — just a thin film of fluid where there shouldn't be any. He'd found it in the pool of hydraulic fluid on the ground. He'd traced the leak, ordered the o-ring set, and it would be here Thursday with the UPS truck and the car horn.
 
 This was what his days looked like, and he was fine with it. More than fine. The ranch was a thousand acres of problems that needed solving, and every problem had a cause, and every cause could be found if you paid attention and didn't lie to yourself about what you were seeing. That was the whole job. Pay attention. Don't lie to yourself. Fix what's broken. Everything else was noise.
 
 ---
 
-He poured coffee from the thermos on the passenger seat — black, no sugar, brewed at five AM in a drip maker that was older than the water pump and twice as reliable — and leaned against the truck's fender. The pasture spread out in front of him, rolling gently south toward the creek bottom where the post oaks thickened into something that almost qualified as woods. Sixty-three Red Angus were scattered across the visible acreage, mostly still bedded down, a few early risers already grazing. He could see the bull — an eighteen-hundred-pound registered Red Angus named Congressman, because he ate more than he worked and was impossible to move when he'd made up his mind — standing at the far edge of the herd, facing east, chewing nothing.
+He poured coffee from the thermos on the passenger seat — black, no sugar, brewed at five AM in a drip maker that was older than the water pump and twice as reliable. He leaned against the truck's fender. The pasture spread out in front of him, rolling gently south toward the creek bottom where the post oaks thickened into something that almost qualified as woods. Sixty-three Red Angus were scattered across the visible pasture, mostly still bedded down, a few early risers already grazing. He could see the bull — an eighteen-hundred-pound registered Red Angus named Congressman, because he ate more than he worked and was impossible to move when he'd made up his mind — standing at the far edge of the herd, facing east, chewing nothing.
 
-Rex had jumped down from the truck bed and was sitting at Nate's boots, locked onto the herd with that flat, unblinking stare that Border Collies were born with. The dog could watch cattle for hours without moving anything but his eyes. Nate had seen him hold a breakaway heifer at a gate for twenty minutes on nothing but eye contact and the quiet promise that moving was a bad idea. There were dogs that worked cattle because they were trained to. Rex worked cattle because it was what he was for, and he knew it, and the cattle knew it too.
+Rex had jumped down from the truck bed and was sitting at Nate's boots, locked onto the herd with that flat, unblinking stare that Border Collies were born with. The dog could watch cattle for hours without moving anything but his eyes. Nate had seen him hold a breakaway heifer at a gate for twenty minutes on nothing but eye contact and the quiet promise that moving was a bad idea. There were dogs that worked cattle because they were trained to. Rex worked cattle because it was what he lived for, and the cattle knew it too.
 
-Nate watched the cattle the way he watched everything. Not staring — scanning. Reading the herd the same way he'd read system logs at work for fifteen years: looking for the anomaly, the thing that didn't fit the pattern. A cow standing away from the group might be sick. A calf lying flat when the others were up might be in trouble. A cluster of cattle all facing the same direction meant something had their attention — coyote, loose dog, or just a deer moving through the brush. Sixty-three animals, each one a data point. The pattern was the baseline. Deviation from the pattern was the signal.
+Nate watched the cattle the way he watched everything. Not staring — scanning. Reading the herd the same way he'd read system logs at work for fifteen years: looking for the anomaly, the thing that didn't fit the pattern. A cow standing away from the group might be sick. A calf lying flat when the others were up might be in trouble. A cluster of cattle all facing the same direction meant something had their attention — a coyote, loose dog, or just a deer moving through the brush. Sixty-three animals, each one a data point. The pattern was the baseline. Deviation from the pattern was the signal.
 
 This morning, the pattern was normal. The herd was calm. The bull was being the bull. A calf he'd been watching — number 47, born three weeks ago to a first-time heifer who'd had a rough delivery — was up and nursing, which meant the heifer's milk had finally come in strong enough to keep up with demand. He'd check them both this afternoon, but the calf's posture told him what he needed to know. Weight balanced, tail switching, head butting the udder with the aggressive enthusiasm of a creature whose entire world was warm milk and sleep.
 
@@ -42,9 +46,9 @@ He finished the coffee and screwed the thermos cap back on. Somewhere in the tre
 
 ---
 
-His phone buzzed in his shirt pocket at six-forty-two. He glanced at the screen: Marcus Webb. He answered it leaning against the tailgate with the post driver at his feet. Rex had jumped back into the truck bed and was lying with his head on his paws, one ear cocked toward Nate's voice.
+His phone buzzed in his shirt pocket at six-forty-two. He glanced at it — Marcus Webb. He answered leaning against the tailgate with the post driver at his feet. Rex had jumped back into the truck bed and was lying with his head on his paws, one ear cocked toward Nate's voice.
 
-"Morning."
+"Morning," Nate said.
 
 "You up?" Marcus said, which was what Marcus always said, despite the fact that Nate had answered the phone, which generally implied consciousness.
 
@@ -98,7 +102,7 @@ The northeast corner looked clean. No fresh rooting, no disturbed wire. The eart
 
 He was crouched at the corner post checking the bottom clip when Rex stopped watching the cattle.
 
-Nate noticed because Rex never stopped watching cattle. The dog was still in the truck bed just behind him — Nate could see him in his peripheral vision, the black-and-white shape that had been tracking the herd with that flat, unblinking stare for the entire drive. Rex watched cattle the way Nate watched system logs: continuously, passively, with just enough attention allocated to catch the anomaly when it appeared.
+Nate noticed because Rex never stopped watching cattle. The dog was still in the truck bed just behind him — Nate could see him in his peripheral vision, the black-and-white shape that had been tracking the herd with that flat, unblinking stare. Nothing got past him when he was working.
 
 Now Rex was standing. Not the lazy stand of a dog shifting position — the rigid, locked stand of a Border Collie who'd found something worth every ounce of his attention. His head was turned toward the post oaks that thickened along the creek bottom to the south, ears pricked so far forward they were nearly touching, and his body had gone still the way it went still before he moved cattle. Total focus. Zero wasted motion. Every molecule of the dog aimed at one point in the tree line like a compass needle finding north.
 
@@ -128,11 +132,11 @@ The thought arrived without his consent and settled in with absolute certainty. 
 
 Nate stood very still at the fence line. His hand on the wire. His boots in the bahiagrass. Sixty yards of open pasture between him and something his twenty-five years of experience couldn't classify. In the truck bed behind him, Rex trembled and stared and did not make a sound.
 
-The stag — it was a stag, whatever it was, the word felt more accurate than deer or buck — stood at the tree line and did not move. It was facing perpendicular to the fence, its flank toward Nate, and it was doing something he'd never seen a deer do in twenty-five years of watching them. It was still. Not frozen, not alert, not calculating escape routes the way every prey animal in East Texas calculated escape routes every second of every day. Just still. The way a mountain was still. The way the creek bed was still. Present and unhurried and completely unconcerned with anything as small as a man standing at a fence sixty yards away.
+The stag stood at the tree line and did not move. A stag — the word felt more accurate than deer or buck, though he couldn't have said why. It was facing perpendicular to the fence, its flank toward Nate, and it was doing something he'd never seen a deer do in twenty-five years of watching them. It was still. Not frozen, not alert, not calculating escape routes the way every prey animal in East Texas calculated escape routes every second of every day. Just still. The way a mountain was still. The way the creek bed was still. Present and unhurried and completely unconcerned with anything as small as a man standing at a fence sixty yards away.
 
 His engineering brain was running hot, throwing comparisons and analyses at him faster than he could process them. The antler geometry was wrong — no North American cervid grew antlers in that branching pattern. The proportions were wrong — too tall at the shoulder, too deep in the chest, legs scaled for an animal thirty percent larger than any whitetail he'd ever seen. The coat color was wrong — too warm, too saturated, too alive in the light. The behavior was wrong — no prey animal stood in the open at the edge of a tree line in broad daylight with that kind of unconcern. Everything about it was wrong, and all the wrongness added up to something his engineering brain couldn't do anything with, because there was no category for it, no template to match it against, no pattern in his twenty-five years of experience that produced this result.
 
-*Sensors reporting events that aren't there.*
+_Sensors reporting events that aren't there._
 
 Marcus's words. But Nate's sensors weren't wrong. His eyes were reporting exactly what was in front of them. The animal was there. It was real. It was just impossible.
 
@@ -142,7 +146,7 @@ The eyes were wrong too. Not the dark liquid brown of a whitetail — something 
 
 Those eyes found his across sixty yards of East Texas pasture, and Nate Hall — a man who had stared down eighteen-hundred-pound bulls, who had walked into SCIF briefings where the wrong word ended careers, who had held his mother's hand while she died and hadn't looked away — felt his breath stop.
 
-Not from fear. He wasn't afraid. He was certain of that, even as his hand went white on the fence wire and his heart rate climbed past what was medically advisable. The thing looking at him was not threatening him. It was *seeing* him. There was a difference between being looked at and being seen, and this animal — this impossible, beautiful, wrong animal — was seeing him the way the sunrise saw the land. Completely. Without judgment. Without agenda. Just the full, unhurried weight of attention from something that had been paying attention for a very long time.
+Not from fear. He wasn't afraid. He was certain of that, even as his hand went white on the fence wire and his heart rate climbed past what was medically advisable. The thing looking at him was not threatening him. It was _seeing_ him. There was a difference between being looked at and being seen, and this animal — this impossible, beautiful, wrong animal — was seeing him the way the sunrise saw the land. Completely. Without judgment. Without agenda. Just the full, unhurried weight of attention from something that had been paying attention for a very long time.
 
 One second. Two. Three.
 
@@ -156,7 +160,7 @@ Not gradually — not the way weather shifted or clouds moved. This was sudden. 
 
 The wind stopped. Every blade of bahiagrass went still. The post oaks froze mid-rustle. The world went silent the way a server room goes silent when the power cuts — total, instant, absolute.
 
-Rex launched from the truck bed without a sound — nails on the spray-in liner, the thud of landing, three fast strides on the packed dirt — and then the dog was at his side, pressed against his left leg with the full weight of his forty-five pounds. Shaking. Rigid. But not running. Not leaving. Staying.
+Rex launched from the truck bed — nails on the spray-in liner, the thud of landing, three fast strides on the packed dirt — and then the dog was at his side, pressed against his left leg with the full weight of his forty-five pounds. Shaking. Rigid. But not running. Not leaving. Staying.
 
 Nate put his hand on the dog's head without looking down. He couldn't look down. The stag's eyes held his and he could not look away, and some part of him that was older than his engineering brain and quieter than his instincts knew that looking away was not an option. Not because the stag was forcing him. Because what was coming next required a witness, and he had been chosen to be one, and the eye contact was the agreement.
 
@@ -168,13 +172,13 @@ The stag hadn't moved.
 
 It stood at the tree line with its impossible antlers and its luminous eyes and it watched Nate the way Nate watched broken systems — with the patient attention of something that already knew what was wrong and was waiting for him to catch up.
 
-*That's not weather,* Nate's engineering brain whispered, the last useful thing it would offer before the world ended. *That's not any kind of light. That's a signal.*
+_That's not weather,_ Nate's engineering brain whispered, the last useful thing it would offer before the world changed. _That's not any kind of light. That's a signal._
 
-The mockingbird in the post oaks screamed. Every call it knew, all at once. Then the blue jays. Then the crows. Then silence — all of them, at the same time, as if someone had pressed mute on the entire East Texas Pineywoods.
+The mockingbird in the post oaks screamed. Every call it knew, all at once. Then the blue jays. Then the crows. Then silence — all of them, at the same time, as if someone had pressed mute on the entire East Texas Pine trees.
 
 Rex pressed harder against his leg, and Nate felt it again — the thing that wasn't touch, wasn't sound, but lived somewhere behind his ribs where instinct made its home. A single wordless impression, absolute and certain:
 
-*Wrong. All of it. Wrong.*
+_Wrong. All of it. Wrong._
 
 The stag's eyes held his. Gold and ancient and luminous and utterly, impossibly calm in a world that was coming apart at the seams.
 
