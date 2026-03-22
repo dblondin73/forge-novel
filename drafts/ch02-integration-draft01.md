@@ -34,7 +34,7 @@ Not possessions. Not skills. Something else — something that occupied a space 
 
 The scanning presence paused.
 
-In twenty years of systems work, Nate had seen that pause a thousand times — the half-second delay when an installation routine encountered a partition it didn't recognize. Not an error. Not yet. Just the system taking a beat to figure out what it was looking at before deciding what to do about it.
+In fifteen years of systems work, Nate had seen that pause a thousand times — the half-second delay when an installation routine encountered a partition it didn't recognize. Not an error. Not yet. Just the system taking a beat to figure out what it was looking at before deciding what to do about it.
 
 It decided to proceed.
 
