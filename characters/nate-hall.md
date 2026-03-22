@@ -1,6 +1,6 @@
 # Character Sheet — Nathan "Nate" Hall
 
-*Codex ID: 1 | Status: Active | Last Updated: 2026-03-21 (Session 007)*
+*Codex ID: 1 | Status: Active | Last Updated: 2026-03-22 (Session 007)*
 
 ---
 
@@ -83,10 +83,10 @@ Fit from ranch work — not gym-built, work-built. Lean, broad-shouldered, weath
 
 ## King David Parallels (Codex #60)
 
-- **Shepherd → Cattleman** — both developed faith in open spaces watching God's creation
+- **Shepherd to Cattleman** — both developed faith in open spaces watching God's creation
 - **Unconventional Warrior** — David used a sling, Nate uses engineer's tools
 - **Flawed but Faithful** — permission to fail, fall, and get back up
-- **The Bloodline** — pre-System spiritual signature: `[BLOODLINE: UNKNOWN — Pre-System ancestry detected]`
+- **The Bloodline** — pre-System spiritual signature
 - **Psalmic Quality** — engineering metaphors echo psalmic cadence during Spirit moments
 - **Anointed Before Crowned** — receives power early, spends books earning the leadership
 
@@ -97,9 +97,9 @@ Fit from ranch work — not gym-built, work-built. Lean, broad-shouldered, weath
 **Anomaly — Conduit of the Most High**
 
 ### Hidden Traits
-- `[Origin: PRE-SYSTEM]`
-- `[Permissions: EXCEEDS CURRENT AUTHORITY]`
-- `[BLOODLINE: UNKNOWN — Pre-System ancestry detected. Lineage trace exceeds database range. FLAGGED FOR ADMIN REVIEW]`
+- [Origin: PRE-SYSTEM]
+- [Permissions: EXCEEDS CURRENT AUTHORITY]
+- [BLOODLINE: UNKNOWN — Pre-System ancestry detected. Lineage trace exceeds database range. FLAGGED FOR ADMIN REVIEW]
 
 ---
 
@@ -162,7 +162,7 @@ Fit from ranch work — not gym-built, work-built. Lean, broad-shouldered, weath
 
 ## Inciting Incident (UPDATED — Session 007)
 
-While **running fence line in his Ford truck** on the east pasture, Rex locks onto the tree line — rigid, every hair raised, the first time in four years the dog has broken from watching cattle. Nate spots an impossible stag at the edge of the post oaks:
+While **checking the northeast fence on foot** — truck parked on the dirt track twenty yards behind him, Rex in the bed — the dog locks onto the tree line. Rigid, every hair raised, the first time in four years Rex has broken from watching cattle. Nate spots an impossible stag at the edge of the post oaks:
 
 - Too tall at the shoulder — wrong proportions for any whitetail
 - Antlers branching forward like root systems, not upward whitetail tines
@@ -170,9 +170,9 @@ While **running fence line in his Ford truck** on the east pasture, Rex locks on
 - Luminous gold-amber eyes generating their own light
 - Stands with absolute unconcern — no prey behavior, no escape calculation
 
-Nate observes it with his engineering brain running comparisons against thirty years of whitetail data and getting zero matches. The stag turns its head. **Eye contact locks through the windshield.** The stag is not afraid. It was waiting.
+Nate observes it with his engineering brain running comparisons against thirty years of whitetail data and getting zero matches. The stag turns its head. **Eye contact locks across sixty yards of open pasture.** The stag is not afraid. It was waiting.
 
-The sky fractures into parallel lines. Pressure drops. Birds scream then go silent. The world goes white. The last things Nate feels: Rex pressed against his leg, and the stag's steady gaze watching him disappear into the light with the patience of something that would still be there when he came back.
+Rex launches from the truck bed and presses against Nate's leg — not fleeing, staying. The sky fractures into parallel lines. Pressure drops. Birds scream then go silent. The world goes white. The last things Nate feels: Rex against his shin, and the stag's steady gaze watching him disappear into the light with the patience of something that would still be there when he came back.
 
 ---
 
@@ -190,9 +190,9 @@ The sky fractures into parallel lines. Pressure drops. Birds scream then go sile
 
 ## Open Questions (Updated Session 007)
 
-- [x] AI Companion name — F.L.I.N.T., named in Ch3 First Boot ✅
-- [x] Family — Both parents deceased, only child, alone at Integration ✅
-- [x] Starting location — Carthage, Panola County ✅
+- [x] AI Companion name — F.L.I.N.T., named in Ch3 First Boot
+- [x] Family — Both parents deceased, only child, alone at Integration
+- [x] Starting location — Carthage, Panola County
 - [ ] Does the stag reappear later in the story? Identity still TBD (hybrid Welsh/Celtic Christian/Norse recommended)
 - [ ] Does Rex survive Integration? Does the System integrate animals?
 - [ ] Does Congressman survive? System-enhanced livestock?
