@@ -449,3 +449,19 @@ Book 1 target updated from ~120,000 words to **~145,000 words (+/-)**.
 At 32 chapters this averages ~4,500 words/chapter with room for longer chapters (action, Spirit moments) and shorter ones (quiet chapters). Fits comfortably in the LitRPG genre range (Primal Hunter Book 1 ~160K, DCC Book 1 ~130K). Audio estimate: ~15-16 hours.
 
 Repo files needing 120,000 to 145,000 update: REFERENCE.md (line 184), reports/session-2026-03-19-review.md (line 162). Cowork task.
+
+
+
+### NovelCrafter Type Mapping Reference
+
+| Forge Entity Type | NovelCrafter Type |
+|---|---|
+| character | Character |
+| location | Location |
+| faction | Lore |
+| game_mechanic | Lore |
+| item | Object/Item |
+| lore (writing rules/tone) | Style Guide |
+| lore (world-building) | Lore |
+
+NovelCrafter also has: Subplot, Other, Global Entry, Story Genre.
