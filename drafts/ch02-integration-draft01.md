@@ -174,7 +174,7 @@ _Nobody experienced the passage of time. Nobody experienced anything at all, exc
 
 Nate opened his eyes.
 
-The world had already moved on without him.
+The world was already moving on without him.
 
 Wind in the bahiagrass. Post oaks swaying at the tree line. A mockingbird running its catalog in the canopy — cardinal, blue jay, car alarm — as if nothing had interrupted it. From the direction of the county road, voices. Excited. Already excited. However long the world had been frozen, it was over now, and Nate had missed the thaw.
 
@@ -182,7 +182,7 @@ He was lying on his side in the pasture. His ears were ringing. His hands were s
 
 Blue light. Everywhere.
 
-Translucent panels hung in his field of view — clean, bright, official. The word SYSTEM sat at the top in a font he didn't recognize, and beneath it, text was populating itself with crisp efficiency. He could read it. A class designation field, still loading. A vertical column of abbreviated stats — STR, CON, DEX, INT — with numbers filling in beside them like a spreadsheet auto-calculating. A health bar, green and full. A stamina bar beneath it. A progress wheel spinning in the corner with the words INTEGRATION COMPLETE — CALIBRATING.
+Translucent panels hung in his field of view — clean, bright, official. The word SYSTEM sat at the top in a font he didn't recognize, and beneath it, text was populating itself with crisp efficiency. He could read it. A class designation field, still loading. A vertical column of abbreviated stats — STR, CON, DEX, INT, WIS — with numbers filling in beside them like a spreadsheet auto-calculating. A health bar, green and full. A stamina bar beneath it. A progress wheel spinning in the corner with the words INTEGRATION COMPLETE — CALIBRATING.
 
 For about five seconds, Nate saw what eight billion other people were seeing: a full-color interface, welcoming and organized, already sorting him into its architecture. His engineering brain was already reading the layout, mapping the information hierarchy, noting the data structures — and despite everything that had just happened in the void, some part of him thought: _Huh. That's actually well-designed._
 
@@ -234,7 +234,7 @@ Nate looked down at his own hands. Nothing visible. He searched his vision for t
 
 The man stared at him for a moment, confused, then whatever he was seeing pulled his attention back and he was gone — lost in his own screen. The boy was trying to show his sister something on his invisible screen and she wasn't paying attention because whatever was on her hands was more interesting.
 
-From down the county road — the Henderson place, maybe a quarter mile — he could hear whooping. Voices carrying the way voices carry in open country when there's nothing between you and the sound but pasture and fenceline. Someone hollering for someone else to come look at this, come see, you ain't gonna believe it.
+From down the county road — the Henderson place, maybe a quarter mile — he could hear whooping. Voices carrying the way voices carry in open country when there's nothing between you and the sound but pasture and fence line. Someone hollering for someone else to come look at this, come see, you ain't gonna believe it.
 
 The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. His son was already trying to replicate it, holding his own palm up, concentrating, that same faint glint flickering behind his eyes.
 
@@ -244,7 +244,7 @@ Nate watched them with a head full of empty shelves and two green lines that tol
 
 ---
 
-Rex got to his feet and shook himself off — full body, ears flapping, a vigorous reset. The dog walked to Nate and leaned against his leg. Not the work-press of a Border Collie positioning for a task. The quiet lean. The one that said _I don't know what just happened but I know where I belong._
+Rex got to his feet and shook himself off, ears flapping. The dog walked to Nate and leaned against his leg. Not the work-press of a Border Collie positioning for a task. The quiet lean. The one that said _I don't know what just happened but I know where I belong._
 
 Nate put his hand on the dog's head. Stood at his fence line. Watched the world receive its gift.
 
@@ -264,14 +264,28 @@ Then the arcs scrambled back to noise, and the words were gone.
 
 Nate stared at the space where they'd been.
 
-Down at the Henderson place, the hollering hadn't stopped. The man by the Tahoe was teaching his son how to hold the flame steady. The woman had stopped crying and was reading her blue screen with the quiet intensity of someone studying a map to somewhere she'd always wanted to go.
+The man by the Tahoe glanced back at him one more time — that brief, uncertain look of a man who'd found something that didn't fit the pattern and decided it wasn't his problem. Then his daughter tugged his sleeve and pulled him back toward the flame she was trying to hold herself, and just like that, Nate was forgotten. The woman had stopped crying. She was reading her screen with the quiet intensity of someone studying a map to somewhere she'd always wanted to go. The boy had his own small flame going now — unsteady, guttering, real. He was ten years old with fire in his hand and the world had just gotten extremely simple.
+
+They didn't say goodbye. People receiving gifts don't tend to look over their shoulder at the man who didn't get one. The man helped his wife back into the Tahoe. The kids piled in after. The door closed. The engine — it had been idling the whole time — settled into gear, and the white Chevy rolled forward on the county road and kept going, and then it was just Nate and Rex and the sound of the Henderson place hollering a quarter mile away.
 
 Rex pressed harder against Nate's leg.
 
 "Yeah," Nate said to the dog. "I saw it too."
 
-He hadn't. Rex had no screen, no lines, no text. But the dog was watching the same direction Nate was watching — not toward the celebration, not toward the Tahoe, but back toward the tree line where the stag had stood twenty minutes ago.
+He hadn't. Rex had no screen, no lines, no text. But the dog was watching the same direction Nate was watching — not toward the celebration, not toward where the Tahoe had been, but back toward the tree line where the stag had stood twenty minutes ago.
 
 The tree line was empty. The stag was gone.
 
 Whatever was coming, it wasn't here yet. But something in Nate's broken, half-installed, forty-percent-functional system had just told him it was on its way.
+
+Then his legs went.
+
+Not from pain — from absence. The way a circuit fails under load: not with warning, not with drama, just a sudden clean nothing where load-bearing capacity used to be. His knees buckled and he went down to the bahiagrass in two stages — one knee first, then his side — and the ground came up to meet him with the matter-of-fact patience of something that had been waiting.
+
+Rex was on him before he stopped moving. A cold nose pressed against the back of his hand. The warm weight of a Border Collie skull against his forearm — not gentle, not panicked. Present.
+
+Nate's cheek came to rest against the sandy loam. It smelled like East Texas in March: warm grass, red clay, the faint diesel tang of the truck's idling engine.
+
+The green arcs pulsed once, steady, and held.
+
+He let his eyes close.
