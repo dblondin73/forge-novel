@@ -5,6 +5,65 @@
 
 ---
 
+## Session 009 — 2026-03-22
+
+**Platform:** Claude Code (Opus 4.6, VS Code extension)
+**Focus:** Chapter 2 full rewrite — pacing, continuity, worldbuilding
+
+### What Was Done
+
+**Full Ch2 rewrite (draft01 replaced with revised version)**
+
+Pacing overhaul — addressed concern that early chapters drag with passive/internal sequences:
+- Added memory loss during Integration scan (fringe memories dissolve, occupied space stops it at core)
+- Added failed integration death (old man in Cologne cathedral)
+- Blue screen appears for 5 seconds then degrades over 20 seconds to green HUD arcs
+- End hook: BOOT SEQUENCE PENDING + Rex watching empty tree line
+
+Continuity fixes:
+- Tahoe on straight road (not "mid-turn"), family already out when Nate wakes
+- Nate wakes after everyone else (contested integration takes longer)
+- Time zone corrections for global vignettes (Chengdu night market at 9 PM local, not daytime fishmonger)
+- School bus on Tuesday morning route (not returning from tournament)
+- Frozen juice box doesn't rotate (everything is frozen)
+- Local sounds from Henderson place, not distant Carthage
+- First-person internal thoughts ("I'm being sorted" not "You're being sorted")
+- "Worked" chutes not "built" chutes
+- "A thousand acres of pasture" not "thousand-acre pastures"
+
+World rules established:
+- All System screens are internal only — no visible light, no blue glow, faint eye glint only
+- System names itself: SYSTEM appears on every screen in every language after Integration
+- Nate's POV uses "the installer" / "the process" — he doesn't know the word "System" yet
+- Integration can kill (not everyone's body survives 12 min of rewiring)
+
+**Codex Updates**
+- #1 (Nate) — Added Integration experience, Henderson place neighbor, "the installer" POV term
+- #11 (HUD) — Added blue-to-green transition sequence, screen visibility rules, reactivated from archived
+- #27 (Integration) — Added memory conversion, failed integrations, System self-naming, Anomaly timing
+- #79 (NEW) — Integration Memory Loss mechanic
+- #80 (NEW) — Screen Visibility Rules (writing rule)
+- Capture #77 — Memory loss worldbuilding questions logged
+
+### Decisions / Notes
+
+- Memory loss is a SIDE EFFECT of interrupted conversion, not intentional attack
+- Whether lost memories return is deliberately left open (possible grace mechanic for later books)
+- Screens are internal — never describe as emitting visible light
+- "The installer" is Nate's term until someone says "System" to him
+- Henderson place established as nearest neighbor on the county road
+- LitRPG pacing rule: every chapter needs stakes, hooks, or forward momentum (saved to memory)
+
+### Open Items Carried Forward
+
+- Rex post-Integration fate: Undecided
+- Stag origin: Decision deferred
+- Marcus Webb fate: Undecided
+- Memory restoration mechanic: Open question (when/how/if memories return)
+- When does Nate first hear the word "System"? (needs Ch3 planning)
+
+---
+
 ## Session 008 — 2026-03-22
 
 **Platform:** Claude.ai web (Forge Project)

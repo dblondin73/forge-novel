@@ -46,7 +46,13 @@ Spiritual beings who remained loyal to the Creator. Don't intervene directly —
 Nate channels power from God, doesn't store it. Output is variable — exceeds theoretical maximum when aligned, zero when selfish. System can't get a stable reading because the source is external. Maps to his Systems Engineer class: he routes infrastructure, doesn't generate data.
 
 **HUD Interface System** — Codex #11
-Fighter-pilot HUD, not blue screen. Four phases: Basic (monochrome, health/stamina), Tactical (color, threat indicators), Analytical (crafting ID, structural analysis), Authority (hidden entity stats, System process logs, root access manifesting visually). The System didn't design this variant and can't modify it.
+Fighter-pilot HUD, not blue screen. During Integration, Nate briefly receives the standard blue interface (5 sec) before it degrades over ~20 sec to two monochrome green arcs (Phase 1 Basic). WIS stat glitches first. All screens (blue and green) are internal only — no visible light, no glow. Only external tell: faint blue glint behind the eyes. Four phases: Basic (monochrome, two green arcs), Tactical (color, threat indicators), Analytical (crafting ID, structural analysis), Authority (hidden entity stats, System process logs, root access manifesting visually). The System didn't design this variant and can't modify it.
+
+**Screen Visibility Rules** — Codex #80
+All System interfaces are internal only — no physical light emitted. The only external tell is a faint blue glint behind the eyes of someone reading their screen. You cannot see another person's screen. The sky does not glow blue. Describe screens through behavior and subtle eye glint only.
+
+**Integration Memory Loss** — Codex #79
+During Integration, the System scan converts memories sector by sector. For Anomalies, the process is interrupted by the occupied space, corrupting fringe memories already in the pipeline. Edge memories (childhood sensory details) are lost; core identity protected. Whether lost memories return is an open question — possibly drip-fed back as grace. Gives Integration real stakes: the cage is beautiful (normal humans lose nothing), freedom costs something.
 
 **Spiritual Progression Track** — Codex #12
 Hidden progression the System can't track. Four phases: Intuition (gut feelings), Discernment (sees through deception), Active Guidance (still small voice at critical moments), Authority (speaks with weight above System permission level — reality compelled to acknowledge it).
@@ -131,7 +137,7 @@ Layer 1: God (outside creation, ultimate authority). Layer 2: The Multiverse (co
 Three-layer translation for accessibility: Engineering Truth (Story Bible), Ranch/Common-Sense Analogy (what Nate actually says in prose), and Theological Truth (what the reader eventually recognizes underneath). Nate describes everything in ranch terms: "It's herding us. Same way you move cattle through a chute."
 
 **The Integration and Tutorial** — Codex #27
-System scans each person and assigns class by existing competencies. Tutorial is a contained high-stakes gauntlet. For Nate: the System knows something is wrong but can't classify him. His tutorial is different — the System is testing and probing an anomaly it doesn't understand.
+World freezes for 12 minutes — physics suspended. System scans each person, converts memories into System-compatible format, assigns class by existing competencies. Normal humans experience nothing; Anomalies experience everything. Anomalies wake after everyone else, physically rough. Failed integrations can kill — some bodies can't survive 12 minutes of rewiring. When Integration completes, every screen displays SYSTEM in every language — the thing names itself. Tutorial is a contained high-stakes gauntlet. For Nate: the System knows something is wrong but can't classify him. His tutorial is different — the System is testing and probing an anomaly it doesn't understand. Nate refers to the process as "the installer" in his POV — he doesn't learn the word "System" until someone says it to him.
 
 **Unique Selling Points — Genre Subversions** — Codex #28
 Mid-30s cattleman protagonist (vs. 20s gamer norm). Genuine Christian faith predating the System. Infrastructure class (vs. combat/mage norm). Conduit power with moral constraints. WIS as primary stat. Ranch engineering applied to settlement building. No harem, no sexual content. Adult themes from moral complexity and leadership weight.
@@ -205,13 +211,13 @@ The tension between "all mythologies are real" and "one God supreme" is the most
 |------|--------------|-----|
 | Character | 3 | 1*, 2, 3 |
 | Faction | 6 | 4, 5, 6, 7, 8, 9 |
-| Game Mechanic | 19 | 10, 11, 12, 13, 14, 15, 26, 34, 35, 37, 41, 43, 44, 46, 47, 48, 55, 56, 59 |
+| Game Mechanic | 20 | 10, 11, 12, 13, 14, 15, 26, 34, 35, 37, 41, 43, 44, 46, 47, 48, 55, 56, 59, 79 |
 | Location | 3 | 17, 30, 31 |
-| Lore | 21 | 16, 18, 27, 28, 29, 36, 38, 39, 40, 42, 45, 49, 50, 51, 52, 53, 54, 57, 60, 61, 63 |
-| **Total** | **52** | |
+| Lore | 22 | 16, 18, 27, 28, 29, 36, 38, 39, 40, 42, 45, 49, 50, 51, 52, 53, 54, 57, 60, 61, 63, 80 |
+| **Total** | **54** | |
 
 *\* Entity #1 (Nathan "Nate" Hall) tagged `protagonist` not `core` — included as foundational.*
 
 ---
 
-*60+ total Codex entities on Nova MCP server. This reference covers core-tagged entities only. For full entity details, query forge-mcp directly by ID.*
+*80+ total Codex entities on Nova MCP server. This reference covers core-tagged entities only. For full entity details, query forge-mcp directly by ID.*
