@@ -24,7 +24,7 @@ Nate sat up slowly. The world tilted, steadied. Two faint green arcs shimmered a
 
 He rubbed his face with both hands and let out a long breath through his nose.
 
-From the direction of the county road, maybe a mile south, the sound of a car horn carried across the open pasture. Then another. Then a sound that might have been shouting — not words, just volume, the distant noise of people reacting to something all at once. Toward Carthage, the sky had a faint quality he couldn't name — not a glow exactly, but a shimmer, like heat haze that was the wrong color. Blue. A pale, translucent blue, hanging above the tree line in the direction of town like the ghost of a thunderhead that hadn't formed yet.
+From down the county road — the Henderson place, maybe a quarter mile — he could hear hollering. Not words, just volume, the sound of people reacting to something all at once. Farther out, a car horn on the highway. Then another.
 
 Whatever had happened to him had happened to everyone.
 
