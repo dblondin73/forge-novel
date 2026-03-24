@@ -181,6 +181,9 @@ Show new stats, level-ups, and skill unlocks on a regular basis (LitRPG reader d
 **The Narnia Principle — Show, Never Preach** — Codex #52
 The most important writing rule. C.S. Lewis never preached in Narnia — Aslan never says "I am Jesus." The theology is the skeleton; the story is the flesh. A secular reader enjoys a compelling LitRPG. A faithful reader sees what's underneath. A searching reader feels something resonate. The word "God" may rarely appear in dialogue. Conversion scenes never read as altar calls.
 
+**The Yellowstone Lens — Cultural Authenticity Rule** — Codex #81
+Named after the TV series. Governs how ranch culture, rural life, and the land are portrayed. Pairs with the Narnia Principle: Narnia governs the theological layer (show, never preach), Yellowstone governs the cultural layer (earn the ranch, never fake it). Ranch culture played straight — correct details, quiet competence, no faking. Land as identity — the ranch is who Nate is, not where he lives. Terse loaded dialogue — if a man can say it in four words, he doesn't use eight. Quiet scenes with stakes — let scenes breathe, but every scene must have something at risk. Practical men facing existential threats — they don't philosophize, they check the fence line. Before any ranch scene, ask: would this feel real to someone who actually works cattle?
+
 **HUD Timeline — Rescaled for 7 Books** — Codex #53
 Phase 1 Basic: Book 1 (monochrome, nearly useless). Phase 2 Tactical: late Book 1 through Book 2 (color, threat indicators). Phase 3 Analytical: Books 3-4 (engineering mode, crafting ID). Phase 4 Authority: Books 5-7 (root access, System process logs, hidden stats). Each phase unlocked by spiritual progression milestones, not XP thresholds.
 
@@ -213,8 +216,8 @@ The tension between "all mythologies are real" and "one God supreme" is the most
 | Faction | 6 | 4, 5, 6, 7, 8, 9 |
 | Game Mechanic | 20 | 10, 11, 12, 13, 14, 15, 26, 34, 35, 37, 41, 43, 44, 46, 47, 48, 55, 56, 59, 79 |
 | Location | 3 | 17, 30, 31 |
-| Lore | 22 | 16, 18, 27, 28, 29, 36, 38, 39, 40, 42, 45, 49, 50, 51, 52, 53, 54, 57, 60, 61, 63, 80 |
-| **Total** | **54** | |
+| Lore | 23 | 16, 18, 27, 28, 29, 36, 38, 39, 40, 42, 45, 49, 50, 51, 52, 53, 54, 57, 60, 61, 63, 80, 81 |
+| **Total** | **55** | |
 
 *\* Entity #1 (Nathan "Nate" Hall) tagged `protagonist` not `core` — included as foundational.*
 
