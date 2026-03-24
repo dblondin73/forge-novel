@@ -134,7 +134,7 @@ Something had activated behind his eyes — not the green arcs, which still puls
 
 He was seeing the source code.
 
-"That," Flint said, and his voice had gone very quiet, "is Structural Analysis. It's a standard Systems Engineer starter skill. Everyone in your class gets it." A pause. "Except it's not supposed to do *that*. Standard Structural Analysis reads item stats — durability, material composition, rarity tier. What you're seeing is the Tutorial environment's actual architecture. Procedural generation patterns. Spawn points. Algorithmic repetition." Another pause, longer. "You're reading the System's construction through its own diagnostic tool, except someone flipped the lens around and now it's pointing at the scaffolding instead of the set."
+"That," Flint said, and his voice had gone very quiet, "is Structural Analysis. It's a standard Systems Engineer starter skill. Everyone in your class gets it." A pause. "Except it is emphatically not supposed to do *that*. Standard Structural Analysis reads item stats — durability, material composition, rarity tier. What you're seeing is the Tutorial environment's actual architecture. Procedural generation patterns. Spawn points. Algorithmic repetition." Another pause, longer. "You're reading the System's construction through its own diagnostic tool, except someone flipped the lens around and now it's pointing at the scaffolding instead of the set."
 
 "Those lights in the ground," Nate said quietly. "The pulsing ones."
 
@@ -182,7 +182,7 @@ The voice came from behind him, and Nate turned to find Marcus Webb walking acro
 
 "Not wrong. Processing."
 
-"Same thing in a combat zone." Marcus looked at the clearing, at the sorted clusters, at the corridors leading away into the too-regular forest. "What can you do?"
+"Same damn thing in a combat zone." Marcus looked at the clearing, at the sorted clusters, at the corridors leading away into the too-regular forest. "What can you do?"
 
 "I can see how this place is built."
 
@@ -206,9 +206,9 @@ Not the spawn points — those were still dormant, pulsing their slow buried rhy
 
 The combat skill.
 
-He felt it try to load. Felt the framework stutter and catch, like an engine turning over on a cold morning — almost, almost, the firing sequence half-completing before the corrupted installation rejected it. The skill collapsed. Not gracefully — it crashed, fragments of code scattering through the space behind his eyes like sparks off an anvil, and Flint made a sound that was halfway between a gasp and a curse.
+He felt it try to load. Felt the framework stutter and catch, like an engine turning over on a cold morning — almost, almost, the firing sequence half-completing before the corrupted installation rejected it. The skill collapsed. Not gracefully — it crashed, fragments of code scattering through the space behind his eyes like sparks off an anvil, and Flint said, "*Shit,*" with no theater in it at all.
 
-"That was supposed to be Basic Strike," Flint said rapidly. "Standard melee combat skill, Level 1, assigned to all Tutorial participants. Your framework just ate it and spat out —" He stopped. "Something else. I'm reading something else where Basic Strike should be. The address is right but the contents are wrong."
+"That was supposed to be Basic Strike," he said rapidly, the performance already rebuilding itself around the shock. "Standard melee combat skill, Level 1, assigned to all Tutorial participants. Your framework just ate it and spat out —" He stopped. "Something else. I'm reading something else where Basic Strike should be. The address is right but the contents are wrong."
 
 Nate felt it settle — not where the combat skill had tried to go but somewhere adjacent, like water finding its own level when the intended channel was blocked. It didn't feel like a weapon. It felt like understanding. Like the way his palm had known the water pump's vibration that morning — *here's what's wrong, here's where it fails, here's what it needs.*
 
@@ -243,6 +243,8 @@ The Warriors raised weapons they'd had for less than an hour. The Mages summoned
 Nate stood at the edge of the clearing with a fence tool, a maker skill, an ability that showed him the architecture of a world that shouldn't exist, and a dog who had already decided that monsters were just cattle that hadn't been sorted yet.
 
 The spawn points opened.
+
+Flint, very quietly: "Here we go."
 
 Rex dropped into a crouch, ears flat, body coiled, every line of him saying the same thing he'd been saying all morning, the only thing that mattered when the world stopped making sense and the ground under your feet started doing something it had no business doing:
 
