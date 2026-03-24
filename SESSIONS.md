@@ -5,6 +5,54 @@
 
 ---
 
+## Session 010 — 2026-03-23
+
+**Platform:** Claude Code (Opus 4.6, VS Code extension)
+**Focus:** Chapter 3 continuity pass — align with revised Ch2, establish Nate-Flint mental link
+
+### What Was Done
+
+**Ch3 opening rewrite (lines 5-27)**
+
+Old opening repeated Ch2's wake-up sequence (Nate in grass, Rex finds him, discovers green arcs, sees stag gone). Rewritten to continue from Ch2's collapse at the fence line:
+- Nate comes back from brief blackout, not re-waking from Integration
+- Rex already pressed against him (was there when he fell)
+- Green arcs acknowledged as persistent, not introduced fresh
+- Stag referenced as "still gone" (ongoing awareness, not rediscovery)
+- Henderson hollering as sustained background, not first hearing
+- "Head full of empty shelves where memories used to be" — callbacks to Ch2 memory loss
+
+**Nate-Flint two-way link established**
+
+Added beat where Nate involuntarily pushes a thought (*Enough.*) at Flint, cutting off his monologue. Flint feels it arrive — surprise that the line runs both ways. Establishes mental communication channel early. Nate still replies out loud ("Hard not to") because he hasn't learned to use the thought-channel deliberately yet. Rex comedy beat preserved (looking around for who Nate's talking to).
+
+**"System" recognition beat added (line 65)**
+
+When Flint first says "System" in his brochure speech, Nate connects it to the word he saw on the blue screen during Integration. Earns his use of the term at line 107. Resolves Session 009 open item.
+
+**Other fixes**
+- Ch2: Pronoun clarity — "It decided to proceed" → "The scanning presence decided to proceed"
+- Rex loads into truck bed before tailgate closes (was jumping closed gate)
+- Truck stays idling (removed phantom key turn — engine never stopped)
+- Barn swallow in toolbox removed (wouldn't survive driving)
+- "World had ended" → "rules had changed" / "world changing into something none of them had asked for"
+
+### Decisions / Notes
+
+- Two-way mental link: Nate's first push is involuntary reflex, not deliberate. He'll learn to use it intentionally later.
+- Nate speaks out loud for deliberate replies (stress/frustration), thinks only by accident for now
+- "System" term adoption: Nate sees it on blue screen (Ch2), hears Flint say it (Ch3 line 63), consciously adopts it (Ch3 line 65)
+
+### Open Items Carried Forward
+
+- Rex post-Integration fate: Undecided
+- Stag origin: Decision deferred
+- Marcus Webb fate: Undecided
+- Memory restoration mechanic: Open question (when/how/if memories return)
+- When does Nate learn to deliberately use the thought-channel? (future chapter)
+
+---
+
 ## Session 009 — 2026-03-22
 
 **Platform:** Claude Code (Opus 4.6, VS Code extension)
