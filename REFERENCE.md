@@ -206,6 +206,9 @@ Earth is a contested world where multiple factions compete — not a simple bina
 **Creative Risk — Theology vs. Multiverse Genre Tension** — Codex #63
 The tension between "all mythologies are real" and "one God supreme" is the most dangerous tightrope in this project. Two traps: making other traditions feel disrespected (alienating diverse readers), or making them feel equal to God (undermining the theology). Solution: other traditions are REAL and POWERFUL — the beings exist, the power is genuine — but they are created, not Creator. Respect without equivalence.
 
+**LitRPG Genre Contract — What Readers Demand** — Codex #82
+Five non-negotiable expectations: (1) Progression dopamine loop — regular stat gains, skill unlocks, level-ups. (2) Competent MC who earns power through clever application, not handouts. (3) Unique class/power system that's interesting to think about. (4) Great AI companion with banter and genuine loyalty. (5) Stakes and forward momentum — constant tension, never drag. Audiobook is king (60%+ of consumption). Use as editorial checklist: if any of the five are absent for more than two chapters, fix it.
+
 ---
 
 ## Quick Stats
@@ -216,8 +219,8 @@ The tension between "all mythologies are real" and "one God supreme" is the most
 | Faction | 6 | 4, 5, 6, 7, 8, 9 |
 | Game Mechanic | 20 | 10, 11, 12, 13, 14, 15, 26, 34, 35, 37, 41, 43, 44, 46, 47, 48, 55, 56, 59, 79 |
 | Location | 3 | 17, 30, 31 |
-| Lore | 23 | 16, 18, 27, 28, 29, 36, 38, 39, 40, 42, 45, 49, 50, 51, 52, 53, 54, 57, 60, 61, 63, 80, 81 |
-| **Total** | **55** | |
+| Lore | 24 | 16, 18, 27, 28, 29, 36, 38, 39, 40, 42, 45, 49, 50, 51, 52, 53, 54, 57, 60, 61, 63, 80, 81, 82 |
+| **Total** | **56** | |
 
 *\* Entity #1 (Nathan "Nate" Hall) tagged `protagonist` not `core` — included as foundational.*
 
