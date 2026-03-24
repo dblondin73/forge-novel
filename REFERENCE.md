@@ -1,6 +1,6 @@
 # Forge Novel — Locked Worldbuilding Reference
 
-*Rebuilt from live Codex data — 2026-03-20*
+*Rebuilt from live Codex data — 2026-03-23*
 *Source: forge-mcp Codex entities tagged `core` across all types*
 
 ---
@@ -12,6 +12,9 @@ Mid-30s Louisiana cattleman turned Systems Engineer and DoD contractor. System c
 
 **F.L.I.N.T.** — Codex #2
 Field Logic Interface, Network Tethered. Nate's AI companion — a standard System construct rewritten by the Holy Spirit before first boot. Sarcastic, sharp-tongued, loyal. Outbound reporting permanently severed (no spyware); inbound network access intact but degraded via ghost authentication token. Mental link with Nate is two-way from first contact — Nate's first push is involuntary (*Enough.*), cutting off Flint's monologue; Flint registers surprise that the line runs both ways. Nate speaks out loud for deliberate replies initially; thought-channel use is instinctive only at first. Network capability progresses across all 7 books from fragmented receive-only (Book 1) to root write access that hijacks System notification pipes at the Observation Point (Book 7). Consent rule locked from Book 4 forward: all deliberate manipulation requires Nate's knowledge and consent.
+
+**Marcus Webb** — Codex #86
+Nate's boss at the DoD contracting firm. The Adapter — recognizes the new post-Integration reality faster than most and uses his organizational skills to build something new rather than clinging to the old hierarchy. Represents the old world's competence applied to the new reality. Potential ally across the series. May appear in Tutorial (same local pocket as Nate) or post-Tutorial. The key question Marcus embodies: can the old world's structures serve the new world, or do they have to be rebuilt from scratch?
 
 **Sonja Lee** — Codex #3
 Red-haired, green-eyed Anomaly of Irish descent. Name from Greek Sophia — she IS wisdom in this partnership. Carries a complementary spiritual gift Nate lacks (discernment or prophetic clarity as vessel, not source). May carry or BE a pre-System artifact the System wants. Irish Celtic heritage gives her resonance with thin places and Fae recognition. Mirrors the biblical Nathan's role as truth-teller to King David. Romance develops slowly across books from mission partners to faithful monogamy.
@@ -209,21 +212,41 @@ The tension between "all mythologies are real" and "one God supreme" is the most
 **LitRPG Genre Contract — What Readers Demand** — Codex #82
 Five non-negotiable expectations: (1) Progression dopamine loop — regular stat gains, skill unlocks, level-ups. (2) Competent MC who earns power through clever application, not handouts. (3) Unique class/power system that's interesting to think about. (4) Great AI companion with banter and genuine loyalty. (5) Stakes and forward momentum — constant tension, never drag. Audiobook is king (60%+ of consumption). Use as editorial checklist: if any of the five are absent for more than two chapters, fix it.
 
+**Tutorial Child Protection Rule** — Codex #83
+Children are NOT placed in the Tutorial gauntlet. The System separates non-combatant dependents first — kids vanish to a secure holding zone before adults are transported. Parents have no say. The separation is instant and terrifying — a parent watching their child disappear is one of the Tutorial's first emotional gut-punches. Children still received Integration (screens, fledgling abilities) but abilities are minor and undeveloped. Orphaned children either receive a simplified Tutorial or are held in the secure zone indefinitely — decision deferred. Inspired by Dungeon Crawler Carl. WRITING RULE: The child separation is a stakes beat, not a throwaway line. The Tahoe father from Ch2 reappearing in the Tutorial, desperate to get back to his kids, is a ready-made emotional throughline.
+
+**Post-Integration World Model — Dresden with Monsters** — Codex #84
+The old world does NOT survive intact but does NOT collapse instantly. Managed decline plus forced evolution. The world is recognizably ours: roads, towns, ranches, the Henderson place. Infrastructure degrades over days to weeks, not hours. Monsters spawn but the landscape is still East Texas, not a wasteland. Society fractures rather than collapses. The Tutorial is the break point — removing 8 billion people from every car, cockpit, control room, and hospital simultaneously did the damage, not the System itself. Urban fantasy tone (Dresden Files meets Yellowstone): monsters in the pasture but the fence line still matters. KEY PRINCIPLE: Keep enough normalcy that the loss of it hurts. Destroy enough that going back is impossible.
+
+**Other Races — Labyrinth-Connected Worlds** — Codex #85
+Elves, dwarves, and other non-human races are NOT System-generated. They come from other worlds connected by the Labyrinth (Codex #17). Known in Earth mythology because they have crossed over before — Celtic thin places, Norse world-tree connections, Fae gates, Aboriginal dreamtime paths are all real Labyrinth access points. The Integration opens more doors as the System's overlay weakens boundaries between worlds. Some arrive as refugees, some as opportunists, some as invaders, some have been here all along. Book 1 stays focused on Earth and humans; other races trickle in across the series. Every culture's mythology gets its own entry point.
+
+---
+
+**Tutorial Glitch Abilities — Nate's Starter Skills** — Codex #87
+The System attempts standard starter abilities during the Tutorial, but Nate's occupied space warps what comes through. STRUCTURAL ANALYSIS (Codex #13): Activates wrong — instead of reading item stats, it shows Nate the Tutorial environment's actual architecture. He sees procedural generation seams, spawn points, where the algorithm repeats. He's reading the System's source code through its own tool. COMBAT SKILL FAILURE: A standard combat skill tries to load and fails, producing something unexpected — possibly Field Repair activating on objects he touches, letting him reinforce or modify physical things. A maker skill that combat falls out of. ENGINEERING WEAPON: Nate doesn't bring a weapon — he builds or repurposes one from the Tutorial environment. His Structural Analysis shows him what's real under the System's skin. PROGRESSION PRINCIPLE: Each glitch ability feels like a disadvantage at first and reveals its true advantage through creative engineering application.
+
+**Tutorial Pet Bond Rule** — Codex #88
+Animals with a strong pre-existing bond to their owner are transported to the Tutorial alongside them. Rex qualifies — years of working partnership with Nate. Random strays, livestock, and weakly bonded pets do not qualify. The bond threshold is unclear and may be System-defined or spiritually defined. Rex gives Nate a tactical partner — a working dog who reads his body language without System interface. Fits Pre-System Bonding (Codex #34) and Genesis Stewardship Model (Codex #43). Rex does NOT get a System screen. Rex does NOT get abilities. Rex is exactly what he was — a Border Collie who works cattle and trusts his person. That is enough.
+
+**Social Fracture Model** — Codex #89
+The System is an accelerant, not a cause. Every fracture that opens post-Integration was already a crack before. Five axes: (1) Political polarization — "Levelers" vs "Achievers" maps onto existing left/right within days. (2) Urban/rural divide — rural areas adapt faster (self-reliance, land, community, weapons); urban density creates resource competition and monster-proximity problems. (3) Institutional distrust — government tries to control System access; conspiracy theories go terminal. (4) Religious fracture — System as divine gift vs demonic intrusion vs irrelevant; faith communities that hold together become power centers. (5) Economic inequality — old wealth doesn't map to new power, but access and information still matter. Show through radio chatter, NPC dialogue, Tutorial group dynamics — never preach. Nate's county is a microcosm.
+
 ---
 
 ## Quick Stats
 
 | Type | Core Entities | IDs |
 |------|--------------|-----|
-| Character | 3 | 1*, 2, 3 |
+| Character | 4 | 1*, 2, 3, 86 |
 | Faction | 6 | 4, 5, 6, 7, 8, 9 |
-| Game Mechanic | 20 | 10, 11, 12, 13, 14, 15, 26, 34, 35, 37, 41, 43, 44, 46, 47, 48, 55, 56, 59, 79 |
+| Game Mechanic | 21 | 10, 11, 12, 13, 14, 15, 26, 34, 35, 37, 41, 43, 44, 46, 47, 48, 55, 56, 59, 79, 87 |
 | Location | 3 | 17, 30, 31 |
-| Lore | 24 | 16, 18, 27, 28, 29, 36, 38, 39, 40, 42, 45, 49, 50, 51, 52, 53, 54, 57, 60, 61, 63, 80, 81, 82 |
-| **Total** | **56** | |
+| Lore | 30 | 16, 18, 27, 28, 29, 36, 38, 39, 40, 42, 45, 49, 50, 51, 52, 53, 54, 57, 60, 61, 63, 80, 81, 82, 83, 84, 85, 88, 89 |
+| **Total** | **64** | |
 
 *\* Entity #1 (Nathan "Nate" Hall) tagged `protagonist` not `core` — included as foundational.*
 
 ---
 
-*80+ total Codex entities on Nova MCP server. This reference covers core-tagged entities only. For full entity details, query forge-mcp directly by ID.*
+*89+ total Codex entities on Nova MCP server. This reference covers core-tagged entities only. For full entity details, query forge-mcp directly by ID.*

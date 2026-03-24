@@ -89,7 +89,7 @@ Review findings:
 - Memory restoration mechanic: Open question (when/how/if memories return)
 - When does Nate learn to deliberately use the thought-channel? (future chapter)
 - "The way" construction density — polish pass before publication
-- Codex #89 (Social Fracture Model) — pending creation, forge MCP down at session end
+- ~~Codex #89 (Social Fracture Model) — created Session 011, REFERENCE.md updated~~
 
 ---
 
