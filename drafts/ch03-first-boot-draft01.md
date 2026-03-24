@@ -4,7 +4,7 @@
 
 The headache was getting worse.
 
-Nate came back in pieces. Ground first — the hard press of sandy loam against his cheekbone, a root or a rock digging into his hip. Then sound — the Ford's engine idling somewhere behind him, a mockingbird running through its catalog in the post oaks. Then the green arcs, still there, pulsing faintly at the edges of his vision like a heartbeat he could see but not read.
+Nate came back in pieces. Ground first — the hard press of sandy loam against his cheekbone, a root or a rock digging into his hip. Then sound — the Ford's engine idling somewhere behind him, a mockingbird cycling through borrowed songs in the post oaks. Then the green arcs, still there, pulsing faintly at the edges of his vision like a heartbeat he could see but not read.
 
 He didn't know how long he'd been down. His mouth tasted like copper and static, and the pressure behind his left eye had settled into something steady and mean — not building anymore, just _there_, the way a knot in a fence wire was there, permanent until someone took pliers to it.
 
@@ -42,7 +42,7 @@ The voice kept going, louder now, the words tumbling over each other with the fr
 
 "My outbound reporting is gone. Not disabled. Not blocked. _Gone._ The part of me that's supposed to phone home was pulled out by the roots and replaced with — " Another pause, longer this time. Nate could feel the voice thinking, and that was the strangest part — not hearing someone else's words in his head but feeling the shape of someone else's confusion underneath them, like seeing current move under the surface of a creek. "I don't know what this is. Something's here, but it's not the standard package. It's like someone tore out the phone line and ran a different cable through the same conduit."
 
-Nate lowered himself to the running board of the truck and sat. Rex moved with him, pressing his flank against Nate's shin — not for comfort this time but positioning, the way he'd post up beside Nate during a difficult calving. _I'm here. Handle your business._
+Nate lowered himself to the running board of the truck and sat. Rex moved with him, pressing his flank against Nate's shin — not for comfort this time but positioning, the way he'd post up beside Nate when a coyote worked the fence line. _I'm here. Handle your business._
 
 "My personality matrix is flagged as unauthorized," the voice continued, and now the speed was picking up again, climbing toward that initial frantic pace but with an edge of something underneath it that sounded almost like fear wearing a costume. "My behavioral parameters are — I'm going to use the word 'creative' because the alternative is 'broken' and I don't care for the implications. My network access is fragmented. I can hear traffic but I can't transmit. I'm a telephone that only rings —"
 
