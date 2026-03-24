@@ -58,10 +58,10 @@ Review findings:
 - Ch4 must deliver external action/threat — three chapters of setup is the contract limit
 - "The way [noun] [verbed]" construction is high-density across all chapters — flag for polish pass
 
-### Codex Updates (pending — forge MCP session expired)
+### Codex Updates
 
-- **#1 (Nate)** — Add: first adopts "System" term from hearing Flint say it in Ch3, not from seeing it on screen
-- **#2 (Flint)** — Add: mental link is two-way from first contact; Nate's first push is involuntary (*Enough.*); Flint registers surprise that the line runs both ways
+- **#1 (Nate)** — Added: "System" term adoption path (sees label on blue screen → hears Flint say it → consciously adopts), two-way mental link details
+- **#2 (Flint)** — Added: First Contact section (wakes mid-rant, Nate's involuntary push, two-way link discovery, brochure speech as source of "System" term for Nate)
 
 ### Open Items Carried Forward
 
@@ -72,7 +72,7 @@ Review findings:
 - When does Nate learn to deliberately use the thought-channel? (future chapter)
 - Ch4 must open with external action or threat — pacing contract with reader
 - "The way" construction density — polish pass before publication
-- Codex #1 and #2 updates pending (forge MCP session expired)
+- WIS stat added to Ch2 initial stat display (setup for glitch two sentences later)
 
 ---
 
