@@ -2,11 +2,11 @@
 
 ---
 
-The northeast fence was holding.
+The fence was holding.
 
-Nate leaned out of the cab and studied the low spot where the hogs had been getting in — three hits in two weeks before he'd driven the extra T-posts and run barbed wire at ground level with earth anchors. The wire was tight. The ground beneath it was undisturbed. Four days since the last repair, and nothing had tested it yet, which either meant the anchors were working or the hogs had found something more interesting to do this morning. Given what the rest of the world was doing this morning, he couldn't blame them.
+Nate rolled the truck along the northeast line, checking the low spot one more time. Wire tight. Ground undisturbed. Earth anchors doing their job, which made them one of the few things on the planet still doing theirs this morning.
 
-Rex stood in the truck bed with his chin over the side rail, scanning the tree line the way he always scanned tree lines — steady, methodical, reading the shadows for movement. His ears had been rotating like small satellite dishes for the last thirty minutes, tracking sounds that came from every direction and made sense in none of them. Distant gunshots. Car horns on the highway, sustained and overlapping, the sound of a traffic system that had stopped being a system. A helicopter somewhere to the south, low enough to hear the blade chop. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm and excitement and were now settling into something louder and less organized — an argument, maybe, or several arguments happening at once, the way a family argues when everyone has a different theory about what just happened and nobody is willing to sit down.
+Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Distant gunshots. Car horns on the highway, sustained and overlapping — not traffic, but panic leaning on a horn button. A helicopter somewhere to the south, low enough to hear the blade chop. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm and were now settling into something louder and less organized — an argument, or several, the way a family argues when everyone has a different theory about what just happened and nobody is willing to sit down.
 
 "The Henderson kid," Flint said from the space behind Nate's eyes, and his voice had settled into the working register — still quick, still sharp, but running on something closer to purpose than performance, "based on what I'm picking up — and I want to stress that 'picking up' is generous for what my network access currently provides — is throwing fireballs. Small ones. Recreational, not combat. His mother is not pleased."
 
@@ -14,15 +14,9 @@ Rex stood in the truck bed with his chin over the side rail, scanning the tree l
 
 "Twelve, maybe thirteen. Class assignment came through as Apprentice Pyromancer, which is either a starter track or someone at System HQ has a sense of humor I didn't know was in the budget."
 
-Nate put the truck in gear and rolled forward along the fence line. The morning was still beautiful — golden light slanting through the post oaks, dew burning off the bahiagrass, the creek bottom dark and cool in the tree shadows. His land. His father's land before him. A thousand acres that didn't care about the System or classes or whatever was happening on the highway. The pasture didn't know the rules had changed. The cattle didn't know. The water pump with its dying bearings didn't know.
+He drove past the wellhead without stopping. The pump sounded worse than yesterday — audible through the closed cab now — but it was still running, still pulling water, and right now *still running* was the top of the triage list.
 
-The water pump.
-
-He'd meant to check it next. The bearings had been grinding for months — twenty-two years of spinning in East Texas humidity — and this morning, when he'd driven past the wellhead on his way to the northeast corner, the sound had been worse. A dentist's drill buried under forty feet of pipe. But the pump was still running, still pulling water from the Trinity aquifer for sixty-three head of cattle that didn't care about maintenance schedules or the end of the world, and right now "still running" was enough to push it down the triage list.
-
-He stopped the truck at the high point of the north pasture, where the land crested before rolling south toward the creek. From here he could see most of the property — the fence lines running east and west, the stock tank catching the morning sun, the cattle scattered across the south pasture in the unhurried patterns of animals that had decided today was not significantly different from yesterday. Congressman, the eighteen-hundred-pound registered Red Angus bull, was standing at the far edge of the herd facing east, chewing nothing, which was his default state and always had been.
-
-Nate turned the radio on.
+He stopped the truck at the high point of the north pasture and turned the radio on.
 
 It took him three stations to find something that wasn't static or screaming. A woman's voice came through, calm enough to sound professional but with an edge underneath it that said the calm was costing her something:
 
@@ -44,8 +38,6 @@ Nate turned it off.
 
 "Nobody's burned anything down yet. Two car accidents on the highway — one was a Mage who sneezed and shattered his own windshield, the other was a man who got his class assignment while doing sixty and drove into a ditch reading it. No fatalities that I can find, but my access is fragmented enough that I could be missing plenty."
 
-Nate looked at the cattle. The cattle looked at the grass. The transaction was ancient and uncomplicated, and right now uncomplicated was what he needed.
-
 "The county road's clear between here and town," Flint continued. "If you're thinking about supplies."
 
 "I'm thinking about the water pump."
@@ -54,15 +46,11 @@ Nate looked at the cattle. The cattle looked at the grass. The transaction was a
 
 "The world's been on fire before. Cattle still need water."
 
-The silence that followed had that texture Nate was learning to read — not empty but full, the shape of someone else's thought pressing against the shared wall between them. When Flint came back, his voice had dropped half a register.
+Flint went quiet — not the empty kind but the full kind, the shape of someone else's thought pressing against the shared wall between them. When he came back, his voice had dropped half a register.
 
 "I want to be annoyed by that. I genuinely do. But it's the most operationally sound prioritization I've heard from anyone on this network in the last hour, and that includes the emergency broadcasts."
 
-Nate stepped out of the cab and walked to the wellhead. The pump was grinding — louder than yesterday, a vibration he could feel through the soles of his boots when he crouched beside it. He put his palm flat on the housing. Warm. Not hot. The bearings were failing but they weren't seized. He had days, maybe a week if he was lucky and the afternoon heat didn't push the cattle into drinking double.
-
-He stood and wiped his hand on his jeans and looked at the pump the way he looked at everything that was broken — not with frustration, but with the quiet patience of a man who understood that everything failed eventually and the only question was whether you'd be ready when it did.
-
-He was reaching for the thermos in the cab when every screen on Earth spoke at once.
+Nate was reaching for the thermos when every screen on Earth spoke at once.
 
 ---
 
