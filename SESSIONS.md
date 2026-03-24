@@ -43,6 +43,26 @@ When Flint first says "System" in his brochure speech, Nate connects it to the w
 - Nate speaks out loud for deliberate replies (stress/frustration), thinks only by accident for now
 - "System" term adoption: Nate sees it on blue screen (Ch2), hears Flint say it (Ch3 line 63), consciously adopts it (Ch3 line 65)
 
+**Editorial review of Chapters 1-3 as a whole**
+
+Full cross-chapter review covering continuity, pacing, voice, repetition, prose quality, and worldbuilding consistency. Three fixes applied:
+- Ch2: Removed "in front of him" from Cologne screen description (screen visibility rule — screens are internal)
+- Ch3: Varied mockingbird phrasing ("cycling through borrowed songs") to avoid identical phrase in all 3 chapters
+- Ch3: Replaced duplicate "difficult calving" metaphor with "when a coyote worked the fence line"
+
+Review findings:
+- Continuity across all three chapters is clean
+- Pacing strong in Ch1-2, adequate in Ch3 (conversation-heavy but earned after two chapters of crisis)
+- Voice excellent and consistent — dual-lens (ranch + engineering) is the book's signature
+- Narnia Principle holding perfectly — occupied space never named, theology is skeleton not flesh
+- Ch4 must deliver external action/threat — three chapters of setup is the contract limit
+- "The way [noun] [verbed]" construction is high-density across all chapters — flag for polish pass
+
+### Codex Updates (pending — forge MCP session expired)
+
+- **#1 (Nate)** — Add: first adopts "System" term from hearing Flint say it in Ch3, not from seeing it on screen
+- **#2 (Flint)** — Add: mental link is two-way from first contact; Nate's first push is involuntary (*Enough.*); Flint registers surprise that the line runs both ways
+
 ### Open Items Carried Forward
 
 - Rex post-Integration fate: Undecided
@@ -50,6 +70,9 @@ When Flint first says "System" in his brochure speech, Nate connects it to the w
 - Marcus Webb fate: Undecided
 - Memory restoration mechanic: Open question (when/how/if memories return)
 - When does Nate learn to deliberately use the thought-channel? (future chapter)
+- Ch4 must open with external action or threat — pacing contract with reader
+- "The way" construction density — polish pass before publication
+- Codex #1 and #2 updates pending (forge MCP session expired)
 
 ---
 
