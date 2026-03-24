@@ -63,16 +63,33 @@ Review findings:
 - **#1 (Nate)** — Added: "System" term adoption path (sees label on blue screen → hears Flint say it → consciously adopts), two-way mental link details
 - **#2 (Flint)** — Added: First Contact section (wakes mid-rant, Nate's involuntary push, two-way link discovery, brochure speech as source of "System" term for Nate)
 
+**Ch4 pre-writing decisions**
+
+- Tutorial environment: Gauntlet with varied rooms including larger forest/wilderness areas
+- Kids secured in safe zone during Tutorial, not in gauntlet (Codex #83, inspired by Dungeon Crawler Carl)
+- Rex comes to Tutorial — animals with strong owner bonds are transported (Codex #88)
+- Tutorial is global but local pockets (regional grouping)
+- One hour gap between Integration and Tutorial — Nate finishes fence check, gets 30-60 sec countdown
+- Post-Integration world: managed decline + forced evolution, "Dresden with Monsters" (Codex #84)
+- Other races (elves, dwarves) come from Labyrinth-connected worlds, known in Earth mythology from prior crossovers (Codex #85)
+- Marcus Webb: Nate's boss, The Adapter, potential ally (Codex #86)
+- Nate's starter abilities glitch and evolve — Structural Analysis shows actual architecture, combat skill fails into Field Repair/maker skill (Codex #87)
+- Nate builds/repurposes weapon from Tutorial environment, doesn't bring one
+- Social fracture model: System is accelerant on existing divisions — political, urban/rural, religious, economic (Codex #89 PENDING)
+
+**Writing lenses established**
+
+- Narnia Principle (Codex #52) — theology: show, never preach
+- Yellowstone Lens (Codex #81) — culture: earn the ranch, never fake it
+- LitRPG Genre Contract (Codex #82) — five reader expectations as editorial checklist
+
 ### Open Items Carried Forward
 
-- Rex post-Integration fate: Undecided
 - Stag origin: Decision deferred
-- Marcus Webb fate: Undecided
 - Memory restoration mechanic: Open question (when/how/if memories return)
 - When does Nate learn to deliberately use the thought-channel? (future chapter)
-- Ch4 must open with external action or threat — pacing contract with reader
 - "The way" construction density — polish pass before publication
-- WIS stat added to Ch2 initial stat display (setup for glitch two sentences later)
+- Codex #89 (Social Fracture Model) — pending creation, forge MCP down at session end
 
 ---
 
