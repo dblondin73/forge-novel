@@ -14,7 +14,7 @@ Rex stood in the truck bed with his ears rotating like small satellite dishes, t
 
 "Twelve, maybe thirteen. Class assignment came through as Apprentice Pyromancer, which is either a starter track or someone at System HQ has a sense of humor I didn't know was in the budget."
 
-He drove past the wellhead without stopping. The pump sounded worse than yesterday — audible through the closed cab now — but it was still running, still pulling water, and right now *still running* was the top of the triage list.
+He drove past the wellhead without stopping. The pump sounded worse than yesterday — audible through the closed cab now — but it was still running, still pulling water, and right now _still running_ was the top of the triage list.
 
 He stopped the truck at the high point of the north pasture and turned the radio on.
 
@@ -82,7 +82,7 @@ Nate felt it more than saw it — a flicker in the peripheral awareness that Fli
 
 **38**
 
-Rex was looking at Nate. Not at the pasture, not at the tree line, not at the cattle that were shifting and lowing in the south field, disturbed by the sound of screaming that carried on the morning air. At Nate. Steady brown eyes, ears flat against his skull, body pressed low against the truck bed rail. The posture said everything the dog couldn't: *Something is coming. I know it. You know it. What do we do.*
+Rex was looking at Nate. Not at the pasture, not at the tree line, not at the cattle that were shifting and lowing in the south field, disturbed by the sound of screaming that carried on the morning air. At Nate. Steady brown eyes, ears flat against his skull, body pressed low against the truck bed rail. The posture said everything the dog couldn't: _Something is coming. I know it. You know it. What do we do._
 
 **30**
 
@@ -110,7 +110,7 @@ The ground came back wrong.
 
 Nate's boots hit dirt that felt like dirt and smelled like dirt but wasn't his dirt — missing the sandy give of Panola County loam, the faint iron tang of red subsoil. This was harder. Darker. Packed by something that wasn't weather or cattle or twenty years of truck tires on a fence-line track.
 
-Rex was against his leg. Still there. Still pressed close, body rigid, nose working the air in quick sharp pulls that said *new place, unknown threat, stay close to the person who makes decisions.* Nate dropped one hand to the dog's head — not comfort but confirmation. *I'm here. We're here. That's enough for now.*
+Rex was against his leg. Still there. Still pressed close, body rigid, nose working the air in quick sharp pulls that said _new place, unknown threat, stay close to the person who makes decisions._ Nate dropped one hand to the dog's head — not comfort but confirmation. _I'm here. We're here. That's enough for now._
 
 The post driver was in his other hand. He hadn't let go.
 
@@ -132,11 +132,11 @@ At the edges of the clearing, between the too-regular trees, gaps opened into pa
 
 But Nate wasn't seeing the corridors the way everyone else was seeing them.
 
-Something had activated behind his eyes — not the green arcs, which still pulsed faintly with his heartbeat, but something layered over them, a second frequency that turned the world translucent at the edges. The trees weren't trees. Under the bark-textured surface, he could see — *feel* was closer — a lattice of repeating geometric patterns, tile boundaries where one procedural section ended and another began. The rock walls of the corridors had seams every forty feet, identical formations copied and rotated. The undergrowth at the base of the walls repeated in a cycle of seven variants. The ground beneath the clearing had a faint grid pattern, and at regular intervals along that grid, points of light pulsed beneath the surface — dim, rhythmic, like a heartbeat buried under six inches of generated dirt.
+Something had activated behind his eyes — not the green arcs, which still pulsed faintly with his heartbeat, but something layered over them, a second frequency that turned the world translucent at the edges. The trees weren't trees. Under the bark-textured surface, he could see — _feel_ was closer — a lattice of repeating geometric patterns, tile boundaries where one procedural section ended and another began. The rock walls of the corridors had seams every forty feet, identical formations copied and rotated. The undergrowth at the base of the walls repeated in a cycle of seven variants. The ground beneath the clearing had a faint grid pattern, and at regular intervals along that grid, points of light pulsed beneath the surface — dim, rhythmic, like a heartbeat buried under six inches of generated dirt.
 
 He was seeing the source code.
 
-"That," Flint said, and his voice had gone very quiet, "is Structural Analysis. It's a standard Systems Engineer starter skill. Everyone in your class gets it." A pause. "Except it is emphatically not supposed to do *that*. Standard Structural Analysis reads item stats — durability, material composition, rarity tier. What you're seeing is the Tutorial environment's actual architecture. Procedural generation patterns. Spawn points. Algorithmic repetition." Another pause, longer. "You're reading the System's construction through its own diagnostic tool, except someone flipped the lens around and now it's pointing at the scaffolding instead of the set."
+"That," Flint said, and his voice had gone very quiet, "is Structural Analysis. It's a standard Systems Engineer starter skill. Everyone in your class gets it." A pause. "Except it is emphatically not supposed to do _that_. Standard Structural Analysis reads item stats — durability, material composition, rarity tier. What you're seeing is the Tutorial environment's actual architecture. Procedural generation patterns. Spawn points. Algorithmic repetition." Another pause, longer. "You're reading the System's construction through its own diagnostic tool, except someone flipped the lens around and now it's pointing at the scaffolding instead of the set."
 
 "Those lights in the ground," Nate said quietly. "The pulsing ones."
 
@@ -212,11 +212,11 @@ Not the spawn points — those were still dormant, pulsing their slow buried rhy
 
 The combat skill.
 
-He felt it try to load. Felt the framework stutter and catch, like an engine turning over on a cold morning — almost, almost, the firing sequence half-completing before the corrupted installation rejected it. The skill collapsed. Not gracefully — it crashed, fragments of code scattering through the space behind his eyes like sparks off an anvil, and Flint said, "*Shit,*" with no theater in it at all.
+He felt it try to load. Felt the framework stutter and catch, like an engine turning over on a cold morning — almost, almost, the firing sequence half-completing before the corrupted installation rejected it. The skill collapsed. Not gracefully — it crashed, fragments of code scattering through the space behind his eyes like sparks off an anvil, and Flint said, "_Shit,_" with no theater in it at all.
 
 "That was supposed to be Basic Strike," he said rapidly, the performance already rebuilding itself around the shock. "Standard melee combat skill, Level 1, assigned to all Tutorial participants. Your framework just ate it and spat out —" He stopped. "Something else. I'm reading something else where Basic Strike should be. The address is right but the contents are wrong."
 
-Nate felt it settle — not where the combat skill had tried to go but somewhere adjacent, like water finding its own level when the intended channel was blocked. It didn't feel like a weapon. It felt like understanding. Like the way his palm had known the water pump's vibration that morning — *here's what's wrong, here's where it fails, here's what it needs.*
+Nate felt it settle — not where the combat skill had tried to go but somewhere adjacent, like water finding its own level when the intended channel was blocked. It didn't feel like a weapon. It felt like understanding. Like the way his palm had known the water pump's vibration that morning — _here's what's wrong, here's where it fails, here's what it needs._
 
 He looked at the post driver leaning against the rock. Reached out and wrapped his hand around the steel handle.
 
@@ -228,7 +228,7 @@ Through his palm, through the contact point between his skin and the steel, he f
 
 "Is that worse?"
 
-"Ask me again after something tries to kill you." But underneath the words, through their shared space, Nate felt something that might have been admiration wearing uncomfortable shoes. "A combat skill gives you one thing: the ability to hit. What you've got gives you everything else — the ability to understand what you're holding, what it can do, what it can become. A shade-tree mechanic who can feel stress fractures and material composition through his hands." Flint paused. "I'd rather have the sword. But I'd rather have you using *that* than someone else using a sword."
+"Ask me again after something tries to kill you." But underneath the words, through their shared space, Nate felt something that might have been admiration wearing uncomfortable shoes. "A combat skill gives you one thing: the ability to hit. What you've got gives you everything else — the ability to understand what you're holding, what it can do, what it can become. A shade-tree mechanic who can feel stress fractures and material composition through his hands." Flint paused. "I'd rather have the sword. But I'd rather have you using _that_ than someone else using a sword."
 
 Nate set the post driver down and looked at the clearing with different eyes. Not just the architecture now — the materials. The rock face behind him wasn't just solid; through Field Repair's lens, he understood it had layers — a dense composite that the System was rendering as granite but which had a crystalline grain structure that would hold an edge if you could fracture it along the natural planes. The branches on the ground weren't just debris; they were raw materials with tensile strength and flexibility ratings that his hands could read like a blind man reading Braille.
 
@@ -254,6 +254,6 @@ The spawn points opened.
 
 Rex dropped into a crouch, ears flat, body coiled, every line of him saying the same thing he'd been saying all morning, the only thing that mattered when the world stopped making sense and the ground under your feet started doing something it had no business doing:
 
-*I'm here. Handle your business.*
+_I'm here. Handle your business._
 
 The first wave broke through the ground like a harvest coming up wrong.
