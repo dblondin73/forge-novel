@@ -5,6 +5,57 @@
 
 ---
 
+## Session 011 — 2026-03-24
+
+**Platform:** Claude Code (Opus 4.6, VS Code extension)
+**Focus:** Chapter 4 first draft — The Sorting
+
+### What Was Done
+
+**Ch4 first draft written (6 beats, ~4,200 words)**
+
+Beat 1 — THE HOUR BEFORE: Fence check (brief), radio chaos (newscast/preacher/geopolitics), Flint network chatter (Henderson kid throwing fireballs, Apprentice Pyromancer), water pump drive-by. "The world's been on fire before. Cattle still need water."
+
+Beat 2 — THE COUNTDOWN: 60-second Tutorial countdown. Nate kills engine, steps out. Children vanish first (Henderson kid disappears at T-52). Mother's scream. Adults transported at T-0. Nate grabs post driver at T-20 (beat deviation — originally left behind, kept as emotional anchor). Rex jumps from truck at T-10.
+
+Beat 3 — STRUCTURAL ANALYSIS GLITCH: Tutorial pocket (~200 people, Panola County draw). Procedurally generated forest — "almost right but not quite." SA activates but shows architecture instead of item stats — seams, spawn points, grid patterns. Flint: "emphatically not supposed to do that."
+
+Beat 4 — THE SORTING: Class-based clustering (Warriors/Mages/Healers). First HUD interaction — Phase 2 response on Phase 1 hardware (Flint flags anomaly). [PROCESSING] tag in amber. Shield Guardian dismissal. Marcus Webb arrives — "What can you do?" / "I can see how this place is built." Marcus takes charge.
+
+Beat 5 — COMBAT SKILL FAILURE → MAKER: Basic Strike crashes on 40% framework. Field Repair activates on post driver — reads material structure through touch. "The System tried to give you a sword and you got a workshop."
+
+Beat 6 — FIRST WAVE HOOK: Horn/heartbeat sound. Spawn points pulse. Rex crouches. "Here we go." Chapter ends on action starting.
+
+### Revisions During Session
+
+**Beat 1 trimmed for Ch1 repetition**
+Cut ~500 words that re-established ranch details already shown in Ch1: water pump re-diagnostic, fence re-inspection, Congressman portrait, morning landscape, "looked at everything that was broken" echo. Kept all new material (radio, Flint, Henderson).
+
+**Language pass**
+Added moderate profanity for voice authenticity (4 touches): Marcus "same damn thing," Flint "*Shit*" when skill crashes (flat, no theater), Flint "emphatically" on SA, Flint "Here we go" at chapter close. Rule saved to memory: 18+ audience, moderate OK, NEVER Lord's name in vain, 3-5 per chapter max.
+
+**Continuity fixes**
+- Added Nate stopping truck and getting out at T-57 (was in cab, then grabbing from truck bed without transition)
+- Fixed HUD query from "becoming natural" to first-time discovery with Flint flagging Phase 2 anomaly
+- Fixed "two words in amber" → "one word in amber" ([PROCESSING] is one word)
+
+**Editorial pass (cross-chapter review)**
+- Fixed "couldn't sense" → "couldn't see but could feel" (logic contradiction)
+- Fixed "blue screens glowing in their eyes" → "a faint blue glint behind their eyes" (screen visibility rule, matches Ch2 and Marcus description)
+- Fixed stage-direction dialogue format to standard attribution
+
+### Codex Verified (no new entities needed)
+All Ch4 entities exist: Nate (#1), Flint (#2), Rex (#64), Marcus Webb (#86), Glitch Abilities (#87), Tutorial/Child Protection (#83), Social Fracture Model (#89).
+
+### Beat Deviation Logged
+Post driver: Beats 14-15 had it left in truck bed. Draft has Nate grab it at T-20. Rationale: emotional anchor established in Ch3, instinctive reach for a tool when the world ends, Field Repair then activates on a familiar object. David approved.
+
+### Resolved (Session 012)
+- Beats 13, 14, 15, 16, 129, 130 updated from "planned" to "drafted" ✅
+- Ch4 chapter status updated to "drafted," word count set to 4,200 ✅
+
+---
+
 ## Session 010 — 2026-03-23
 
 **Platform:** Claude Code (Opus 4.6, VS Code extension)
@@ -659,54 +710,3 @@ Repo files needing 120,000 to 145,000 update: REFERENCE.md (line 184), reports/s
 
 NovelCrafter also has: Subplot, Other, Global Entry, Story Genre.
 
-
-
----
-
-## Session 011 — 2026-03-24
-
-**Platform:** Claude Code (Opus 4.6, VS Code extension)
-**Focus:** Chapter 4 first draft — The Sorting
-
-### What Was Done
-
-**Ch4 first draft written (6 beats, ~4,200 words)**
-
-Beat 1 — THE HOUR BEFORE: Fence check (brief), radio chaos (newscast/preacher/geopolitics), Flint network chatter (Henderson kid throwing fireballs, Apprentice Pyromancer), water pump drive-by. "The world's been on fire before. Cattle still need water."
-
-Beat 2 — THE COUNTDOWN: 60-second Tutorial countdown. Nate kills engine, steps out. Children vanish first (Henderson kid disappears at T-52). Mother's scream. Adults transported at T-0. Nate grabs post driver at T-20 (beat deviation — originally left behind, kept as emotional anchor). Rex jumps from truck at T-10.
-
-Beat 3 — STRUCTURAL ANALYSIS GLITCH: Tutorial pocket (~200 people, Panola County draw). Procedurally generated forest — "almost right but not quite." SA activates but shows architecture instead of item stats — seams, spawn points, grid patterns. Flint: "emphatically not supposed to do that."
-
-Beat 4 — THE SORTING: Class-based clustering (Warriors/Mages/Healers). First HUD interaction — Phase 2 response on Phase 1 hardware (Flint flags anomaly). [PROCESSING] tag in amber. Shield Guardian dismissal. Marcus Webb arrives — "What can you do?" / "I can see how this place is built." Marcus takes charge.
-
-Beat 5 — COMBAT SKILL FAILURE → MAKER: Basic Strike crashes on 40% framework. Field Repair activates on post driver — reads material structure through touch. "The System tried to give you a sword and you got a workshop."
-
-Beat 6 — FIRST WAVE HOOK: Horn/heartbeat sound. Spawn points pulse. Rex crouches. "Here we go." Chapter ends on action starting.
-
-### Revisions During Session
-
-**Beat 1 trimmed for Ch1 repetition**
-Cut ~500 words that re-established ranch details already shown in Ch1: water pump re-diagnostic, fence re-inspection, Congressman portrait, morning landscape, "looked at everything that was broken" echo. Kept all new material (radio, Flint, Henderson).
-
-**Language pass**
-Added moderate profanity for voice authenticity (4 touches): Marcus "same damn thing," Flint "*Shit*" when skill crashes (flat, no theater), Flint "emphatically" on SA, Flint "Here we go" at chapter close. Rule saved to memory: 18+ audience, moderate OK, NEVER Lord's name in vain, 3-5 per chapter max.
-
-**Continuity fixes**
-- Added Nate stopping truck and getting out at T-57 (was in cab, then grabbing from truck bed without transition)
-- Fixed HUD query from "becoming natural" to first-time discovery with Flint flagging Phase 2 anomaly
-- Fixed "two words in amber" → "one word in amber" ([PROCESSING] is one word)
-
-**Editorial pass (cross-chapter review)**
-- Fixed "couldn't sense" → "couldn't see but could feel" (logic contradiction)
-- Fixed "blue screens glowing in their eyes" → "a faint blue glint behind their eyes" (screen visibility rule, matches Ch2 and Marcus description)
-- Fixed stage-direction dialogue format to standard attribution
-
-### Codex Verified (no new entities needed)
-All Ch4 entities exist: Nate (#1), Flint (#2), Rex (#64), Marcus Webb (#86), Glitch Abilities (#87), Tutorial/Child Protection (#83), Social Fracture Model (#89).
-
-### Beat Deviation Logged
-Post driver: Beats 14-15 had it left in truck bed. Draft has Nate grab it at T-20. Rationale: emotional anchor established in Ch3, instinctive reach for a tool when the world ends, Field Repair then activates on a familiar object. David approved.
-
-### Pending (Forge MCP down)
-- Update beats 13, 14, 15, 16, 129, 130 status from "planned" to "drafted"
