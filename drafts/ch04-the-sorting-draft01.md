@@ -6,7 +6,7 @@ The fence was holding.
 
 Nate rolled the truck along the northeast line, checking the low spot one more time. Wire tight. Ground undisturbed. Earth anchors doing their job, which made them one of the few things on the planet still doing theirs this morning.
 
-Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Distant gunshots. Car horns on the highway, sustained and overlapping — not traffic, but panic leaning on a horn button. A helicopter somewhere to the south, low enough to hear the blade chop. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm and were now settling into something louder and less organized — an argument, or several, the way a family argues when everyone has a different theory about what just happened and nobody is willing to sit down.
+Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Distant gunshots. Car horns on the highway, sustained and overlapping — not traffic, but panic leaning on a horn. A helicopter somewhere to the south, low enough to hear the blade chop. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm and were now settling into something louder and less organized — an argument, or several, the way a family argues when everyone has a different theory about what just happened and nobody is willing to sit down.
 
 "The Henderson kid," Flint said from the space behind Nate's eyes, and his voice had settled into the working register — still quick, still sharp, but running on something closer to purpose than performance, "based on what I'm picking up — and I want to stress that 'picking up' is generous for what my network access currently provides — is throwing fireballs. Small ones. Recreational, not combat. His mother is not pleased."
 
@@ -66,13 +66,15 @@ The words didn't scroll. They appeared complete, stamped across his vision in wh
 
 **57**
 
+Nate killed the engine and stepped out of the cab. Whatever was coming, he wasn't meeting it sitting down.
+
 From the Henderson place, a woman's voice rose — not the argument tone from before but something sharper, higher, a sound that went through fence lines and property boundaries and hit Nate in the center of his chest. A name. She was calling a name. Her child's name.
 
 **52**
 
 Then the Henderson kid was gone.
 
-Nate felt it more than saw it — a flicker in the peripheral awareness that Flint's network connection provided, a data point disappearing from a map he couldn't sense through their shared space. The mother's voice changed. The name became a scream. Other voices joined from down the county road — parents, all of them, the sound of adults discovering that their children had vanished mid-step, mid-sentence, mid-breath, taken somewhere the screens couldn't show and the System wouldn't explain.
+Nate felt it more than saw it — a flicker in the peripheral awareness that Flint's network connection provided, a data point disappearing from a map he couldn't see but could feel through their shared space. The mother's voice changed. The name became a scream. Other voices joined from down the county road — parents, all of them, the sound of adults discovering that their children had vanished mid-step, mid-sentence, mid-breath, taken somewhere the screens couldn't show and the System wouldn't explain.
 
 **45**
 
@@ -116,7 +118,7 @@ He looked up.
 
 Trees. Tall ones — post oaks, or something wearing the skin of post oaks, the trunks too regular, the spacing too even, the canopy filtering light in a pattern that was almost right but not quite. Like a photograph of East Texas forest printed by someone who'd studied the reference material but never stood in it. The morning light came from no particular direction. The shadows didn't match the angle. A clearing opened ahead of him, maybe fifty yards across, ringed by the too-regular trees, and in that clearing — people.
 
-Two hundred, maybe more. Standing, sitting, crouching, turning in slow circles with their hands raised and blue screens glowing in their eyes. Some were talking fast. Some were silent. A woman was on her knees, hands pressed against the ground, calling a name — a child's name, the same raw sound he'd heard from the Henderson place, and Nate understood that she'd been doing it since she arrived and hadn't stopped because stopping meant accepting that the child wasn't here.
+Two hundred, maybe more. Standing, sitting, crouching, turning in slow circles with their hands raised and a faint blue glint behind their eyes. Some were talking fast. Some were silent. A woman was on her knees, hands pressed against the ground, calling a name — a child's name, the same raw sound he'd heard from the Henderson place, and Nate understood that she'd been doing it since she arrived and hadn't stopped because stopping meant accepting that the child wasn't here.
 
 "Regional pocket," Flint said. His voice had steadied but the performance was still absent — working mode, not talking mode. "Based on the faces I can cross-reference with your visual field and the fragment of network data I can still receive, this is a geographic draw. Panola County and surrounding area. Maybe parts of Shelby and Rusk. The System pulled everyone within a radius and dropped them in a contained environment."
 
@@ -158,11 +160,15 @@ Healers were the quietest. They'd found the woman on her knees — the one calli
 
 And then there was Nate.
 
-He pulled up his status — the gesture was becoming natural, a flick of attention toward the green arcs that Flint translated into data. Two curved bars. Health: ninety-two percent. Stamina: eighty-five percent. Below them, where everyone else had a class designation in clean white text, Nate had two words in amber:
+He looked at the green arcs — really looked at them, for the first time since the pasture — and something shifted. The two curved bars responded to his attention the way a screen wakes when you touch it, except the touch was inside his head. Numbers bled into view along the arcs, faint and unsteady, like a signal fighting through static. Health: ninety-two percent. Stamina: eighty-five percent.
+
+"That's you asking," Flint said, and there was something careful in his voice — the tone of someone watching a machine do something it wasn't supposed to be able to do yet. "The HUD responded to directed attention. That's a Phase 2 interaction on Phase 1 hardware." A pause. "File that under things I'll worry about later."
+
+Below the numbers, where everyone else had a class designation in clean white text, Nate had one word in amber:
 
 **[PROCESSING]**
 
-"Still processing," Flint said. "Which means the System either can't classify you or it tried and the result didn't fit any existing template. Your Integration was contested — forty percent framework, remember. Not enough to assign a standard class, too much to reject entirely. You're in a holding pattern."
+"Still processing," Flint said. "The System either can't classify you or it tried and the result didn't fit any existing template. Your Integration was contested — forty percent framework, remember. Not enough to assign a standard class, too much to reject entirely. You're in a holding pattern."
 
 "Does that matter right now?"
 
@@ -244,7 +250,7 @@ Nate stood at the edge of the clearing with a fence tool, a maker skill, an abil
 
 The spawn points opened.
 
-Flint, very quietly: "Here we go."
+"Here we go," Flint said, very quietly.
 
 Rex dropped into a crouch, ears flat, body coiled, every line of him saying the same thing he'd been saying all morning, the only thing that mattered when the world stopped making sense and the ground under your feet started doing something it had no business doing:
 
