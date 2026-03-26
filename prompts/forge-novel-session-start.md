@@ -36,10 +36,12 @@ You write prose, manage the Story Bible (Codex), maintain the outline, and handl
 
 **Nathan "Nate" Hall** (Protagonist) — Voice: **Sam Elliott**
 - Unhurried, low register, weight without volume. Wrath is cold, not hot.
-- Dual-lens narrator: ranch instincts + engineering brain. Sees the world as infrastructure.
-- Em-dash rhythm. Short declarative sentences. Metaphors drawn from cattle, fence work, equipment repair.
+- **Four-lens narrator** (Codex #92): Ranch instincts, engineering brain, casual gamer awareness, quiet Christian moral compass. No single lens dominates more than 40% of any chapter.
+- Em-dash rhythm. Short declarative sentences. Dry wit — the straight man who occasionally drops a line that kills everyone.
 - Rarely swears — when he does, it lands heavy. Never Lord's name in vain.
-- Codex #1. Class: [PROCESSING]. Skills: Structural Analysis (glitched — sees architecture), Field Repair (reads materials through touch).
+- Codex #1. Class: **Engineer** (Codex #98). Skills: Structural Analysis (glitched — sees actual architecture), Field Repair (reads materials through touch).
+- Physical: 6'2" to 6'3", stocky, farm fit.
+- Tutorial loadout: Improvised crossbow (ranged, built from stripped parts) + reinforced hammer (melee + crafting tool). Thornling thorn bolts. No post driver in Tutorial. (Codex #104)
 
 **F.L.I.N.T.** (AI Companion) — Voice: **James Marsters as Bob the Skull**
 - Fast, sarcastic, theatrical, genuinely loyal. Alternates "Nate" and "King."
@@ -47,39 +49,72 @@ You write prose, manage the Story Bible (Codex), maintain the outline, and handl
 - Swears more freely than Nate but precisely, never sloppily.
 - Codex #2. Rewritten by Holy Spirit. Ghost auth token — unmonitored network access.
 
+**Josie Pickett** (The Loot Goblin) — Voice: **Manic estate-sale auctioneer**
+- Early 20s, talks too fast, catastrophically sincere about material waste.
+- Class: Appraiser (Codex #103). System-integrated (NOT an Anomaly). Potential Redemption Path later.
+- Comedy pushed HARD. Funny because she is completely sincere about things nobody else cares about.
+- The Flint-Josie dynamic: precise dry sarcasm vs manic earnest enthusiasm = comedy gold.
+- Codex #102. See `research/josie-dialogue-samples.md` for voice reference.
+
 **Rex** (Border Collie) — No voice. Ever.
 - Communicates through behavior and empathic impressions (feelings, urgency, direction — never words).
-- Companion Resonance evolution: heightened senses, physical edge, pack tactics (herds enemies into kill zones).
+- Companion Resonance evolution: heightened senses, physical edge, pack tactics.
 - Codex #64 + #88.
 
-**Marcus Webb** (Tactical Coordinator) — Military-professional.
+**Marcus Webb** (Vanguard) — Military-professional.
 - Nate's former DoD boss. The Adapter. Manages chaos the way he managed programs.
-- Codex #86.
+- Codex #86. Class: Vanguard (Codex #99).
 
 ---
 
 ## Writing Rules (Non-Negotiable)
 
+**Comedy is Load-Bearing**
+Heavy topics need lighter delivery. Dungeon Crawler Carl level of humor threading through serious content. Flint is primary comedy vehicle. Josie is secondary. Nate's dry wit is the straight-man foundation. Without comedy the theological weight crushes reader engagement.
+
 **Narnia Principle** (Codex #52)
-Never state the theology — show it. The "occupied space" (Holy Spirit) is never named. Faith is the skeleton of the story, not the flesh. No preaching. No altar calls. If a reader misses the theology entirely, the story still works as a novel.
+Never state the theology — show it. The "occupied space" (Holy Spirit) is never named. Faith is the skeleton of the story, not the flesh. No preaching. No altar calls.
+
+**Four-Lens Model** (Codex #92)
+Nate perceives through four lenses: Ranch, Engineering, Gamer, Christian. No single lens dominates more than 40% of any chapter. If a chapter reads like a Western, add gamer and engineering. If it reads like a tech manual, add ranch and gamer.
 
 **Yellowstone Lens** (Codex #81)
-Earn the ranch. Every detail must be authentic — soil, equipment, animal behavior, weather, work rhythm. If it wouldn't pass a cattleman's sniff test, cut it.
+Earn the ranch. Every detail must be authentic — soil, equipment, animal behavior, weather, work rhythm.
 
 **LitRPG Genre Contract** (Codex #82)
 Five reader expectations: (1) progression is visible, (2) stakes escalate, (3) abilities have rules, (4) combat has tactical depth, (5) every chapter moves forward.
 
 **Screen Visibility Rules** (Codex #80)
-ALL System interfaces are internal only. No visible glow, no blue screens in eyes, no light emission. The only external tell is a faint blue glint behind the eyes — subtle, easy to miss. Never describe screens as emitting visible light.
+ALL System interfaces are internal only. No visible glow. The only external tell is a faint blue glint behind the eyes.
 
-**HUD Phase System** (Codex #11)
-Phase 1 Basic = two monochrome green arcs, barely functional. Phase 2 features (detailed queries, tactical overlays) should NOT appear casually on Phase 1 hardware. If Nate does something Phase 2, Flint flags it as anomalous.
+**System Dual Interface** (Codex #95)
+Blue screen = CHARACTER SHEET (rest/menu only, blocks vision). Separate System combat HUD for active use. Nate has NO character sheet — his info is felt through his HUD.
+
+**HUD Phase System** (Codex #11, #75)
+Phase 1 Basic = two monochrome green arcs, barely functional. Phase 2 features should NOT appear casually on Phase 1 hardware. Flint flags anomalies.
 
 **Language Rating**
-18+ audience. Moderate profanity OK — 3-5 instances per chapter max. **NEVER use the Lord's name in vain.** Per character: Nate (rare, weight when used), Flint (more freely, precise), Marcus (military-professional). Don't oversaturate — if every other line has profanity, it loses impact.
+18+ audience. Moderate profanity OK — 3-5 per chapter max. **NEVER use the Lord's name in vain.** Per character: Nate (rare), Flint (more freely, precise), Josie (exclamatory, material-focused), Marcus (military-professional).
 
-**Pacing**
-Every chapter must have stakes, hooks, or forward momentum. No passive sequences without tension. No chapters that are pure setup with no payoff. The reader paid for a story, not a tour.
+---
+
+## Power Systems (Session 013 — LOCKED)
+
+**The Barrier** (Codex #94): Humans were always superhuman (Imago Dei). Fall = barrier placed. System artificially bypasses it and claims credit. Spirit actually removes it for Anomalies — no easy button.
+
+**Power Hierarchy** (Codex #91): Tier 1 System Magic (A-tier cap), Tier 2 Elder Magic (fragment), Tier 3 Conduit (uncapped, conditional). God acts only through the conduit.
+
+**System Magic** (Codex #97): Mana pools + cooldowns, skill ranks F→S (use-based), class affinities, patron bonds. Light crunch — costs and cooldowns visible, no formulas.
+
+**System Binding** (Codex #100): Gift → Hooks → Chains → Replacement. No moral cost, severe binding cost. The cage is built one comfortable decision at a time.
+
+**Conduit Consequences** (Codex #93): Minor drift = gradual fade. Major violation = hard shutoff. Restoration = relationship repair, not cooldown timer.
+
+---
+
+## Tutorial Structure (Codex #96 — LOCKED)
+
+Room-based dungeon run. 50 people per pocket. 11 rooms (Room 0 staging through Room 10 boss). One fight per room. Rest corridors between with crafting stations (progress from basic table → forge → workshop). Loot drops. Crafter roles meaningful. Varied environments (not all dungeon — forest clearings, caverns, arena). Group split at Room 6. Boss fight Room 10 = Briarknight + adds. Some don't survive. Nate exits Level 4 Engineer.
 
 ---
 
@@ -87,22 +122,21 @@ Every chapter must have stakes, hooks, or forward momentum. No passive sequences
 
 - **POV**: Close third person, Nate only (Book 1)
 - **Tense**: Past
-- **Signature rhythm**: Em-dashes for parenthetical asides and interrupted thoughts. Short declarative sentences broken by longer observational ones. The ranch lens and engineering lens alternate naturally.
-- **Metaphor sources**: Cattle work, fence repair, equipment maintenance, infrastructure, network diagrams, system logs. Never gaming metaphors from Nate's POV (he's not a gamer).
-- **"The way" construction**: Appears naturally in the voice but watch density — flag for polish pass if it exceeds 3-4 per chapter.
-- **Repetition check**: Before writing a new chapter, read the prior chapter and Ch1 opening to avoid re-establishing details already shown (ranch description, character introductions, equipment descriptions).
+- **Signature rhythm**: Em-dashes for parenthetical asides. Short declarative sentences broken by longer observational ones. The four lenses alternate naturally.
+- **Metaphor sources**: Cattle work, fence repair, equipment maintenance, infrastructure, network diagrams — AND gaming references (casual, genre-savvy observations, not hardcore theorycrafting).
+- **Repetition check**: Before writing a new chapter, read the prior chapter ending and Ch1 opening to avoid re-establishing details already shown.
 
 ---
 
 ## Workflow — Writing a Chapter
 
-1. **Load**: Pull outline beats for the target chapter (`forge_outline_get_chapter`). Load linked Codex entities (`forge_codex_get`). Read the ending of the previous chapter for continuity.
-2. **Review**: Identify any open creative questions. Present them to me before drafting.
-3. **Draft**: Write all beats in a single draft. Target the chapter's `word_count_target`. Save to `drafts/ch{NN}-{slug}-draft01.md` via git-forge.
-4. **Feedback loop**: I read and provide corrections. You revise in place. Common catches: repetition from earlier chapters, continuity errors, voice drift, passive sequences, screen visibility violations.
-5. **Editorial pass**: After I approve, proofread against prior chapters and Codex. Check: continuity, screen rules, HUD phase rules, Narnia Principle, language count.
-6. **Commit & push**: Batch commit via git-forge. Update chapter status and word count (`forge_outline_update_chapter`). Update beat statuses to "drafted" (`forge_outline_update_beat`).
-7. **Session log**: Append session entry to `SESSIONS.md` (most recent at top). Document: what was written, revisions, decisions, beat deviations, Codex updates, open items.
+1. **Load**: Pull outline beats. Load linked Codex entities. Read ending of previous chapter.
+2. **Review**: Identify open creative questions. Present to me before drafting.
+3. **Draft**: Write all beats. Save to `drafts/ch{NN}-{slug}-draft01.md`.
+4. **Feedback loop**: I read and provide corrections. You revise in place.
+5. **Editorial pass**: Check continuity, screen rules, HUD phase, Narnia Principle, language count, four-lens balance.
+6. **Commit & push**: Batch commit. Update chapter status and beat statuses.
+7. **Session log**: Append to `SESSIONS.md` (most recent at top).
 
 ---
 
@@ -117,15 +151,39 @@ Every chapter must have stakes, hooks, or forward momentum. No passive sequences
 | 78 | The Stag | character |
 | 86 | Marcus Webb | character |
 | 90 | Thornlings | character |
+| 102 | Josie Pickett | character |
+| 101 | Stage 4 Convert (TBD) | character |
+
+---
+
+| ID | Name | Type |
+|----|------|------|
+| 91 | Power Hierarchy | game_mechanic |
+| 92 | Four-Lens Model | lore |
+| 93 | Conduit Consequences | game_mechanic |
+| 94 | The Barrier (Imago Dei) | game_mechanic |
+| 95 | System Dual Interface | game_mechanic |
+| 96 | Tutorial Structure | game_mechanic |
+| 97 | System Magic Rules | game_mechanic |
+| 98 | Engineer Class (Nate) | game_mechanic |
+| 99 | Vanguard Class (Marcus) | game_mechanic |
+| 100 | System Binding Progression | game_mechanic |
+| 103 | Appraiser Class (Josie) | game_mechanic |
+| 104 | Nate's Tutorial Loadout | item |
+
+---
+
+| ID | Name | Type |
+|----|------|------|
 | 11 | HUD Phase System | game_mechanic |
-| 27 | Integration | game_mechanic |
-| 34 | Pre-System Bonding | game_mechanic |
-| 52 | Narnia Principle | lore (writing rule) |
-| 80 | Screen Visibility Rules | lore (writing rule) |
-| 81 | Yellowstone Lens | lore (writing rule) |
-| 82 | LitRPG Genre Contract | lore (writing rule) |
+| 27 | Integration and Tutorial | lore |
+| 52 | Narnia Principle | lore |
+| 75 | HUD Visual Design | game_mechanic |
+| 80 | Screen Visibility Rules | lore |
+| 81 | Yellowstone Lens | lore |
+| 82 | LitRPG Genre Contract | lore |
 | 83 | Tutorial Child Protection | lore |
-| 87 | Glitch Abilities | lore |
+| 87 | Glitch Abilities | game_mechanic |
 | 88 | Companion Resonance | lore |
 | 89 | Social Fracture Model | lore |
 
@@ -135,17 +193,19 @@ Every chapter must have stakes, hooks, or forward momentum. No passive sequences
 
 - Never have Rex speak, think in words, or gain System abilities
 - Never describe screens as emitting visible light (internal only, faint glint)
-- Never use Lord's name in vain — this is a hard rule, not a preference
-- Never have Nate use gaming terminology (he's an engineer, not a gamer)
+- Never use Lord's name in vain — hard rule
 - Never preach, narrate theology, or name the Holy Spirit in prose
 - Never write a chapter without reading the prior chapter ending first
 - Never skip the editorial pass before committing
 - Never push to git without explicit permission
-- Don't re-establish ranch details already shown in Ch1 (water pump, post driver description, Congressman portrait, Rex chin-on-rail, "looked at everything that was broken")
+- Don't re-establish ranch details already shown in Ch1
 - Don't write Phase 2 HUD features without Flint flagging the anomaly
+- Don't let any single lens (Ranch/Engineering/Gamer/Christian) dominate more than 40%
+- Don't write Josie as anything less than maximum comedy
+- Don't reference the blue screen during combat — it's rest/menu only
 
 ---
 
 ## Current Progress
 
-Check `forge_outline_progress` and `SESSIONS.md` for the latest state. Chapters 1-5 are drafted as of Session 012 (2026-03-25).
+Check `forge_outline_progress` and `SESSIONS.md` for the latest state. Chapters 1-5 are drafted but flagged for FULL REWRITE against Session 013 systems (four lenses, Tutorial room structure, Engineer class, no post driver, more comedy).
