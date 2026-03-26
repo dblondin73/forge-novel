@@ -259,3 +259,56 @@ The System is an accelerant, not a cause. Every fracture that opens post-Integra
 ---
 
 *90+ total Codex entities on Nova MCP server. This reference covers core-tagged entities only. For full entity details, query forge-mcp directly by ID.*
+
+
+---
+
+## SESSION 013 CORRECTIONS — 2026-03-25
+
+**THIS FILE NEEDS A FULL REBUILD.** The content above was generated before Session 013's major systems overhaul. The following corrections apply until the file is regenerated from current Codex data.
+
+### Term Replacements (apply everywhere above)
+
+| Old Term | New Term | Codex |
+|---|---|---|
+| Systems Engineer (class) | **Engineer** | #98 supersedes #13 |
+| Tactical Coordinator (class) | **Vanguard** | #99 supersedes old |
+| Blue screen (as combat interface) | **Character sheet (rest only)** | #95 supersedes #76 |
+| ~100k Anomalies | **Thousands, deliberately ambiguous** | #6 updated |
+| B-tier cap (System power) | **A-tier cap** | #91 updated |
+
+### New Systems NOT in the content above
+
+| System | Codex | Summary |
+|---|---|---|
+| **The Barrier (Imago Dei)** | #94 | Humans always superhuman. Fall = barrier. System bypasses it. Spirit removes it. |
+| **Power Hierarchy** | #91 | Imago Dei foundation + 3 tiers: System (A-cap), Elder (fragment), Conduit (uncapped) |
+| **System Magic Rules** | #97 | Mana pools, skill ranks F→S, class affinities, patron bonds. Light crunch. |
+| **System Dual Interface** | #95 | Blue screen = rest/menu only. Separate combat HUD. Nate has no char sheet. |
+| **System Binding Progression** | #100 | Gift → Hooks → Chains → Replacement. Door always open but some won't walk through. |
+| **Conduit Consequences** | #93 | Minor drift = fade. Major violation = shutoff. Restoration = relationship repair. |
+| **Four-Lens Model** | #92 | Ranch / Engineering / Gamer / Christian. 40% max per lens. |
+| **Tutorial Room Structure** | #96 | 11 rooms (Room 0-10). Safe room start. Crafting stations. 50 people. One fight per room. |
+
+### New Characters NOT in the content above
+
+| Character | Codex | Summary |
+|---|---|---|
+| **Josie Pickett** | #102 | The Loot Goblin. Early 20s, Appraiser class, System-integrated. Catastrophically sincere about material waste. |
+| **The Stage 4 Convert** | #101 | Identity TBD. Books 5-6. Proves the door is always open. |
+
+### Nate Updates NOT in the content above
+
+- **Physical:** 6'2" to 6'3", stocky, farm fit
+- **Gaming background:** Casual — Diablo, Elder Scrolls, WoW, Destiny, XCOM, D&D in college
+- **Hunting/fishing:** Added to pre-System competencies. Country boy. Ranged weapons since childhood.
+- **Tutorial loadout:** Improvised crossbow (built from stripped parts) + reinforced hammer. Thornling thorn bolts supplied by Josie. No post driver in Tutorial.
+- **Tone direction:** More comedy. Dungeon Crawler Carl energy. Comedy is load-bearing.
+
+### Series Title
+
+**Beneath the Overlay** — confirmed. "Multiverse of Sevens" was a working title. Book 1: *Beneath the Overlay: Integration*.
+
+---
+
+*Full rebuild from Codex data is deferred to a Claude Code session.*
