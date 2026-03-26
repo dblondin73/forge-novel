@@ -884,3 +884,38 @@ More sarcasm, dry wit, comedy throughout. Dungeon Crawler Carl level of humor th
 - nate-hall.md needs Four-Lens Model, gamer background, Engineer class, physical description
 - All draft chapters (Ch1-5) flagged for rewrite against new systems
 - David had "something else" that slipped his mind — will surface later
+
+### Addendum — Session 013 (continued)
+
+**JOSIE PICKETT FULLY BUILT (Codex #102, #103)**
+- Early 20s female, East Texas estate sale junkie / pawn shop worker
+- System class: Appraiser (Support) — identifies items and materials
+- System-integrated (NOT Anomaly) — potential Redemption Path convert later
+- Comedy pushed hard: catastrophically sincere about material waste in life-or-death situations
+- "Are you just going to LEAVE that there?"
+- Flint-Josie dynamic locked: precise dry sarcasm vs manic earnest enthusiasm = comedy gold
+- Flint eventually develops "The Pickett Variable" — accounts for her finding things that shouldn't exist
+- Voice samples written to research/josie-dialogue-samples.md
+- Character sheet written to characters/josie-pickett.md
+
+**NATE'S TUTORIAL LOADOUT LOCKED (Codex #104)**
+- PRIMARY: Improvised crossbow — strips a rack crossbow for its prod, builds new stock from table strut, files trigger from bracket, bonds with Field Repair. Ugly, crude, barn-built, shoots harder than anything on the racks.
+- AMMO: Thornling thorn bolts — Josie collects structural thorns, Nate crafts them into bolts at rest stations. Using the Tutorial's creatures as ammo against itself.
+- BACKUP: Reinforced hammer — melee + crafting tool. Never stops being a tool.
+- NO NAMES: Tools, not Excalibur.
+- Progression: crude → improved at every crafting station → outperforms System gear by Room 7.
+- The Nate-Josie crafting loop: he builds the crossbow, she supplies the ammo.
+
+**PRE-INTEGRATION COMPETENCIES UPDATED (Codex #29)**
+Added hunting and fishing background, shade tree mechanic. Nate grew up with rifles, shotguns, deer stands. Country boy who has handled ranged weapons his entire life. Crossbow is a new platform for old skills.
+
+**NATE PHYSICAL DESCRIPTION (Codex #1)**
+6'2" to 6'3", stocky, farm fit — not bodybuilder bulk.
+
+### Full Session 013 Entity Count
+- New Codex entities: 15 (#91-104)
+- Updated entities: 9 (#1, #6, #27, #29, #86, #87, #91, #96, #102)
+- Archived entities: 2 (#13, #76)
+- New relationships: 17
+- Captures: 13 (#78-90)
+- New GitHub files: 2 (characters/josie-pickett.md, research/josie-dialogue-samples.md)
