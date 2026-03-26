@@ -774,3 +774,113 @@ Repo files needing 120,000 to 145,000 update: REFERENCE.md (line 184), reports/s
 
 NovelCrafter also has: Subplot, Other, Global Entry, Story Genre.
 
+
+
+---
+
+## Session 013 — 2026-03-25
+
+**Platform:** Claude.ai Web (Opus 4.6)
+**Focus:** Major systems overhaul — power hierarchy, magic rules, character voice model, Tutorial redesign
+
+*NOTE: This session should be moved above Session 012 for chronological ordering.*
+
+### What Was Done
+
+**FOUR-LENS PERCEPTION MODEL (Codex #92 — LOCKED)**
+David identified that Nate was leaning too heavily on ranch and engineering metaphors, reading like a Western that wandered into a LitRPG. Established four lenses for Nate's internal voice:
+- Lens 1 — Ranch: survival, terrain, animals, physical work
+- Lens 2 — Engineering: infrastructure, architecture, root cause analysis
+- Lens 3 — Gamer: pattern recognition, genre awareness, game mechanics (casual gamer — Diablo, Elder Scrolls, casual WoW, Destiny, XCOM/Civ, some tabletop D&D in college)
+- Lens 4 — Christian: quiet moral compass, acted not spoken, Narnia Principle lens
+- Writing rule: no single lens dominates more than 40% of any chapter
+
+**THE BARRIER — IMAGO DEI THEOLOGICAL FOUNDATION (Codex #94 — LOCKED)**
+Humans were always superhuman — created in God's image, that power was natural in Eden. After the Fall, a barrier was placed over it. Historical evidence leaked through (sixth sense, mother lifting a car). The System (Lucifer) artificially bypasses this barrier and slaps a GUI on it — claims credit for what God built. For Anomalies, the Holy Spirit ACTUALLY removes the barrier but without training wheels. Nate has to learn without the easy button.
+
+**POWER HIERARCHY — THREE TIERS + IMAGO DEI FOUNDATION (Codex #91 — LOCKED)**
+- Imago Dei = foundation baked into everything, not a separate tier
+- Tier 1: System Magic (capped at A-tier in absolute terms)
+- Tier 2: Elder Magic (Fae/Old Powers — the fragment, degraded photocopy)
+- Tier 3: Conduit Power (uncapped, conditional on faithfulness)
+- God acts ONLY through the conduit, never directly. No Tier 4.
+
+**CONDUIT CONSEQUENCE MODEL (Codex #93 — LOCKED)**
+Two-mode system: Minor drift (pride, selfishness) → gradual power fade like a weakening signal. Major violation (deliberate cruelty, using power for evil) → hard shutoff, breaker flips. Restoration = relationship repair, not cooldown timer.
+
+**SYSTEM MAGIC RULES — FOUR COMPONENTS (Codex #97 — LOCKED)**
+All four System mechanics defined (light crunch — readers see costs/cooldowns, no formulas):
+1. Mana pools + cooldowns (quantified resource management)
+2. Skill ranks F→S (use-based leveling, addictive dopamine loop)
+3. Class affinities (hybrid assignment — aptitude + System need, illusion of choice)
+4. Patron bonds (power shortcuts with hidden binding cost)
+Universal starter skill for all classes — same basic bolt/strike, branching later with System-controlled options.
+
+**SYSTEM DUAL INTERFACE (Codex #95 — LOCKED)**
+Blue screen redesigned as CHARACTER SHEET only — a rest/menu screen that blocks vision when open (like opening inventory in Skyrim). System users also get a separate combat HUD for active use. Starts better than Nate's but never evolves. Nate has NO character sheet — his info is felt and interacted with mentally through his HUD.
+
+**SYSTEM BINDING PROGRESSION — FOUR STAGES (Codex #100 — LOCKED)**
+The mirror of conduit consequences. No moral cost but severe binding cost:
+- Stage 1 Integration (The Gift) — free, invisible hooks, easy to reverse
+- Stage 2 Leveling (The Hooks) — dependency grows, training wheels, painful to reverse
+- Stage 3 Patron Bonds (The Chains) — autonomy erodes, Patron reshapes wants, brutal to reverse
+- Stage 4 Prestige/Ascension (The Replacement) — humanity replaced, hollowed vessel
+- Rule: the door is ALWAYS open (grace never expires) but narratively some characters become someone who would never walk through it
+- The Boiling Frog Principle: no single step feels like a bad decision
+
+**THE STAGE 4 CONVERT (Codex #101 — LOCKED CONCEPT)**
+One character in Books 5-6 who proves the door is always open. Fully hollowed System construct who chooses to destroy everything they've become. Devastating cost, emerges as nearly nothing. Becomes critical — insider knowledge + testimony that grace doesn't expire. One character, one time, to prevent the binding progression from reading as theological determinism.
+
+**CLASS RENAMES**
+- Systems Engineer → **Engineer** (Codex #98, supersedes #13). Broader — covers IT, farmhand repair, MacGyver building.
+- Tactical Coordinator → **Vanguard** (Codex #99). Marcus Webb's class. Leadership without a corporate job title.
+
+**TUTORIAL STRUCTURE REDESIGN (Codex #96 — MAJOR REWRITE)**
+Complete Tutorial overhaul:
+- 50 people per pocket (down from 200)
+- Room-based dungeon run — 11 rooms (Room 0 staging through Room 10 boss)
+- Safe room start with fantasy starter gear (crap quality)
+- One fight per room, rest corridors between with CRAFTING STATIONS
+- Crafting stations progress from basic table → forge → full workshop
+- Loot drops from combat rooms — crafter roles meaningful
+- Varied environments — not all dungeon corridors (forest clearings, caverns, arena)
+- Room 6 split — group divides based on System performance data
+- Moral test: Resource Split (12 gear sets, 25 people — Nate gives his away, no sermon)
+- Boss room (Room 10): Briarknight + adds, graduation, Level 4 exit
+- Post driver does NOT come to Tutorial — Nate picks materials and MAKES his weapon using SA + Field Repair at the crafting station
+
+**NEW CHARACTERS**
+- **The Loot Goblin** (Codex #102 — Identity TBD): Recurring comic relief who compulsively collects every drop and scrap. Annoying until the crafter needs a specific material. Joins settlement later as quartermaster/scavenger.
+- **The Stage 4 Convert** (Codex #101 — Identity TBD): See above.
+
+**NATE PHYSICAL DESCRIPTION (Codex #1 updated)**
+6'2" to 6'3", stocky, farm fit — not bodybuilder bulk. Decades of ranch work.
+
+**TONE DIRECTION — LOCKED**
+More sarcasm, dry wit, comedy throughout. Dungeon Crawler Carl level of humor threading through heavy content. Comedy is load-bearing — without it the theological weight crushes reader engagement. Rewrite from Ch1 onward is likely.
+
+**SERIES TITLE CONFIRMED:** *Beneath the Overlay* (Entity #65). README.md still says "Multiverse of Sevens" — needs updating.
+
+### Codex Maintenance
+
+**New entities (13):** #91, #92, #93, #94, #95, #96, #97, #98, #99, #100, #101, #102, plus one unnumbered capture batch
+
+**Updated entities (8):** #1 (Nate physical), #6 (Anomaly count ambiguous), #27 (Tutorial structure), #86 (Marcus → Vanguard), #87 (Tutorial glitch abilities — no post driver), #91 (A-tier cap tag), #96 (full Tutorial rewrite)
+
+**Archived entities (2):** #13 (Systems Engineer → superseded by #98), #76 (Blue Screen → superseded by #95)
+
+**New relationships (13):** Power hierarchy links, supersedes chains, opposition between binding/conduit models
+
+**Captures logged:** #78-88 (11 captures)
+
+### Deferred to Next Session
+
+- Loot Goblin character development (name, personality, class)
+- Nate's Tutorial weapon specifics (what does he build from Room 0 materials?)
+- Boss fight mechanics (Room 10 encounter design)
+- Codex #91 full description text needs B-tier→A-tier rewrite (MCP length error)
+- REFERENCE.md needs rebuild to match this session's decisions
+- README.md needs title update (Multiverse of Sevens → Beneath the Overlay)
+- nate-hall.md needs Four-Lens Model, gamer background, Engineer class, physical description
+- All draft chapters (Ch1-5) flagged for rewrite against new systems
+- David had "something else" that slipped his mind — will surface later
