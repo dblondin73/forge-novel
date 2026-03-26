@@ -1,6 +1,6 @@
 # Forge Novel — Locked Worldbuilding Reference
 
-*Rebuilt from live Codex data — 2026-03-23*
+*Rebuilt from live Codex data — 2026-03-25*
 *Source: forge-mcp Codex entities tagged `core` across all types*
 
 ---
@@ -13,8 +13,17 @@ Mid-30s Louisiana cattleman turned Systems Engineer and DoD contractor. System c
 **F.L.I.N.T.** — Codex #2
 Field Logic Interface, Network Tethered. Nate's AI companion — a standard System construct rewritten by the Holy Spirit before first boot. Sarcastic, sharp-tongued, loyal. Outbound reporting permanently severed (no spyware); inbound network access intact but degraded via ghost authentication token. Mental link with Nate is two-way from first contact — Nate's first push is involuntary (*Enough.*), cutting off Flint's monologue; Flint registers surprise that the line runs both ways. Nate speaks out loud for deliberate replies initially; thought-channel use is instinctive only at first. Network capability progresses across all 7 books from fragmented receive-only (Book 1) to root write access that hijacks System notification pipes at the Observation Point (Book 7). Consent rule locked from Book 4 forward: all deliberate manipulation requires Nate's knowledge and consent.
 
+**Rex** — Codex #64
+Nate's Border Collie. Four years old at Integration. Working stock dog, not a pet. Communicates through behavior and empathic impressions — never words, never speech. First creature on the ranch to react to the stag and the Integration. Survives Integration, transported to Tutorial via companion bond. Post-Integration evolution through **Companion Resonance** (Codex #88): heightened senses (detects spawn activation before Structural Analysis), empathic amplification (bond sharpens from vague to precise directional impressions), physical edge (faster, tougher, tireless), pack tactics (herds Tutorial creatures into kill zones using cattle-working instincts). Resonance is conduit-based — flows through bond with Nate, not System-granted. System cannot index him. Progression deepens across 7 books as Nate's conduit authority grows.
+
 **Marcus Webb** — Codex #86
-Nate's boss at the DoD contracting firm. The Adapter — recognizes the new post-Integration reality faster than most and uses his organizational skills to build something new rather than clinging to the old hierarchy. Represents the old world's competence applied to the new reality. Potential ally across the series. May appear in Tutorial (same local pocket as Nate) or post-Tutorial. The key question Marcus embodies: can the old world's structures serve the new world, or do they have to be rebuilt from scratch?
+Nate's boss at the DoD contracting firm. The Adapter — recognizes the new post-Integration reality faster than most. Tutorial class: Tactical Coordinator. In Nate's Tutorial pocket by geography. Manages the pocket's defense the way he managed programs — identifies the stable node, routes everything toward it. Represents the old world's competence applied to the new reality. Potential ally across the series.
+
+**The Stag** — Codex #78
+Mythological stag that appears on Nate's ranch at the moment of Integration. NOT a whitetail — wrong in every proportion. Legs too long, body leaner, antlers branch like root systems. Coat holds light warmer than it receives. Eyes gold/amber, self-luminous. Beautiful the way a thunderstorm is beautiful. The stag's eye contact with Nate is the trigger — not the sky. It was waiting. Part of God's infrastructure, not the System. Predates the overlay. Identity parked — hybrid Welsh/Celtic Christian/Norse direction recommended. Reappears — timing TBD.
+
+**Thornlings** — Codex #90
+Tutorial-spawned creatures — first enemies in the Tutorial pocket. Small (3-4 feet), fast, pack-hunting. Grown from the Tutorial's own procedural environment — bark-textured skin, thorn-studded limbs, eyes that pulse with spawn-point rhythm. Bleed amber sap. Sounds are wood cracking, not screaming. Fae aesthetic — Celtic briar creatures, not generic fantasy goblins. Pack hunters: probe, flank, swarm. Scalable: Thornlings (L1-3), Thornguards (6 feet, bark-plate armor, L5-8), Briarknights (L10+, TBD). Nate reads them through SA (sees them forming before they surface) and Field Repair (finds stress fractures in bark-skin). Thematic: the overlay produces counterfeit life from counterfeit environment — nothing it makes is original.
 
 **Sonja Lee** — Codex #3
 Red-haired, green-eyed Anomaly of Irish descent. Name from Greek Sophia — she IS wisdom in this partnership. Carries a complementary spiritual gift Nate lacks (discernment or prophetic clarity as vessel, not source). May carry or BE a pre-System artifact the System wants. Irish Celtic heritage gives her resonance with thin places and Fae recognition. Mirrors the biblical Nathan's role as truth-teller to King David. Romance develops slowly across books from mission partners to faithful monogamy.
@@ -126,8 +135,8 @@ Four stages modeled on Paul's Damascus Road: The Crack (seeing through the overl
 **The Labyrinth** — Codex #17
 God's multiverse routing infrastructure — NOT a dungeon. The System overlays a dungeon skin (stone walls, torches, monsters, loot). Underneath: older, elegant, luminous surfaces with structural light patterns. Contains rest stops where the overlay drops. Deeper levels connect to other worlds. Deepest level sealed by Admins — leads to something outside the multiverse.
 
-**The Observation Point (Name TBD)** — Codex #31
-Deep Labyrinth location where the multiverse architecture becomes transparent. Not a throne or weapon — a perspective. See the whole network map as God sees it. Late-series goal: reach this point and broadcast truth to everyone inside the counterfeit. System Admins have built layers of counterfeit reality around it. Name still TBD (rejected: God's Eye, Mercy Seat, Vantage, Threshold).
+**The Keystone (Observation Point)** — Codex #31
+Deep Labyrinth location where the multiverse architecture becomes transparent. Not a throne or weapon — a perspective. See the whole network map as God sees it. Late-series goal: reach this point and broadcast truth to everyone inside the counterfeit. In architecture, a keystone holds the arch — remove it and the structure collapses. From the Keystone, Nate and Flint broadcast the truth in Book 7. The System's overlay is exposed as counterfeit. The arch falls. Not a battle — a revelation.
 
 ---
 
@@ -226,8 +235,8 @@ Elves, dwarves, and other non-human races are NOT System-generated. They come fr
 **Tutorial Glitch Abilities — Nate's Starter Skills** — Codex #87
 The System attempts standard starter abilities during the Tutorial, but Nate's occupied space warps what comes through. STRUCTURAL ANALYSIS (Codex #13): Activates wrong — instead of reading item stats, it shows Nate the Tutorial environment's actual architecture. He sees procedural generation seams, spawn points, where the algorithm repeats. He's reading the System's source code through its own tool. COMBAT SKILL FAILURE: A standard combat skill tries to load and fails, producing something unexpected — possibly Field Repair activating on objects he touches, letting him reinforce or modify physical things. A maker skill that combat falls out of. ENGINEERING WEAPON: Nate doesn't bring a weapon — he builds or repurposes one from the Tutorial environment. His Structural Analysis shows him what's real under the System's skin. PROGRESSION PRINCIPLE: Each glitch ability feels like a disadvantage at first and reveals its true advantage through creative engineering application.
 
-**Tutorial Pet Bond Rule** — Codex #88
-Animals with a strong pre-existing bond to their owner are transported to the Tutorial alongside them. Rex qualifies — years of working partnership with Nate. Random strays, livestock, and weakly bonded pets do not qualify. The bond threshold is unclear and may be System-defined or spiritually defined. Rex gives Nate a tactical partner — a working dog who reads his body language without System interface. Fits Pre-System Bonding (Codex #34) and Genesis Stewardship Model (Codex #43). Rex does NOT get a System screen. Rex does NOT get abilities. Rex is exactly what he was — a Border Collie who works cattle and trusts his person. That is enough.
+**Tutorial Pet Bond and Companion Resonance** — Codex #88
+Animals with a strong pre-existing bond to their owner are transported to the Tutorial alongside them. Rex qualifies — years of working partnership. Random strays, livestock, and weakly bonded pets do not qualify. Integration energy soaked into all living things — companion animals with deep neural bonds absorbed more than general wildlife. The bond acts as a conduit for subtle enhancement: heightened senses, physical endurance, amplified empathic communication. For Anomaly-bonded companions like Rex, the effect is stronger because the conduit carries divine authority. This is NOT a System feature — it's a side effect the System neither intended nor tracks. Companion animals remain invisible to System indexing. General animals show marginal changes only. WRITING RULE: Rex's capabilities grow organically — never through a System prompt or ability grant.
 
 **Social Fracture Model** — Codex #89
 The System is an accelerant, not a cause. Every fracture that opens post-Integration was already a crack before. Five axes: (1) Political polarization — "Levelers" vs "Achievers" maps onto existing left/right within days. (2) Urban/rural divide — rural areas adapt faster (self-reliance, land, community, weapons); urban density creates resource competition and monster-proximity problems. (3) Institutional distrust — government tries to control System access; conspiracy theories go terminal. (4) Religious fracture — System as divine gift vs demonic intrusion vs irrelevant; faith communities that hold together become power centers. (5) Economic inequality — old wealth doesn't map to new power, but access and information still matter. Show through radio chatter, NPC dialogue, Tutorial group dynamics — never preach. Nate's county is a microcosm.
@@ -238,15 +247,15 @@ The System is an accelerant, not a cause. Every fracture that opens post-Integra
 
 | Type | Core Entities | IDs |
 |------|--------------|-----|
-| Character | 4 | 1*, 2, 3, 86 |
+| Character | 7 | 1*, 2, 3, 64, 78, 86, 90 |
 | Faction | 6 | 4, 5, 6, 7, 8, 9 |
 | Game Mechanic | 21 | 10, 11, 12, 13, 14, 15, 26, 34, 35, 37, 41, 43, 44, 46, 47, 48, 55, 56, 59, 79, 87 |
 | Location | 3 | 17, 30, 31 |
 | Lore | 30 | 16, 18, 27, 28, 29, 36, 38, 39, 40, 42, 45, 49, 50, 51, 52, 53, 54, 57, 60, 61, 63, 80, 81, 82, 83, 84, 85, 88, 89 |
-| **Total** | **64** | |
+| **Total** | **67** | |
 
 *\* Entity #1 (Nathan "Nate" Hall) tagged `protagonist` not `core` — included as foundational.*
 
 ---
 
-*89+ total Codex entities on Nova MCP server. This reference covers core-tagged entities only. For full entity details, query forge-mcp directly by ID.*
+*90+ total Codex entities on Nova MCP server. This reference covers core-tagged entities only. For full entity details, query forge-mcp directly by ID.*

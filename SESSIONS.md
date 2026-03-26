@@ -5,6 +5,70 @@
 
 ---
 
+## Session 012 — 2026-03-25
+
+**Platform:** Claude Code (Opus 4.6, VS Code extension)
+**Focus:** Housekeeping, Ch5 pre-writing, Ch5 first draft, session start prompt
+
+### What Was Done
+
+**Housekeeping (carryover from Session 011)**
+- Updated all 6 Ch4 beats (13, 14, 15, 16, 129, 130) to "drafted" status — blocked last session by forge-mcp session GC, completed this session
+- Updated Ch4 chapter status to "drafted" with word_count_actual: 4,200
+- Fixed SESSIONS.md ordering — moved Session 011 from bottom to top (most recent first)
+
+**Ch5 Pre-Writing Decisions**
+
+- Tutorial creatures: **Thornlings** (Codex #90) — Fae-aesthetic pack hunters, procedurally grown from Tutorial environment. Bark-skin, thorn-studded, bleed amber sap. Scalable: basic Thornlings (L1-3), Thornguards (L5-8, armored), Briarknights (L10+, TBD)
+- Rex evolution: **Companion Resonance** — not System-granted abilities but organic enhancement through conduit bond. Heightened senses, empathic amplification, physical edge, pack tactics. Updated Codex #64 and #88
+- Post driver confirmed in Tutorial (Nate grabs at T-20 in Ch4 draft)
+- Weapon path: starts with raw post driver → Field Repair reinforces it mid-chapter → rock wedge improvised from Tutorial composite
+- Marcus role: coordinates group initially, redirects survivors to Nate's position when it becomes the crisis point
+- Combat structure: three escalating waves with breathing room between
+
+**Codex Updates**
+- **#90 (NEW)** — Thornlings: Tutorial creature entry with full description, tactical behavior, SA interaction, scalable threat tiers, thematic note
+- **#64 (Rex)** — Added Companion Resonance section: heightened senses, empathic amplification, physical edge, pack tactics, theological basis, 7-book progression
+- **#88 (renamed)** — "Tutorial Pet Bond Rule" → "Tutorial Pet Bond and Companion Resonance" — expanded with resonance framework, general animal effects, writing rule
+
+**Ch5 "Cattle Chute" first draft written (~5,200 words, 4 beats)**
+
+Beat 1 — FIRST WAVE: Thornlings erupt from spawn points. Mage panic. Nate fights ranch-rules — back to rock face, 8-foot arc with post driver. Rex's first combat herding — locks eyes with flanking Thornling, drives it into Nate's swing. Marcus organizes Warriors/Mages/Healers. Four minutes of combat.
+
+Beat 2 — BREATHING ROOM: Bodies dissolve to amber sap (Tutorial reclaims materials). Flint reports adaptive interval. Rex's bond sharpens — "music through an open window" metaphor. Nate uses Field Repair on post driver — finds weak weld, tightens molecular structure. "You didn't make a weapon. You fixed the one you already had." SA reveals corridor herding pattern. Flint: "Same way you move cattle through a chute." Nate: "That was my line." Nate pulls Warrior group back from corridor.
+
+Beat 3 — SECOND WAVE: Rex senses spawn activation 4 seconds before SA — companion resonance emerging under combat stress. 15 Thornlings plus first Thornguard (6 feet, bark plating). Nate provides tactical readouts — lower back single-layer, forearm thorns are structural. Shield Guardian (who dismissed Nate earlier) follows the callout, kills it. Rex herds creatures into kill zones. Nate pockets rock fragment for later.
+
+Beat 4 — THIRD WAVE: Multi-corridor simultaneous assault. Marcus's organized line buckles. Shield Guardian goes down. Rex maps the entire wave as a herd — sends empathic PULL BACK impression. Marcus redirects everyone to rock face. Nate fights with both hands — post driver (sweeping) + rock wedge (close work, fracture-plane edge). Rex herds panicking humans AND creatures. Group consolidates — 40 people hold the rock face. Tutorial algorithm deprioritizes them ("you broke the algorithm"). Chapter ends with unit formation — people following the unclassified man with the fence tool.
+
+**Session start prompt created**
+- Saved to `prompts/forge-novel-session-start.md`
+- Covers: role, MCP setup, startup checklist, voice models, writing rules, prose style, workflow, Codex quick reference, prohibitions
+- Designed for new-session bootstrap — paste into any Claude Code chat
+
+**REFERENCE.md updated**
+- Added Rex (#64), The Stag (#78), Thornlings (#90) to Characters
+- Updated #88 entry with Companion Resonance content
+- Fixed Observation Point name from "TBD" to "The Keystone" (locked Session 007)
+- Updated Quick Stats table
+
+### Decisions / Notes
+
+- Thornlings are **procedurally grown from the Tutorial's own environment** — counterfeit life from counterfeit world. Thematic resonance with Narnia Principle (overlay produces derivative copies, nothing original)
+- Rex's companion resonance is **conduit-based, not System-based** — energy flows through relationship, not assignment. Genesis stewardship. System can't index it.
+- "Cattle chute" metaphor works on three levels: Tutorial architecture, chapter title, and Flint stealing Nate's line as a character beat
+- Shield Guardian callback: same man who dismissed PROCESSING tag in Ch4 now follows Nate's tactical callouts in Ch5 — character arc without exposition
+- Profanity count: 3 instances (Nate internal, Marcus tactical ×2). Within guidelines.
+
+### Open Items
+
+- Ch5 editorial pass needed (after David reads)
+- Ch5 beats 17-20 status still "planned" — update to "drafted" after editorial approval
+- magic_system.md in prompts/ is untracked — decide if it should be committed
+- Session 012 SESSIONS.md entry references REFERENCE.md updates — verify both pushed
+
+---
+
 ## Session 011 — 2026-03-24
 
 **Platform:** Claude Code (Opus 4.6, VS Code extension)
