@@ -1,6 +1,6 @@
 # Character Sheet — Nathan "Nate" Hall
 
-*Codex ID: 1 | Status: Active | Last Updated: 2026-03-25 (Session 013)*
+*Codex ID: 1 | Status: Active | Last Updated: 2026-03-26 (Session 014)*
 
 ---
 
@@ -14,6 +14,7 @@
 | **Nickname Origin** | "King" — started as sarcasm, stuck because he kept being right |
 | **Age** | Mid-30s (~35) |
 | **Background** | East Texas cattleman, hunter, and DoD Systems Engineer |
+| **Education** | Louisiana Tech (Ruston, LA) — Engineering degree |
 | **Faith** | Faithful Christian — Holy Spirit dwells in him |
 | **Base** | Thousand-acre ranch, Panola County, East Texas — north of Carthage |
 | **Mother's Maiden Name** | Hall — the surname carries her line |
@@ -81,7 +82,7 @@ Not a theorycrafting min-maxer. The IT guy who played a weird off-meta build bec
 
 Skills from life, not a stat sheet:
 
-**Ranch life:** Animal husbandry, fence repair, storm reading, land navigation, livestock management.
+**Ranch life:** Animal husbandry, fence repair, storm reading, land navigation, livestock management. Grew up on a cattle ranch in Louisiana.
 
 **Hunting and fishing:** Rifles, shotguns, deer stands since adolescence. Probably bow season too. Fishing since childhood. Handled ranged weapons his entire life — sight picture, breath control, trigger squeeze all second nature.
 
@@ -89,7 +90,7 @@ Skills from life, not a stat sheet:
 
 **Shade tree mechanic:** Fixes things himself. Opens the hood, figures out what's broken, finds or makes the part. Does not take it to the dealer.
 
-**Systems Engineering:** Infrastructure design, troubleshooting, root cause analysis, architecture documentation. DoD/SCIF veteran — security protocols, risk assessment, authority structure awareness.
+**Engineering (formal):** Degree from Louisiana Tech, Ruston, LA. Mother pushed him toward it — he always gravitated back to the land despite the professional path. The degree led to DoD contracting: infrastructure design, troubleshooting, root cause analysis, architecture documentation. SCIF veteran — security protocols, risk assessment, authority structure awareness.
 
 **Faith:** Decades of walking with God before the System made it mechanically relevant.
 
@@ -104,7 +105,7 @@ Skills from life, not a stat sheet:
 ## Family (LOCKED — Session 007)
 
 - Father deceased — died when Nate was in his twenties. Rancher who taught him everything.
-- Mother deceased within the last few years — Nate cared for her through her final illness.
+- Mother deceased within the last few years — Nate cared for her through her final illness. She pushed him toward engineering school (Louisiana Tech).
 - Only child. No siblings. No spouse. No children.
 - Functionally alone at Integration: just him, Rex, and the cattle.
 
