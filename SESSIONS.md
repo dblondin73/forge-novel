@@ -957,3 +957,50 @@ Major worldbuilding clarification: not everything the System provides is a hook.
 - Ch1-5 rewrite triage
 - REFERENCE.md full rebuild (Claude Code)
 - David's forgotten item from last session
+
+
+### Session 014 — Final Addendum (continued from earlier)
+
+**JOSIE PICKETT — FULL BACKSTORY LOCKED (Codex #102 updated)**
+- Physical: 5'4", compact, solid. Dark brown ponytail. Brown scanning eyes. Always has a smudge of something on her.
+- Family: Roy Pickett (lumber yard, Marshall) and Darlene Pickett née Hooks (vet clinic, Marshall). Both alive. Working class, functional, loving. No siblings.
+- Home: Apartment above "Second Chances" pawn shop, Marshall, Harrison County TX.
+- Education: Panola College (Carthage), business administration, part-time.
+- At Integration: Farm estate sale outside Carthage. In the barn when the sky broke.
+- Redemption Path crack: Comes from watching NATE — not from her own class. She can't appraise what she sees in him.
+- $4,200 savings and a spiral notebook business plan. Neither matters anymore.
+
+**NATE — LOUISIANA TECH ADDED**
+Engineering degree from Louisiana Tech, Ruston, LA. Updated nate-hall.md and captured to Codex.
+
+**NATE'S CROSSBOW BUILD — ROOM 0 SCENE REFERENCE WRITTEN**
+Full scene reference saved to `research/room0-crossbow-build.md`. Includes:
+- SA (Structural Analysis) definition and prose cheat sheet
+- What SA shows at the weapon racks (cosmetic steel, hollow cores, one real prod)
+- The build (table leg stock, wall bracket trigger, Field Repair bonding)
+- Nate-Josie first meeting over real vs fake leather
+- Forging hammer (flat face + cross peen, NOT carpenter's claw)
+- Key lines: "The furniture is better than the weapons" / "Theirs will break first" / "You just built a weapon out of the room"
+
+**HAMMER CORRECTION:** Forging hammer — flat face and cross peen. NOT a claw hammer. Codex #104 updated.
+
+**CH1-5 REWRITE TRIAGE COMPLETED**
+Full triage report saved to `reports/ch1-5-rewrite-triage.md`.
+- Ch1-3: Salvageable with voice passes (add gamer lens, comedy, push Flint)
+- Ch4-5: Full structural rewrites (room-based Tutorial, 50 people, Vanguard, crossbow, Josie, no post driver)
+- Tutorial expanding from 2 chapters (Ch4-5) to 5 chapters (Ch4-8)
+- Rewrite priority: Ch4 → Ch5 → Ch1 → Ch3 → Ch2 → Ch6-8 (new)
+
+### Full Session 014 Entity Count
+- New Codex entities: 4 (#105 Inventory Ring, #106 Briarknight, #107 Room 10 Boss Fight, #108 Hooks vs Tools)
+- Updated entities: 3 (#11 HUD cross-ref, #102 Josie full backstory, #104 hammer correction)
+- New relationships: 6
+- Captures: 4 (#91-94)
+- New GitHub files: 3 (reports/ch1-5-rewrite-triage.md, research/room0-crossbow-build.md, characters/josie-pickett.md rewritten)
+- Updated GitHub files: 2 (characters/nate-hall.md, README.md — from earlier in session)
+
+### Deferred to Next Session
+- Ch4 rewrite (Room 0 — first priority)
+- Full outline restructure (32 chapters → expanded Tutorial)
+- REFERENCE.md full rebuild (Claude Code)
+- David's forgotten item from Session 013
