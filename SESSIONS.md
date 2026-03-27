@@ -916,3 +916,44 @@ Repo files needing 120,000 to 145,000 update: REFERENCE.md (line 184), reports/s
 | lore (world-building) | Lore |
 
 NovelCrafter also has: Subplot, Other, Global Entry, Story Genre.
+
+
+---
+
+## Session 014 — 2026-03-26
+
+**Platform:** Claude.ai Web (Opus 4.6)
+**Focus:** Boss fight design, inventory system, hooks vs tools distinction
+
+### What Was Done
+
+**BRIARKNIGHT — TUTORIAL BOSS (Codex #106 — LOCKED)**
+Full boss creature design. Eight feet tall, interlocking bark-plate armor, monocrystalline arm-blade glaive. Not template-generated — composed by the Tutorial's combat AI from nine rooms of data. Three dangers: smart (targets Healer first), armored (swords bounce), adaptive (learns tactics in real time from combat data). The pinnacle of what the counterfeit can produce — impressive but still derivative.
+
+**ROOM 10 BOSS FIGHT — THREE PHASES + TEAM FINISH (Codex #107 — LOCKED)**
+- Phase 1 ADDS: Thornling swarm (20-25) while Briarknight watches. Resource drain to ~60% capacity.
+- Phase 2 THE KNIGHT: Briarknight engages. Targets Healer. Adapts to tactics. Shield Guardian goes down. Line collapsing. Crisis.
+- Phase 3 THE ENGINEER'S ANSWER + TEAM FINISH: Nate uses SA to identify structural pillar weakness. Calls Marcus. Full team executes: Warriors bait, Mages harass, Rex herds, Nate shoots pillar fracture point. Ceiling drops on Briarknight — pinned, cracked open, NOT dead. Warriors finish it as a team in the exposed gaps. "The Engineer doesn't kill the boss. The Engineer makes the boss killable."
+- Post-boss: Classic loot chest materializes. Josie harvests arm-blade from wreckage (has to sacrifice ring contents to fit it).
+- Key lines: "You dropped a ceiling on it." / "That's what infrastructure is for." / "NOBODY TOUCH THE ARM-BLADE."
+
+**INVENTORY RING — DIMENSIONAL STORAGE SYSTEM (Codex #105 — LOCKED)**
+Quantum mechanics real — humans can interact with dimensional space (Imago Dei). System provides rings using Tier 3 runes. Small capacity, basic functionality. NOT a hook — purely functional tool. Tutorial timing: mid-run reward (~Room 5-6), not graduation. Josie hoards manually for first half (comedy), gets ring, fills it, has to sacrifice contents for arm-blade after boss. Progression: reverse-engineerable to Elder and eventually Divine rune versions with larger space.
+
+**SYSTEM HOOKS vs SYSTEM TOOLS — THE KEY DISTINCTION (Codex #108 — LOCKED)**
+Major worldbuilding clarification: not everything the System provides is a hook. HOOKS = skills, class advancement, patron bonds, AI spyware, prestige paths, some OP gear. TOOLS = standard weapons, armor, inventory rings, consumables, basic crafting. The smartphone metaphor: the phone works great, the OS tracks everything. The honest tools build trust. The trust makes the hooks invisible. Settlement implication: Nate's community CAN use System gear without being bound deeper. They cannot use System progression without the hooks.
+
+### Codex Updates
+- **#105 (NEW)** — Inventory Ring (dimensional storage, Tier 3 runes, mid-Tutorial timing)
+- **#106 (NEW)** — Briarknight (Tutorial boss, full design)
+- **#107 (NEW)** — Room 10 Boss Fight (three phases + team finish)
+- **#108 (NEW)** — System Hooks vs Tools (core distinction)
+- **New relationships:** 5 (boss→Tutorial, boss→Thornlings, ring→rune hierarchy, fight→boss, hooks→binding)
+- **Captures:** 2 (#91 inventory concept, #92 hooks vs tools)
+
+### Deferred
+- Josie backstory (physical, family, details)
+- Nate's crossbow build scene (what SA shows him in Room 0)
+- Ch1-5 rewrite triage
+- REFERENCE.md full rebuild (Claude Code)
+- David's forgotten item from last session
