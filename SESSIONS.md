@@ -1004,3 +1004,24 @@ Full triage report saved to `reports/ch1-5-rewrite-triage.md`.
 - Full outline restructure (32 chapters → expanded Tutorial)
 - REFERENCE.md full rebuild (Claude Code)
 - David's forgotten item from Session 013
+
+
+### Session 014 — Beat Update Addendum
+
+**CH4 BEATS REBUILT (6 new beats)**
+Old beats (13, 14, 15, 16, 129, 130) deleted — all referenced old structure (200 people, wilderness clearing, post driver).
+New beats created (251-256):
+1. ARRIVAL AND CHAOS — 50 people, Room 0, chaos, Marcus organizing, gamer lens fires
+2. SA READS THE ROOM — weapon racks are garbage, architecture is solid, "nobody loots the furniture"
+3. THE CROSSBOW BUILD — strips prod, table leg stock, bracket trigger, Field Repair, forging hammer
+4. JOSIE — first meeting, real vs fake leather, crafting partnership begins, comedy pushed hard
+5. MARCUS AND THE PROCESSING TAG — "What can you do?" / Shield Guardian dismissal / combat skill crash / "sword and you got a workshop"
+6. COUNTDOWN TO ROOM 1 — timer, corridor opens, spawn points ahead, "Here we go"
+
+Ch4 status reset to "planned" with word_count_actual=0.
+
+**CH3 SUMMARY UPDATED**
+Pre-Tutorial transition content (fence check, radio chaos, Henderson kid, countdown, child separation, transport) moves to END of Ch3. Ch4 opens clean in Room 0.
+
+**PROSE HANDOFF**
+Ch4 prose draft assigned to Claude Code. Prompt prepared with all reference files and critical rules. Draft target: ~5,000 words to drafts/ch04-room-zero-draft02.md.
