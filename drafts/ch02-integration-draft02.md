@@ -46,7 +46,7 @@ Then his mother's voice. Calling him in from the pasture at dusk. He couldn't re
 
 Gone.
 
-He knew the memory had existed. He knew what it was about, the way you know a word you can't recall — the shape of it, the space where it should be, the frustrating certainty that it was right _there_ a moment ago. But the thing itself, the actual sensory experience of standing in the east pasture at age nine with the sun going down and his mother's voice carrying across four hundred yards of bahiagrass — that was gone. Converted. Filed somewhere he couldn't access in a format he couldn't read.
+He knew the memory had existed. He knew what it was about, the way you know a word you can't recall — the shape of it, the space where it should be, the frustrating certainty that it was right _there_ a moment ago. But the thing itself, the actual sensory experience of standing in the east pasture at age nine with the sun going down and his mother's voice carrying across four hundred yards of bermudagrass — that was gone. Converted. Filed somewhere he couldn't access in a format he couldn't read.
 
 The scan kept moving. Deeper. Faster. His first dog — what was her name? She'd been a red heeler mix, he remembered that, he remembered the _fact_ of her but the _feel_ of her was dissolving. The weight of her head on his knee. The sound of her tags jingling on the porch. Gone. The time he'd fallen out of the pecan tree and broken his arm — he could remember the hospital, the cast, but the actual moment of falling, the rush of air and the crack of the branch and the instantaneous certainty that this was going to hurt — the scan touched it and it softened into nothing.
 
@@ -124,7 +124,7 @@ And the memories it had already converted — the ones the occupied space had be
 
 The void began to break apart.
 
-Not violently — the way ice breaks in spring. Cracks of real light appearing in the darkness, not the cold data-overflow flickers from before but actual light, warm and diffuse, carrying the smell of — was that bahiagrass? — and the sound of wind. The real world leaking back in through the fractures in whatever space the process had pulled him into.
+Not violently — the way ice breaks in spring. Cracks of real light appearing in the darkness, not the cold data-overflow flickers from before but actual light, warm and diffuse, carrying the smell of — was that bermudagrass? — and the sound of wind. The real world leaking back in through the fractures in whatever space the process had pulled him into.
 
 Nate felt gravity first. Then weight. Then the specific, undeniable sensation of lying on his side on hard ground with something pressing into his hip.
 
@@ -178,7 +178,7 @@ Nate opened his eyes.
 
 The world was already moving on without him.
 
-Wind in the bahiagrass. Post oaks swaying at the tree line. A mockingbird running its catalog in the canopy — cardinal, blue jay, car alarm — as if nothing had interrupted it. From the direction of the county road, voices. Excited. Already excited. However long the world had been frozen, it was over now, and Nate had missed the thaw.
+Wind in the bermudagrass. Post oaks swaying at the tree line. A mockingbird running its catalog in the canopy — cardinal, blue jay, car alarm — as if nothing had interrupted it. From the direction of the county road, voices. Excited. Already excited. However long the world had been frozen, it was over now, and Nate had missed the thaw.
 
 He was lying on his side in the pasture. His ears were ringing. His hands were shaking. And his vision —
 
@@ -284,7 +284,7 @@ Whatever was coming, it wasn't here yet. But something in Nate's broken, half-in
 
 Then his legs went.
 
-Not from pain — from absence. The way a circuit fails under load: not with warning, not with drama, just a sudden clean nothing where load-bearing capacity used to be. His knees buckled and he went down to the bahiagrass in two stages — one knee first, then his side — and the ground came up to meet him with the matter-of-fact patience of something that had been waiting.
+Not from pain — from absence. The way a circuit fails under load: not with warning, not with drama, just a sudden clean nothing where load-bearing capacity used to be. His knees buckled and he went down to the bermudagrass in two stages — one knee first, then his side — and the ground came up to meet him with the matter-of-fact patience of something that had been waiting.
 
 Rex was on him before he stopped moving. A cold nose pressed against the back of his hand. The warm weight of a Border Collie skull against his forearm — not gentle, not panicked. Present.
 

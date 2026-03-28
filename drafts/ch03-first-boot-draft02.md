@@ -18,7 +18,7 @@ The pasture was where he'd left it. Bahiagrass, post oaks, the creek bottom beyo
 
 From the Henderson place, the hollering had settled into a sustained hum of voices — not alarm anymore, excitement. Farther out, car horns on the highway. The world had moved on while Nate was on the ground. Everyone else was already out there, discovering whatever the last twenty minutes had given them, exploring their screens and their stats and the fire a man could hold in his palm.
 
-Nate was lying in the bahiagrass with two green lines and a head full of empty shelves where memories used to be.
+Nate was lying in the bermudagrass with two green lines and a head full of empty shelves where memories used to be.
 
 He rubbed his face with both hands and let out a long breath through his nose.
 
@@ -72,7 +72,7 @@ Rex looked up at him, then looked around the empty pasture, then looked back at 
 
 _System._ The word landed with a small click of recognition — the same word that had sat at the top of the blue screen in those five seconds before everything broke. The voice in his head had just given it a name, and the name matched what the installer had called itself. So that was what it was. The System. Not a word Nate would have chosen, but at least now he had one.
 
-Nate watched a redtail hawk make a wide circle over the east pasture, riding a thermal with the lazy confidence of something that hadn't been informed the rules had changed. The morning was warming up. Dew was burning off the bahiagrass.
+Nate watched a redtail hawk make a wide circle over the east pasture, riding a thermal with the lazy confidence of something that hadn't been informed the rules had changed. The morning was warming up. Dew was burning off the bermudagrass.
 
 "What do I call you?" he said.
 
@@ -190,7 +190,7 @@ Dial.
 
 Nate turned it off.
 
-The morning was quiet. Insects in the bahiagrass. The pump grinding in the distance. The hum of a world that hadn't decided yet whether to panic or adapt, and was doing both at once.
+The morning was quiet. Insects in the bermudagrass. The pump grinding in the distance. The hum of a world that hadn't decided yet whether to panic or adapt, and was doing both at once.
 
 "For what it's worth," Flint said, and his voice was quieter than usual, stripped of its theatrical speed, "the network chatter I'm getting paints the same picture in every direction. Every major city is in some form of chaos. Rural areas are handling it better — self-reliance, fewer people per square mile, less to crash into when someone accidentally discovers they can move things with their mind. East Texas is actually one of the calmer zones."
 
@@ -280,7 +280,7 @@ He didn't grab anything. His hands were empty, and they were going to stay that 
 
 Rex jumped down from the truck bed. Nate didn't whistle for him. Didn't need to. The dog came to a decision that only a Border Collie could make in the time between heartbeats — that wherever his person was going, the protocol was the same. He pressed himself against Nate's leg, shoulder to shin, solid and warm and absolutely certain.
 
-Nate put one hand on the dog's head. Looked east across his pasture one more time. The bahiagrass. The fence line. The post oaks standing like they'd stood for a hundred years and would stand for a hundred more, whether anyone was here to see them or not.
+Nate put one hand on the dog's head. Looked east across his pasture one more time. The bermudagrass. The fence line. The post oaks standing like they'd stood for a hundred years and would stand for a hundred more, whether anyone was here to see them or not.
 
 **5**
 

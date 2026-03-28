@@ -432,7 +432,7 @@ And East Texas was there.
 
 ---
 
-Late afternoon light on post oaks. The shadows running long and purple across bahiagrass that had grown since they'd left — maybe two weeks' worth, maybe more, time having done what time did whether anyone was there to watch it or not. The sky was enormous the way East Texas sky was always enormous — wide and open and so blue it hurt to look at after hours of generated stone ceilings and warm amber lighting that came from nowhere.
+Late afternoon light on post oaks. The shadows running long and purple across bermudagrass that had grown since they'd left — maybe two weeks' worth, maybe more, time having done what time did whether anyone was there to watch it or not. The sky was enormous the way East Texas sky was always enormous — wide and open and so blue it hurt to look at after hours of generated stone ceilings and warm amber lighting that came from nowhere.
 
 Panola County. The ranch. His ranch.
 
@@ -444,7 +444,7 @@ Rex pressed against his leg. Still here. Still warm. Still certain. The dog's bo
 
 Josie was ten feet to his left, hand on her ring, checking inventory. Making sure the arm-blade was still there. Making sure the forty-three — no, thirty-two now, plus the arm-blade — material samples had survived the transition. Her lips moved as she counted. Silently. Methodically. The woman who valued everything, confirming that the things she valued had followed her home.
 
-Marcus stood in the pasture's center, scanning. Twelve people — eleven System citizens and one glitched Engineer — standing in an East Texas field, blinking in real sunlight for the first time in what felt like weeks and might have been hours and didn't matter because the bodies that stood in the bahiagrass weren't the bodies that had left it. They were harder. Scarred. Carrying gear that hadn't existed in this world before Integration and skills that their muscles remembered better than their minds.
+Marcus stood in the pasture's center, scanning. Twelve people — eleven System citizens and one glitched Engineer — standing in an East Texas field, blinking in real sunlight for the first time in what felt like weeks and might have been hours and didn't matter because the bodies that stood in the bermudagrass weren't the bodies that had left it. They were harder. Scarred. Carrying gear that hadn't existed in this world before Integration and skills that their muscles remembered better than their minds.
 
 Marcus counted them the way a cattleman counted head after a hard drive — not by name, not by number, but by presence. Twelve vertical. Twelve breathing. Twelve alive.
 
@@ -454,7 +454,7 @@ The Shield Guardian stood at the edge of the group, broken arm cradled against h
 
 Torres was on her feet. The restoration potion and the graduation heal had filled what the Tutorial had emptied, and she stood in the afternoon light with her hands open at her sides, feeling the sun on her palms, the warmth that came from nuclear fusion ninety-three million miles away instead of procedural rendering six feet overhead.
 
-The world they'd left was the same. The post oaks were the same. The bahiagrass was the same. The late light falling across Panola County was the same light that had fallen across it for as long as light had been falling.
+The world they'd left was the same. The post oaks were the same. The bermudagrass was the same. The late light falling across Panola County was the same light that had fallen across it for as long as light had been falling.
 
 Except it wasn't. And they weren't.
 

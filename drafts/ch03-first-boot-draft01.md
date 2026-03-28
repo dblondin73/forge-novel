@@ -18,7 +18,7 @@ The pasture was where he'd left it. Bahiagrass, post oaks, the creek bottom beyo
 
 From the Henderson place, the hollering had settled into a sustained hum of voices — not alarm anymore, excitement. Farther out, car horns on the highway. The world had moved on while Nate was on the ground. Everyone else was already out there, discovering whatever the last twenty minutes had given them, exploring their screens and their stats and the fire a man could hold in his palm.
 
-Nate was lying in the bahiagrass with two green lines and a head full of empty shelves where memories used to be.
+Nate was lying in the bermudagrass with two green lines and a head full of empty shelves where memories used to be.
 
 He rubbed his face with both hands and let out a long breath through his nose.
 
@@ -64,7 +64,7 @@ Rex looked up at him, then looked around the empty pasture, then looked back at 
 
 _System._ The word landed with a small click of recognition — the same word that had sat at the top of the blue screen in those five seconds before everything broke. The voice in his head had just given it a name, and the name matched what the installer had called itself. So that's what it was. The System. Not a word Nate would have chosen, but at least now he had one.
 
-Nate watched a redtail hawk make a wide circle over the east pasture, riding a thermal with the lazy confidence of something that hadn't been informed the rules had changed. The morning was warming up. Dew was burning off the bahiagrass.
+Nate watched a redtail hawk make a wide circle over the east pasture, riding a thermal with the lazy confidence of something that hadn't been informed the rules had changed. The morning was warming up. Dew was burning off the bermudagrass.
 
 "What do I call you?" he said.
 
