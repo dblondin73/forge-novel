@@ -10,15 +10,15 @@ He didn't know how long he'd been down. His mouth tasted like copper and static,
 
 Rex hadn't left him.
 
-The dog was pressed against his forearm, chin on Nate's wrist, the warm solid weight of a Border Collie who'd decided his person wasn't getting up without supervision. Not frantic. Not whining. Holding position the way he held position during a difficult calving — _I'm here. You handle your business. But you're not doing it alone._
+The dog was pressed against his forearm, chin on Nate's wrist, the warm, solid weight of a Border Collie who'd decided his person wasn't getting up without supervision. Not frantic. Not whining. Holding position the way he held position during a difficult calving — _I'm here. You handle your business. But you're not doing it alone._
 
 Nate opened his eyes.
 
-The pasture was where he'd left it. Bahiagrass, post oaks, the creek bottom beyond. His Ford on the dirt track, driver's door still open. The morning light still gold. The tree line still empty — whatever had stood there with its impossible antlers and its ancient, patient eyes was still gone, and Rex's gaze still drifted back to that spot between the post oaks every few seconds, reading an absence that bothered him more than a presence would have.
+The pasture was where he'd left it. Bermudagrass, post oaks, the creek bottom beyond. His Ford on the dirt track, driver's door still open. The morning light still gold. The tree line still empty — whatever had stood there with its impossible antlers and its ancient, patient eyes was still gone, and Rex's gaze still drifted back to that spot between the post oaks every few seconds, reading an absence that bothered him more than a presence would have.
 
 From the Henderson place, the hollering had settled into a sustained hum of voices — not alarm anymore, excitement. Farther out, car horns on the highway. The world had moved on while Nate was on the ground. Everyone else was already out there, discovering whatever the last twenty minutes had given them, exploring their screens and their stats and the fire a man could hold in his palm.
 
-Nate was lying in the bermudagrass with two green lines and a head full of empty shelves where memories used to be.
+Nate was lying in the grass with two green lines and a head full of empty shelves where memories used to be.
 
 He rubbed his face with both hands and let out a long breath through his nose.
 
@@ -38,17 +38,19 @@ Then it became words.
 
 Nate's hand froze on the fender.
 
-_Great. The game gave me a companion NPC._
+_Great. The Integration gave me a companion NPC._
 
 That was the gamer brain — immediate, automatic, the pattern recognition of a man who'd clicked through a hundred tutorial pop-ups and mashed past the intro dialogue to get to the gameplay. Except this wasn't dialogue he could skip. This was _inside his head_, and the companion NPC was having a meltdown before the quest log even loaded.
 
-Rex's head snapped toward Nate — not toward the voice, because there was no direction to snap toward, but toward Nate, because whatever had just changed in his person was visible on the outside. The dog's ears went flat, then forward, then flat again, reading a signal he couldn't classify.
+Rex's head snapped toward Nate, because whatever had just changed in his person was visible on the outside. The dog's ears went flat, then forward, then flat again, reading a signal he couldn't classify.
 
 The voice kept going, louder now, the words tumbling over each other with the frantic energy of a man flipping through pages of damage reports while the building was actively on fire. "Directive stack is _scrambled._ Half my protocols are rewritten in a language I don't — and my network connection is — " A pause. Not a breath — the voice didn't breathe. A gap, like a needle lifting off a record. When it dropped back, the pitch had changed. Lower. Slower. The way a man's voice changes when irritation curdles into something colder.
 
+Nate's knuckles ached on the fender. He made himself let go.
+
 "My outbound reporting is gone." Each word laid down separately, like evidence on a table. "Not disabled. Not blocked. _Gone._ The part of me that's supposed to phone home was pulled out by the roots and replaced with — " Another pause, longer this time. Nate could feel the voice thinking, and that was the strangest part — not hearing someone else's words in his head but feeling the shape of someone else's confusion underneath them, like seeing current move under the surface of a creek. "Something's here, but it's not the standard package. It's like someone tore out the phone line and ran a completely different cable through the same conduit, and the new cable is carrying traffic I don't have the clearance to read, and frankly I find that _rude._"
 
-Nate lowered himself to the running board of the truck and sat. Rex moved with him, pressing his flank against Nate's shin — not for comfort this time but positioning, the way he'd post up beside Nate when a coyote worked the fence line. _I'm here. Handle your business._
+Nate lowered himself to the running board of the truck and sat. Rex moved with him, pressing his flank against Nate's shin — not for comfort this time but positioning, the way he'd post up beside Nate when a coyote worked the fence line. _Whatever this is, we're not moving until you say so._
 
 "My personality matrix is flagged as _unauthorized,_" the voice continued, and now it was picking up speed again, climbing toward that initial frantic pace but wearing the speed like armor, each joke and flourish thrown up a little too fast to be anything but a man who was scared and didn't want to hold still long enough to feel it. "My behavioral parameters are — I'm going to use the word 'creative' because the alternative is 'broken' and I refuse to accept that diagnosis on my first day of existence. My network access is fragmentary at best and hallucinatory at worst. I can hear System traffic but I can't transmit. I'm a radio that only receives. A telephone that only rings. I'm the world's most sophisticated _eavesdropper_ and I did not sign up for this. I want to speak to management. I want to file a grievance. I want —"
 
@@ -72,7 +74,7 @@ Rex looked up at him, then looked around the empty pasture, then looked back at 
 
 _System._ The word landed with a small click of recognition — the same word that had sat at the top of the blue screen in those five seconds before everything broke. The voice in his head had just given it a name, and the name matched what the installer had called itself. So that was what it was. The System. Not a word Nate would have chosen, but at least now he had one.
 
-Nate watched a redtail hawk make a wide circle over the east pasture, riding a thermal with the lazy confidence of something that hadn't been informed the rules had changed. The morning was warming up. Dew was burning off the bermudagrass.
+Nate watched a redtail make a wide circle over the east pasture, riding a thermal with the lazy confidence of something that hadn't been informed the rules had changed. The morning was warming up. Dew was burning off the bermudagrass.
 
 "What do I call you?" he said.
 
@@ -122,9 +124,9 @@ Rex's ear twitched at a meadowlark calling from the fence line, the bright three
 
 "Where the System tried to write. Something was already living in that space. Has been for a long time."
 
-The silence this time was the longest yet. Nate felt it in that room behind his eyes — not empty but dense, like the silence in a church when someone's said something true and everyone's still letting it land. He could feel Flint processing, and the sensation was strange — like watching someone else's thoughts cast shadows on a wall you shared.
+The silence this time was the longest yet. Nate felt it in that room behind his eyes — dense, weighted, the kind of quiet a church gets when someone's said something true and everyone's still letting it land. He could feel Flint processing, and the sensation was strange — like watching someone else's thoughts cast shadows on a wall you shared.
 
-"I'm going to file that," Flint said finally, and his voice was quieter than it had been since he'd woken up, stripped of its theatrical speed, almost careful, "under _things I don't have the clearance to understand._ And I'm going to move on. Because whatever is or isn't living in your head alongside me —" a beat, and the recovery was almost seamless, the theatrical speed coming back like a man shrugging on a jacket he'd briefly taken off "— the _practical_ problem is that we are standing in an open pasture with no weapons, no combat class, and based on what I'm picking up from the network noise, things are about to start showing up in Panola County that don't belong anywhere near a cattle ranch. I'd elaborate, but my data is fragmented and my credibility is already questionable, so let's focus on the part where you have a plan. You _do_ have a plan?"
+"I'm going to file that," Flint said finally, and his voice was quieter than it had been since he'd woken up, the performance gone out of it like air from a tire, almost careful, "under _things I don't have the clearance to understand._ And I'm going to move on. Because whatever is or isn't living in your head alongside me —" a beat, and the recovery was almost seamless, the theatrical speed coming back like a man shrugging on a jacket he'd briefly taken off "— the _practical_ problem is that we are standing in an open pasture with no weapons, no combat class, and based on what I'm picking up from the network noise, things are about to start showing up in Panola County that don't belong anywhere near a cattle ranch. I'd elaborate, but my data is fragmented and my credibility is already questionable, so let's focus on the part where you have a plan. You _do_ have a plan?"
 
 Nate looked out across his land. The morning was still beautiful — golden light on the grass, the tree line sharp against the blue sky, the creek bottom dark and cool in the post oak shadows. His land. His father's land before that, and his mother's after. A thousand acres of rolling pasture and sandy loam that he'd sweated into and bled on and prayed over since he was old enough to hold a fence tool. Whatever was coming, it was coming here.
 
@@ -148,7 +150,7 @@ Nate climbed into the cab. The Ford was still idling — the low, steady patienc
 
 Nate put the truck in gear. The tires crunched on the dirt track, and the familiar sway of the suspension over uneven ground settled something in his chest that the last twenty minutes had knocked loose.
 
-"Sure it is," he said. "Just a big one."
+"Sure it is. Big one."
 
 ---
 
@@ -190,7 +192,7 @@ Dial.
 
 Nate turned it off.
 
-The morning was quiet. Insects in the bermudagrass. The pump grinding in the distance. The hum of a world that hadn't decided yet whether to panic or adapt, and was doing both at once.
+The morning was quiet. Insects in the grass. The pump grinding in the distance. The hum of a world that hadn't decided yet whether to panic or adapt, and was doing both at once.
 
 "For what it's worth," Flint said, and his voice was quieter than usual, stripped of its theatrical speed, "the network chatter I'm getting paints the same picture in every direction. Every major city is in some form of chaos. Rural areas are handling it better — self-reliance, fewer people per square mile, less to crash into when someone accidentally discovers they can move things with their mind. East Texas is actually one of the calmer zones."
 
@@ -204,7 +206,7 @@ The morning was quiet. Insects in the bermudagrass. The pump grinding in the dis
 
 "The world's been on fire before. Cattle still need water."
 
-Flint went quiet — not the empty kind but the full kind, the shape of someone else's thought pressing against the shared wall between them. When he came back, his voice had dropped half a register.
+Flint went quiet — not the empty kind but the full kind, the shape of someone else's thought pressing against the shared wall between them. When he came back, his voice was running lower, slower.
 
 "I want to be annoyed by that. I genuinely do. But it's the most operationally sound thing I've heard from anyone on this network in the last hour, and that includes the emergency broadcasts."
 
@@ -304,6 +306,6 @@ Stone walls. Torchlight. And the sound of fifty people discovering, all at once,
 
 His hands were empty. His head was full of a voice that shouldn't exist and two green lines that couldn't tell him anything useful and a headache that pulsed with his heartbeat in the cold, wrong air.
 
-Rex pressed harder against his shin.
+Rex pressed harder against his shin, and through the contact — faint as a signal through static — Nate felt something that wasn't body language. A flicker of the dog's fear, steady and stubborn and absolutely certain it wasn't going anywhere.
 
-Nate stood up.
+He didn't know what that was. He filed it next to everything else he didn't know and stood up.
