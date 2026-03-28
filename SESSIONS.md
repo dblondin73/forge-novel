@@ -1025,3 +1025,18 @@ Pre-Tutorial transition content (fence check, radio chaos, Henderson kid, countd
 
 **PROSE HANDOFF**
 Ch4 prose draft assigned to Claude Code. Prompt prepared with all reference files and critical rules. Draft target: ~5,000 words to drafts/ch04-room-zero-draft02.md.
+
+
+### Session 014 — Ch5 Beat Build
+
+**CH5 "FIRST BLOOD" BEATS REBUILT (6 new beats, IDs 257-262)**
+Old beats (17-20) deleted — all referenced old structure.
+New beats:
+1. ROOM 1 — FIRST BLOOD: Crossbow debut (rack bolts), Rex herds a Thornling, System magic visible on other players, Flint runs tactical data
+2. REST AREA 1 — COMPARING NOTES: Nate-Marcus scene (Nate behind the curve), Josie looting ("SAVE THE THORNS"), gamer lens ("She's the loot goblin")
+3. CRAFTING STATION — THORN BOLTS: Josie sorts by quality, first Flint-Josie clash, thorn bolts crafted, "most romantic thing about projectiles"
+4. ROOM 2 — MANA MANAGEMENT: System mechanics visible (mana drain, cooldown, aim-assist), thorn bolts in combat ("MY THORN DID THAT"), Rex early warning sharpens
+5. ROOM 3 — THE TRINITY FORMS: Marcus raid-leading with Vanguard HUD, Nate elevated with crossbow, proto-guard encounter, Shield Guardian nods
+6. REST AREA 2 — THE GROUP FORMS: Crossbow sight upgrade, Josie building supply network, Nate reads the difficulty ramp, Marcus: "What do you call what she does?" / "Essential."
+
+Ch5 summary and status updated. Target: ~5,000 words.
