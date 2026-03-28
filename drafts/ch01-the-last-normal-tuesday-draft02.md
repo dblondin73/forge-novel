@@ -174,7 +174,7 @@ Not gradually — not the way weather shifted or clouds moved. This was sudden. 
 
 The wind stopped. Every blade of bermudagrass went still. The post oaks froze mid-rustle. The world went silent the way a server room goes silent when the power cuts — total, instant, absolute.
 
-Rex launched from the truck bed — nails on the spray-in liner, the thud of landing, three fast strides on the packed dirt — and then the dog was at his side, pressed against his left leg with the full weight of his forty-five pounds. Rigid. But not running. Not leaving. Staying.
+Rex launched from the truck bed — nails on the spray-in liner, the thud of landing, three fast strides on the packed dirt — and then the dog was at his side, pressed against his left leg with the full weight of his thirty-five pounds. Rigid. But not running. Not leaving. Staying.
 
 Nate put his hand on the dog's head without looking down. He couldn't look down. The stag's eyes held his and he could not look away, and some part of him that was older than his engineering brain and quieter than his instincts knew that looking away was not an option. Not because the stag was forcing him. Because what was coming next required a witness, and he had been chosen to be one, and the eye contact was the agreement.
 
