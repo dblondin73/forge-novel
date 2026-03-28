@@ -1040,3 +1040,32 @@ New beats:
 6. REST AREA 2 — THE GROUP FORMS: Crossbow sight upgrade, Josie building supply network, Nate reads the difficulty ramp, Marcus: "What do you call what she does?" / "Essential."
 
 Ch5 summary and status updated. Target: ~5,000 words.
+
+
+### Session 014 — Ch6-8 Beat Build
+
+**CH6 "SPIKE" BEATS REBUILT (6 beats, IDs 263-268)**
+1. Room 4 — Forest Room: first Thornguards, biome change, "different tileset"
+2. Room 5 — First Death: Tyler dies at seventeen. Josie collects plates around the body.
+3. Rest — Resource Split: 12 gear sets / 25 people. Nate gives his away. Inventory rings arrive.
+4. Room 6 — Last Together: pillared chamber, group fights well as a unit
+5. The Split: System routes by performance. Left = hard mode. Group halved.
+6. Post-Split: Pickett Variable crystallizes. "Did your NOT-system just name a math thing after me?"
+
+**CH7 "MEAT GRINDER" BEATS REBUILT (6 beats, IDs 269-274)**
+1. Room 7 — Cavern: water, echo, darkness. Rex thrives. DoD hand signals.
+2. Room 8 — Nate Goes Back: rescues cut-off Crafter. Takes hits. "Stupid AND alive."
+3. Rest — The Weight: forge-as-chapel. Losses mounting. Marcus's math.
+4. Room 9 — Last Regular Fight: Thornguards with tactical coordination. System AI adapts. Rex-Nate seamless unit.
+5. Final Rest — Workshop: last upgrades. Josie full inventory. Shield Guardian nod.
+6. The Door: boss door. Marcus pre-assault brief. Josie: "bigger ring." Threshold.
+
+**CH8 "GRADUATION" BEATS REBUILT (6 beats, IDs 275-280)**
+1. Phase 1 — Adds: Thornling swarm, Briarknight watches. Resource drain to 60%.
+2. Phase 2 — The Knight: targets Healer, adapts, swords bounce. Shield Guardian down. Crisis.
+3. Phase 3 — Engineer's Answer: pillar stress fracture, full team execution, ceiling drops. Pinned not dead.
+4. Team Finish: Warriors in the gaps. Shield Guardian leads. "Infrastructure is for."
+5. Loot and Loss: chest, Josie arm-blade agonizes, "heat death of the universe," three dead.
+6. Graduation: blue screens for others, Nate feels Level 4, amber flicker, back to Earth.
+
+**ALL TUTORIAL BEATS NOW COMPLETE: Ch4-8, 30 beats total.**
