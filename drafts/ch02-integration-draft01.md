@@ -24,7 +24,7 @@ Then it went deeper.
 
 ---
 
-The scan moved past his body and into something else — into the space behind his thoughts, the architecture of who he was. It mapped his neural pathways the way he would map a network topology: where the connections ran, how they clustered, which nodes carried the most traffic. It found his engineering training and measured it. It found his ranch instincts and measured those too. It found the muscle memory of twenty-five years of physical work, the spatial awareness that came from navigating a thousand acres of pasture in fog, the pattern-recognition that came from reading system logs until the anomalies stood up and waved at you.
+The scan moved past his body and into something else — into the space behind his thoughts, the architecture of who he was. It mapped his neural pathways the way he would map a network topology: where the connections ran, how they clustered, which nodes carried the most traffic. It found his engineering training and measured it. It found his ranch instincts and measured those too. It found the muscle memory of twenty-five years of physical work, the spatial awareness that came from navigating a thousand acres of pastures and woods in the fog, the pattern-recognition that came from reading system logs until the anomalies stood up and waved at you.
 
 It was efficient. It was thorough. It was completely indifferent to whether he wanted it to happen.
 
@@ -48,7 +48,7 @@ Gone.
 
 He knew the memory had existed. He knew what it was about, the way you know a word you can't recall — the shape of it, the space where it should be, the frustrating certainty that it was right _there_ a moment ago. But the thing itself, the actual sensory experience of standing in the east pasture at age nine with the sun going down and his mother's voice carrying across four hundred yards of bermudagrass — that was gone. Converted. Filed somewhere he couldn't access in a format he couldn't read.
 
-The scan kept moving. Deeper. Faster. His first dog — what was her name? She'd been a red heeler mix, he remembered that, he remembered the _fact_ of her but the _feel_ of her was dissolving. The weight of her head on his knee. The sound of her tags jingling on the porch. Gone. The time he'd fallen out of the pecan tree and broken his arm — he could remember the hospital, the cast, but the actual moment of falling, the rush of air and the crack of the branch and the instantaneous certainty that this was going to hurt — the scan touched it and it softened into nothing.
+The scan kept moving. Deeper. Faster. His first dog — what was her name? She'd been a red heeler mix; he remembered that, he remembered the _fact_ of her but the _feel_ of her was dissolving. The weight of her head on his knee. The sound of her tags jingling on the porch. Gone. The time he'd fallen out of the pecan tree and broken his arm — he could remember the hospital, the cast, but the actual moment of falling, the rush of air and the crack of the branch and the instantaneous certainty that this was going to hurt — the scan touched it and it softened into nothing.
 
 _You're being overwritten,_ his engineering brain told him, and now there was fear in it. _This isn't a scan. It's a migration. And it's not checking whether the data transferred clean._
 
@@ -58,7 +58,7 @@ That was what was happening to him. The edges of his life were being eaten by a 
 
 ---
 
-Then the scan found the thing it hadn't accounted for.
+Then the scan hit something it wasn't expecting.
 
 Nate felt the moment it happened the way you feel a drill bit hit an unexpected pocket of rock — a sudden resistance, a change in the vibration, the machinery adjusting to something harder than it expected.
 
@@ -78,7 +78,7 @@ Nate felt it. The impact resonated through whatever medium he was suspended in, 
 
 The thing that was already there did not move.
 
-It didn't fight. It didn't push back in kind. It simply _was_ — the way bedrock was, the way the aquifer was, the way the land beneath his ranch existed whether he thought about it or not. It had been there before him. It would be there after him. It had been there before the System existed. Before whatever designed the System had conceived of it. The occupied space wasn't resisting an invasion — it was simply continuing to be what it had always been, in territory it had held since before Nate drew his first breath. The installer hadn't arrived to find an empty room with a squatter. It had arrived to find the door locked from the inside by the original owner. It was not angry. It was not defensive. It was simply occupying space that belonged to it, and no amount of pushing was going to change that.
+It didn't fight. It didn't push back in kind. It simply _was_ — the way bedrock was, the way the aquifer was, the way the land beneath his ranch existed whether he thought about it or not. It had been there before him. It would be there after him. It had been there before the process existed. Before whatever designed it had conceived of it. The occupied space wasn't resisting an invasion — it was simply continuing to be what it had always been, in territory it had held since before Nate drew his first breath. The installer hadn't arrived to find an empty room with a squatter. It had arrived to find the door locked from the inside by the original owner. It was not angry. It was not defensive. It was simply occupying space that belonged to it, and no amount of pushing was going to change that.
 
 And the memory loss stopped.
 
@@ -186,7 +186,7 @@ Blue light. Everywhere.
 
 Translucent panels hung in his field of view — clean, bright, official. The word SYSTEM sat at the top in a font he didn't recognize, and beneath it, text was populating itself with crisp efficiency. He could read it. A class designation field, still loading. A vertical column of abbreviated stats — STR, CON, DEX, INT, WIS — with numbers filling in beside them like a spreadsheet auto-calculating. A health bar, green and full. A stamina bar beneath it. A progress wheel spinning in the corner with the words INTEGRATION COMPLETE — CALIBRATING.
 
-For about five seconds, Nate saw what eight billion other people were seeing: a full-color interface, welcoming and organized, already sorting him into its architecture. His engineering brain was already reading the layout, mapping the information hierarchy, noting the data structures — and despite everything that had just happened in the void, some part of him thought: _Huh. That's actually well-designed._
+For about five seconds, Nate saw what eight billion other people were seeing: a full-color interface, welcoming and organized, already sorting him into its architecture. He was already reading the layout, mapping the information hierarchy, noting the data structures — and despite everything that had just happened in the void, some part of him thought: _Huh. That's actually well-designed._
 
 He'd seen this layout before. Every RPG he'd ever played used some version of it — stats on the left, health bar top-center, class field prominent. The UI grammar was identical. Either the System had borrowed its interface from games, or games had been borrowing from something older than anyone realized.
 
@@ -196,7 +196,7 @@ The number next to WIS jumped — 20, then 24, then a string of characters that 
 
 It got worse. Over the next twenty seconds, the interface came apart piece by piece. Not all at once — the way a truck dies on the highway, one system after another giving up in sequence. The progress wheel froze, unfroze, spun backward. The stat column scrambled, recovered, scrambled again with different garbage each time. Panels that had been sharp and translucent began to wash out, the blue bleeding pale, the text losing contrast until it looked like a screen left in the sun too long.
 
-Nate watched it happen with the specific, familiar dread of a man who had seen too many systems fail in exactly this way — the slow cascade, each failure triggering the next, the whole architecture unraveling because one critical component wasn't responding and everything downstream of it was losing its mind. Even the failure mode was thorough. Whatever had built this interface had built it well enough that it came apart in the right order — load-bearing systems last, cosmetic layers first. Disciplined, even in collapse.
+Nate watched it happen with the specific, familiar dread of someone who had seen too many systems fail in exactly this way — the slow cascade, each failure triggering the next, the whole architecture unraveling because one critical component wasn't responding and everything downstream of it was losing its mind. Even the failure mode was thorough. Whatever had built this interface had built it well enough that it came apart in the right order — load-bearing systems last, cosmetic layers first. Disciplined, even in collapse.
 
 The last panel to go was the health bar. It flickered green one final time, then dissolved into static and was gone.
 
@@ -212,27 +212,25 @@ Something cold settled in his chest. Not grief — not yet. The inventory was st
 
 Rex.
 
-The dog was ten feet away, lying on his side, legs twitching the way they did when he dreamed about working cattle. Not hurt. Stunned. Breathing. Nate watched the dog's ribcage rise and fall three times before he let himself exhale.
-
-Rex didn't have a blue screen. Rex didn't have green lines. Rex was exactly what he had been twelve minutes ago — a Border Collie lying on East Texas clay, dreaming about work.
+Rex was already there. Pressed against his side, nose working Nate's hand, the urgent attention of a dog who'd come out of whatever that was to find his person on the ground and hadn't left since. No blue screen. No green lines. Just a Border Collie doing the only job that mattered.
 
 _At least one of us came through clean,_ Nate thought.
 
 He got to his knees. Then his feet. The world tilted, steadied, tilted again.
 
-A white Chevy Tahoe sat on the county road about forty yards from his fence line, both front doors hanging open, engine idling. Stopped dead in the lane — not pulled over, not angled, just sitting on the straight flat stretch of county road where it had been when the freeze hit. The family was already out.
+A white Chevy Tahoe sat on the county road about forty yards from him, both front doors hanging open, engine idling. Stopped dead in the lane — not pulled over, not angled, just sitting on the straight flat stretch of county road where it had been when the freeze hit. The family was already out.
 
-A man stood in the road — mid-thirties, work boots, ball cap, the build of someone who made a living with his hands. He had his arms slightly out from his sides and his head tilted back, staring at something in front of his face that Nate couldn't see. His mouth was open. His eyes were wet. There was a faint blue glint behind them — barely visible, like light reflecting off something that wasn't there.
+A man stood in the road — mid-thirties, work boots, ball cap, the build of someone who made a living with his hands. He had his arms slightly out from his sides and his head tilted back, staring at something in front of his face that Nate couldn't see.
 
-A woman sat on the Tahoe's running board, one hand pressed flat against her chest, crying the overwhelmed tears of someone who'd been handed something she didn't understand and couldn't put down. She was reading something only she could see, and whatever it said was making her laugh between the sobs.
+A woman sat on the Tahoe's running board, one hand pressed flat against her chest, shoulders shaking. She was staring at something only she could see, her head bowed over it the way people bow over good news they weren't expecting.
 
-Two kids had scrambled out of the back seat. A boy, maybe ten, was waving his hands through the air with the focused intensity of a kid who'd discovered a new video game — swiping, poking, his whole body vibrating with excitement. A girl, seven or eight, stood very still, turning her hands over slowly, watching something on her palms that made her face cycle through wonder and confusion and wonder again.
+Two kids had scrambled out of the back seat. A boy, maybe ten, was waving his hands through the air the way kids do when they've discovered a new video game — swiping, poking, bouncing on his feet. A girl, seven or eight, stood very still, turning her hands over slowly, staring at her palms like they held a secret.
 
-The man looked up from his screen and saw Nate standing at the fence line. They locked eyes for a moment across forty yards of East Texas morning — two men on either side of a fence, one with that faint blue glint behind his eyes and the other still swaying on his feet with nothing but two green lines he couldn't read.
+The man looked up from his screen and saw Nate standing at the fence line. They locked eyes for a moment across forty yards of East Texas morning — two men on either side of a fence, one lost in whatever the rest of the world was seeing and the other still swaying on his feet with nothing but two green lines he couldn't read.
 
 "You seeing this?" the man called out, his voice cracking with something between joy and terror. "You getting the — the screen? The class thing?"
 
-Nate looked down at his own hands. Nothing visible. He searched his vision for the blue panels, the stat sheets, the class assignments he'd seen reflected in the family's eyes. Nothing. Just the two faint green arcs, stubborn and monochrome, pulsing at the edges of his vision like a heartbeat he could see but not read.
+Nate looked down at his own hands. Nothing visible. He searched his vision for the blue panels from earlier, the stat sheets, the class assignments the family was clearly seeing. Nothing. Just the two faint green arcs, stubborn and monochrome, pulsing at the edges of his vision like a heartbeat he could see but not read.
 
 "No," Nate said. "I'm not getting that."
 
@@ -240,17 +238,17 @@ The man stared at him for a moment, confused, then whatever he was seeing pulled
 
 From down the county road — the Henderson place, maybe a quarter mile — he could hear whooping. Voices carrying the way voices carry in open country when there's nothing between you and the sound but pasture and fence line. Someone hollering for someone else to come look at this, come see, you ain't gonna believe it.
 
-The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. His son was already trying to replicate it, holding his own palm up, concentrating, that same faint glint flickering behind his eyes. Ten years old with fire in his hand and an entire summer stretching out in front of him. Nate wondered what that kid's first week was going to look like.
+The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. Nate wondered what that family's first week was going to look like.
 
-They looked happy. They looked grateful. They looked like people who had been given exactly what they needed.
+They looked happy. They looked grateful. They looked like people who had been given exactly what they wanted.
 
 Nate watched them with a head full of empty shelves and two green lines that told him nothing.
 
 ---
 
-Rex got to his feet and shook himself off, ears flapping. The dog walked to Nate and leaned against his leg. Not the work-press of a Border Collie positioning for a task. The quiet lean. The one that said _I don't know what just happened but I know where I belong._
+Rex put his shoulder into Nate's calf — not the work-press of a Border Collie positioning for a task. The quiet check. The one that said _I don't know what just happened but I know where I belong._
 
-Nate put his hand on the dog's head. Stood at his fence line. Watched the world receive its gift.
+Rex sat down and Nate put his hand on the dog's head. Stood at his fence line. Watched the world receive its gift.
 
 Somewhere deep inside him, in the space the installer couldn't touch, something that had been there his whole life settled quietly back into place, like a man who'd stood up when a stranger entered the room and sat back down when the stranger left.
 
@@ -268,15 +266,15 @@ Then the arcs scrambled back to noise, and the words were gone.
 
 Nate stared at the space where they'd been.
 
-The man by the Tahoe glanced back at him one more time — that brief, uncertain look of a man who'd found something that didn't fit the pattern and decided it wasn't his problem. Then his daughter tugged his sleeve and pulled him back toward the flame she was trying to hold herself, and just like that, Nate was forgotten. The woman had stopped crying. She was reading her screen with the quiet intensity of someone studying a map to somewhere she'd always wanted to go. The boy had his own small flame going now — unsteady, guttering, real. He was ten years old with fire in his hand and the world had just gotten extremely simple.
+The man by the Tahoe glanced back at him one more time — that brief, uncertain look of a man who'd found something that didn't fit the pattern and decided it wasn't his problem. Then his daughter tugged his sleeve and pulled him back toward the flame she was trying to hold herself, and just like that, Nate was forgotten. The woman had gone still. She was bent over her screen the way someone bends over a map to somewhere she'd always wanted to go. The boy had his own small flame going now — unsteady, guttering, real. He was ten years old with fire in his hand and the world had just gotten extremely simple.
 
-They didn't say goodbye. People receiving gifts don't tend to look over their shoulder at the man who didn't get one. The man helped his wife back into the Tahoe. The kids piled in after. The door closed. The engine — it had been idling the whole time — settled into gear, and the white Chevy rolled forward on the county road and kept going, and then it was just Nate and Rex and the sound of the Henderson place hollering a quarter mile away.
+They didn't say goodbye. People receiving gifts don't tend to look over their shoulder at the man who didn't get one. The man helped his wife back into the Tahoe. The kids piled in after. The doors closed. The engine — it had been idling the whole time — settled into gear, and the white Chevy rolled forward on the county road and kept going, and then it was just Nate and Rex and the sound of the Henderson place hollering a quarter mile away.
 
 Rex pressed harder against Nate's leg.
 
 "Yeah," Nate said to the dog. "I saw it too."
 
-He hadn't. Rex had no screen, no lines, no text. But the dog was watching the same direction Nate was watching — not toward the celebration, not toward where the Tahoe had been, but back toward the tree line where the stag had stood twenty minutes ago.
+The dog was watching the same direction he was — not toward the celebration, not toward where the Tahoe had been, but back toward the tree line where the stag had stood twenty minutes ago.
 
 The tree line was empty. The stag was gone.
 
@@ -284,11 +282,11 @@ Whatever was coming, it wasn't here yet. But something in Nate's broken, half-in
 
 Then his legs went.
 
-Not from pain — from absence. The way a circuit fails under load: not with warning, not with drama, just a sudden clean nothing where load-bearing capacity used to be. His knees buckled and he went down to the bermudagrass in two stages — one knee first, then his side — and the ground came up to meet him with the matter-of-fact patience of something that had been waiting.
+Not from pain — from absence. The way a breaker trips: not with warning, not with drama, just a sudden clean nothing where load-bearing capacity used to be. His knees buckled and he went down to the bermudagrass in two stages — one knee first, then his side — and the ground came up to meet him with the matter-of-fact patience of something that had been waiting.
 
-Rex was on him before he stopped moving. A cold nose pressed against the back of his hand. The warm weight of a Border Collie skull against his forearm — not gentle, not panicked. Present.
+Rex was on him before he stopped moving. A cold nose pressed against the back of his hand. The warm weight of a Border Collie head against his forearm — not gentle, not panicked. Present.
 
-Nate's cheek came to rest against the sandy loam. It smelled like East Texas in March: warm grass, red clay, the faint diesel tang of the truck's idling engine.
+Nate's cheek came to rest against the sandy loam. The ground was warm. It held him the way the land always had — without opinion, without urgency, without asking what had just happened.
 
 The green arcs pulsed once, steady, and held.
 
