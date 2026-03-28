@@ -18,6 +18,8 @@ _I'm being sorted,_ he thought. _Processed. Like cattle through a chute._
 
 The thought landed with the particular weight of a man who'd worked more than a few chutes in his life, and who understood exactly what waited at the other end of one.
 
+Somewhere in the back of his mind, the part that had rolled a hundred character sheets across a hundred title screens, a quieter thought surfaced: _Character creation._ The moment every game made you sit in a menu while the system decided what you were worth. He'd just never been on the menu's side of the screen before.
+
 Then it went deeper.
 
 ---
@@ -76,7 +78,7 @@ Nate felt it. The impact resonated through whatever medium he was suspended in, 
 
 The thing that was already there did not move.
 
-It didn't fight. It didn't push back in kind. It simply _was_ — the way bedrock was, the way the aquifer was, the way the land beneath his ranch existed whether he thought about it or not. It had been there before him. It would be there after him. It was not angry. It was not defensive. It was simply occupying space that belonged to it, and no amount of pushing was going to change that.
+It didn't fight. It didn't push back in kind. It simply _was_ — the way bedrock was, the way the aquifer was, the way the land beneath his ranch existed whether he thought about it or not. It had been there before him. It would be there after him. It had been there before the System existed. Before whatever designed the System had conceived of it. The occupied space wasn't resisting an invasion — it was simply continuing to be what it had always been, in territory it had held since before Nate drew his first breath. The installer hadn't arrived to find an empty room with a squatter. It had arrived to find the door locked from the inside by the original owner. It was not angry. It was not defensive. It was simply occupying space that belonged to it, and no amount of pushing was going to change that.
 
 And the memory loss stopped.
 
@@ -186,13 +188,15 @@ Translucent panels hung in his field of view — clean, bright, official. The wo
 
 For about five seconds, Nate saw what eight billion other people were seeing: a full-color interface, welcoming and organized, already sorting him into its architecture. His engineering brain was already reading the layout, mapping the information hierarchy, noting the data structures — and despite everything that had just happened in the void, some part of him thought: _Huh. That's actually well-designed._
 
+He'd seen this layout before. Every RPG he'd ever played used some version of it — stats on the left, health bar top-center, class field prominent. The UI grammar was identical. Either the System had borrowed its interface from games, or games had been borrowing from something older than anyone realized.
+
 Then a stat flickered.
 
 The number next to WIS jumped — 20, then 24, then a string of characters that weren't numbers at all — and snapped back. A hairline crack of static ran across the class designation field, which had been trying to load something and was now just blinking. The health bar turned yellow for no reason, then green again, then yellow.
 
 It got worse. Over the next twenty seconds, the interface came apart piece by piece. Not all at once — the way a truck dies on the highway, one system after another giving up in sequence. The progress wheel froze, unfroze, spun backward. The stat column scrambled, recovered, scrambled again with different garbage each time. Panels that had been sharp and translucent began to wash out, the blue bleeding pale, the text losing contrast until it looked like a screen left in the sun too long.
 
-Nate watched it happen with the specific, familiar dread of a man who had seen too many systems fail in exactly this way — the slow cascade, each failure triggering the next, the whole architecture unraveling because one critical component wasn't responding and everything downstream of it was losing its mind.
+Nate watched it happen with the specific, familiar dread of a man who had seen too many systems fail in exactly this way — the slow cascade, each failure triggering the next, the whole architecture unraveling because one critical component wasn't responding and everything downstream of it was losing its mind. Even the failure mode was thorough. Whatever had built this interface had built it well enough that it came apart in the right order — load-bearing systems last, cosmetic layers first. Disciplined, even in collapse.
 
 The last panel to go was the health bar. It flickered green one final time, then dissolved into static and was gone.
 
@@ -236,7 +240,7 @@ The man stared at him for a moment, confused, then whatever he was seeing pulled
 
 From down the county road — the Henderson place, maybe a quarter mile — he could hear whooping. Voices carrying the way voices carry in open country when there's nothing between you and the sound but pasture and fence line. Someone hollering for someone else to come look at this, come see, you ain't gonna believe it.
 
-The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. His son was already trying to replicate it, holding his own palm up, concentrating, that same faint glint flickering behind his eyes.
+The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. His son was already trying to replicate it, holding his own palm up, concentrating, that same faint glint flickering behind his eyes. Ten years old with fire in his hand and an entire summer stretching out in front of him. Nate wondered what that kid's first week was going to look like.
 
 They looked happy. They looked grateful. They looked like people who had been given exactly what they needed.
 
