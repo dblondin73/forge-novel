@@ -1164,3 +1164,12 @@ Divine runes are simply functionally superior. People notice. Jealousy, curiosit
 - Ch33 "The Strings" beats 239-242 — entire chapter built on runes-as-surveillance, needs full rebuild to focus on progression-as-surveillance
 
 **CAPTURE #98** filed with full details of affected content.
+
+
+### Session 014 — Two Final Corrections
+
+**CORRECTION 1: Flint gets two-way comms fast (#110 updated)**
+Flint is NOT receive-only for all of Book 1. He develops outbound transmission quickly — discovers the Spirit's firewall rerouted (not severed) his outbound channels. He can send encrypted messages the System can't read. Nate controls what goes out (consent model). Asymmetric comms: System sees who talks TO Nate, can't see what Nate says back. Ch9 Beat 5 (ID 285) updated — Flint cracks outbound during the first contacts scene.
+
+**CORRECTION 2: Quest rewards are tools, not hooks (#108 updated)**
+Quest LOOT and GEAR are clean tools. Quest PROGRESSION (XP, class advancement) is the hook. Quests give both — you can't take the sword without taking the XP. Nate and others CAN do quests and get stuff. The binding is in what the progression does to you, not what drops from the chest. Removed "quest compliance rewards" from the hooks list.
