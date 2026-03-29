@@ -1173,3 +1173,15 @@ Flint is NOT receive-only for all of Book 1. He develops outbound transmission q
 
 **CORRECTION 2: Quest rewards are tools, not hooks (#108 updated)**
 Quest LOOT and GEAR are clean tools. Quest PROGRESSION (XP, class advancement) is the hook. Quests give both — you can't take the sword without taking the XP. Nate and others CAN do quests and get stuff. The binding is in what the progression does to you, not what drops from the chest. Removed "quest compliance rewards" from the hooks list.
+
+
+### Session 014 — Two More Corrections
+
+**FLINT COMMS REVISED (#110):**
+Flint develops two-way communication QUICKLY, not a slow 7-book unlock. The Spirit's firewall encrypts both directions. Nate controls outbound (consent rule). Flint's broader NETWORK ACCESS (System data, not messaging) still progresses across 7 books. But person-to-person messaging works early. Ch9 Beat 5 revised — Flint discovers outbound works during the contacts scene. Consent rule established: "I can send. But I need your permission."
+
+**QUEST REWARDS CORRECTED (#108):**
+"Quest compliance rewards" removed from hooks list. Quest MATERIAL REWARDS (gear, loot, drops) are clean tools. Nate can do quests and get stuff. The HOOK is the PROGRESSION from quests — XP, level-ups, class advancement. The loot is the carrot. The leveling is the leash.
+
+**ENTITIES UPDATED:** #108 (Hooks vs Tools), #110 (System Contacts and Messaging)
+**BEAT UPDATED:** Ch9 Beat 5 (ID 285) — Flint discovers two-way comms, consent rule established
