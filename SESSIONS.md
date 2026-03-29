@@ -1185,3 +1185,76 @@ Flint develops two-way communication QUICKLY, not a slow 7-book unlock. The Spir
 
 **ENTITIES UPDATED:** #108 (Hooks vs Tools), #110 (System Contacts and Messaging)
 **BEAT UPDATED:** Ch9 Beat 5 (ID 285) — Flint discovers two-way comms, consent rule established
+
+
+---
+
+## SESSION 014 — FINAL WRAP
+
+**Date:** 2026-03-28/29
+**Duration:** Marathon session (multi-hour)
+
+### WHAT WE BUILT
+
+**42 new beats across 7 chapters:**
+- Ch4 Room Zero (6 beats, 251-256)
+- Ch5 First Blood (6 beats, 257-262)
+- Ch6 Spike (6 beats, 263-268)
+- Ch7 Meat Grinder (6 beats, 269-274)
+- Ch8 Graduation (6 beats, 275-280)
+- Ch9 Water First (6 beats, 281-286)
+- Ch10 Weight (6 beats, 287-292)
+
+**~43,000 words of prose across 8 chapters:**
+- Ch1-3 voice-passed (gamer lens, comedy, Flint push, pre-Tutorial transition)
+- Ch4-8 first drafts (full Tutorial arc)
+
+**8 new Codex entities:**
+- #105 Inventory Ring
+- #106 Briarknight
+- #107 Room 10 Boss Fight
+- #108 Hooks vs Tools (CORRECTED: runes are tools, hooks are progression)
+- #109 Shreve AFB
+- #110 System Contacts and Messaging
+- #111 Post-Tutorial World State
+- #112 Settlement Philosophy — Anti-Counterfeit Not Anti-Magic
+
+**Major worldbuilding locked:**
+- Tutorial room structure (11 rooms, 50 people, crafting stations)
+- Nate's loadout (crossbow + forging hammer)
+- Josie Pickett full backstory and voice
+- Boss fight design (3 phases + team finish)
+- Post-Tutorial scatter (everyone deposits at Integration location)
+- Shreve AFB (fictional DoD installation near Bossier City)
+- System contacts/messaging (MMO friend list, Flint receive-only Book 1)
+- Post-Tutorial world state (seductive replacement, not destruction)
+- Settlement philosophy (anti-counterfeit, not anti-magic)
+- CRITICAL CORRECTION: ALL runes are tools. Hooks are in progression only.
+- Runes as infrastructure power source (divine runes power pumps, lights, defenses — Book 2+)
+
+### CRITICAL CORRECTION — RUNES
+ALL runes (Tier 1/2/3) are clean functional tools. No surveillance, no tracking, no binding. The HOOKS are in the PROGRESSION SYSTEM (leveling, class advancement, patron bonds, AI spyware). Divine runes are functionally superior — people notice, creating jealousy and politics, not moral purity tests. Entities #47, #108, #112 updated. Ch25 and Ch33 beats flagged for revision.
+
+### PENDING FOR NEXT SESSION
+- Ch8 prose revision (scatter ending — current draft has everyone landing together)
+- Ch11-13 beats (Instinct, The Quiet Man Talks, Inventory — post-Tutorial Act 1 close)
+- Ch9-10 prose drafts (Code job)
+- Ch25 and Ch33 beat revisions (rune correction)
+- Ch14+ beats (Act 2 proper)
+- REFERENCE.md needs another rebuild to reflect rune correction and new entities
+
+### FILES ON REPO
+```
+drafts/ch01-the-last-normal-tuesday-draft01.md  (voice-passed)
+drafts/ch02-integration-draft01.md              (voice-passed)
+drafts/ch03-first-boot-draft01.md               (voice-passed + transition)
+drafts/ch04-room-zero-draft01.md                (first draft)
+drafts/ch05-first-blood-draft01.md              (first draft)
+drafts/ch06-spike-draft01.md                    (first draft)
+drafts/ch07-meat-grinder-draft01.md             (first draft)
+drafts/ch08-graduation-draft01.md               (first draft — needs scatter revision)
+research/post-tutorial-world-state.md           (infrastructure reference)
+research/room0-crossbow-build.md                (SA + build scene reference)
+research/josie-dialogue-samples.md              (Josie voice)
+reports/ch1-5-rewrite-triage.md                 (completed triage)
+```
