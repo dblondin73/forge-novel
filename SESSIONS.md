@@ -1146,3 +1146,21 @@ Title updated from "Instinct" to "Weight"
 **KEY CREATIVE DECISION:** Nate's settlement is NOT anti-magic. He uses divine runes to power infrastructure (Book 2+). In Book 1 he uses Field Repair + mechanical skills. The rune-powered pump is a Book 2 development. The settlement runs on infrastructure the System can't track, can't shut off.
 
 **CAPTURES:** #96 (post-Tutorial rules), #97 (runes as infrastructure power source)
+
+
+### Session 014 — CRITICAL CORRECTION: Runes Are Tools
+
+**CORRECTION LOCKED:** ALL runes are tools, not hooks. System runes (Tier 3), Elder runes (Tier 2), and Divine runes (Tier 1) are all clean functional tools. No surveillance, no tracking, no binding through runes. The HOOKS are in the PROGRESSION SYSTEM — leveling, class advancement, patron bonds, AI spyware.
+
+Divine runes are simply functionally superior. People notice. Jealousy, curiosity, hostility. Human drama, not moral purity.
+
+**ENTITIES UPDATED:**
+- #47 Three-Tier Rune Hierarchy — removed "every System rune is a hook" language, added "ALL RUNES ARE TOOLS" correction
+- #108 Hooks vs Tools — added explicit "RUNES ARE TOOLS, ALL TIERS" section, runes are apps not the OS
+- #112 Settlement Philosophy — removed anti-surveillance language, reframed as "divine runes are better tools, people notice"
+
+**BEATS FLAGGED FOR FUTURE REVISION (not changed yet):**
+- Ch25 "Color" beats 208-209 — reference strings on gear/runes, should be strings on PROGRESSION
+- Ch33 "The Strings" beats 239-242 — entire chapter built on runes-as-surveillance, needs full rebuild to focus on progression-as-surveillance
+
+**CAPTURE #98** filed with full details of affected content.
