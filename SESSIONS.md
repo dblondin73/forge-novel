@@ -1069,3 +1069,29 @@ Ch5 summary and status updated. Target: ~5,000 words.
 6. Graduation: blue screens for others, Nate feels Level 4, amber flicker, back to Earth.
 
 **ALL TUTORIAL BEATS NOW COMPLETE: Ch4-8, 30 beats total.**
+
+
+### Session 014 — Post-Tutorial Worldbuilding
+
+**NEW CODEX ENTITIES:**
+- #109 Shreve AFB — fictional Air Force installation near Bossier City, LA. Named after Captain Henry Miller Shreve. GDIT contract site for Nate and Marcus. ~70 miles from Carthage.
+- #110 System Contacts and Messaging — MMO-style friend list and messaging through AI companions. All System comms logged upstream (surveillance). Anomaly channels encrypted. Flint is RECEIVE-ONLY in Book 1 — Nate can get messages but can't reply through the System.
+- #111 Post-Tutorial World State — large cities collapse fast, rural areas hold longer, Tutorial deposits graduates at Integration locations, real geography / fictional institutions.
+
+**MARCUS UPDATED (#86):**
+Lives in Shreveport/Bossier near Shreve AFB. Deposited back there post-Tutorial. City collapsing. Messages Nate through System contacts. Fights/drives to the ranch.
+
+**JOSIE POST-TUTORIAL ARC (version B):**
+Deposited at farm estate sale outside Carthage. Goes to Marshall to find parents Roy and Darlene. Can't find them. Leaves notes and messages. Returns to ranch because it's where the materials are.
+
+**CH7 BEAT 5 UPDATED (ID 273):**
+Added contacts exchange scene — friend requests, Marcus gives Shreveport address, Nate gives ranch location out loud (no System needed). Flint: "I can receive. I cannot transmit."
+
+**CH8 BEAT 6 REVISED (ID 280):**
+THE SCATTER — Tutorial deposits everyone at their Integration locations. Group fades mid-transport. Nate lands ALONE on his fence line, exact spot where the stag stood in Ch1. Full circle. Rex at his leg. "Water first." Ch8 prose draft needs revision to match this change.
+
+**FICTION RULE LOCKED:**
+Real geography (Panola County, Carthage, Marshall, US-59, Shreveport/Bossier). All institutions fictional (Shreve AFB, businesses, churches, schools). No real people.
+
+**CH8 PROSE REVISION NEEDED:**
+Current ch08-graduation-draft02.md has all twelve landing together in Nate's pasture. Needs revision to match the scatter ending. Code job — deferred.
