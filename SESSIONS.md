@@ -1130,3 +1130,19 @@ Title updated from "Instinct" to "Weight"
 **CH8 PROSE NEEDS REVISION:** Current draft has all 12 landing together. Needs Code pass to match the scatter ending.
 
 **FICTION RULE LOCKED:** Real geography, all institutions fictional (Shreve AFB, businesses, etc.).
+
+
+### Session 014 — World State and Settlement Philosophy
+
+**NEW CODEX ENTITY:**
+- #112 Settlement Philosophy — Anti-Counterfeit Not Anti-Magic. Nate uses magic the way the source intended. Divine runes as infrastructure power. Three paths: Old World (dying), System (convenient + binding), Nate's Way (harder + free). The pump as recurring symbol.
+
+**UPDATED CODEX ENTITY:**
+- #111 Post-Tutorial World State — added specific infrastructure details (electricity, fuel, water, food, communication) with timelines and the three-path framework.
+
+**NEW RESEARCH FILE:**
+- research/post-tutorial-world-state.md — full infrastructure reference with collapse model, specific systems, timeline, settlement philosophy, pump symbolism.
+
+**KEY CREATIVE DECISION:** Nate's settlement is NOT anti-magic. He uses divine runes to power infrastructure (Book 2+). In Book 1 he uses Field Repair + mechanical skills. The rune-powered pump is a Book 2 development. The settlement runs on infrastructure the System can't track, can't shut off.
+
+**CAPTURES:** #96 (post-Tutorial rules), #97 (runes as infrastructure power source)
