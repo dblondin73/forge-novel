@@ -234,7 +234,7 @@ Nate does NOT pick a weapon from the racks. He picks materials and BUILDS his lo
 | **Horses** | Quarter horses — working stock |
 | **Working Dog** | Rex — 4-year-old Border Collie |
 | **Truck** | Ford — fence line rounds, tailgate workbench |
-| **Terrain** | Rolling pasture, bahiagrass, post oak tree lines, creek bottoms, sandy loam over red clay |
+| **Terrain** | Rolling pasture, bermudagrass, post oak tree lines, creek bottoms, sandy loam over red clay |
 
 ---
 
