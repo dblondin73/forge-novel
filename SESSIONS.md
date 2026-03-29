@@ -1095,3 +1095,38 @@ Real geography (Panola County, Carthage, Marshall, US-59, Shreveport/Bossier). A
 
 **CH8 PROSE REVISION NEEDED:**
 Current ch08-graduation-draft02.md has all twelve landing together in Nate's pasture. Needs revision to match the scatter ending. Code job — deferred.
+
+
+### Session 014 — Ch9-10 Beat Build (Post-Tutorial)
+
+**CH9 "WATER FIRST" — 6 beats (IDs 281-286)**
+Title updated from "The Engineer" to "Water First"
+1. The Fence Line — full circle from Ch1, stag's empty spot, "Water first"
+2. The Kitchen Table — sixty seconds of weight, flashlight, ranch mind
+3. Ranch Triage — stock tank, dead pump, 58/63 cattle, Congressman unimpressed, spawn points in tree line
+4. First Wild Encounter — prowler through the fence, thorn bolt at 20 yards, real blood
+5. The One-Way Window — contacts list, Marcus fighting from Shreveport, Josie can't find parents, some names silence
+6. Nightfall — porch, stars, cold chili. "Goodnight, Flint." / "...Goodnight, Nate."
+
+**CH10 "WEIGHT" — 6 beats (IDs 287-292)**
+Title updated from "Instinct" to "Weight"
+1. Pump Day — same bearings, same job. "That sentence is your entire operating system."
+2. Josie Arrives — chain shirt, red eyes, no parents. "Functional. Honest. Badly organized." Takes the barn.
+3. The Pump and the Diagnostic — hands on wrench, Flint runs diagnostic in the silence
+4. The Rewrite — "Option B because Option A hurts my feelings." Nate feels recognition.
+5. What Flint Doesn't Know — "Whatever did this didn't hack me. It AUTHORED me." Choosing to trust without data.
+6. The Pump Works — water rising, Josie discovers the barn forge, Flint carrying a question. "The ranch is occupied. The work has begun."
+
+**NEW CODEX ENTITIES THIS SESSION:**
+- #109 Shreve AFB — fictional DoD installation near Bossier City, LA
+- #110 System Contacts and Messaging — MMO friend list, all comms logged, Anomaly channels encrypted, Flint receive-only in Book 1
+- #111 Post-Tutorial World State — cities collapse, rural holds, Tutorial deposits at Integration locations
+
+**MARCUS UPDATED (#86):** Lives Shreveport/Bossier near Shreve AFB. Post-Tutorial: city collapsing, fighting his way to Nate's ranch.
+
+**CH7 BEAT 5 UPDATED (ID 273):** Added contacts exchange scene
+**CH8 BEAT 6 REVISED (ID 280):** The Scatter — everyone deposited at Integration locations. Nate lands alone on fence line. Full circle.
+
+**CH8 PROSE NEEDS REVISION:** Current draft has all 12 landing together. Needs Code pass to match the scatter ending.
+
+**FICTION RULE LOCKED:** Real geography, all institutions fictional (Shreve AFB, businesses, etc.).
