@@ -1295,3 +1295,16 @@ reports/ch1-5-rewrite-triage.md                 (completed triage)
 - #114 Violence Rule — justified defense, conduit supports it, King David framework
 - #115 Quest Philosophy — quests are tools, Nate evaluates through four lenses
 - #116 AI Personality Rule — System AIs no personality, Anomaly AIs have personality, detection risk
+
+
+### Session 014 — Code Sync Items
+
+**FROM CLAUDE CODE (4 items):**
+
+1. **Marcus Webb (#86) updated** — added prose note: physical description NOT in Tutorial chapters. Voice and competence only through Nate's POV. Description lands later through new POV or when physicality matters to a scene.
+
+2. **System Term Formatting Convention (#117) created** — Bold for all System proper nouns (skill names, class names, UI elements). Plain for generic references. Retroactive to Ch1-3, forward to all chapters.
+
+3. **Ch4 is locked** — fully edited, two editorial passes, drafted status, 6,083 words. Do not touch.
+
+4. **Sale barn guy seeded in Ch4** (Capture #103) — unnamed weathered man from Carthage or De Berry, recognized from the auction ring. Holding a sword like a fence post. Planted seed for future use.
