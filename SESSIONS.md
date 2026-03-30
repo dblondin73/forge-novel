@@ -1282,3 +1282,8 @@ reports/ch1-5-rewrite-triage.md                 (completed triage)
 ### Session 014 — Violence Rule
 
 **LOCKED:** Nate kills when necessary. Murder is wrong, killing to defend is not. Biblical framework — King David. Conduit power does NOT shut off for justified defense. Only for selfish/evil purposes. He carries the crossbow to kill things and the hammer to build things. Both. Capture #101 filed.
+
+
+### Session 014 — Quest Philosophy
+
+**LOCKED:** Nate does NOT avoid quests. Quests are tools. He evaluates through his four lenses and takes the ones that serve his priorities. Other players let the quest log set their agenda. Nate sets his own. The Ch21 abandonment is about THAT quest being wrong, not quests as a category. Capture #102 filed.
