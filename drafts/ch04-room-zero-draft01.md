@@ -20,19 +20,17 @@ Fifty people. Give or take.
 
 A man — bald, thick-necked, veins standing in his forearms — was hammering his fist against the wall beside the sealed door. "OPEN IT. Open this damn door right now. OPEN IT." His voice cracking on the repetition, the sound of someone whose anger was running on fear's fuel and would burn out in minutes. The wall did not respond.
 
-A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. The same raw, torn sound Nate had heard from the Henderson place before the transport — a mother's voice that had been calling since before this room existed and hadn't stopped for the change of scenery. Other voices joined and overlapped: prayers, curses, questions that had no audience and no answers. A teenager sat against the far wall with his arms wrapped around his knees, rocking. A man in a suit — or what used to be a suit before the transport had deposited him on a stone floor — stood perfectly still in the middle of the room with the blue glint of a System screen behind his eyes, reading something only he could see with the fixed intensity of someone who believed that if they just understood the instructions, the instructions would start making sense.
+A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. Not anyone Nate knew — wrong accent, probably wrong state — but the sound was the same one he'd heard drifting across the pasture during Integration. A mother's voice that had started calling before this room existed and wasn't going to stop until it got an answer or ran out of air. Other voices joined and overlapped: prayers, curses, questions that had no audience and no answers. A teenager sat against the far wall with his arms wrapped around his knees, rocking. A man in a suit — or what used to be a suit before the transport had deposited him on a stone floor — stood perfectly still in the middle of the room with the blue glint of a System screen behind his eyes, reading something only he could see with the fixed intensity of someone who believed that if they just understood the instructions, the instructions would start making sense.
 
-Blue glints everywhere. Half the room was reading their character sheets — the System's interface hovering behind their eyes, blocking the room, pulling their attention inward while the chaos boiled around them. Some were scrolling with small gestures of their fingers. Some were talking to the air — their AI companions, Nate realized. Fifty strangers in a stone room, and half of them had gotten a new voice in their head in the last hour and were having their first conversation with it while the other half screamed.
+Blue glints everywhere. People reading their character sheets — the System's interface hovering behind their eyes, blocking the room, pulling their attention inward while the chaos boiled around them. Some were scrolling with small gestures of their fingers. Some were talking to the air — their AI companions, Nate realized. Fifty strangers in a stone room, every one of them carrying a new voice in their head, and the ones who weren't screaming were having their first conversation with it.
 
-*Gamer lens:* Tutorial staging area. Loading zone. Starter gear on the walls. Sealed door that opens when the event triggers. He'd been in this room a hundred times in a hundred games — the quest hub before the first dungeon. The NPCs handing out wooden swords. The loading screen tip that said *Equip your weapon before entering the combat zone!* Except the NPCs were real people and the wooden swords were —
+He'd been in this room a hundred times in a hundred games. Tutorial staging area. Loading zone. Starter gear on the walls, sealed door that opens when the event triggers. The quest hub before the first dungeon. The loading screen tip that said *Equip your weapon before entering the combat zone!* Except the NPCs were real people and the wooden swords were —
 
 He'd get to the swords.
 
-*Ranch lens, simultaneously:* Loading chute. Fifty head in a pen with one gate and nowhere to go until someone opened it. The cattle were scared and they were sorting themselves by instinct — huddlers in the middle, runners at the edges, one bull throwing himself at the wall. Same pattern. Always the same pattern.
-
 "Fifty people," Flint said. The voice came through the shared space behind Nate's eyes — internal, sharp, running hotter than the calm he was forcing into the words. "Three sight lines. One sealed exit. Based on what I can read of the System architecture through your visual field — and I want to stress that 'read' is generous — this is a staging area. A holding pen with equipment."
 
-"I know what a chute looks like."
+"I know what working pens look like."
 
 "Ranch metaphor. Naturally. You've been teleported into an interdimensional stone chamber and your first reference point is cattle infrastructure."
 
@@ -52,7 +50,9 @@ He'd found position already — center of the room, near the largest crafting ta
 
 And people were listening. Not all of them — the bald man was still hitting the wall, the mother on her knees hadn't looked up, the teenager against the far wall was somewhere else entirely — but enough. Ten, twelve, fifteen people migrating toward Marcus's voice, because in a room full of panic, the man who sounded like he had a plan was worth following even if he didn't have one yet.
 
-Nate didn't move toward Marcus. Not yet. Back to the wall, Rex at his feet, sight lines to the weapon racks, the crafting tables, and the sealed door. Ranch instinct: back to something solid, eyes on the exits.
+Nate didn't move toward Marcus. Not yet. Back to the wall, Rex at his feet, where he could see the whole room without being in the middle of it. Same place he'd stand at a sale barn — gate in view, watching the herd sort itself.
+
+His eye caught a face near the second weapon rack — weathered, sixtyish, the permanent squint of a man who'd spent decades in outdoor light. Sale barn. Carthage, maybe, or De Berry. Nate had seen him across the auction ring a dozen Saturdays but never learned his name. The man was holding a sword the way you'd hold a fence post — by the middle, testing the balance before you trusted the weight — and Nate filed that away. At least one person in this room knew what tools felt like before today.
 
 He turned his attention to the weapon racks.
 
@@ -66,31 +66,31 @@ Then Nate looked at the racks — *really* looked — and the world shifted.
 
 Not dramatically. Not a special effect. Like focusing on a reflection in glass and suddenly seeing what was behind it all along. The green arcs pulsed once, and whatever Nate was looking at became *legible.*
 
-Structural Analysis. The glitched skill that didn't show what the System wanted him to see but what was actually there.
+**Structural Analysis (SA)**. The words surfaced in the green arcs and settled there like they'd always been waiting. He didn't know what it was supposed to show him. He only knew what it did.
 
-The swords: Pretty. Polished. Blades catching the torchlight and looking heroic. SA read them as thin-gauge steel with a decorative finish over a hollow core. The edge was real — sharp enough to cut skin — but the spine was half the thickness it should be for a functional blade. Three solid impacts against anything harder than flesh and the steel would deform. Five and it snapped. The crossguards were cast alloy, not forged — they'd crack at the weld under side-load. The handle wraps were uniform synthetic. No grain. No variation. Not real leather. A rendering of leather that had never been near an animal.
+The swords: Pretty. Polished. Blades catching the torchlight and looking heroic. **SA** read them as thin-gauge steel with a decorative finish over a hollow core. The edge was real — sharp enough to cut skin — but the spine was half the thickness it should be for a functional blade. Three solid impacts against anything harder than flesh and the steel would deform. Five and it snapped. The crossguards were cast alloy, not forged — they'd crack at the weld under side-load. The handle wraps were uniform synthetic. No grain. No variation. Not real leather. A rendering of leather that had never been near an animal.
 
-The shields: same problem, different shape. Decorated faces, but the wood behind each face was generated composite. Not real wood. Structural filler wearing a wood costume. Two of the shields had bosses — the metal center pieces — that SA read as genuine forged iron. Denser, heavier, actual crystalline structure. The bosses were real. Everything else was set dressing.
+The shields: same problem, different shape. Decorated faces, but the wood behind each face was generated composite. Not real wood. Structural filler wearing a wood costume. Two of the shields had bosses — the metal center pieces — that **SA** read as genuine forged iron. Denser, heavier, actual crystalline structure. The bosses were real. Everything else was set dressing.
 
 The bows: recurve limbs of generated composite, uniform grain tip to tip, no natural variation. They'd fire arrows. They had no life to them. Manufactured, not grown. The arrows were worse — straight enough but hollow composite shafts that would shatter on impact with anything harder than flesh.
 
-*Gamer lens:* Starter gear. Gray-quality trash with good skins. Every game did this — handed you something that *looked* functional for the first zone and broke by the second. The Tutorial wasn't arming them. It was decorating them.
+Starter gear. Gray-quality trash with good skins. Every game did this — handed you something that *looked* functional for the first zone and broke by the second. The Tutorial wasn't arming them. It was decorating them.
 
-*Engineer lens:* Cosmetic steel over structural garbage. The System had spent its render budget on appearance, not performance. Same thing that happened on every government contract Nate had ever reviewed — pretty deliverables, hollow data.
+Cosmetic steel over structural garbage. The System had spent its render budget on appearance, not performance. Same thing that happened on every government contract Nate had ever reviewed — pretty deliverables, hollow data.
 
-"Well," Flint said. "Forty-eight people are selecting weapons based on visual appeal while your Structural Analysis catalogs material deficiencies in every piece on that wall. I assume you have opinions."
+"Well," Flint said. "Forty-eight people are selecting weapons based on visual appeal while your **Structural Analysis** catalogs material deficiencies in every piece on that wall. I assume you have opinions."
 
 "I have opinions."
 
 "Would you like to share them, or just stand here looking disappointed while people arm themselves with theatrical metalwork?"
 
-Nobody was checking anything. Nobody tapped a blade to hear the ring. Nobody flexed a crossguard to test the weld. They were choosing the way customers chose — by appearance, by size, by the weight of expectation that a sword should *look* like a sword. Nate could feel the ranch part of himself wanting to say something — the part that had watched new hands grab the wrong tool at a fencing job because the right one didn't look impressive enough — but fifty terrified strangers weren't going to listen to a man with a PROCESSING tag telling them their swords were garbage.
+Nobody was checking anything. Nobody tapped a blade to hear the ring. Nobody flexed a crossguard to test the weld. They were choosing the way customers chose — by appearance, by size, by the weight of expectation that a sword should *look* like a sword. Nate could feel the ranch part of himself wanting to say something — the part that had watched new hands grab the wrong tool at a fencing job because the right one didn't look impressive enough — but fifty terrified strangers weren't going to listen to a man with a **PROCESSING** tag telling them their swords were garbage.
 
 He turned his attention to the rest of the room.
 
 And the rest of the room told a different story.
 
-The crafting tables were built for function, not display. SA read them as structural — real materials, real density, load-bearing. The System had generated them to hold weight, not to impress anyone, and that meant honest materials where nobody would think to check. The table legs were straight-grain hardwood. Dense. True. The wall brackets were forged iron — simple, heavy, functional. The torch mounts were solid steel anchored into genuine stone.
+The crafting tables were built for function, not display. **SA** read them as structural — real materials, real density, load-bearing. The System had generated them to hold weight, not to impress anyone, and that meant honest materials where nobody would think to check. The table legs were straight-grain hardwood. Dense. True. The wall brackets were forged iron — simple, heavy, functional. The torch mounts were solid steel anchored into genuine stone.
 
 Everything designed to be *used* was real. Everything designed to be *chosen* was fake.
 
@@ -102,13 +102,13 @@ Everything designed to be *used* was real. Everything designed to be *chosen* wa
 
 ---
 
-Three crossbows hung on the end of the second rack. Nobody was touching them. Crossbows weren't sexy. In a room full of people grabbing swords, the crossbows were wallflowers at a dance nobody had asked them to.
+Three crossbows hung on the end of the second rack. Nobody was touching them. Crossbows weren't sexy. In a room full of people grabbing swords, the crossbows were wallflowers at a dance nobody had invited them to.
 
-SA read them. Two were the same cosmetic trash — decorative prods that would lose tension after twenty shots, generated stocks that looked like walnut but rang hollow. The third sat on the bottom of the rack, partially hidden behind a shield nobody wanted. Ugly. Warped softwood stock that wouldn't hold zero. Sloppy cast trigger mechanism with too much play in the lever. Rail misaligned by two degrees — enough that every bolt would pull left.
+**SA** read them. Two were the same cosmetic trash — decorative prods that would lose tension after twenty shots, generated stocks that looked like walnut but rang hollow. The third sat on the bottom of the rack, partially hidden behind a shield nobody wanted. Ugly. Warped softwood stock that wouldn't hold zero. Sloppy cast trigger mechanism with too much play in the lever. Rail misaligned by two degrees — enough that every bolt would pull left.
 
 But the prod.
 
-SA read it, and Nate stopped.
+**SA** read it, and Nate stopped.
 
 Spring steel. Actual temper. The crystalline grain structure showed heat treatment — not uniform System generation but something that had gone through a real heating and cooling cycle. The metal had memory. It wanted to return to its resting state after deformation. This one component was made right.
 
@@ -118,7 +118,7 @@ Twenty years of replacing trailer springs. Checking hay baler teeth. Testing the
 
 He pulled the crossbow off the rack. Stripped the prod off the warped stock. Discarded the body, the trigger, the rail. Kept the one piece that mattered and the bowstring — decent cordage, worth saving.
 
-A Warrior type nearby — big, already holding two swords he didn't need — watched Nate tear apart a crossbow and keep one piece. "What are you doing?"
+A **Warrior** type nearby — big, already holding two swords he didn't need — watched Nate tear apart a crossbow and keep one piece. "What are you doing?"
 
 "Finding a good part."
 
@@ -128,7 +128,7 @@ A Warrior type nearby — big, already holding two swords he didn't need — wat
 
 The man walked away with the expression of someone who had decided Nate was not his problem.
 
-Nate turned to the nearest crafting table. SA read the table itself — the legs, the frame, the joints. One leg was slightly thicker than the others. Overbuilt for its role. More material than the table needed.
+Nate turned to the nearest crafting table. **SA** read the table itself — the legs, the frame, the joints. One leg was slightly thicker than the others. Overbuilt for its role. More material than the table needed.
 
 "You're looking at the table like the table owes you money," Flint said.
 
@@ -156,11 +156,11 @@ Ugly. Functional.
 
 Then the System pushed its gift, and Nate's world split for the second time that morning.
 
-Mid-assembly — hands on both the prod and the stock — the skill grant arrived. A pressure behind his eyes, sharp and targeted, the System writing an update onto his framework like firmware installing without consent. Around the room, Warriors straightened as something new poured into their limbs. A Mage gasped and blue light flickered between her fingers. A Healer touched the kneeling mother's shoulder and a soft glow spread from her palm. The System was arming its Tutorial participants — pushing combat starters, class abilities, the universal first tools that made the first fight survivable.
+Mid-assembly — hands on both the prod and the stock — the skill grant arrived. A pressure behind his eyes, sharp and targeted, the System writing an update onto his framework like firmware installing without consent. Around the room, **Warriors** straightened as something new poured into their limbs. A **Mage** gasped and blue light flickered between her fingers. A **Healer** touched the kneeling mother's shoulder and a soft glow spread from her palm. The System was arming its Tutorial participants — pushing combat starters, class abilities, the universal first tools that made the first fight survivable.
 
 When it hit Nate's framework, it crashed.
 
-The occupied space rejected it. He felt the skill try to load — Basic Strike, probably, the standard melee opener — and felt it stutter, catch, collapse. Fragments scattering through the space behind his eyes like sparks off a bad weld. Not gracefully. The System's combat programming met resistance that shouldn't exist on any framework it had built, and broke apart.
+The occupied space rejected it. He felt the skill try to load — **Basic Strike**, probably, the standard melee opener — and felt it stutter, catch, collapse. Fragments scattering through the space behind his eyes like sparks off a bad weld. Not gracefully. The System's combat programming met resistance that shouldn't exist on any framework it had built, and broke apart.
 
 "*Shit,*" Flint said, with no theater in it at all.
 
@@ -168,13 +168,13 @@ But something else came through.
 
 Not a weapon skill. Something quieter. Something that had been waiting in the gap between what the System intended and what actually arrived. It settled into his hands — into the connection between his palms and the materials they held. Understanding. Not how to fight. How to *build.*
 
-The wood grain tightened under his right hand. He felt it through his skin — the hardwood stock responding to something below conscious control, molecular structure shifting, the grain aligning along stress pathways that his hands somehow knew were optimal. The prod seated itself into the stock with a connection that went deeper than friction or carpentry. Not glue. Not fasteners. The wood and steel *holding* each other at a level that Field Repair understood and Nate's conscious mind was still catching up to. He could feel the materials answering a question he hadn't known how to ask: *How does the wood want to hold the steel?*
+The wood grain tightened under his right hand. He felt it through his skin — the hardwood stock responding to something below conscious control, molecular structure shifting, the grain aligning along stress pathways that his hands somehow knew were optimal. The prod seated itself into the stock with a connection that went deeper than friction or carpentry. Not glue. Not fasteners. The wood and steel *holding* each other at a level that **Field Repair** understood and Nate's conscious mind was still catching up to. He could feel the materials answering a question he hadn't known how to ask: *How does the wood want to hold the steel?*
 
-"That was supposed to be Basic Strike," Flint said, his voice stripped flat. "Standard melee combat skill, Level 1, assigned to all Tutorial participants. Your framework ate it and produced something that is profoundly not a combat skill." A beat. "It's Field Repair. But not the standard version. Standard Field Repair shows a durability readout and a repair prompt. What you're doing is reading material structure through physical contact and... convincing it to cooperate."
+"That was supposed to be **Basic Strike**," Flint said, his voice stripped flat. "Standard melee combat skill, Level 1, assigned to all Tutorial participants. Your framework ate it and produced something that is profoundly not a combat skill." A beat. "It's **Field Repair**. But not the standard version. Standard **Field Repair** shows a durability readout and a repair prompt. What you're doing is reading material structure through physical contact and... convincing it to cooperate."
 
 Nate set the trigger mechanism into a notch he'd carved with the hammer's peen. Threaded the bowstring — tensioned, tested. Click. Reset. Click. Smooth enough.
 
-Grip wrapped in a strip of leather. Real leather — pulled from the inside of a belt buckle, where the Tutorial had generated actual material to hold the buckle in place and nobody would ever think to check. SA had found it. Field Repair bonded it.
+Grip wrapped in a strip of leather. Real leather — pulled from the inside of a belt buckle, where the Tutorial had generated actual material to hold the buckle in place and nobody would ever think to check. **SA** had found it. **Field Repair** bonded it.
 
 Ten minutes. The crossbow looked like someone built it in a barn. The stock was a table leg. The trigger was a wall bracket. The prod was the only honest piece of steel in the room.
 
@@ -188,9 +188,9 @@ It was ugly in the way that honest things are ugly and dangerous in the way that
 
 "Theirs will break first."
 
-The hammer was almost an afterthought — except nothing built with Field Repair was an afterthought. Nate picked it back up, wrapped the handle with cordage from the crafting station, and felt the steel seat deeper into the wood as the connection went from adequate to permanent. Added a loop of cord so it hung from his belt. Flat face for striking. Cross peen for shaping. A blacksmith's tool that would follow him to every crafting station between here and whatever waited at the end of this place.
+The hammer was almost an afterthought — except nothing built with **Field Repair** was an afterthought. Nate picked it back up, wrapped the handle with cordage from the crafting station, and felt the steel seat deeper into the wood as the connection went from adequate to permanent. Added a loop of cord so it hung from his belt. Flat face for striking. Cross peen for shaping. A blacksmith's tool that would follow him to every crafting station between here and whatever waited at the end of this place.
 
-Two minutes. Nobody noticed. Everyone was watching the Warriors compare swords.
+Two minutes. Nobody noticed. Everyone was watching the **Warriors** compare swords.
 
 ---
 
@@ -232,11 +232,7 @@ Nate, internally: *Not now.*
 
 The woman — he didn't know her name yet — crouched. Not reaching for Rex, just lowering herself to his level, the way someone who understood animals made themselves smaller before making contact. Rex's tail moved once. Not a wag. A data point. She passed.
 
-"I'm Josie," she said, straightening. "Josie Pickett. My screen says Appraiser, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them." A pause, and her voice shifted — still fast, still aimed, but with something underneath it that she covered before it could show. "My parents are in Marshall. I was at an estate sale outside Carthage when—"
-
-She stopped. Swallowed. Continued as if the sentence had never cracked.
-
-"Anyway. The chain shirts are the best armor in here — actual metal rings, not composites — but they're sized for someone about six inches taller than me, which is a recurring theme in my life. The leather armor is mostly trash. And the robes are —" she made a face that conveyed her complete professional assessment of the robes. "Are we going to die in here?"
+"I'm Josie," she said, straightening. "Josie Pickett. My screen says **Appraiser**, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them." She kept talking the way some people kept moving — because stopping meant thinking, and thinking meant feeling, and this was not the room for that. "The chain shirts are the best armor in here — actual metal rings, not composites — but they're sized for someone about six inches taller than me, which is a recurring theme in my life. The leather armor is mostly trash. And the robes are —" she made a face that conveyed her complete professional assessment of the robes. "Are we going to die in here?"
 
 "Not today."
 
@@ -252,7 +248,7 @@ She stopped. Swallowed. Continued as if the sentence had never cracked.
 
 Marcus appeared without preamble, the way he always appeared — already in the middle of a thought, as if the conversation had started before he'd arrived and he was simply catching up.
 
-His eyes swept the crossbow, the three-legged table, the missing wall bracket, the pile of discarded crossbow parts, and processed all of it in the time it took most people to notice Nate's nameplate. His eyes lingered on the amber **[PROCESSING]** tag for exactly one second.
+His eyes swept the crossbow, the three-legged table, the missing wall bracket, the pile of discarded crossbow parts, and processed all of it in the time it took most people to notice Nate's nameplate. They lingered on the amber **[PROCESSING]** tag for exactly one second.
 
 "Hell of a morning."
 
@@ -266,7 +262,7 @@ His eyes swept the crossbow, the three-legged table, the missing wall bracket, t
 
 "From parts."
 
-"From the *room.*" Marcus's voice had the quiet intensity of a man who'd been teleported into a stone chamber with forty-nine strangers and had responded by building a command structure in under five minutes. "What can you do, Nate?"
+"From the *room.*" Marcus's voice had the quiet intensity of a man who'd been teleported into a stone chamber with forty-eight strangers and had responded by building a command structure in under five minutes. "What can you do, Nate?"
 
 "I can see what things are made of. The weapons on those racks — most of them are cosmetic. Thin-gauge blades over hollow cores. The crossguards will crack under side-load. Three solid hits and they deform."
 
@@ -274,23 +270,23 @@ Marcus went quiet. Three seconds. The same three seconds he always took when som
 
 "How many people know this?"
 
-"Me, and her." Nate nodded toward Josie, who'd moved to the far end of the room and was methodically salvaging materials from the gear discard pile — the things people had picked up, tested, and thrown back. She was building a collection from everyone else's rejects and did not appear to care that she looked insane doing it. "She's an Appraiser. She sees what things are worth. I see what things are made of."
+"Me, and her." Nate nodded toward Josie, who'd moved to the far end of the room and was methodically salvaging materials from the gear discard pile — the things people had picked up, tested, and thrown back. She was building a collection from everyone else's rejects and did not appear to care that she looked insane doing it. "She's an **Appraiser**. She sees what things are worth. I see what things are made of."
 
 "That's a pair." Marcus looked toward the sealed door. "Don't lose her."
 
-A man walked past — big, broad-shouldered, the kind of build that came from construction sites and daily labor. His nameplate read **SHIELD GUARDIAN [LV. 1]** in the clean white text of a properly classified System citizen. He glanced at Nate's crossbow, glanced at the amber PROCESSING tag, and his face performed the exact calculation that every middle manager and military officer had performed since the invention of rank: *unclassified, unconventional, not worth the investment.* He walked on without a word.
+A man walked past — big, broad-shouldered, the kind of build that came from construction sites and daily labor. His nameplate read **SHIELD GUARDIAN [LV. 1]** in the clean white text of a properly classified System citizen. He glanced at Nate's crossbow, glanced at the amber **PROCESSING** tag, and his face performed the exact calculation that every middle manager and military officer had performed since the invention of rank: *unclassified, unconventional, not worth the investment.* He walked on without a word.
 
-"The big ones always pick last," Flint said internally. "He's going to be very impressed with that PROCESSING tag in about three rooms."
+"The big ones always pick last," Flint said internally. "He's going to be very impressed with that **PROCESSING** tag in about three rooms."
 
-Marcus hadn't heard the comment — nobody could, it was internal — but he'd caught the Shield Guardian's dismissal. His jaw tightened half a degree. Project managers read social dynamics the way engineers read stress fractures — not by looking for them, but by being unable to stop.
+Marcus hadn't heard the comment — nobody could, it was internal — but he'd caught the **Shield Guardian**'s dismissal. His jaw tightened half a degree. Project managers read social dynamics the way engineers read stress fractures — not by looking for them, but by being unable to stop.
 
 "The System tried to give me a combat skill," Nate said. "Standard melee opener. It didn't take."
 
 "What took instead?"
 
-Nate ran his hand along the crossbow stock. Felt the wood respond under his palm — grain alive through Field Repair's lens, the molecular structure humming like a string plucked at the right frequency. "The System tried to give me a sword. I got a workshop."
+Nate ran his hand along the crossbow stock. Felt the wood respond under his palm — grain alive through **Field Repair's** lens, the molecular structure humming like a string plucked at the right frequency. "The System tried to give me a sword. I got a workshop."
 
-Marcus studied him for a long moment. Not the way the Shield Guardian had looked — not assessing rank or status. Marcus was reading capability, the way he'd read Nate's capability across a hundred project meetings where the org chart said one thing and the room said another.
+Marcus studied him for a long moment. Not the way the **Shield Guardian** had looked — not assessing rank or status. Marcus was reading capability, the way he'd read Nate's capability across a hundred project meetings where the org chart said one thing and the room said another.
 
 "Stay behind the line. Whatever that door opens into, you're not swinging a sword. You're building whatever we need to survive the next room." He turned to go, then stopped. "And stay close to Pickett. She's already got more salvage than anyone with a combat class."
 
@@ -302,13 +298,13 @@ The sound came without warning.
 
 Low. Sustained. A vibration that bypassed ears and settled directly into stone and bone and the space between thoughts — the kind of sound that had no source because it came from everywhere at once. The walls. The floor. The sealed door at the far end that had been dark and silent since they'd arrived.
 
-Rex went rigid. Every muscle locked, ears flat against his skull, body pressed against Nate's shin like a spring compressed to its limit. An impression washed through the bond between them — not a word, never a word, but the whole-body knowing of an animal who'd spent four years reading herds: *The gate is opening. The cattle are moving. Whether they want to or not.*
+Rex went rigid. Every muscle locked, ears flat against his skull, body pressed against Nate's shin like a spring compressed to its limit. An impression washed through the bond between them — not a word, but the bone-deep certainty of an animal who'd spent four years reading herds: *The gate is opening. The cattle are moving. Whether they want to or not.*
 
 The sealed door began to glow.
 
-Lines of amber light traced the doorframe, following seams that SA showed Nate had been there all along — channels cut into the stone, filled with something that moved like liquid light. The door didn't open. It dissolved. Stone became translucent, then transparent, then gone, and behind it a corridor stretched into darkness beyond the torchlight's reach.
+Lines of amber light traced the doorframe, following seams that **SA** showed Nate had been there all along — channels cut into the stone, filled with something that moved like liquid light. The door didn't open. It dissolved. Stone became translucent, then transparent, then gone, and behind it a corridor stretched into darkness beyond the torchlight's reach.
 
-SA fired hard. The corridor's architecture unfolded in Nate's vision like a blueprint being read — stone walls, twelve-foot ceiling, repeating tile patterns every forty feet. And in the floor, starting thirty yards down the corridor, points of light pulsed beneath the surface. Dim. Rhythmic. Dormant heartbeats buried under six inches of generated stone.
+**SA** fired hard. The corridor's architecture unfolded in Nate's vision like a blueprint being read — stone walls, twelve-foot ceiling, repeating tile patterns every forty feet. And in the floor, starting thirty yards down the corridor, points of light pulsed beneath the surface. Dim. Rhythmic. Dormant heartbeats buried under six inches of generated stone.
 
 "Spawn points," Flint said. Combat mode — flat, fast, stripped to information. "Fifteen down the first visible stretch. More beyond my range. They're dormant but they're heating up." His voice dropped. "The Tutorial just showed us where the gear is. Now it's about to show us why we need it."
 
@@ -318,11 +314,11 @@ Numbers appeared in Nate's green arcs — not because he'd asked, but because th
 
 Two minutes.
 
-The room erupted. People who'd been stunned into silence found their voices. People who'd found their voices found their fear. The bald man stopped hitting the wall and backed away from it with his hands up, as if the stone itself might attack him. A woman grabbed the nearest weapon — a mace she could barely lift — and pressed herself against the far wall. The Shield Guardian stepped forward with both swords drawn, and for all his dismissal of Nate's PROCESSING tag, his face had gone the color of old ash.
+The room erupted. People who'd been stunned into silence found their voices. People who'd found their voices found their fear. The bald man stopped hitting the wall and backed away from it with his hands up, as if the stone itself might attack him. A woman grabbed the nearest weapon — a mace she could barely lift — and pressed herself against the far wall. The **Shield Guardian** stepped forward with both swords drawn, and for all his dismissal of Nate's **PROCESSING** tag, his face had gone the color of old ash.
 
 **105**
 
-"Listen!" Marcus's voice cut through it like a blade through wet rope. Not louder — sharper. The voice of a man who'd learned in his first year of program management that in the first thirty seconds of a crisis you either established order or you lost it. "Combat classes — front line at the door. Mages, second rank, ranged support. Medical and support, behind the line. Nobody goes through alone and nobody gets left behind."
+"Listen!" Marcus's voice cut through it like a blade through wet rope. Not louder — sharper. The voice of a man who'd learned in his first year of basic that in the first thirty seconds of a crisis you either established order or you lost it. "Combat classes — front line at the door. **Mages**, second rank, ranged support. Medical and support, behind the line. Nobody goes through alone and nobody gets left behind."
 
 People moved. Not because they wanted to. Because moving was better than standing still, and the man giving directions sounded like he knew what he was doing even if nobody in the room could prove it.
 
@@ -340,7 +336,7 @@ He had no bolts. None on the racks, none in the room. A crossbow without ammunit
 
 **60**
 
-Josie appeared at his elbow. She'd strapped a chain shirt over her clothes — it hung past her hips and clinked when she moved and she'd already started modifying it, tucking the excess length into a belt fashioned from two of her leather strips. A dagger on one hip. A makeshift sack on the other — already bulging with materials nobody else had thought to keep.
+Josie appeared at his elbow. She'd strapped a chain shirt over her clothes — it hung past her hips and clinked when she moved, and she'd already started modifying it, tucking the excess length into a belt fashioned from two of her leather strips. A dagger on one hip. A makeshift sack on the other — already bulging with materials nobody else had thought to keep.
 
 "I heard the thing about spawn points," she said, fast and aimed. "Whatever comes through that door, I get the parts. Material identification is my whole class. I can sort drops faster than they hit the ground."
 
@@ -356,7 +352,7 @@ Nate looked at her. Looked at the sack. Looked at the brown eyes that hadn't sto
 
 The spawn points down the corridor pulsed harder. The rhythm shifted from dormant to urgent — something warming up, something preparing, something that had been patient beneath the stone and was running out of patience.
 
-Warriors at the door. Mages behind them, hands glowing with unsteady light. Marcus in the center of the formation, his Vanguard class doing something Nate couldn't see but could feel in the way people responded — standing straighter, breathing slower, finding a rhythm that wasn't their own but helped.
+**Warriors** at the door. **Mages** behind them, hands glowing with unsteady light. Marcus in the center of the formation, his **Vanguard** class doing something Nate couldn't see but could feel in the way people responded — standing straighter, breathing slower, finding a rhythm that wasn't their own but helped.
 
 Nate stood behind the line with an ugly crossbow, no ammunition, a forging hammer on his belt, and a dog who'd already decided that whatever was about to come up the corridor was just livestock that hadn't been sorted yet.
 
