@@ -1265,3 +1265,6 @@ reports/ch1-5-rewrite-triage.md                 (completed triage)
 
 **NEW CODEX ENTITY:**
 - #113 System Credits — crypto-style digital currency maintained by AI companions. Wallet in HUD. Credits are TOOLS (clean, no hooks). Tracking lives in the AI managing the wallet, not in the currency itself. Flint doesn't report upstream so Nate's transactions are invisible. He pays cash in a credit-card world. Credits replace USD within weeks post-Tutorial.
+
+
+**Codex #113 System Credits — LOCKED.** No further changes needed.
