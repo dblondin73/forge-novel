@@ -1287,3 +1287,11 @@ reports/ch1-5-rewrite-triage.md                 (completed triage)
 ### Session 014 — Quest Philosophy
 
 **LOCKED:** Nate does NOT avoid quests. Quests are tools. He evaluates through his four lenses and takes the ones that serve his priorities. Other players let the quest log set their agenda. Nate sets his own. The Ch21 abandonment is about THAT quest being wrong, not quests as a category. Capture #102 filed.
+
+
+### Session 014 — Missing Codex Entities Created
+
+**NEW ENTITIES:**
+- #114 Violence Rule — justified defense, conduit supports it, King David framework
+- #115 Quest Philosophy — quests are tools, Nate evaluates through four lenses
+- #116 AI Personality Rule — System AIs no personality, Anomaly AIs have personality, detection risk
