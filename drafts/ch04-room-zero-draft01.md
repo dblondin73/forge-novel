@@ -298,7 +298,7 @@ The sound came without warning.
 
 Low. Sustained. A vibration that bypassed ears and settled directly into stone and bone and the space between thoughts — the kind of sound that had no source because it came from everywhere at once. The walls. The floor. The sealed door at the far end that had been dark and silent since they'd arrived.
 
-Rex went rigid. Every muscle locked, ears flat against his skull, body pressed against Nate's shin like a spring compressed to its limit. An impression washed through the bond between them — not a word, but the bone-deep certainty of an animal who'd spent four years reading herds: *The gate is opening. The cattle are moving. Whether they want to or not.*
+Rex went rigid. Every muscle locked, ears flat against his skull, body pressed against Nate's shin like a spring compressed to its limit. An impression washed through the bond between them — not a word, but the wordless knowing of an animal who'd spent four years reading herds: *The gate is opening. The cattle are moving. Whether they want to or not.*
 
 The sealed door began to glow.
 
