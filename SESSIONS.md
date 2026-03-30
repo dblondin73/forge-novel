@@ -1268,3 +1268,12 @@ reports/ch1-5-rewrite-triage.md                 (completed triage)
 
 
 **Codex #113 System Credits — LOCKED.** No further changes needed.
+
+
+### Session 014 — AI Personality Rule
+
+**LOCKED:** System AIs are friendly, helpful, NO personality — scripted templates. Anomaly AIs have genuine personality. Flint's sarcasm is the fingerprint of whoever authored the rewrite.
+
+**Codex #2 (Flint) updated** with AI Personality Rule section, detection risk (personality could flag Anomaly), and the story beat where Flint notices other AIs are empty and asks why he's different.
+
+**Capture #100** filed.
