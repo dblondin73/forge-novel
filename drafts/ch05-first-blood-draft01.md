@@ -2,11 +2,15 @@
 
 ---
 
-The corridor had funneled them forward — fifty people pressing through dim stone with nothing but the sound of their own breathing and the scratching getting closer, until the passage widened into a chamber and the scratching stopped and everything went quiet for exactly long enough to be worse.
+The corridor had funneled them forward — fifty people pressing through dim stone with nothing but the sound of their own breathing and something scratching beneath the floor ahead.
 
-Then the first Thornling came through the floor like a bad idea that had been waiting underground for permission.
+Then the passage widened into a chamber, and the scratching stopped.
 
-Spawn point three — **SA** had flagged it forty seconds ago, a heat signature beneath the stone pulsing in a rhythm that reminded Nate of a heartbeat if heartbeats were made of malice and bad landscaping. The stone cracked. Bark-covered fingers pushed through. Then the whole thing erupted upward in a shower of dirt and generated rock, and the room went from quiet corridor to absolute pandemonium in about two seconds.
+The silence was worse.
+
+**SA** had been tracking heat signatures under the stone for the last forty seconds. Six of them. Pulsing. Nate had mapped the spawn points the way he'd map pressure gauges climbing toward redline — not a question of *whether* but *when.*
+
+Spawn point three cracked first. Bark-covered fingers pushed through the stone. Then the whole thing erupted upward in a shower of dirt and rock, and the room went from silence to pandemonium in about two seconds.
 
 The chamber was forty feet across. Stone walls, arched ceiling, same torch-bracket lighting as the starting room but dimmer — the System dialing down the comfort like a horror movie director who'd learned that shadows sold fear cheaper than monsters. Six spawn points across the floor, all firing within three seconds of each other. (how did we establish they were thornlings) Six Thornlings pulling themselves out of the stone with the jerky, root-finding motion of saplings in a time-lapse video, except saplings didn't have bark-plate armor and thorn-studded arms and the blind, seeking hunger of things that had been grown to kill.
 
