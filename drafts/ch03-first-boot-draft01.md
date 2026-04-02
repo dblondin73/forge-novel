@@ -124,11 +124,11 @@ Rex's ear twitched at a meadowlark calling from the fence line, the bright three
 
 "Where the System tried to write. Something was already living in that space. Has been for a long time."
 
-The silence this time was the longest yet. Nate felt it in that room behind his eyes — dense, weighted, the kind of quiet a church gets when someone's said something true and everyone's still letting it land. He could feel Flint processing, and the sensation was strange — like watching someone else's thoughts cast shadows on a wall you shared.
+The silence this time was the longest yet. Nate felt it in that room behind his eyes — dense, weighted, the kind of quiet a courtroom gets when someone's said something true and everyone's still letting it land. He could feel Flint processing, and the sensation was strange — like watching someone else's thoughts cast shadows on a wall you shared.
 
 "I'm going to file that," Flint said finally, and his voice was quieter than it had been since he'd woken up, the performance gone out of it like air from a tire, almost careful, "under _things I don't have the clearance to understand._ And I'm going to move on. Because whatever is or isn't living in your head alongside me —" a beat, and the recovery was almost seamless, the theatrical speed coming back like a man shrugging on a jacket he'd briefly taken off "— the _practical_ problem is that we are standing in an open pasture with no weapons, no combat class, and based on what I'm picking up from the network noise, things are about to start showing up in Panola County that don't belong anywhere near a cattle ranch. I'd elaborate, but my data is fragmented and my credibility is already questionable, so let's focus on the part where you have a plan. You _do_ have a plan?"
 
-Nate looked out across his land. The morning was still beautiful — golden light on the grass, the tree line sharp against the blue sky, the creek bottom dark and cool in the post oak shadows. His land. His father's land before that, and his mother's after. A thousand acres of rolling pasture and sandy loam that he'd sweated into and bled on and prayed over since he was old enough to hold a fence tool. Whatever was coming, it was coming here.
+Nate looked out across his land. The morning was still beautiful — golden light on the grass, the tree line sharp against the blue sky, the creek bottom dark and cool in the post oak shadows. His land. His father's land before that, and his mother's after. A thousand acres of rolling pasture and sandy loam that he'd sweated into and bled on since he was old enough to hold a fence tool. Whatever was coming, it was coming here.
 
 He stood up. The headache pulsed. The green arcs flickered.
 
@@ -182,9 +182,9 @@ He turned the dial.
 
 A preacher's voice, East Texas accent thick as fence-post creosote: "— and I tell you, brothers and sisters, _this_ is the Rapture. This is what we were promised. The Lord has reached down His mighty hand and He is _separating_ the wheat from the chaff, and every screen, every power, every —"
 
-Nate's jaw tightened. Not the theology that bothered him — it was the certainty. A man who could look at the wreckage of a world and see his own expectations confirmed instead of shattered. The preacher's voice had the airtight seal of someone who'd already decided what this was before it happened, and nothing that happened next was going to change the answer he'd written first.
+Nate's jaw tightened. A man who could look at the wreckage of a world and see his own expectations confirmed instead of shattered. The preacher's voice had the airtight seal of someone who'd already decided what this was before it happened, and nothing that happened next was going to change the answer he'd written first.
 
-Nate knew what lived in the space the System had tried to write over. He knew it the way you knew the feel of your own land under your boots — not from reading about it but from walking it for twenty years. And whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely, and the preacher's confident voice was describing a painting while standing in front of a window.
+Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely, and the preacher's confident voice was describing a painting while standing in front of a window.
 
 Dial.
 

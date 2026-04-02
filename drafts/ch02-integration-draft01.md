@@ -6,7 +6,7 @@ The white didn't fade. It stopped.
 
 One moment there was nothing — no light, no dark, no temperature, no sound, no ground beneath his boots. Then the nothing resolved into something, and the something was worse, because at least nothing had been honest about what it was.
 
-Nate was suspended in a void. Not floating — suspended. The distinction mattered. Floating implied buoyancy, implied a medium, implied physics was still on speaking terms with whatever place this was. This was different. He was held in position the way a specimen was held on a slide — precisely, deliberately, without his input or consent.
+Nate was suspended in a void. Not floating — suspended. The distinction mattered. Floating implied buoyancy, implied a medium, implied physics was still on speaking terms with whatever place this was. This was different. He was held in position the way a specimen was held on a slide — precisely, deliberately, without his input or consent. Nobody had asked him to sign a waiver.
 
 He couldn't feel his body. He knew it was there the way you knew your truck was in the driveway even when you couldn't see it from the kitchen window — by absence of evidence to the contrary. His hands weren't responding to his request to make fists. His legs weren't responding to his request to stand. His lungs were working, or at least he thought they were, but he couldn't feel his chest expanding. The only thing that still felt like his was his mind, and even that felt like someone had opened the hood and was looking at the engine.
 
@@ -200,7 +200,7 @@ Nate watched it happen with the specific, familiar dread of someone who had seen
 
 The last panel to go was the health bar. It flickered green one final time, then dissolved into static and was gone.
 
-Two faint green arcs remained. Thin curved lines, parentheses of pale monochrome light, shimmering at the edges of his vision. That was all. No text. No panels. No stat columns or progress wheels. Just two stubborn green lines pulsing where an entire interface had been thirty seconds ago.
+Two faint green arcs remained. Thin curved lines, parentheses of pale monochrome light, shimmering at the edges of his vision. That was all. No text. No panels. No stat columns or progress wheels. Just two stubborn green lines pulsing where an entire interface had been thirty seconds ago. Eight billion people got the full release. He got the loading screen.
 
 Nate blinked them away. They came back. He blinked again. They stayed.
 
@@ -238,7 +238,7 @@ The man stared at him for a moment, confused, then whatever he was seeing pulled
 
 From down the county road — the Henderson place, maybe a quarter mile — he could hear whooping. Voices carrying the way voices carry in open country when there's nothing between you and the sound but pasture and fence line. Someone hollering for someone else to come look at this, come see, you ain't gonna believe it.
 
-The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. Nate wondered what that family's first week was going to look like.
+The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. Nate wondered what that family's homeowner's insurance was going to look like.
 
 They looked happy. They looked grateful. They looked like people who had been given exactly what they wanted.
 
@@ -264,7 +264,7 @@ BOOT SEQUENCE PENDING
 
 Then the arcs scrambled back to noise, and the words were gone.
 
-Nate stared at the space where they'd been.
+Nate stared at the space where they'd been. _Pending._ Not failed. Not denied. Pending. The most noncommittal word in the English language, and his entire situation had just been summarized by it.
 
 The man by the Tahoe glanced back at him one more time — that brief, uncertain look of a man who'd found something that didn't fit the pattern and decided it wasn't his problem. Then his daughter tugged his sleeve and pulled him back toward the flame she was trying to hold herself, and just like that, Nate was forgotten. The woman had gone still. She was bent over her screen the way someone bends over a map to somewhere she'd always wanted to go. The boy had his own small flame going now — unsteady, guttering, real. He was ten years old with fire in his hand and the world had just gotten extremely simple.
 

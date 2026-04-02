@@ -46,7 +46,7 @@ Marcus Webb's voice cut through it.
 
 He'd found position already — center of the room, near the largest crafting table, where his voice carried in every direction. Same voice he'd used in program reviews. Same posture: hands at his sides, shoulders square, chin up, the measured projection of a man who'd spent twenty years making rooms full of difficult people listen and hadn't needed an apocalypse to practice. The nameplate above his head read:
 
-**MARCUS WEBB — VANGUARD [LV. 1]**
+**MARCUS WEBB — VANGUARD [RANK F — LOW]**
 
 And people were listening. Not all of them — the bald man was still hitting the wall, the mother on her knees hadn't looked up, the teenager against the far wall was somewhere else entirely — but enough. Ten, twelve, fifteen people migrating toward Marcus's voice, because in a room full of panic, the man who sounded like he had a plan was worth following even if he didn't have one yet.
 
@@ -96,9 +96,9 @@ Everything designed to be *used* was real. Everything designed to be *chosen* wa
 
 "Flint."
 
-"I see it. The System dressed the mannequins and forgot to dress the stage." A pause. "Or it didn't forget. The expendable gear is designed to break. Give them pretty garbage, let it fail under stress, force them into the progression loop for replacements." The implication settled between them like a weight. "I'd like to be wrong about that."
+"I see it. The System dressed the mannequins and forgot to dress the stage." A pause. "Or it didn't forget. Classic starter-zone gear philosophy — pretty enough to grab, fragile enough to replace. Every game does this. Hand out gray-quality trash, let it break on the first boss, drive upgrades through the progression system."
 
-"You're not wrong."
+"Standard gear treadmill. I've played this game before."
 
 ---
 
@@ -156,7 +156,7 @@ Ugly. Functional.
 
 Then the System pushed its gift, and Nate's world split for the second time that morning.
 
-Mid-assembly — hands on both the prod and the stock — the skill grant arrived. A pressure behind his eyes, sharp and targeted, the System writing an update onto his framework like firmware installing without consent. Around the room, **Warriors** straightened as something new poured into their limbs. A **Mage** gasped and blue light flickered between her fingers. A **Healer** touched the kneeling mother's shoulder and a soft glow spread from her palm. The System was arming its Tutorial participants — pushing combat starters, class abilities, the universal first tools that made the first fight survivable.
+Mid-assembly — hands on both the prod and the stock — the skill grant arrived. A pressure behind his eyes, sharp and targeted, the System writing an update onto his framework like a patch pushing mid-session. Around the room, **Warriors** straightened as something new poured into their limbs. A **Mage** gasped and blue light flickered between her fingers. A **Healer** touched the kneeling mother's shoulder and a soft glow spread from her palm. The System was arming its Tutorial participants — pushing combat starters, class abilities, the universal first tools that made the first fight survivable.
 
 When it hit Nate's framework, it crashed.
 
@@ -170,7 +170,7 @@ Not a weapon skill. Something quieter. Something that had been waiting in the ga
 
 The wood grain tightened under his right hand. He felt it through his skin — the hardwood stock responding to something below conscious control, molecular structure shifting, the grain aligning along stress pathways that his hands somehow knew were optimal. The prod seated itself into the stock with a connection that went deeper than friction or carpentry. Not glue. Not fasteners. The wood and steel *holding* each other at a level that **Field Repair** understood and Nate's conscious mind was still catching up to. He could feel the materials answering a question he hadn't known how to ask: *How does the wood want to hold the steel?*
 
-"That was supposed to be **Basic Strike**," Flint said, his voice stripped flat. "Standard melee combat skill, Level 1, assigned to all Tutorial participants. Your framework ate it and produced something that is profoundly not a combat skill." A beat. "It's **Field Repair**. But not the standard version. Standard **Field Repair** shows a durability readout and a repair prompt. What you're doing is reading material structure through physical contact and... convincing it to cooperate."
+"That was supposed to be **Basic Strike**," Flint said, his voice stripped flat. "Standard melee combat skill, Rank 1 Low, assigned to all Tutorial participants. Your framework ate it and produced something that is profoundly not a combat skill." A beat. "It's **Field Repair**. But not the standard version. Standard **Field Repair** shows a durability readout and a repair prompt. What you're doing is reading material structure through physical contact and... convincing it to cooperate."
 
 Nate set the trigger mechanism into a notch he'd carved with the hammer's peen. Threaded the bowstring — tensioned, tested. Click. Reset. Click. Smooth enough.
 
@@ -180,7 +180,7 @@ Ten minutes. The crossbow looked like someone built it in a barn. The stock was 
 
 It was ugly in the way that honest things are ugly and dangerous in the way that engineered things are dangerous.
 
-"I have catalogued what you just did," Flint said, "and I want you to know that from a strictly technical standpoint, you built a ranged weapon from furniture and wall fixtures while forty-eight people selected purpose-built armaments designed for combat."
+"I have catalogued what you just did," Flint said, "and I want you to know that from a strictly technical standpoint, you just built a ranged weapon from furniture and wall fixtures while forty-eight people with functioning class assignments selected purpose-built armaments designed by a god-tier intelligence. And yours is better. I find that personally offensive on their behalf."
 
 "Theirs will break."
 
@@ -274,9 +274,9 @@ Marcus went quiet. Three seconds. The same three seconds he always took when som
 
 "That's a pair." Marcus looked toward the sealed door. "Don't lose her."
 
-A man walked past — big, broad-shouldered, the kind of build that came from construction sites and daily labor. His nameplate read **SHIELD GUARDIAN [LV. 1]** in the clean white text of a properly classified System citizen. He glanced at Nate's crossbow, glanced at the amber **PROCESSING** tag, and his face performed the exact calculation that every middle manager and military officer had performed since the invention of rank: *unclassified, unconventional, not worth the investment.* He walked on without a word.
+A man walked past — big, broad-shouldered, the kind of build that came from construction sites and daily labor. His nameplate read **SHIELD GUARDIAN [RANK F — LOW]** in the clean white text of a properly classified System citizen. He glanced at Nate's crossbow, glanced at the amber **PROCESSING** tag, and his face performed the exact calculation that every middle manager and military officer had performed since the invention of rank: *unclassified, unconventional, not worth the investment.* He walked on without a word.
 
-"The big ones always pick last," Flint said internally. "He's going to be very impressed with that **PROCESSING** tag in about three rooms."
+"The big ones always pick last," Flint said internally. "I'm adding him to the list of people who'll want to be your friend when their swords snap. The list has subsections now."
 
 Marcus hadn't heard the comment — nobody could, it was internal — but he'd caught the **Shield Guardian**'s dismissal. His jaw tightened half a degree. Project managers read social dynamics the way engineers read stress fractures — not by looking for them, but by being unable to stop.
 
@@ -306,7 +306,7 @@ Lines of amber light traced the doorframe, following seams that **SA** showed Na
 
 **SA** fired hard. The corridor's architecture unfolded in Nate's vision like a blueprint being read — stone walls, twelve-foot ceiling, repeating tile patterns every forty feet. And in the floor, starting thirty yards down the corridor, points of light pulsed beneath the surface. Dim. Rhythmic. Dormant heartbeats buried under six inches of generated stone.
 
-"Spawn points," Flint said. Combat mode — flat, fast, stripped to information. "Fifteen down the first visible stretch. More beyond my range. They're dormant but they're heating up." His voice dropped. "The Tutorial just showed us where the gear is. Now it's about to show us why we need it."
+"Spawn points," Flint said. Combat mode — flat, fast, stripped to information. "Fifteen down the first visible stretch. More beyond my range. They're dormant but they're heating up." His voice dropped. "The Tutorial handed out the party favors. Now it's about to introduce the piñata. Except the piñata hits back."
 
 Numbers appeared in Nate's green arcs — not because he'd asked, but because the HUD had decided he needed them.
 
@@ -340,7 +340,7 @@ Josie appeared at his elbow. She'd strapped a chain shirt over her clothes — i
 
 "I heard the thing about spawn points," she said, fast and aimed. "Whatever comes through that door, I get the parts. Material identification is my whole class. I can sort drops faster than they hit the ground."
 
-Flint, internally: "I'm promoting her from 'interesting' to 'essential.' For the record."
+Flint, internally: "I'm promoting her from 'interesting' to 'essential.' She just volunteered to loot the things trying to kill us. That's either courage or a clinical inability to stop sorting. Either way, I approve."
 
 Nate looked at her. Looked at the sack. Looked at the brown eyes that hadn't stopped inventorying since she'd woken up in this room.
 

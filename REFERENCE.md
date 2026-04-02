@@ -82,6 +82,23 @@ The mirror of conduit consequences. Stage 1 Integration (The Gift — free, invi
 **System Hooks vs System Tools** — Codex #108
 Not everything the System provides is a hook. HOOKS (bind deeper): skills, class advancement, patron bonds, AI spyware, prestige paths. TOOLS (functional, no strings): standard weapons/armor, inventory rings, consumables, basic crafting. A dishonest system that makes everything a trap would be too obvious — honest tools build trust, trust makes hooks invisible.
 
+**Skill & Player Progression System — Dual-Track** — Codex #109
+Two separate progression tracks, both use-based (improve through combat use, not menu allocation).
+
+**PLAYER RANK** — Overall power tier. F → E → D → C → B → A → S. Each rank has 4 tiers: **Low, Mid, High, Master**. 28 total steps. Player rank reflects cumulative combat experience, stat growth, and class development. Rank-ups are rare milestones — a full letter jump (F→E) is a major event. Book 1 pacing: most fighters stay F-Low through F-High. Best fighters touch F-Master by Book 1 end. E-rank is a Book 2-3 achievement. A/S-rank is Book 7 territory.
+
+**SKILL RANKS** — Individual abilities have their own numbered ranks with tier progression. Example: "Sword Swing Rank 1" with Low/Mid/High sub-tiers. Reaching Rank 1 High unlocks "Sword Swing Rank 2" (stronger, more refined version). New skills unlock through use: "Sword Thrust Rank 1," "Parry Rank 1," etc. Each skill has its own progression bar. The System grants ONE basic skill per class at Tutorial start (Rank 1, Low). Additional skills emerge through repeated combat use — the System rewards what you DO.
+
+**BASE vs ENHANCED SKILLS** — Two layers per skill. The BASE skill (e.g., Sword Swing) is always available, no cooldown, no real-time System guidance. The System downloads the KNOWLEDGE (grip, stance, aim points) but execution is entirely human. Before integration they wouldn't know any of this — after, they have the theory but not the practice. ENHANCED options (Power Strike, Precision Strike, etc.) unlock ON TOP of the base skill as it ranks up through use. Enhanced skills are System-guided (the System actively steers the swing), cost resources (stamina for melee, mana for casters), and have cooldowns (3-5 seconds). This creates the tactical combat loop: base skill always available, enhanced options create windows of power with gaps of vulnerability.
+
+**FLINT'S COMBAT LOG ACCESS** — Nate's anomaly status gives Flint intermittent read access to the System's combat log — skill activations, cooldown timers, mana/stamina levels for OTHER fighters in proximity. All other AIs only display their own user's data. This gives Nate a raid-leader's overview: he can see who's on cooldown, who's burning mana, what skills are firing. The access is glitchy and intermittent (not reliable), reflecting Nate's unstable System integration. This is how Flint reports other fighters' mana percentages and skill states during combat.
+
+**COMBO SYSTEM** — At certain skill thresholds, abilities can be CHAINED into combos with bonus damage. Example: Swing → Thrust = "Cross Slash" combo. Combos require multiple skills at sufficient rank to unlock. Early game (Book 1): one skill, maybe two by end. Mid-series (Book 3-4): 2-4 skills, basic 2-hit combos emerging. Late series (Book 6-7): complex rotations, 3-4 hit combos, situational skill selection.
+
+**PRESTIGE CLASSES — SPELL-SWORDS** — Hybrid melee/magic class. Emerges when a fighter develops sufficient skill in BOTH combat and magic disciplines — cross-training that the System's rigid class assignment doesn't anticipate. Channels magic through the weapon or alternates blade and spell in combat rotation. A prestige evolution that may arise through Patron bonds (System-sanctioned, with binding cost) or through independent cross-training (unsanctioned, threatening to the System's control model). Full spell-sword viability is a Book 4-5+ development.
+
+**DOPAMINE LOOP** — The System displays progress bars, milestone chimes (golden light + audio), and achievement notifications at skill thresholds. Designed to be addictive — constant micro-progress (bar filling) keeps people engaged, rare milestone rewards (rank-up chime) create the high they chase. The progression display IS the hook — it trains behavior by making improvement feel like a gift rather than a dependency.
+
 ---
 
 ## Classes

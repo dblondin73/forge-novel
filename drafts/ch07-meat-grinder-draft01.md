@@ -128,8 +128,6 @@ Four lenses fired simultaneously.
 
 *Ranch lens:* You don't leave livestock in the fence. Period. You don't calculate the value of the animal against the cost of the rescue. The animal is in the fence and you go get it.
 
-*Christian lens:* Didn't speak. Acted.
-
 Nate handed the crossbow to the nearest Warrior — a woman who'd been steady through seven rooms and had the kind of hands that suggested she'd held tools before she'd held swords. "Point at what moves. Squeeze the lever."
 
 "Where are you going?"
@@ -200,7 +198,7 @@ A forge. A real one.
 
 Not the basic workbench of the early rooms. Not the small forge with its single fire pot and limited tools. This was a workshop — a proper forge with bellows mounted to a stone hearth, a ventilation channel cut into the ceiling that actually drew, an anvil that SA read as cast iron with a steel face plate, and a rack of tools along the back wall that made Nate's hands ache with recognition. Tongs. Files. A hardy tool for the anvil's square hole. A cross-peen hammer that was heavier than his but balanced for the same work. Quench bucket filled with water that smelled like real water.
 
-SA read every piece and confirmed what his hands already knew: genuine. Not cosmetic. Not generated filler wearing a function costume. The System had built a real workshop because whatever came after this rest area was hard enough that the System wanted its participants equipped to survive it. Not out of mercy — out of spectacle. The Tutorial wanted the final rooms to be a show, and a show required performers who lasted long enough to perform.
+SA read every piece and confirmed what his hands already knew: genuine. Not cosmetic. Not generated filler wearing a function costume. The System had built a real workshop because whatever came after this rest area was hard enough to warrant real preparation. Good game design — the devs who scaled difficulty also scaled the crafting stations, because handing players a boss fight without the tools to answer it was just bad encounter design.
 
 Josie's inventory ring hit the workbench surface and the materials avalanched out with the contained chaos of a woman who'd been collecting for seven rooms and had developed a relationship with her inventory that bordered on personal.
 
@@ -216,7 +214,7 @@ He worked.
 
 The crossbow came apart in his hands — not destruction but deconstruction, each component separated with the care of an engineer performing a teardown. The stock first. The hardwood from Room 0's table leg had taken seven rooms of abuse and held, but Field Repair showed him where the grain was starting to compress along the shoulder contact point. Stress fractures forming in the wood's future, invisible now, catastrophic in three more rooms.
 
-He set the stock on the anvil. Heated the Thornguard plate — the densest piece Josie had found — in the forge until SA told him the bark-composite was plastic enough to shape. Laid it along the stock's contact surface and worked it with the hammer. Not forcing. Asking. Field Repair guiding every strike — where the composite wanted to bond, where the wood grain could accept reinforcement without splitting, where the two materials would hold each other if he gave them the right geometry.
+He set the stock on the anvil. Heated the Thornguard plate — the densest piece Josie had found — in the forge until SA told him the bark-composite was plastic enough to shape. Laid it along the stock's contact surface and worked it with the hammer. Not forcing. Asking. Field Repair's downloaded knowledge told him where the composite wanted to bond, where the wood grain could accept reinforcement without splitting, where the two materials would hold each other if he gave them the right geometry. The execution was his.
 
 The hammer rang on the anvil.
 
@@ -228,13 +226,13 @@ The trigger assembly was next. The wall-bracket mechanism from Room 0 had worked
 
 He filed the lever's contact surfaces against the anvil's edge. Slow, deliberate, the file removing material in increments that his eyes couldn't see but his hands could feel. Field Repair confirmed each stroke — tighter, tighter, the mechanism's tolerance narrowing from sloppy to adequate to something approaching precision. When the lever seated back into the stock, the click was different. Sharper. A mechanical sound that meant *this will fire where you point it.*
 
-The prod got re-tensioned. Seven rooms of firing had stretched the spring steel by fractions — SA showed the crystalline structure fatiguing at the bend points, the metal's memory slowly forgetting its resting state. He heated the prod ends in the forge. Carefully. Too much and the temper would break. Enough and the molecular structure would reset, the steel remembering what it was supposed to do. The green arcs pulsed as Field Repair guided the heat — *there, that's enough, stop.*
+The prod got re-tensioned. Seven rooms of firing had stretched the spring steel by fractions — SA showed the crystalline structure fatiguing at the bend points, the metal's memory slowly forgetting its resting state. He heated the prod ends in the forge. Carefully. Too much and the temper would break. Enough and the molecular structure would reset, the steel remembering what it was supposed to do. The green arcs pulsed — Field Repair knowledge told him the threshold, but the hands on the tongs were his, and the judgment call was his. *There. That's enough. Stop.*
 
 He quenched it. The steel hissed. The prod came out of the water straighter, tighter, the stored energy coiled in the limbs like a spring waiting to prove itself.
 
 Nate's hands moved and his mind went quiet.
 
-This was the part he couldn't explain to anyone who didn't already understand it. The act of building — of taking materials and a purpose and the knowledge in his hands and producing something that would work when it was needed — created a silence in him that nothing else could reach. Not prayer, though it felt like the space where prayer lived. Not meditation, though the breathing slowed and the world narrowed to the point of contact between tool and material. Just work. The rhythm of hammer on anvil, the heat of the forge on his face, the smell of hot metal and quenching water and the honest sweat of a man doing the thing his hands were made to do.
+This was the part he couldn't explain to anyone who didn't already understand it. The act of building — of taking materials and a purpose and the knowledge in his hands and producing something that would work when it was needed — created a silence in him that nothing else could reach. Not meditation, though the breathing slowed and the world narrowed to the point of contact between tool and material. Just work. The rhythm of hammer on anvil, the heat of the forge on his face, the smell of hot metal and quenching water and the honest sweat of a man doing the thing his hands were made to do.
 
 The dead were behind him. The boy who'd turned toward the echo. The man who'd been smart until the water knocked him down. The Warrior who bled out while the Healer's hands were on Nate's back instead. Their names sat in his chest where names went when they stopped being sounds people answered to and started being weights that stayed.
 
@@ -364,9 +362,9 @@ The last rest corridor was short and quiet, and the workshop the System provided
 
 Full forge. Proper bellows. An anvil that SA read as genuine cast iron with a hardened steel face — the same reading, the same honest material, but a step up from the previous rest area. Rack of tools along the back wall that included a draw knife, a fuller, and a set of punches that would have made a real blacksmith nod. Water trough fed by a channel in the wall that produced actual flowing water.
 
-The System wanted the final fight to be spectacle. Spectacle required combatants who survived long enough to give the audience a show. So the System provided the best workshop it had generated — real tools, real materials, genuine function — because arming the gladiators was part of the entertainment.
+*Gamer lens:* Pre-boss crafting station. The best one yet — scaled to the difficulty ahead, the way every well-designed dungeon scaled its resource nodes. The devs were saying *you're going to need everything we're giving you,* and Nate believed them.
 
-Nate didn't waste time thinking about the System's motives. He worked.
+He worked.
 
 The crossbow got its final reinforcement. Thornguard composite worked into the stock's full length, bonded at the molecular level by Field Repair, the wood-and-bark hybrid becoming something that didn't have a System name because the System hadn't built it. The trigger assembly, already filed to precision, got a secondary retention spring fashioned from a thin strip of spring steel that Josie had found in Room 9's wreckage — a piece so small that anyone without an Appraiser's eye would have left it in the rubble. The prod was re-tensioned a final time, the spring steel humming with stored energy that SA confirmed was tighter and more consistent than it had been since Room 0.
 

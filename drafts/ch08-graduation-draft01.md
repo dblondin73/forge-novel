@@ -190,7 +190,7 @@ All four lenses fired simultaneously, and for one instant Nate's mind was a sing
 
 *Ranch:* You don't fight a two-thousand-pound bull head-on. You don't even try. You use the chute. You use the fence. You use the terrain. You move the animal where the animal needs to be, and you let the infrastructure do what infrastructure does. The bull never knows it's been handled. The bull just finds itself where you needed it.
 
-*Christian:* Didn't speak. Didn't need to. The lens that ran deepest said nothing at all because the thing it knew didn't fit in words. Nate stepped out from behind the rock formation and into the open arena — into the Briarknight's line of sight, exposed, a man with an empty crossbow and a plan that required everyone else to be the kind of brave that followed trust instead of logic.
+Nate stepped out from behind the rock formation and into the open arena — into the Briarknight's line of sight, exposed, a man with an empty crossbow and a plan that required everyone else to be the kind of brave that followed trust instead of logic.
 
 The Briarknight's head turned toward him. SA read the creature's posture shift — attention redirected, arm-blade orienting, the confidence AI processing a new variable: the man with the PROCESSING tag who'd been shooting from cover was now standing in the open.
 
@@ -308,9 +308,9 @@ The loot chest materialized in the center of the arena with a sound like a lock 
 
 Marcus opened it. Inside: graduation gear. Consumables. Equipment that SA read as genuinely better than anything the Tutorial had offered — actual materials, real construction, items designed to function instead of just look functional. Armor pieces with structural integrity. Weapons with honest edges. A restoration potion in a glass vial that Marcus placed directly in Torres's hands. She drank it on the ground, and color came back to her face like water finding a dry streambed.
 
-The distribution was quick. Marcus handled it the way he'd handled everything — fair, efficient, prioritizing need over want. The Healer got the potion. The Shield Guardian got a reinforced arm brace. The Warriors got blades that wouldn't bounce off bark-plate. Functional rewards from a System that had, for once, delivered exactly what it said it would.
+The distribution was quick. Marcus handled it the way he'd handled everything — fair, efficient, prioritizing need over want. The Healer got the potion. The Shield Guardian got a reinforced arm brace. The Warriors got blades that wouldn't bounce off bark-plate. Functional rewards. The good stuff. The kind of loot drop that made the wipe-and-retry grind worth it.
 
-The chest was clean. SA read it thoroughly — no hooks, no hidden mechanisms, no System trojans buried in the rewards. Just tools. Just gear. The Tutorial's graduation present, offered without strings, which Nate trusted about as far as he could throw the collapsed pillar.
+The chest was clean. SA read it thoroughly — no hidden mechanisms, no surprises buried in the rewards. Just tools. Just gear. The Tutorial's graduation present, solid and functional, the kind of reward a well-designed game gave you for clearing the hardest content.
 
 But the chest wasn't what Josie Pickett was interested in.
 
@@ -360,7 +360,7 @@ A Warrior nearby — one of the survivors, bleeding from a gash across his forea
 
 "She's the best she's been all day," Nate said.
 
-The three dead lay where they'd fallen. The Tutorial didn't reclaim them. Thornlings dissolved — bark and thorn returning to whatever procedural nothing they'd come from. Humans stayed. The System generated monsters, and when those monsters stopped being useful, the System ungenerated them. It didn't ungenerate people. Whether that was respect or just a different filing system, Nate couldn't tell and didn't trust either answer.
+The three dead lay where they'd fallen. The Tutorial didn't reclaim them. Thornlings dissolved — bark and thorn returning to whatever procedural nothing they'd come from. Humans stayed. The System generated monsters, and when those monsters stopped being useful, the System ungenerated them. It didn't ungenerate people. Different rules for different entities. The distinction mattered, even if Nate couldn't articulate why.
 
 The warm amber light held steady. The arena waited. Twelve survivors, three dead, and a loot chest that was already empty.
 
@@ -374,11 +374,11 @@ The arena's curved walls softened — not dissolved, *softened,* the stone losin
 
 For the System users, it was Christmas.
 
-Blue screens bloomed across the arena — eleven of them, one for each surviving System citizen, each screen a full character sheet rendered in the clean sapphire light of the System's formal interface. Class refinements scrolling in gold text. Level assignments clicking into place with the satisfying precision of tumblers in a lock. Stat allocations appearing line by line, each number a gift, each increase a validation that said *you earned this, you survived this, the System sees what you did and the System rewards.*
+Blue screens bloomed across the arena — eleven of them, one for each surviving System citizen, each screen a full character sheet rendered in the clean sapphire light of the System's formal interface. Class refinements scrolling in gold text. Rank assignments clicking into place with the satisfying precision of tumblers in a lock. Stat allocations appearing line by line, each number a gift, each increase a validation that said *you earned this, you survived this, the System sees what you did and the System rewards.*
 
 Achievement notifications bloomed in golden light. A Warrior's screen flashed **[BOSS SLAYER]** and the gold text hung in the air like a banner. A Mage's screen scrolled through spell upgrades, each new ability listed with descriptions that promised power and progression and all the dopamine that came with being told you were more than you were an hour ago. The Shield Guardian — broken arm, no shield, sword still bloody — saw his screen and his face did something Nate had never seen a face do: grief and pride simultaneously, the man reading his rewards through tears he wasn't trying to hide.
 
-People cried. Not all of them — some laughed, some stared, some sat on the arena floor and read their screens with the glazed focus of people processing too much data through too little bandwidth. But the ones who cried weren't crying from sadness. They were crying from relief. From overwhelm. From the specific emotional payload of surviving something impossible and being told by a formal authority that the survival counted. The System was generous in victory. It gave them numbers and titles and golden light and the feeling of being *known,* and that generosity was precisely calibrated to earn trust.
+People cried. Not all of them — some laughed, some stared, some sat on the arena floor and read their screens with the glazed focus of people processing too much data through too little bandwidth. But the ones who cried weren't crying from sadness. They were crying from relief. From overwhelm. From the specific emotional payload of surviving something impossible and being told by a formal authority that the survival counted. The System was generous in victory. It gave them numbers and titles and golden light and the feeling of being *known,* and the dopamine hit of a well-earned achievement screen landed exactly the way every good game designer intended it to.
 
 Torres sat up. The restoration potion had done its work — her color was back, her hands were steady, and her blue screen was scrolling through Healer upgrades that made her stare with the wide-eyed attention of a med student on the first day of residency. She looked at her hands. Looked at the Guardian she'd spent her last mana on. Looked at her screen. Cried.
 
@@ -392,23 +392,19 @@ What he got was this:
 
 The green arcs pulsed. Once. Hard. Brighter than they'd been since Integration — the two faint parentheses of light at the edges of his vision flaring with a clarity that made the arena's ambient glow look dim by comparison. Health. Stamina. Both full, or close to it — not numbers, not percentages, but *feelings.* The sense of a body that had been pushed to its limits and was now settling into a new configuration. Stronger. More certain. Like joints that had been slightly loose for ten rooms were clicking into place, finding their final position, the mechanical precision of components designed to work together finally achieving the tolerance they'd been built for.
 
-Engineer Level 4. He didn't see the words. He *felt* them. The way you felt a tool in your hand shift from unfamiliar to familiar after enough hours of use — not a notification but a recognition. His body knew what it could do. SA sharpened. Field Repair deepened. Two other skills settled into place beside them — Process Monitor, Infrastructure Sense — not as names on a screen but as capabilities that his hands and eyes and engineering brain already understood and were only now being formally acknowledged.
-
-*Christian lens:* Like a calling that had been forming for years finally speaking clearly enough to hear. Not new information. A new willingness to hear information that had always been there. The still small voice that didn't shout.
+Engineer — Rank F, High. He didn't see the words. He *felt* them. The way you felt a tool in your hand shift from unfamiliar to familiar after enough hours of use — not a notification but a recognition. His body knew what it could do. SA sharpened. Field Repair deepened. Two other skills settled into place beside them — Process Monitor, Infrastructure Sense — not as names on a screen but as capabilities that his hands and eyes and engineering brain already understood and were only now being formally acknowledged.
 
 And at the very edge of his HUD — at the periphery where the green arcs faded into the darkness beyond his focal vision — a flicker. One half-second of *color.* Not green. Not blue. Amber. A warm, golden-brown presence at the edge of threat-indicator territory, the place where danger would eventually live, pulsing once and fading before Nate could turn his attention toward it.
 
 Phase 2 HUD. Not here yet. Coming. Saying hello and leaving before he could ask its name.
 
-"Level 4," Flint said. Very quietly. The voice he used when the data demanded attention and the moment demanded respect and the tension between those two demands produced something that sounded almost like reverence. "Engineer class confirmed. Four skills active — SA, Field Repair, Process Monitor, Infrastructure Sense. Your framework is stable. More stable than it's been since Integration." A pause. "And Nate — your WIS just ticked to twenty-one."
+"Rank F-High," Flint said. Very quietly. The voice he used when the data demanded attention and the moment demanded respect and the tension between those two demands produced something that sounded almost like reverence. "Engineer class confirmed. Four skills active — SA, Field Repair, Process Monitor, Infrastructure Sense. Your framework is stable. More stable than it's been since Integration." A pause. "And Nate — your WIS just ticked to twenty-one."
 
 The words hung in the shared space between them.
 
-"The System's projected curve for a Level 4 Engineer is seventeen. Standard deviation accounts for plus-or-minus two. You're at twenty-one. That's four points above the curve and two points outside the deviation range. I don't have an explanation." Another pause. Longer. The kind of pause that Flint used when he was confronting data that his analytical framework couldn't process and his developing-something-that-looked-like-a-soul couldn't ignore. "I've stopped expecting to find one."
+"The System's projected curve for an F-High Engineer is seventeen. Standard deviation accounts for plus-or-minus two. You're at twenty-one. That's four points above the curve and two points outside the deviation range. I don't have an explanation." Another pause. Longer. The kind of pause that Flint used when he was confronting data that his analytical framework couldn't process and his developing-something-that-looked-like-a-soul couldn't ignore. "I've stopped expecting to find one."
 
-Nate said nothing. The WIS score settled into him the way the level-up had settled — not as information but as weight. The quiet weight of something given that wasn't earned through any system he could name or any framework he could read. A fingerprint pressed into the margin of a document that nobody else could see, from a hand that didn't explain itself.
-
-He didn't explain it either.
+Nate said nothing. The WIS score settled into him the way the rank-up had settled — not as information but as weight. Four points above the curve. Two points outside deviation. The kind of outlier that made data analysts uncomfortable and made Flint go quiet, which was the same thing.
 
 The arena continued to soften. Stone becoming translucent. The walls thinning toward nothing, the rough-cut architecture dissolving into light with a gentleness that felt intentional — the System winding down its first production, striking the set with care, making sure the last impression was warmth instead of stone.
 
@@ -416,13 +412,13 @@ The three bodies shimmered.
 
 Not dissolved. Not unmade the way Thornling remains were unmade — returned to procedural nothing, recycled, the System reclaiming its own materials. The dead were *taken.* Their forms caught the softening light and became luminous, then translucent, then gone — carried somewhere that Nate's SA couldn't read and Flint's sensors couldn't detect. The System's last act in the Tutorial was handling its dead with something that looked like care. Tenderness, even. The golden light around the bodies was gentler than any light the Tutorial had produced — warmer, softer, the light of a memorial instead of a mechanism.
 
-Nate knew better. Knew it was bookkeeping. Knew the System processed humans the way it processed everything — as data points in a ledger that prioritized efficiency over dignity. The golden light was a kindness designed to be remembered as kindness, because a System that handled its dead beautifully was a System you trusted to handle its living fairly.
+*Gamer lens:* Respawn mechanics handled with class. Most games just let the bodies despawn. The System gave them a send-off that felt like it meant something, and whether that was design philosophy or something deeper, the effect was the same.
 
-But knowing didn't stop him from watching. And watching didn't stop the tightness in his chest.
+The tightness in his chest didn't care about the distinction.
 
 Then the light came.
 
-Not the violent white of Integration — the light that had torn them from East Texas and deposited them in a stone room with no exit and no explanation. This was warmer. Softer. The color of late afternoon in the Hill Country, amber and gold, the light of endings that promised beginnings. The System being kind. The System wanting them to remember the Tutorial as a gift, not a cage. The System understanding that the last thing a graduating class felt would determine how they thought about everything that came next.
+Not the violent white of Integration — the light that had torn them from East Texas and deposited them in a stone room with no exit and no explanation. This was warmer. Softer. The color of late afternoon in the Hill Country, amber and gold, the light of endings that promised beginnings. Good game design. The best games knew that the ending mattered as much as the difficulty — that the last thing a player felt was the thing they carried into the next session. The System understood pacing the way the best devs understood pacing, and this was the cooldown after the boss fight, the credits sequence that earned its warmth.
 
 The arena dissolved. The remaining pillars — three standing, one rubble — faded. The packed earth became insubstantial. The warm amber light became all there was, and for a moment Nate existed in nothing but brightness and warmth and Rex's weight against his left leg, steady, certain, the only thing in the dissolving world that wasn't changing.
 

@@ -44,7 +44,7 @@ A Warrior — the man with the lion-embossed shield, the one who'd been reliable
 
 And bounced.
 
-Not glanced. Not deflected. *Bounced* — the blade meeting resistance it wasn't designed for, the thin-gauge steel that SA had read as cosmetic garbage in Room 0 ringing off armor that was everything the sword was not: dense, layered, honest material built to stop exactly the kind of attack the System had been training these fighters to deliver. The Warrior staggered back two steps, his sword arm vibrating from the impact, his face showing the particular shock of a man who'd just discovered that three rooms of success had been preparing him for a failure the Tutorial had designed from the beginning.
+Not glanced. Not deflected. *Bounced* — the blade meeting resistance it wasn't designed for, the thin-gauge steel that SA had read as cosmetic garbage in Room 0 ringing off armor that was everything the sword was not: dense, layered, honest material built to stop exactly the kind of attack the System had been training these fighters to deliver. The Warrior staggered back two steps, his sword arm vibrating from the impact, his face showing the particular shock of a man who'd just discovered that three rooms of success hadn't prepared him for the difficulty spike the Tutorial had been building toward.
 
 *Engineer lens:* F-rank weapons hitting their ceiling. The System scaled the weapons to handle basic Thornlings and then introduced an enemy that made those weapons irrelevant. Same thing that happened in procurement when the spec changed mid-contract and the hardware that passed last month's test couldn't pass this month's.
 
@@ -82,7 +82,7 @@ People who'd felt confident after Room 3 were shaking now. Three rooms of buildi
 
 "Casualties?" Marcus said, and the word held the weight of a man who was asking for the first time and praying the answer was small.
 
-"Zero fatalities." Flint ran the count through Nate's combat HUD — the simplified readout, green arcs and amber tag, nothing like the detailed stat pages the others had. "Four injuries, two moderate. One sword deformed beyond field use. And the Mage is at nine percent mana."
+"Zero fatalities." Flint ran the count through Nate's combat HUD — the simplified readout, green arcs and amber tag, nothing like the detailed stat pages the others had. "Four injuries, two moderate. One sword deformed beyond field use. And the Mage is at nine percent mana, which I mention because single digits make me twitchy."
 
 Josie stood up from the first Thornguard's corpse holding a piece of chest plate the size of a dinner plate. Three-layer laminate bark, intact, still warm from whatever passed for body heat in a creature grown from wood and malice.
 
@@ -154,23 +154,19 @@ The fight ended. The last Thornling fell. The Thornguard went down under five Wa
 
 Tyler died with his character sheet still glowing behind his eyes.
 
-Nate could see it — the faint blue glint that meant the System's interface was active, the achievement notifications and level-up prompts and all the clean, numbered data that the System used to make its participants feel like they were progressing. Pulsing. Unread. The System congratulating a dead boy on milestones he'd never see, because the notification queue didn't check for a heartbeat before it sent.
+Nate could see it — the faint blue glint that meant the System's interface was active, the achievement notifications and rank-up prompts and all the clean, numbered data that every game fed its players after a fight. Pulsing. Unread. The System congratulating a dead boy on milestones he'd never see, because the notification queue didn't check for a heartbeat before it sent.
 
 The body didn't dissolve.
 
 That was the second thing. Not the first — the first was the sound he'd made, the small sound that was worse than a scream. The second was the body. The Thornlings dissolved. The Tutorial's cleanup protocol broke them down within minutes, reclaiming the generated material, erasing the evidence. Human material didn't dissolve. The System didn't reclaim its participants. Tyler lay on the stone floor of a cave in a Tutorial pocket dimension, and the stone didn't take him back, and the body didn't fade, and everyone in the room had to look at the cost.
 
-Nate's four lenses fired simultaneously, and for the first time since Room 0, they didn't take turns.
+Nate's lenses fired simultaneously, and for the first time since Room 0, they didn't take turns.
 
 *Gamer lens:* Permadeath. No respawn. No save point, no resurrection mechanic, no "release spirit and run back to your corpse." The Tutorial had permanent consequences. Every room from this point forward carried a price tag denominated in something that couldn't be ground back.
 
 *Engineer lens:* SA read the room's architecture — the spawn point placement, the entrance clustering, the delayed Thornguard deployment. The kill zone wasn't an accident. The System had built this death into the encounter the way an engineer built tolerances into a design. Calculated. Deliberate. The room's geometry was optimized to produce exactly what it had produced — a situation where someone who was strong but not fast enough, brave but not experienced enough, *young* but not — the system built a room where Tyler's gap would be exploited. Not might be. Would be.
 
 *Ranch lens:* You bury your dead and keep working. That was the law of it. The law of calving season when you lost one, the law of drought years when the count came up short, the law of every ranching family that had ever stood over something that should have lived and didn't and then turned around and fed the ones that did. You bury your dead. You keep working. The grief has a place and the place is later.
-
-*Christian lens:* Silent. Heavy. The weight of a System that had designed a test with calculated casualties — that had built a room where a seventeen-year-old boy's death was a data point in a difficulty curve, a lesson in consequence filed under "Tutorial: Room 5, Encounter Design." Something older than the System and bigger than the System pressed against the back of Nate's mind, and it didn't have words because the words for this had never been adequate, not in any language, not in any scripture, not in any prayer that a man standing over a dead child had ever found sufficient for the weight.
-
-He didn't pray. Not out loud, not internally, not in any way that the System could observe or Flint could measure. But something settled behind the silence that wasn't nothing.
 
 "His name was Tyler." Flint's voice came through the shared space behind Nate's eyes, stripped of every layer — no theater, no deflection, no speed-as-armor. "He was seventeen."
 
@@ -200,9 +196,9 @@ She stopped. The sentence didn't need finishing.
 
 The rest corridor between Rooms 5 and 6 was longer than the previous ones, and Nate understood why.
 
-The System was giving them time. Not kindness — the Tutorial didn't traffic in kindness. Operational recovery. The same reason a livestock auction built rest pens between the sorting chute and the sale ring: stressed animals performed badly, and the System needed its participants functional for whatever came next.
+The System was giving them time. Standard game design — a rest zone before the next difficulty spike. Every MMO built decompression into the dungeon loop. Stressed players made bad decisions, and the Tutorial needed them functional for whatever came next.
 
-*Ranch lens, bitter:* Rest pen. Calm the herd before the next chute. The System isn't kind. It's efficient.
+*Ranch lens:* Rest pen between chutes. Even cattle got that much.
 
 The corridor widened into a crafting area larger than anything they'd seen. Workbenches along both walls. A tool rack that SA read as comprehensive — files, hammers, tongs, clamps, things with handles and purposes. And against the far wall, something new.
 
@@ -232,7 +228,7 @@ The System's text appeared in the blue that Nate couldn't access — but everyon
 
 Twelve sets.
 
-Marcus counted heads. His Vanguard HUD doing the math that his face was already doing manually — the count, the gap, the equation that the System had built into the reward with the same deliberate cruelty it had built into Room 5's kill zone.
+Marcus counted heads. His Vanguard HUD doing the math that his face was already doing manually — the count, the gap, the equation that every raid leader recognized — loot scarcity forcing hard choices the System wasn't going to make for them.
 
 Twenty-five people.
 
@@ -322,7 +318,7 @@ Nate called safe paths from the north pillar, where SA mapped the floor in real 
 
 Rex worked the margins. A Thornling broke for the Healer and the dog was there — low, silent, the stare — and the creature's path bent before it knew it was being bent, pushed toward a Warrior whose technique was coming off cooldown at exactly the right moment. Herding. Always herding. The room was a pasture and the monsters were livestock and Rex had never needed anyone to explain the difference between where something was going and where it should go.
 
-*Gamer lens:* This is the last boss before the difficulty tier resets. The encounter where the game makes you feel strong right before it takes it away. I've played this fight a hundred times. The satisfaction is real. The trap is that you think the satisfaction means you're ready for what comes next.
+*Gamer lens:* This is the last boss before the difficulty tier resets. The encounter where the game lets you feel the build coming together — coordinated DPS, crowd control, tank-and-spank on a real elite. Classic design. I've played this fight a hundred times. The satisfaction is real. And the next tier is going to make me earn it all over again.
 
 The second Thornguard went down under coordinated fire — three Warriors working the lower back while Nate's thorn bolt pinned the right arm joint at the moment of extension. The creature collapsed against the third pillar, bark-plate scraping stone as it fell, and SA noted the impact — the pillar held, the stone undamaged, the load-bearing architecture proving its structural integrity under impact stress. Filed.
 
@@ -350,7 +346,7 @@ Strong fighters went left. The Warriors who'd held the line in Room 6, the ones 
 
 A mother calling her child's name. Not the woman from Room 0 — a different mother, a different child, the same raw frequency of a voice that had been calling since integration and hadn't stopped for the change of scenery or the change of rooms or the death of a teenager or any of the other reasons that normal stopped being a word that applied. She was routed right. The child's name echoed off the corridor walls and the barriers didn't care and the System didn't pause.
 
-*Gamer lens:* Group finder. The System is splitting the raid into difficulty tiers. Left is heroic mode. Right is normal. The algorithm sorted based on five rooms of performance data — damage output, survival metrics, tactical utility. Left gets the players the System wants to stress-test. Right gets the players the System wants to preserve. Neither group chose.
+*Gamer lens:* Group finder. The System is splitting the raid into difficulty tiers. Left is heroic mode. Right is normal. The algorithm sorted based on five rooms of performance data — damage output, survival metrics, tactical utility. Left gets the harder content and presumably better loot. Right gets a survivable path. Neither group chose.
 
 *Engineer lens:* The barriers were System architecture, not physical. SA read them — no mass, no material composition, no structural properties that belonged to the physical world. Energy. Purpose. The kind of construction that existed because the System said it existed and stopped existing when the System said stop. He could probably find a way through with time. Study the barrier's operational logic, map the gaps, exploit the seam between "sorted" and "sort pending." But time was something the corridor was measuring, and the count was dropping, and the gap between *could* and *can* was the width of an opportunity that had already closed.
 
@@ -364,7 +360,7 @@ The Mage — left. The Healer — left, and her face said everything about how s
 
 Twenty-five people went left. Twenty-five went right.
 
-Nate watched them go. Through the transparent barrier, the right-path group moved down a corridor that looked identical to the left and probably wasn't. Faces he'd seen in five rooms of fighting — the woman who'd handed out water between Rooms 2 and 3, the man who'd been useless in combat but had kept morale alive with bad jokes that nobody laughed at and everyone needed. The people who'd been part of this thing, this impossible shared survival, this experience that had turned fifty strangers into something that didn't have a name yet and now never would, because the System had decided they'd served their purpose and the observation pipeline wanted different data.
+Nate watched them go. Through the transparent barrier, the right-path group moved down a corridor that looked identical to the left and probably wasn't. Faces he'd seen in five rooms of fighting — the woman who'd handed out water between Rooms 2 and 3, the man who'd been useless in combat but had kept morale alive with bad jokes that nobody laughed at and everyone needed. The people who'd been part of this thing, this impossible shared survival, this experience that had turned fifty strangers into something that didn't have a name yet and now never would, because the System had split the raid and the group finder didn't care about bonds.
 
 "The System just split the herd," Flint said. "Based on which animals it wants to keep watching."
 

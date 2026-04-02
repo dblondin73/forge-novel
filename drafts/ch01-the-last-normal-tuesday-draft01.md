@@ -12,7 +12,7 @@ He could feel the vibration running wrong through the casing, a subtle grinding 
 
 He pulled his hand back and wiped it on his jeans. He'd replaced the seals twice, the pressure switch once, and the check valve three times. The first replacement had been cheap. He didn't make that mistake twice. The bearings were original. Twenty-two years of spinning in East Texas humidity, pulling water from the Trinity aquifer for cattle that didn't care about maintenance schedules and would drink the stock tank dry by Thursday if he let them.
 
-He sat back on his heels and looked at the pump the way he looked at everything that was broken — not with frustration, but with the quiet attention of a man who'd been opening hoods and finding problems since before he could drive. The pump didn't owe him anything. Twenty-two years was a good run. Sadly, most marriages didn't last that long, and at least the pump had been consistent.
+He sat back on his heels and looked at the pump the way he looked at everything that was broken — not with frustration, but with the quiet attention of a man who'd been opening hoods and finding problems since before he could drive. The pump didn't owe him anything. Twenty-two years was a good run. Most marriages didn't last that long, and at least the pump had been consistent.
 
 He just needed it to hold until the weekend, when he could pull it, swap the bearings, and have it back in the ground before the afternoon heat turned the pasture into a convection oven.
 
@@ -28,7 +28,7 @@ He'd been heading out to check the northeast corner when the pump noise caught h
 
 Nate pulled a shop rag from behind the seat and cleaned his hands. The rag was already stained with grease from yesterday's work on the tractor hydraulics.
 
-This was what his days looked like, and he was fine with it. More than fine. The ranch was a thousand acres of problems that needed solving, and every problem had a cause, and every cause could be found if you paid attention and didn't lie to yourself about what you were seeing. That was the whole job. Pay attention. Don't lie to yourself. Fix what's broken. Everything else was noise.
+This was what his days looked like, and he was fine with it. The ranch was a thousand acres of problems that needed solving, and every problem had a cause, and every cause could be found if you paid attention and didn't lie to yourself about what you were seeing. That was the whole job. Pay attention. Don't lie to yourself. Fix what's broken. Everything else was noise.
 
 ---
 
