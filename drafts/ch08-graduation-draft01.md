@@ -68,7 +68,7 @@ The Briarknight stood in the center of the arena, between the four pillars, and 
 
 It watched.
 
-"Entity one-oh-six," Flint said. Combat mode — flat, stripped, running hot beneath forced calm. "Briarknight. The adds are bait. That thing is the exam, and it's studying us while we take the warm-up quiz."
+"Entity one-oh-six," Flint said. Combat mode — clipped, stripped, running hot beneath forced calm. "Briarknight. The adds are bait. That thing is the exam, and it's studying us while we take the warm-up quiz."
 
 From thirty feet away, behind the northeast pillar, Josie's voice carried with the particular clarity of a woman who had just seen something that offended her professional sensibilities: "That arm-blade is monocrystalline. I've never seen the Tutorial produce anything monocrystalline. That was *grown*, not generated. Somebody tell me I'm wrong."
 
@@ -110,7 +110,7 @@ Slow. Deliberate. Each step cracking the packed earth beneath its weight, leavin
 
 *Gamer lens:* Confidence AI. It knows it's the apex predator in the room. Doesn't need to rush. Watched us burn our cooldowns on the trash pull and now it's coming to collect. Every raid boss that walks instead of charges is telling you the same thing: I have time. You don't.
 
-"It's targeting Torres," Flint said, sharp and flat. "Watch the eyes. It feinted toward the east Warriors but its head tracking hasn't left the Healer's position. It's going for the backline first."
+"It's targeting Torres," Flint said, sharp and urgent. "Watch the eyes. It feinted toward the east Warriors but its head tracking hasn't left the Healer's position. It's going for the backline first."
 
 Marcus saw it a half-second after Flint called it. "GUARDIAN — INTERCEPT! PROTECT THE HEALER!"
 

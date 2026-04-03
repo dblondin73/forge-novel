@@ -20,7 +20,7 @@ SA fired on the cavern floor and Nate's stomach dropped.
 
 Spawn points. Ten standard-density pulses scattered across the main chamber, dormant but warming. And three more — denser, slower cycle, the heavy heartbeat signature that meant Thornguards. Three of them. The most armored units they'd seen in one room.
 
-"Ten Thornlings and three Thornguards," Flint said, combat-flat. "The cavern has a water channel running through the center — twelve feet wide, shallow, but the flow is real. Anything that steps in it is dealing with current and wet footing. And the acoustics in here are going to turn every callout into a guessing game."
+"Ten Thornlings and three Thornguards," Flint said, combat-sharp. "The cavern has a water channel running through the center — twelve feet wide, shallow, but the flow is real. Anything that steps in it is dealing with current and wet footing. And the acoustics in here are going to turn every callout into a guessing game."
 
 "I know."
 

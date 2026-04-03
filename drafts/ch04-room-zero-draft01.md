@@ -156,7 +156,7 @@ Ugly. Functional.
 
 Then the System pushed its gift, and Nate's world split for the second time that morning.
 
-Mid-assembly — hands on both the prod and the stock — the skill grant arrived. A pressure behind his eyes, sharp and targeted, the System writing an update onto his framework like a patch pushing mid-session. Around the room, **Warriors** straightened as something new poured into their limbs. A **Mage** gasped and blue light flickered between her fingers. A **Healer** touched the kneeling mother's shoulder and a soft glow spread from her palm. The System was arming its Tutorial participants — pushing combat starters, class abilities, the universal first tools that made the first fight survivable.
+Mid-assembly — hands on both the prod and the stock — the skill grant arrived. A pressure behind his eyes, sharp and targeted, the System writing an update onto his framework like a patch pushing mid-session. Around the room, warriors straightened as something new poured into their limbs. A **Mage** gasped and blue light flickered between her fingers. A **Healer** touched the kneeling mother's shoulder and a soft glow spread from her palm. The System was arming its Tutorial participants — pushing combat starters, class abilities, the universal first tools that made the first fight survivable.
 
 When it hit Nate's framework, it crashed.
 
@@ -170,7 +170,7 @@ Not a weapon skill. Something quieter. Something that had been waiting in the ga
 
 The wood grain tightened under his right hand. He felt it through his skin — the hardwood stock responding to something below conscious control, molecular structure shifting, the grain aligning along stress pathways that his hands somehow knew were optimal. The prod seated itself into the stock with a connection that went deeper than friction or carpentry. Not glue. Not fasteners. The wood and steel *holding* each other at a level that **Field Repair** understood and Nate's conscious mind was still catching up to. He could feel the materials answering a question he hadn't known how to ask: *How does the wood want to hold the steel?*
 
-"That was supposed to be **Basic Strike**," Flint said, his voice stripped flat. "Standard melee combat skill, Rank 1 Low, assigned to all Tutorial participants. Your framework ate it and produced something that is profoundly not a combat skill." A beat. "It's **Field Repair**. But not the standard version. Standard **Field Repair** shows a durability readout and a repair prompt. What you're doing is reading material structure through physical contact and... convincing it to cooperate."
+"That was supposed to be **Basic Strike**," Flint said, his voice stripped to genuine disbelief. "Standard melee combat skill, Rank 1 Low, assigned to all Tutorial participants. Your framework ate it and produced something that is profoundly not a combat skill." A beat. "It's **Field Repair**. But not the standard version. Standard **Field Repair** shows a durability readout and a repair prompt. What you're doing is reading material structure through physical contact and... convincing it to cooperate."
 
 Nate set the trigger mechanism into a notch he'd carved with the hammer's peen. Threaded the bowstring — tensioned, tested. Click. Reset. Click. Smooth enough.
 
@@ -190,7 +190,7 @@ It was ugly in the way that honest things are ugly and dangerous in the way that
 
 The hammer was almost an afterthought — except nothing built with **Field Repair** was an afterthought. Nate picked it back up, wrapped the handle with cordage from the crafting station, and felt the steel seat deeper into the wood as the connection went from adequate to permanent. Added a loop of cord so it hung from his belt. Flat face for striking. Cross peen for shaping. A blacksmith's tool that would follow him to every crafting station between here and whatever waited at the end of this place.
 
-Two minutes. Nobody noticed. Everyone was watching the **Warriors** compare swords.
+Two minutes. Nobody noticed. Everyone was watching the warriors compare swords.
 
 ---
 
@@ -306,7 +306,7 @@ Lines of amber light traced the doorframe, following seams that **SA** showed Na
 
 **SA** fired hard. The corridor's architecture unfolded in Nate's vision like a blueprint being read — stone walls, twelve-foot ceiling, repeating tile patterns every forty feet. And in the floor, starting thirty yards down the corridor, points of light pulsed beneath the surface. Dim. Rhythmic. Dormant heartbeats buried under six inches of generated stone.
 
-"Spawn points," Flint said. Combat mode — flat, fast, stripped to information. "Fifteen down the first visible stretch. More beyond my range. They're dormant but they're heating up." His voice dropped. "The Tutorial handed out the party favors. Now it's about to introduce the piñata. Except the piñata hits back."
+"Spawn points," Flint said. Combat mode — rapid, precise, the showmanship compressed but not gone. "Fifteen down the first visible stretch. More beyond my range. They're dormant but they're heating up." His voice dropped. "The Tutorial handed out the party favors. Now it's about to introduce the piñata. Except the piñata hits back."
 
 Numbers appeared in Nate's green arcs — not because he'd asked, but because the HUD had decided he needed them.
 
@@ -352,7 +352,7 @@ Nate looked at her. Looked at the sack. Looked at the brown eyes that hadn't sto
 
 The spawn points down the corridor pulsed harder. The rhythm shifted from dormant to urgent — something warming up, something preparing, something that had been patient beneath the stone and was running out of patience.
 
-**Warriors** at the door. **Mages** behind them, hands glowing with unsteady light. Marcus in the center of the formation, his **Vanguard** class doing something Nate couldn't see but could feel in the way people responded — standing straighter, breathing slower, finding a rhythm that wasn't their own but helped.
+Warriors at the door. Mages behind them, hands glowing with unsteady light. Marcus in the center of the formation, his **Vanguard** class doing something Nate couldn't see but could feel in the way people responded — standing straighter, breathing slower, finding a rhythm that wasn't their own but helped.
 
 Nate stood behind the line with an ugly crossbow, no ammunition, a forging hammer on his belt, and a dog who'd already decided that whatever was about to come up the corridor was just livestock that hadn't been sorted yet.
 

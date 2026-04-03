@@ -12,7 +12,7 @@ Render boundary. Sixty feet up, where the treetops met blue, the simulation's ce
 
 *Ranch lens:* New pasture. Same cattle.
 
-"Well," Flint said. "The Tutorial has a landscaping budget. I'm genuinely impressed. The foliage rendering is — wait." His voice dropped from theatrical to flat in the space between syllables. "Sixteen spawn points. Two of them are running a different thermal signature than the others. Denser. Slower cycle. Whatever comes out of those two is not the same thing that comes out of the others."
+"Well," Flint said. "The Tutorial has a landscaping budget. I'm genuinely impressed. The foliage rendering is — wait." His voice dropped from theatrical to terse in the space between syllables. "Sixteen spawn points. Two of them are running a different thermal signature than the others. Denser. Slower cycle. Whatever comes out of those two is not the same thing that comes out of the others."
 
 "How different?"
 

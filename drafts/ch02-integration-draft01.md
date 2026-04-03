@@ -282,7 +282,7 @@ Whatever was coming, it wasn't here yet. But something in Nate's broken, half-in
 
 Then his legs went.
 
-Not from pain — from absence. The way a breaker trips: not with warning, not with drama, just a sudden clean nothing where load-bearing capacity used to be. His knees buckled and he went down to the bermudagrass in two stages — one knee first, then his side — and the ground came up to meet him with the matter-of-fact patience of something that had been waiting.
+Not from pain — from absence. The way a breaker trips: not with warning, not with drama, just a sudden clean nothing where strength used to be. His knees buckled and he went down to the bermudagrass in two stages — one knee first, then his side — and the ground came up to meet him with the matter-of-fact patience of something that had been waiting.
 
 Rex was on him before he stopped moving. A cold nose pressed against the back of his hand. The warm weight of a Border Collie head against his forearm — not gentle, not panicked. Present.
 
