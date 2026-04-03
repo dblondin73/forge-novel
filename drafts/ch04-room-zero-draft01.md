@@ -352,30 +352,32 @@ Nate looked at her. Looked at the sack. Looked at the brown eyes that hadn't sto
 
 **30**
 
-The spawn points down the corridor pulsed harder. The rhythm shifted from dormant to urgent — something warming up, something preparing, something that had been patient beneath the stone and was running out of patience.
+The weapon racks dissolved first.
 
-Warriors at the door. Mages behind them, hands glowing with unsteady light. Marcus in the center of the formation, his **Vanguard** class doing something Nate couldn't see but could feel in the way people responded — standing straighter, breathing slower, finding a rhythm that wasn't their own but helped.
+Not dramatically — no flash, no sound effect. The iron simply lost cohesion, the swords and hammers and axes that nobody had claimed turning translucent, then transparent, then gone. The rack frames followed. Then the supply crates. Then the torches on the south wall, one by one, the light dying in a slow westward wave like a sunset in fast-forward.
 
-Nate stood behind the line with an ugly crossbow, no ammunition, a forging hammer on his belt, and a dog who'd already decided that whatever was about to come up the corridor was just livestock that hadn't been sorted yet.
+"The System is clearing the room," Flint said. "Unclaimed equipment and infrastructure are being reclaimed. I'd call it housekeeping, but housekeeping doesn't usually have a deadline."
+
+The back wall moved.
+
+Not fast. A grinding shudder — stone on stone — and the wall that had been behind them since they'd woken up shifted forward six inches. Then another six. Slow. Patient. The System's way of saying *checkout time* without raising its voice.
+
+Someone screamed. Several people scrambled for the corridor. Marcus was already there — "MOVE! Formation, NOW! Warriors front, mages second rank, support behind — GO!" — his voice cutting through the panic with the authority of a man who'd spent a career directing people who didn't want to be directed.
+
+The wall didn't speed up. It didn't need to. Six inches every few seconds, the room shrinking with the mechanical indifference of a trash compactor that didn't care what was inside it. The message was clear: forward was the only direction the System was offering, and the offer had an expiration date.
+
+Warriors at the corridor mouth. Mages behind them, hands glowing with unsteady light. Marcus in the center of the formation, his **Vanguard** class doing something Nate couldn't see but could feel in the way people responded — standing straighter, breathing slower, finding a rhythm that wasn't their own but helped.
+
+Nate stood behind the line with an ugly crossbow, no ammunition, a forging hammer on his belt, and a dog who'd already decided that whatever waited down the corridor was just livestock that hadn't been sorted yet.
 
 The crossbow was a promise. The hammer was a purpose. The dog was the only one in the room who'd never needed a System to know what he was.
 
-**10**
-
-Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth. Every line of his frame said the same thing he'd been saying all morning, the only thing that mattered when the world stopped making sense and the ground under your feet started glowing with something that wasn't going to wait much longer:
+Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth.
 
 *I'm here. Handle your business.*
 
-**5**
-
 "Here we go," Flint said. Very quietly.
 
-**0**
+The corridor ahead was lit. The room behind them was shrinking. And somewhere past the torchlight, beneath the stone floor of whatever waited at the corridor's end, something scratched in slow, patient rhythm.
 
-The first sound from the corridor wasn't a roar or a shriek. It was a scratching — dozens of sharp points on stone, fast and getting faster, the sound of something that had been grown from wood and thorn and counterfeit life and was now coming up the corridor like a harvest born wrong.
-
-Nate raised the crossbow. Empty. Nothing but spring steel and potential energy and a man who could see what things were made of.
-
-The torchlight at the corridor's edge flickered.
-
-Something moved in the dark.
+Fifty people moved forward. Not because they were ready. Because the room they were standing in had decided they were done.
