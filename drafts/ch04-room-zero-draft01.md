@@ -52,6 +52,8 @@ And people were listening. Not all of them — the bald man was still hitting th
 
 Nate didn't move toward Marcus. Not yet. Back to the wall, Rex at his feet, where he could see the whole room without being in the middle of it. Same place he'd stand at a sale barn — gate in view, watching the herd sort itself.
 
+Rex's weight pressed against his shin and a wash of impressions came through — fear-scent thick in the air, too many bodies too close, the bald man by the wall radiating something sharp and unstable. Rex's ears tracked him without his head moving. *That one. Watch that one.*
+
 His eye caught a face near the second weapon rack — weathered, sixtyish, the permanent squint of a man who'd spent decades in outdoor light. Sale barn. Carthage, maybe, or De Berry. Nate had seen him across the auction ring a dozen Saturdays but never learned his name. The man was holding a sword the way you'd hold a fence post — by the middle, testing the balance before you trusted the weight — and Nate filed that away. At least one person in this room knew what tools felt like before today.
 
 He turned his attention to the weapon racks.

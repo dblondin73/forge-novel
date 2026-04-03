@@ -60,7 +60,9 @@ The fight was ending. Warriors mobbing the last two Thornlings with more aggress
 
 Nobody had noticed what Rex did. Forty-nine people fighting for their lives, and not a single one had seen a Border Collie herd a monster like a yearling that had drifted too far from the bunch.
 
-Nate's hand found Rex's head. The dog's ears were flat, body still coiled, but his tail swept once against Nate's boot. Not celebration. Report. *Handled.*
+Nate's hand found Rex's head and got a flash — the Thornling's legs from six inches off the ground, the angle of its stumble, the exact moment Rex had broken off because the threat was past. A thirty-second combat engagement compressed into a single image, delivered through warm fur under Nate's palm. *Handled.*
+
+"Yeah, you did," Nate murmured. Rex's ear flicked toward his voice — not the working ear, the other one. The one that was always listening for Nate even when the rest of him was on the job.
 
 "Six hostiles, zero fatalities on our side," Flint said. The combat edge was dropping from his voice, replaced by something closer to his baseline — analytical, slightly theatrical, already composing the after-action review. "The **Warriors** performed adequately, which is a word I'm using generously given that the System handed them a manual and they read about half of the first page. The **Mage** needs a fuel management seminar and possibly adult supervision. And your crossbow—"
 
@@ -272,17 +274,17 @@ One bolt. One kill. At thirty feet. With ammunition made from the last room's co
 
 A **Warrior** nearby, mid-swing, paused long enough to give Josie a look of profound bewilderment before the System reminded him that he was in combat and there was a Thornling within arm's reach.
 
-Rex was already moving.
+A spike of urgency hit Nate's chest — Rex's, not his. A image of the **Mage** from ground level, exposed flank, something closing fast. Nate's head snapped left. Rex was already moving.
 
 The third wave — rear spawns — had put two Thornlings behind the support line, and one was heading for the **Mage**. The same **Mage** who'd burned through half her mana on two **Fire Bolts** and was standing with dimmed hands, unaware of the bark-covered thing closing low and fast from her blind side.
 
-Rex appeared on the Thornling's left flank. Not running — positioned. Low to the ground, body compressed into the working crouch that Nate had seen a thousand times on the ranch. Head down. Eyes locked. The stare that had moved cattle twice his weight, three times his size, animals that could kill him with a single kick and never did because something in the stare told them that kicking was the wrong choice.
+Rex appeared on the Thornling's left flank. Not running — *working.* Low to the ground, body compressed into the crouch that Nate had seen a thousand times on the ranch. But this wasn't cattle. Rex knew the difference. He darted in, snapped at the trailing root-leg, and peeled away before the thorn-arm could swipe — a bump-and-break that forced the creature one step left. Then another dart, another bump, another step. Not biting to damage. Biting to *steer.*
 
-The Thornling's path bent. Not dramatically. Two degrees left, away from the **Mage**, toward a **Warrior** who had line-of-sight and a sword coming off cooldown. The creature didn't decide to change direction. It was *moved* — pushed by the same pressure that pushed cattle, the silent weight of a predator's attention saying *not that way. This way.*
+The Thornling's path bent. Two degrees left, away from the **Mage**, toward a **Warrior** who had line-of-sight and a sword ready. The creature didn't decide to change direction. It was *herded* — pushed by thirty-five pounds of dog who understood that you didn't stare down a thing with no fear instinct. You moved its feet.
 
-Rex held the stare for three seconds. Then the **Warrior**'s blade connected, the Thornling went down, and Rex broke off with the quiet efficiency of a dog whose job was done. The **Mage** never knew she'd been in danger. Rex's tail swept once against the stone floor.
+Rex held the pressure for three seconds. Then the **Warrior**'s blade connected, the Thornling went down, and Rex broke off with the quiet efficiency of a dog whose job was done. The **Mage** never knew she'd been in danger. Rex's tail swept once against the stone floor.
 
-"The dog knew," Flint said, and his voice carried something Nate hadn't heard before — not confusion, not the analytical curiosity he usually applied to Rex's behavior, but something closer to genuine puzzlement. "Early warning from Rex's empathic impression arrived two full seconds before my environmental scan registered the spawn activation. The dog detected the threat before the threat existed."
+"The dog knew," Flint said, and his voice carried something Nate hadn't heard before — not confusion, not the analytical curiosity he usually applied to Rex's behavior, but something closer to genuine puzzlement. "Early warning from Rex's empathic impression arrived two full seconds before my environmental scan registered the spawn activation. The dog picked up on it before I did, and I have access to the System."
 
 "He reads intent. Not data."
 
@@ -314,7 +316,7 @@ Whatever the **Vanguard** class was giving him, Nate could see the effect — fi
 
 "**Warriors** hold the choke between those rocks!" His voice carried with the flat authority of a man giving orders he expected followed. "Two-man front, rotate on cooldown. **Mage** — you see that elevation on the east side? Line of sight to the center. Burst fire, then *wait.* Let mana regen. Do not burn dry. **Healer**, behind the **Warriors**, do NOT advance. If the line moves to you, back up. Let them come to your range."
 
-Nate recognized it immediately. *He's raid leading. That's a raid call — the voice that managed twenty-five players through encounters designed to kill people who didn't listen. Every other fighter in this room is playing their character. Marcus is playing the board.*
+Nate recognized it immediately. *He's not managing a project anymore. He's running a fire team.* The voice had shed every trace of the boardroom — no hedging, no consensus-building, just the clipped authority of a man whose first career had trained him to direct people who'd die if they didn't listen. *Every other fighter in this room is playing their character. Marcus is playing the board.*
 
 The warriors took the choke. Two men, shoulder to shoulder, the rock formations funneling the basic Thornlings into a two-wide corridor where even rough technique could hold. Their swings were still rough — but three rooms of use had worn the worst edges off. Both had earned at least one milestone chime, their basic sword technique creeping from Low toward Mid within Rank 1, and the difference showed: shorter arcs, less wasted motion, the downloaded knowledge settling into muscle memory instead of fighting it. Still not skilled. But functional in a way that Room 1's drunk-fencer swings hadn't been. And Flint's combat log confirmed what Nate suspected — both had unlocked **Power Strike** during Room 2. One swung his base technique while the other fired his enhanced strike, the System-guided blow hitting harder and landing cleaner. Then they swapped — base, enhanced, base, enhanced. Rotation. Not because they were good at it, but because Marcus had told them to and two rooms of surviving had taught them that listening to Marcus was cheaper than learning the hard way.
 
@@ -334,7 +336,7 @@ Nate took the elevation two positions east of the **Mage**. Higher ground. Cross
 
 Marcus reads people. Nate reads architecture. Marcus knows who goes where and when. Nate knows what things are made of and where they break. Together that covers who does what and where they stand.
 
-Nate sighted on the proto-guard's left shoulder. The gap **SA** had highlighted was narrow — two inches of exposed fibrous interior between overlapping bark plates. At forty feet, with a handmade crossbow that had a two-degree left cant he was compensating for by feel, that was a challenging shot. On the ranch, it was the equivalent of threading a fence wire through a post hole at arm's length — not impossible, just unforgiving.
+Nate sighted on the proto-guard's left shoulder. The gap **SA** had highlighted was narrow — two inches of exposed fibrous interior between overlapping bark plates. At forty feet, with a handmade crossbow that had a two-degree left cant he was compensating for by feel, that was a challenging shot. On the ranch, it was the equivalent of dropping a coyote through a gap in the trees at fifty yards with a rifle that pulled left — one window, and the margin was measured in inches.
 
 First bolt. Thorn found the gap and sank three inches into the shoulder joint. The proto-guard staggered, its left arm dropping, the reaching thorn-cluster going limp. Not dead. Not close to dead. But its strongest arm was compromised and its advance toward the warrior line slowed from deliberate to labored.
 
@@ -356,15 +358,17 @@ He was looking at Nate's elevated position. At the crossbow. At three thorn bolt
 
 He didn't say anything. He nodded. Once. Short. The nod of a man whose professional assessment was being revised against his preference, and who had enough integrity to acknowledge it without enough flexibility to say it out loud.
 
-Rex was at the room's edge. He'd worked the perimeter through the entire fight — not fighting, never fighting, but appearing wherever a Thornling's path threatened a non-combatant. The **Mage** on the elevation had never seen the Thornling that had circled toward her flank, because Rex had materialized between them with the silent certainty of a dog who believed that every creature in this room was simply livestock that hadn't learned its place yet. The Thornling had veered. A **Warrior**'s blade had caught it. Rex had moved on.
+Rex was at the room's edge. He'd worked the perimeter through the entire fight — not fighting, never fighting, but appearing wherever a Thornling's path threatened a non-combatant. The **Mage** on the elevation had never seen the Thornling that circled toward her flank, because Rex had darted in from the blind side — snap at the root-leg, peel away, snap again — bumping it two steps left into a **Warrior** whose blade was already swinging. The Thornling went down. Rex had moved on before it hit the floor.
 
 Nobody noticed. Nobody ever noticed. The dog was invisible the way infrastructure was invisible — essential, everywhere, and completely taken for granted by everyone who benefited from it.
 
-He's working the edges. Like he works the edges of the herd. He doesn't drive. He shapes. He makes the space smaller until the only direction left is the one he chose. Four years on the ranch and he never bit a single cow. Never had to. The stare did the work. The stare and the patience and the absolute refusal to believe that anything in his territory moved without his permission.
+But Nate noticed. He'd been getting flashes all fight — Rex's ground-level view of the room, snapshots of ankle and root-leg and stone floor, the spatial map of a dog who knew where every moving thing was and where it was going. Three rooms in, and the impressions were coming faster, sharper, like a radio signal clearing as you drove closer to the tower.
+
+*He's working the edges. Same job, different livestock.* On the ranch, Rex shaped a herd with patience and eye — the stare that moved cattle without ever touching them. Thornlings didn't spook from a stare, so Rex had adapted. Teeth and speed instead of eye and pressure. Different tools, same result: nothing in his territory moved where he didn't want it to go.
 
 ---
 
-Rest Area 2 was where Nate stopped counting fights and started counting lessons.
+The rest area was where Nate stopped counting fights and started counting lessons.
 
 The corridor widened into the now-familiar pattern — warmer light, smooth walls, a crafting station against the west wall. This one had a larger tool selection: a grinder wheel, a small anvil, additional files. The System rewarding progression with better tools, the same way a game unlocked better crafting options with each zone. Classic game design. He'd have done the same thing.
 
@@ -390,9 +394,15 @@ A woman approached. Leather-worker class, based on the tools she'd been given. J
 
 The leather-worker looked slightly overwhelmed. Josie did not notice or did not care, and the distinction didn't matter because the conversation was already happening and supply chains were already forming in the space between two women who had been strangers twenty minutes ago and were now conducting the first trade negotiation in Tutorial history.
 
-Nate watched her work and the gamer in him smiled. *She's building the auction house. Three rooms into the Tutorial and she's already creating the economy that the System didn't provide. While the warriors argue about who killed the most Thornlings, Josie Pickett is constructing the supply infrastructure that will keep those warriors alive in Room 6.*
+Nate watched her work and the gamer in him smiled. *She's building the auction house. Three rooms into the Tutorial and she's already creating the economy that the System didn't provide. While the warriors argue about who killed the most Thornlings, Josie Pickett is constructing the supply infrastructure that will keep those warriors alive in whatever comes next.*
 
-Nate sat with the upgraded crossbow on his knees and let the three rooms compile into a picture.
+Nate sat with the upgraded crossbow on his knees. Rex, who had been coiled tight through three rooms of combat — darting, herding, reading threats before the System did — finally let go. He pressed his side against Nate's leg, exhaled the long shuddering breath of a dog coming off adrenaline, and put his chin on Nate's boot. Eyes half-closed. Tail slow. The working dog was off the clock, and what was left was just a dog who wanted to be near his person.
+
+Nate scratched behind Rex's ears without looking down. The dog leaned into it, and through the contact came something warm and uncomplicated — a flash of the porch at dusk, the creak of the swing, Nate's boot propped on the rail. Rex's version of *home.* Not a memory Nate had sent. One Rex had shared. For a few seconds the Tutorial was somewhere else — just a man and his dog sitting together the way they'd sat on a thousand evenings after the cattle were in and the work was done.
+
+"We'll get back there," Nate said quietly. Rex's tail moved once. Slow. Certain.
+
+Then Nate let the three rooms compile into a picture.
 
 Room 1: Combat exists. Here's how it works. Here's what dies and how. Room 2: Resources are finite. Mana runs out, stamina burns, cooldowns are real, the System gives you tools but those tools have costs. Room 3: Positioning wins. Architecture matters. Cover, elevation, choke points — the room is a weapon if you know how to use it.
 
@@ -410,11 +420,11 @@ Marcus smiled. Not the polished smile of a program manager in a boardroom. The t
 
 Nobody had mentioned going home. Nate noticed that. In the starting room, half the room had been screaming about exits, about going back, about finding the door that led to the world they'd been taken from. Three rooms of combat had compressed all of that into present tense. The past was a luxury. The future was a corridor. The only question anyone was asking now was the only question that mattered: *What's in the next room?*
 
-"Three rooms completed," Flint said. For once, the theatrical edge was gone. No wit, no deflection, no speed-as-armor. Just information, delivered with the quiet weight of data that mattered. "Seven to go. The difficulty hasn't peaked yet, Nate." A pause that wasn't a processing delay. "It hasn't come close."
+"Three rooms completed," Flint said. For once, the theatrical edge was gone. No wit, no deflection, no speed-as-armor. Just information, delivered with the quiet weight of data that mattered. "The combat log glitched again during Room 3. Briefly. But I caught a progress indicator before it closed — three of ten." A pause that wasn't a processing delay. "The difficulty hasn't peaked yet, Nate. It hasn't come close."
 
 Rex was already facing the next corridor.
 
-Ears forward. Body still, coiled, the working crouch that wasn't tension but readiness — the posture of a dog who had never once considered the possibility that his person might not have a plan. The torchlight caught his eyes and they reflected amber, and in the amber was the same thing that had been there since the pasture, since the transport, since the stone room and the screaming and the spawn points and the fights: certainty. Not that everything would be fine. Not that the danger was manageable. Just the simple, immovable certainty that the man beside him would handle whatever came next, because the man beside him had always handled whatever came next, and a dog who'd never been let down didn't know how to expect disappointment.
+Ears lifting first, then the head, then the rest of him — unhurried, the way a dog woke from a nap on the porch when the truck engine turned over. Not startled. Not coiled. Just *ready,* the switch from companion to working dog so seamless it barely looked like a switch at all. The torchlight caught his eyes and they reflected amber, and in the amber was the same thing that had been there since the pasture, since the transport, since the stone room and the screaming and the spawn points and the fights: certainty. Not that everything would be fine. Not that the danger was manageable. Just the quiet certainty that the man beside him would handle whatever came next, because the man beside him had always handled whatever came next, and a dog who'd never been let down didn't know how to expect disappointment.
 
 The corridor beyond was dark. The torchlight didn't reach far enough to see what waited, and **SA**'s range found stone and shadow and the faint, rhythmic pulse of spawn points warming in the deep.
 
