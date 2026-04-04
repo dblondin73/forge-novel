@@ -2,6 +2,10 @@
 
 ---
 
+Fifty people, give or take, in a room built to ask one question: *what are you made of?* The **System** already knew the answer. It was just giving them a minute to catch up.
+
+---
+
 The stone was wrong.
 
 Nate's boots hit solid ground and the wrongness registered before anything else — not dirt, not the sandy give of Panola County loam. Stone. Hard, flat, cold through his boot soles in a way that East Texas ground never was, not even in January. His knees buckled. He caught himself with one hand on the floor and the other reaching for something that wasn't there — the truck's fender, the post driver, anything solid and familiar. His hand found stone and nothing else.
@@ -14,7 +18,7 @@ The green arcs flickered hard. Two faint parentheses of light at the edges of hi
 
 Then the room came into focus, and the screaming started making sense.
 
-Stone walls. High ceiling — arched, rough-cut, the kind of stonework that existed in fantasy games and medieval cathedrals and nowhere in real life. Torches in iron sconces every ten feet, casting orange light that moved wrong — too steady, too even, the flames burning without smoke or flicker in a pattern that Nate's engineering brain flagged as *generated, not combustion.* The room was large — seventy feet long, maybe forty wide. Weapon racks along both long walls, eight of them. Crafting tables in the center cluster, three heavy wooden stations with tools racked on their surfaces. Armor stands between the weapon racks. And at the far end, a door — dark stone, no handle, no hinges, sealed like it had been part of the wall since the wall was built.
+Stone walls. High ceiling — arched, rough-cut, the kind of stonework that existed in fantasy games and medieval cathedrals and nowhere in real life. Torches in iron sconces every ten feet, casting orange light that moved wrong — too steady, too even, the flames burning without smoke or flicker in a pattern that registered as *generated, not combustion.* The room was large — seventy feet long, maybe forty wide. Weapon racks along both long walls, eight of them. Crafting tables in the center cluster, three heavy wooden stations with tools racked on their surfaces. Armor stands between the weapon racks. And at the far end, a door — dark stone, no handle, no hinges, sealed like it had been part of the wall since the wall was built.
 
 Fifty people. Give or take.
 
@@ -86,7 +90,7 @@ Cosmetic steel over structural garbage. The System had spent its render budget o
 
 "Would you like to share them, or just stand here looking disappointed while people arm themselves with theatrical metalwork?"
 
-Nobody was checking anything. Nobody tapped a blade to hear the ring. Nobody flexed a crossguard to test the weld. They were choosing the way customers chose — by appearance, by size, by the weight of expectation that a sword should *look* like a sword. Nate could feel the ranch part of himself wanting to say something — the part that had watched new hands grab the wrong tool at a fencing job because the right one didn't look impressive enough — but fifty terrified strangers weren't going to listen to a man with a **PROCESSING** tag telling them their swords were garbage.
+Nobody was checking anything. Nobody tapped a blade to hear the ring. Nobody flexed a crossguard to test the weld. They were choosing the way customers chose — by appearance, by size, by the weight of expectation that a sword should *look* like a sword. Something in him wanted to say it — the same instinct that had watched new hands grab the wrong tool at a fencing job because the right one didn't look impressive enough — but fifty terrified strangers weren't going to listen to a man with a **PROCESSING** tag telling them their swords were garbage.
 
 He turned his attention to the rest of the room.
 
@@ -300,7 +304,7 @@ The sound came without warning.
 
 Low. Sustained. A vibration that bypassed ears and settled directly into stone and bone and the space between thoughts — the kind of sound that had no source because it came from everywhere at once. The walls. The floor. The sealed door at the far end that had been dark and silent since they'd arrived.
 
-Rex went rigid. Every muscle locked, ears flat against his skull, body pressed against Nate's shin like a spring compressed to its limit. An impression washed through the bond between them — not a word, but the wordless knowing of an animal who'd spent four years reading herds: *The gate is opening. The cattle are moving. Whether they want to or not.*
+Rex went rigid. Every muscle locked, ears flat against his skull, body pressed against Nate's shin like a spring compressed to its limit. An impression washed through, carried on the contact between them — *The gate is opening. The cattle are moving. Whether they want to or not.*
 
 The sealed door began to glow.
 
@@ -381,3 +385,7 @@ Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's
 The corridor ahead was lit. The room behind them was shrinking. And somewhere past the torchlight, beneath the stone floor of whatever waited at the corridor's end, something scratched in slow, patient rhythm.
 
 Fifty people moved forward. Not because they were ready. Because the room they were standing in had decided they were done.
+
+---
+
+The **System** counted them through. Fifty warm bodies. More than enough.

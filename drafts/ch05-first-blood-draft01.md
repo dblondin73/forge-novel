@@ -2,6 +2,10 @@
 
 ---
 
+The Tutorial had a curriculum. Nobody had asked the fifty people walking through the dark whether they'd signed up.
+
+---
+
 The passage had funneled them forward — fifty people pressing through a dim stone corridor with nothing but the sound of their own breathing and something scratching beneath the floor ahead.
 
 Then the walls fell away and they were in a chamber, and the scratching stopped.
@@ -24,7 +28,7 @@ Which explained the **Mage**.
 
 She was maybe twenty-five, and the **Fire Bolt** she threw from the second rank hit a Thornling in the chest hard enough to ignite bark in a flare of orange light that made the whole room flinch. The System had given her the knowledge — how to gather mana, how to shape it, where to aim. But knowledge wasn't control. She'd panicked and dumped everything she had behind it — too much mana in a single cast, the magical equivalent of flooring a truck in first gear. **SA** read the aftermath: surface burns, structural damage minimal. The Thornling staggered but didn't drop. The **Mage**'s hands were already dimmer. Somewhere a resource management tutorial was weeping.
 
-"Six hostiles," Flint said. In combat mode — clipped, rapid, the wit dialed back but never quite off. "**Warriors** engaging four. Two breaking east toward the support line. The **Mage** overspent on that **Fire Bolt** — she's at sixty percent mana and the fight's twelve seconds old."
+"Six hostiles," Flint said. In combat mode — clipped, rapid, the wit dialed back but never quite off. "**Warriors** engaging four. Two breaking east toward the support line. The **Mage** overspent on that **Fire Bolt** — her hands are already dimming and the fight's twelve seconds old."
 
 Nate raised the crossbow.
 
@@ -152,7 +156,7 @@ Marcus, who hadn't moved from his spot beside Nate: "She's been at it since the 
 
 "She's right to," Nate said.
 
-*She's the loot goblin.* The gamer in him recognized it instantly. *Every raid has one. The player who stays behind after the boss fight to check every corpse, open every chest, pick up every crafting material that the combat classes stepped over because it didn't have a damage number attached. They're always the most important person nobody listens to. They're always right. And they're always weird about it.*
+*She's the loot goblin.* The recognition was instant. *Every raid has one. The player who stays behind after the boss fight to check every corpse, open every chest, pick up every crafting material that the combat classes stepped over because it didn't have a damage number attached. They're always the most important person nobody listens to. They're always right. And they're always weird about it.*
 
 Josie was currently talking to a thorn. "You're coming with me. I don't know what you are yet but you're coming with me, and you're going to be GREAT."
 
@@ -240,7 +244,7 @@ But the second bolt was weaker. The first had been a bonfire. The second was a m
 
 *She's burning mana like someone who doesn't know the bill is coming.* Two bolts in three seconds and her hands were noticeably dimmer. Two more like that and she'd be dark. Standing in a fight with empty hands while Thornlings closed the distance.
 
-The engineer in Nate saw it clearly: *The System downloaded the knowledge but she's not learning from it — she's just dumping mana and hoping. The technique is in her head. The control isn't. And mana doesn't care about enthusiasm.* When the tank ran dry, she'd be a twenty-five-year-old with no combat training standing in a room full of bark-covered killing machines.
+The math was straightforward: *The System downloaded the knowledge but she's not learning from it — she's just dumping mana and hoping. The technique is in her head. The control isn't. And mana doesn't care about enthusiasm.* When the tank ran dry, she'd be a twenty-five-year-old with no combat training standing in a room full of bark-covered killing machines.
 
 Tyler — the teenager who'd grabbed the biggest axe in the starting room — swung at a Thornling. The downloaded knowledge was in there somewhere — the System had given him the stance, the grip, where to aim. His first swing used it. The blow connected, the axe biting into bark, and for one second Tyler looked like someone who knew what he was doing. The Thornling staggered.
 
@@ -250,7 +254,7 @@ A **Warrior** intervened — the woman who'd been fighting on the front line sin
 
 And as it dropped, something flared around her — a brief pulse of golden light, a chime that Nate couldn't hear but could see in the way her eyes widened and her mouth opened in a small *oh.* Flint's combat log flickered — intermittent, glitchy, reading data he shouldn't have access to: **[SWORD TECHNIQUE — RANK 1: LOW → MID. ENHANCED OPTION UNLOCKED: POWER STRIKE.]** Her next swing was different. Faster, tighter, the blade glowing faintly as the System guided it into the seam of a Thornling that had been closing from her left. The first System-assisted strike Nate had seen in two rooms — not just downloaded knowledge, but active guidance, the System steering her arm like a hand on the wheel. It hit harder than anything she'd thrown before. And the woman was already looking for the next target with the hungry focus of someone who wanted to feel that chime a second time.
 
-*There it is.* The gamer in him recognized the loop instantly. *Skill milestone. Her basic sword technique just ticked from Low to Mid within Rank 1 — not even a full rank-up, just a sub-tier, and the System gave her a golden chime and a light show for it.* He'd seen this exact design in a dozen MMOs. Reward the smallest progress with the biggest fanfare. It worked in games. It was working here too — and honestly, watching someone earn their first milestone in a fight for their life hit different than watching a progress bar fill in a raid.
+*There it is.* The loop was unmistakable. *Skill milestone. Her basic sword technique just ticked from Low to Mid within Rank 1 — not even a full rank-up, just a sub-tier, and the System gave her a golden chime and a light show for it.* He'd seen this exact design in a dozen MMOs. Reward the smallest progress with the biggest fanfare. It worked in games. It was working here too — and honestly, watching someone earn their first milestone in a fight for their life hit different than watching a progress bar fill in a raid.
 
 Tyler stumbled back, breathing hard, eyes wide with the specific terror of someone who'd just watched another fighter unlock something he couldn't reach. No golden light for him. No enhanced option. His axe technique was crawling through Rank 1 Low while hers had jumped to Mid — the System rewarded confident use, and scared swings counted for less. Everyone was afraid. The difference was what you did with it.
 
@@ -300,7 +304,7 @@ Room 3 was where the Tutorial stopped asking and started telling.
 
 Nate had used the rest between rooms to restock — four more rack bolts reinforced with salvaged Thornling fiber, not as good as the thorn-headed ones but a sight better than bare iron. Seven bolts total. Three thorn-tipped, four reinforced rack. Enough to matter.
 
-Wider chamber — sixty feet across, natural rock formations breaking the floor into corridors and cover positions that **SA** read as deliberately placed. Not generated rock. Real stone, quarried and set, the kind of construction that required engineering intent. The System hadn't just built a room. It had built a *position.* Cover here. Choke point there. Elevated ground along the east wall with clear sight lines to the center. The Tutorial was teaching positioning now, and the classroom was the architecture itself.
+Wider chamber — sixty feet across, natural rock formations breaking the floor into corridors and cover positions that **Structural Analysis** read as deliberately placed. Not generated rock. Real stone, quarried and set, the kind of construction that required engineering intent. The System hadn't just built a room. It had built a *position.* Cover here. Choke point there. Elevated ground along the east wall with clear sight lines to the center. The Tutorial was teaching positioning now, and the classroom was the architecture itself.
 
 Eight Thornlings. And something else.
 
@@ -396,7 +400,7 @@ A woman approached. Leather-worker class, based on the tools she'd been given. J
 
 The leather-worker looked slightly overwhelmed. Josie did not notice or did not care, and the distinction didn't matter because the conversation was already happening and supply chains were already forming in the space between two women who had been strangers twenty minutes ago and were now conducting the first trade negotiation in Tutorial history.
 
-Nate watched her work and the gamer in him smiled. *She's building the auction house. Three rooms into the Tutorial and she's already creating the economy that the System didn't provide. While the warriors argue about who killed the most Thornlings, Josie Pickett is constructing the supply infrastructure that will keep those warriors alive in whatever comes next.*
+Nate watched her work and smiled. *She's building the auction house. Three rooms into the Tutorial and she's already creating the economy that the System didn't provide. While the warriors argue about who killed the most Thornlings, Josie Pickett is constructing the supply infrastructure that will keep those warriors alive in whatever comes next.*
 
 Nate sat with the upgraded crossbow on his knees. Rex, who had been coiled tight through three rooms of combat — darting, herding, reading threats before the System did — finally let go. He pressed his side against Nate's leg, exhaled the long shuddering breath of a dog coming off adrenaline, and put his chin on Nate's boot. Eyes half-closed. Tail slow. The working dog was off the clock, and what was left was just a dog who wanted to be near his person.
 
@@ -437,3 +441,7 @@ The next room would be harder. The next room was always harder. That was the dea
 Rex's tail swept once. Forward.
 
 *Handle your business.*
+
+---
+
+Seven rooms remained. The Tutorial was patient. It had been designed that way — and patience, in a place like this, was just another word for hunger.

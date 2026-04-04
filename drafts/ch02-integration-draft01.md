@@ -2,6 +2,10 @@
 
 ---
 
+What happened next happened to everyone. But it happened to Nate Hall differently, and the difference would matter more than anyone — including Nate — would understand for a very long time.
+
+---
+
 The white didn't fade. It stopped.
 
 One moment there was nothing — no light, no dark, no temperature, no sound, no ground beneath his boots. Then the nothing resolved into something, and the something was worse, because at least nothing had been honest about what it was.
@@ -50,7 +54,7 @@ He knew the memory had existed. He knew what it was about, the way you know a wo
 
 The scan kept moving. Deeper. Faster. His first dog — what was her name? She'd been a red heeler mix; he remembered that, he remembered the _fact_ of her but the _feel_ of her was dissolving. The weight of her head on his knee. The sound of her tags jingling on the porch. Gone. The time he'd fallen out of the pecan tree and broken his arm — he could remember the hospital, the cast, but the actual moment of falling, the rush of air and the crack of the branch and the instantaneous certainty that this was going to hurt — the scan touched it and it softened into nothing.
 
-_You're being overwritten,_ his engineering brain told him, and now there was fear in it. _This isn't a scan. It's a migration. And it's not checking whether the data transferred clean._
+_You're being overwritten._ The thought arrived with fear attached. _This isn't a scan. It's a migration. And it's not checking whether the data transferred clean._
 
 Nate had seen corrupted migrations. He'd watched data move from one system to another and arrive damaged because the conversion process didn't preserve the original format. You got the words but not the formatting. The numbers but not the formulas. The skeleton but not the life.
 
@@ -88,7 +92,7 @@ The installer tried again. Harder this time — Nate felt the difference the way
 
 The occupied space didn't acknowledge the attempt. The framework's structures touched it and dissolved — not shattered, not repelled, just _undone_ — the way frost dissolves on a warm windshield. Quietly. Completely. As if the structures had never existed at all.
 
-Nate's engineering brain, still operational despite everything, offered him the comparison before he could stop it: _That's a permission level I've never seen before. Whatever's in there has root access to something the installer doesn't even know exists._
+The comparison surfaced before he could stop it: _That's a permission level I've never seen before. Whatever's in there has root access to something the installer doesn't even know exists._
 
 ---
 
@@ -134,6 +138,8 @@ He kept his eyes shut. Not ready yet.
 
 ---
 
+But Nate's twelve minutes were not the whole story. They never are, when the world is the patient.
+
 _Twelve minutes earlier, the world had stopped._
 
 _Not slowed. Stopped. In the space between one heartbeat and the next, every moving thing on Earth paused as if someone had pressed a button on a cosmic remote. Cars on Highway 59 between Carthage and Marshall hung motionless in their lanes, engines idling, tires neither turning nor skidding — just still, held in place by whatever force had decided that eight billion simultaneous brain surgeries required a stable operating table._
@@ -168,15 +174,15 @@ _The Integration took twelve minutes._
 
 _When it was over, every screen displayed the same word at the top — in English, in Mandarin, in Yoruba, in German, in every language spoken on Earth, as if it wanted to be sure nobody misunderstood who was in charge now. One word, universal and uninvited:_
 
-_SYSTEM_
+_**SYSTEM**_
 
 _Nobody experienced the passage of time. Nobody experienced anything at all, except the ones it couldn't reach — and those, scattered and few and utterly alone, experienced everything._
 
 ---
 
-Nate opened his eyes.
+Nate was one of those.
 
-The world was already moving on without him.
+He opened his eyes.
 
 Wind in the bermudagrass. Post oaks swaying at the tree line. A mockingbird running its catalog in the canopy — cardinal, blue jay, car alarm — as if nothing had interrupted it. From the direction of the county road, voices. Excited. Already excited. However long the world had been frozen, it was over now, and Nate had missed the thaw.
 
@@ -184,7 +190,7 @@ He was lying on his side in the pasture. His ears were ringing. His hands were s
 
 Blue light. Everywhere.
 
-Translucent panels hung in his field of view — clean, bright, official. The word SYSTEM sat at the top in a font he didn't recognize, and beneath it, text was populating itself with crisp efficiency. He could read it. A class designation field, still loading. A vertical column of abbreviated stats — STR, CON, DEX, INT, WIS — with numbers filling in beside them like a spreadsheet auto-calculating. A health bar, green and full. A stamina bar beneath it. A progress wheel spinning in the corner with the words INTEGRATION COMPLETE — CALIBRATING.
+Translucent panels hung in his field of view — clean, bright, official. The word **SYSTEM** sat at the top in a font he didn't recognize, and beneath it, text was populating itself with crisp efficiency. He could read it. A class designation field, still loading. A vertical column of abbreviated stats — **STR**, **CON**, **DEX**, **INT**, **WIS** — with numbers filling in beside them like a spreadsheet auto-calculating. A health bar, green and full. A stamina bar beneath it. A progress wheel spinning in the corner with the words **INTEGRATION COMPLETE — CALIBRATING**.
 
 For about five seconds, Nate saw what eight billion other people were seeing: a full-color interface, welcoming and organized, already sorting him into its architecture. He was already reading the layout, mapping the information hierarchy, noting the data structures — and despite everything that had just happened in the void, some part of him thought: _Huh. That's actually well-designed._
 
@@ -260,11 +266,13 @@ He was still standing there, hand on Rex's head, when the green arcs flickered. 
 
 Text. Two words, rendered in a monochrome green that had nothing to do with what everyone else was seeing:
 
-BOOT SEQUENCE PENDING
+**BOOT SEQUENCE PENDING**
 
 Then the arcs scrambled back to noise, and the words were gone.
 
 Nate stared at the space where they'd been. _Pending._ Not failed. Not denied. Pending. The most noncommittal word in the English language, and his entire situation had just been summarized by it.
+
+Two words that meant nothing to the man reading them and everything to the system that wrote them. Somewhere in the architecture that had just tried to reformat a human mind and failed, a flag had been set. A process, deferred. Not cancelled — deferred. The distinction would matter.
 
 The man by the Tahoe glanced back at him one more time — that brief, uncertain look of a man who'd found something that didn't fit the pattern and decided it wasn't his problem. Then his daughter tugged his sleeve and pulled him back toward the flame she was trying to hold herself, and just like that, Nate was forgotten. The woman had gone still. She was bent over her screen the way someone bends over a map to somewhere she'd always wanted to go. The boy had his own small flame going now — unsteady, guttering, real. He was ten years old with fire in his hand and the world had just gotten extremely simple.
 
@@ -291,3 +299,7 @@ Nate's cheek came to rest against the sandy loam. The ground was warm. It held h
 The green arcs pulsed once, steady, and held.
 
 He let his eyes close.
+
+---
+
+The green arcs held steady over closed eyes, patient as the land beneath him. At the north pasture, the pump kept running — bearings and all.

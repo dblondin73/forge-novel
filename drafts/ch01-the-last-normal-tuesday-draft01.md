@@ -2,6 +2,12 @@
 
 ---
 
+Some mornings arrive carrying more than they show.
+
+This one came in quiet — steel sky, dew on the bermudagrass, the kind of East Texas stillness that sits in the low places and waits. Nothing about it suggested it would be the last normal morning any of them would have.
+
+---
+
 The water pump was dying the way everything on a ranch died — slowly, loudly, and at the worst possible time.
 
 Nate Hall crouched beside the wellhead at the north pasture, his boots sunk two inches into the sandy clay that had built up around the base over twenty-two years of water splash and foot traffic, the red subsoil showing through where the topsoil had long since washed away. The pump housing was warm under his palm. Not hot — warm. The difference mattered. Hot meant the motor was cooking itself. Warm meant the motor was fine and something downstream was making it work harder than it should.
@@ -100,7 +106,7 @@ Nate knew the look. He'd been a systems engineer long enough to develop an insti
 
 He hung up and slid the phone back into his pocket. The morning was quiet again. The mockingbird had stopped. Even the pump's grinding was inaudible from this distance, just the low hum of the motor carrying across the pasture like a heartbeat with a murmur.
 
-He thought about Marcus's phantom alerts — sensors reporting things that weren't there. Phantom enemies on a clean map. His brain offered the comparison before he could stop it — the gaming equivalent of mobs spawning where the spawn table said nothing should be. A bugged sensor and a bugged spawn point had the same feel: the system insisting something was there when every other data source said the room was empty. Sensors didn't lie. You just didn't know the right question yet.
+He thought about Marcus's phantom alerts — sensors reporting things that weren't there. Phantom enemies on a clean map. A bugged sensor and a bugged spawn point had the same feel: the system insisting something was there when every other data source said the room was empty. Sensors didn't lie. You just didn't know the right question yet.
 
 He swung the tailgate up, latched it, and climbed into the cab. Rex shifted in the bed behind him, nails clicking on the spray-in liner. Time to run the fence.
 
@@ -186,11 +192,11 @@ The stag hadn't moved.
 
 It stood at the tree line with its impossible antlers and its luminous eyes and it watched Nate the way Nate watched broken systems — with the patient attention of something that already knew what was wrong and was waiting for him to catch up.
 
-_That's not weather,_ Nate's engineering brain whispered, the last useful thing it would offer before the world changed. _That's not any kind of light. That's a signal._
+_That's not weather,_ whispered the last clear thought his brain would offer before the world changed. _That's not any kind of light. That's a signal._
 
 The mockingbird in the post oaks screamed. Every call it knew, all at once. Then the blue jays. Then the crows. Then silence — all of them, at the same time, as if someone had pressed mute on every pine tree in East Texas.
 
-Rex pressed harder against his leg, and Nate felt it again — the thing that wasn't touch, wasn't sound, but lived somewhere behind his ribs where instinct made its home. A single wordless impression, absolute and certain:
+Rex pressed harder against his leg, and something behind Nate's ribs clenched with a certainty that wasn't his own. A single impression, absolute:
 
 _Wrong. All of it. Wrong._
 
@@ -203,3 +209,9 @@ The stag had been waiting for it.
 The gold light reached a frequency that made the fillings in his teeth ache, and then the sky opened, and the world went white, and the last thing Nate Hall felt before everything he knew ended was two things at once — the weight of his dog against his shin, warm and real and loyal, and the steady, unblinking gaze of an animal that could not exist, watching him disappear into the light with the patience of something that would still be there when he came back.
 
 And then there was nothing but the white.
+
+---
+
+The pump kept running. Congressman stood facing east, still chewing nothing, entirely unimpressed by the disappearance of a man and a dog and a world that made sense. The mockingbird started up again after a while — cardinal, blue jay, car horn — cycling through its borrowed catalog for an audience of post oaks and empty air.
+
+The ranch would keep. It had been waiting for things before, and it was patient enough to wait again.

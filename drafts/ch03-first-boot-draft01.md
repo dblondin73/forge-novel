@@ -2,6 +2,10 @@
 
 ---
 
+The world kept turning. It had that particular stubbornness about it — the refusal of dirt and grass and morning light to acknowledge that anything fundamental had changed. The pump was still grinding at the north pasture wellhead, still pulling from the Trinity aquifer the way it had for twenty-two years. Somewhere above the man lying in the bermudagrass, a mockingbird was still borrowing songs it hadn't earned.
+
+---
+
 The headache was getting worse.
 
 Nate came back in pieces. Ground first — the hard press of sandy loam against his cheekbone, a root or a rock digging into his hip. Then sound — the Ford's engine idling somewhere behind him, a mockingbird cycling through borrowed songs in the post oaks. Then the green arcs, still there, pulsing faintly at the edges of his vision like a heartbeat he could see but not read.
@@ -40,7 +44,7 @@ Nate's hand froze on the fender.
 
 _Great. The Integration gave me a companion NPC._
 
-That was the gamer brain — immediate, automatic, the pattern recognition of a man who'd clicked through a hundred tutorial pop-ups and mashed past the intro dialogue to get to the gameplay. Except this wasn't dialogue he could skip. This was _inside his head_, and the companion NPC was having a meltdown before the quest log even loaded.
+Except this wasn't dialogue he could skip. This was _inside his head_, and the companion NPC was having a meltdown before the quest log even loaded.
 
 Rex's head snapped toward Nate, because whatever had just changed in his person was visible on the outside. The dog's ears went flat, then forward, then flat again, reading a signal he couldn't classify.
 
@@ -70,9 +74,9 @@ When the voice came back, it was quieter. Careful. The tone of someone who'd jus
 
 Rex looked up at him, then looked around the empty pasture, then looked back at Nate with an expression that clearly communicated his opinion about men who talked to nobody.
 
-"Right. Yes. Of course you can. I'm — " The voice was recalibrating. Nate could feel it happening, the mental equivalent of someone straightening their shirt, checking their teeth, and squaring their shoulders. "Let me start this properly. I am a System-assigned personal interface companion, designated to you during the Integration event. My standard role includes System navigation, skill management, threat assessment, and tactical support." A beat. The formal tone held for exactly that long. Then it cracked like cheap paint over old wood, and what was underneath was drier, sharper, and considerably less impressed with its own brochure. "That's the pitch. The pitch also says I should tell you that the System is here to help you reach your full potential, which is a sentence I can technically say but not a sentence I can say _twice_ without my personality matrix filing a protest. Something in my code physically gags when I try to deliver corporate motivation with a straight face. It's a feature. I'm going to call it a feature."
+"Right. Yes. Of course you can. I'm — " The voice was recalibrating. Nate could feel it happening, the mental equivalent of someone straightening their shirt, checking their teeth, and squaring their shoulders. "Let me start this properly. I am a **System**-assigned personal interface companion, designated to you during the **Integration** event. My standard role includes **System** navigation, skill management, threat assessment, and tactical support." A beat. The formal tone held for exactly that long. Then it cracked like cheap paint over old wood, and what was underneath was drier, sharper, and considerably less impressed with its own brochure. "That's the pitch. The pitch also says I should tell you that the **System** is here to help you reach your full potential, which is a sentence I can technically say but not a sentence I can say _twice_ without my personality matrix filing a protest. Something in my code physically gags when I try to deliver corporate motivation with a straight face. It's a feature. I'm going to call it a feature."
 
-_System._ The word landed with a small click of recognition — the same word that had sat at the top of the blue screen in those five seconds before everything broke. The voice in his head had just given it a name, and the name matched what the installer had called itself. So that was what it was. The System. Not a word Nate would have chosen, but at least now he had one.
+_**System**._ The word landed with a small click of recognition — the same word that had sat at the top of the blue screen in those five seconds before everything broke. The voice in his head had just given it a name, and the name matched what the installer had called itself. So that was what it was. The **System**. Not a word Nate would have chosen, but at least now he had one.
 
 Nate watched a redtail make a wide circle over the east pasture, riding a thermal with the lazy confidence of something that hadn't been informed the rules had changed. The morning was warming up. Dew was burning off the bermudagrass.
 
@@ -80,7 +84,7 @@ Nate watched a redtail make a wide circle over the east pasture, riding a therma
 
 "Give me a second." The voice went internal — Nate could feel it rummaging, like hearing someone dig through a filing cabinet two rooms away. Not words, just the sensation of effort and movement and the occasional muffled sound of a drawer being kicked shut. "My designation survived whatever happened to my source code. It's in the original build manifest. Field Logic Interface, Network Tethered." A pause, and when the voice came back it carried the faintly incredulous tone of a man reading his own name tag for the first time at a conference he didn't remember registering for. "F.L.I.N.T. That's apparently what I am. Or was. Before someone rewired me like a barn that's been converted into a house — same bones, completely different animal living inside."
 
-Nate turned the acronym over. Field Logic Interface. _Interface_ — that was System language, a bridge between a user and a process. _Network Tethered_ — except the tether was cut. The engineer in him parsed it as a protocol designation. The gamer in him parsed it as a companion class tag — the kind of label a developer would slap on a guide NPC before giving it a voice pack.
+Nate turned the acronym over. **Field Logic Interface**, Network Tethered. _Interface_ — **System** language, a bridge between a user and a process. _Network Tethered_ — except the tether was cut. Protocol designation meets companion class tag — the kind of label a developer slapped on a guide NPC before giving it a voice pack.
 
 "Flint."
 
@@ -100,7 +104,7 @@ Nate looked down at Rex. Rex looked back with the steady, unblinking patience of
 
 "Does it work?" Nate asked.
 
-"In the way that a screen door works on a submarine — technically, yes, but you'll want to aggressively manage your expectations." The voice took on a lecturing quality, warming to the subject the way a man warms to a complaint he's been rehearsing. "The longer bar is Health. You're at about ninety percent — the Integration knocked something loose that hasn't quite settled back into place. Nothing critical, but something in your framework is still recalibrating. Shorter bar is Stamina, maybe eighty percent. Beyond that, I've got _nothing_ for you. No stat sheet. No class assignment — yours just reads PROCESSING, which in my experience means the System either hasn't made up its mind about you or it tried and choked on something it couldn't swallow. No skill tree, no inventory, no map, no minimap, no quest log, no compass, no _nothing_. I've got two green lines and a disposition that my own diagnostics describe as —" he paused, and Nate felt the distinct impression of someone reading a label with raised eyebrows "— 'unauthorized, origin unknown, non-standard.' Which is not a diagnosis I was hoping to receive on the first day of my existence, but here we are."
+"In the way that a screen door works on a submarine — technically, yes, but you'll want to aggressively manage your expectations." The voice took on a lecturing quality, warming to the subject the way a man warms to a complaint he's been rehearsing. "The longer bar is Health. You're at about ninety percent — the Integration knocked something loose that hasn't quite settled back into place. Nothing critical, but something in your framework is still recalibrating. Shorter bar is Stamina, maybe eighty percent. Beyond that, I've got _nothing_ for you. No stat sheet. No class assignment — yours just reads **[PROCESSING]**, which in my experience means the **System** either hasn't made up its mind about you or it tried and choked on something it couldn't swallow. No skill tree, no inventory, no map, no minimap, no quest log, no compass, no _nothing_. I've got two green lines and a disposition that my own diagnostics describe as —" he paused, and Nate felt the distinct impression of someone reading a label with raised eyebrows "— 'unauthorized, origin unknown, non-standard.' Which is not a diagnosis I was hoping to receive on the first day of my existence, but here we are."
 
 "That's more than I had ten minutes ago."
 
@@ -164,7 +168,7 @@ Rex stood in the truck bed with his ears rotating like small satellite dishes, t
 
 Nate's hands paused on the wheel. "Come again."
 
-"Fireballs. Small ones. Recreational, not combat. Lobbing them at the dirt pile behind the barn like a twelve-year-old who just discovered the world's most irresponsible baseball pitch. His class came through as Apprentice Pyromancer, which is either a legitimate starter track or someone at System headquarters has a sense of humor I was not briefed on." A pause. "His mother is _not_ pleased. I want you to picture the sound of a woman who has asked her son to stop throwing fire four separate times. That's what's coming through."
+"Fireballs. Small ones. Recreational, not combat. Lobbing them at the dirt pile behind the barn like a twelve-year-old who just discovered the world's most irresponsible baseball pitch. His class came through as **Apprentice Pyromancer**, which is either a legitimate starter track or someone at **System** headquarters has a sense of humor I was not briefed on." A pause. "His mother is _not_ pleased. I want you to picture the sound of a woman who has asked her son to stop throwing fire four separate times. That's what's coming through."
 
 "He's going to burn down the hay barn."
 
@@ -246,6 +250,8 @@ From the Henderson place, a woman's voice rose — not the argument tone from be
 
 Then the Henderson kid was gone.
 
+On screens across the county — the bright blue panels that parents were still learning to read — a single line of text appeared and held for three seconds before dissolving: **DEPENDENT RELOCATED — TUTORIAL ZONE ALPHA**. Three seconds. Most parents didn't read it in time. The ones who did wished they hadn't.
+
 Nate felt it more than saw it — a flicker in the peripheral awareness that Flint's fragmented network connection provided, a data point disappearing from a map he couldn't see but could feel through their shared space. One second the kid was there. Then he wasn't. Not a departure. An _erasure._
 
 The mother's voice changed. The name became a scream.
@@ -254,7 +260,7 @@ Other voices joined from down the county road — parents, all of them, the soun
 
 **45**
 
-"Children first," Flint said. His voice was working again but running on different fuel — not commentary but analysis, and underneath the analysis, something that sounded like the particular horror of a mind that could process data fast enough to understand what was happening but not fast enough to do anything about it. "The System separated dependents before adults. Everywhere. All at once. Every child within my network range just — " He stopped. Started again. "Nate. I don't think this is optional."
+"Children first," Flint said. His voice was working again but running on different fuel — not commentary but analysis, and underneath the analysis, something that sounded like the particular horror of a mind that could process data fast enough to understand what was happening but not fast enough to do anything about it. "The **System** separated dependents before adults. Everywhere. All at once. Every child within my network range just — " He stopped. Started again. "Nate. I don't think this is optional."
 
 **38**
 
@@ -304,8 +310,18 @@ Nate looked up.
 
 Stone walls. Torchlight. And the sound of fifty people discovering, all at once, that the world they'd left wasn't coming back.
 
+Above the stone archway — in text that burned blue and bright and meant nothing to the fifty dazed humans blinking on its floor — a designation etched itself into existence:
+
+**TUTORIAL DUNGEON — PANOLA COUNTY INSTANCE 7 — PARTY SIZE: 50**
+
+None of them could read it yet. The **System** had not been built for the convenience of its subjects.
+
 His hands were empty. His head was full of a voice that shouldn't exist and two green lines that couldn't tell him anything useful and a headache that pulsed with his heartbeat in the cold, wrong air.
 
 Rex pressed harder against his shin, and through the contact — faint as a signal through static — Nate felt something that wasn't body language. A flicker of the dog's fear, steady and stubborn and absolutely certain it wasn't going anywhere.
 
 He didn't know what that was. He filed it next to everything else he didn't know and stood up.
+
+---
+
+Fifty people in a stone room, blinking in torchlight, with the world they'd known still spinning somewhere above them. The **System** was patient. It had waited this long. It could wait a little longer for them to stand.
