@@ -88,6 +88,8 @@ Healing was accelerating. The healers — three of them, all glowing with the so
 
 Across the corridor, people were going still — eyes unfocused, heads tilted, the same vacant look as someone scrolling through a phone only they could see. Character sheets. They were reading whatever the System had given them. Some people scrolled with small finger gestures. Others talked quietly to their AI companions — the standard-issue System voices that Nate couldn't hear but could see in the way people tilted their heads and nodded at empty air. A woman laughed at something her screen showed her. A man read his stat page with the focused intensity of someone reviewing a performance evaluation that actually mattered. Fifty people had just survived their first fight with bark-covered murder shrubs, and the first thing they did was check their numbers. Humanity was consistent, if nothing else.
 
+Give a man a sword and he'll swing it. Give him a number afterward and he'll chase the next one. The **System** understood this about people — had been designed to understand it, or had learned it, which amounted to the same thing. It was, in its own joyless way, the most successful game designer in history. Its first dungeon had a hundred percent engagement and a zero percent opt-out rate. Impressive numbers, if you didn't think too hard about the methodology.
+
 The System had given them a fight, and now it was giving them a mirror. *Look what you did. Look what you are. Look what we can make you.*
 
 Nate watched them scroll and thought: *Post-first-dungeon inventory check. Every MMO in history did this — killed you a little, healed you up, then showed you the loot screen so the dopamine hit arrived with the numbers.* Familiar design. Good design, actually. Whoever built this System had played the same games he had.
@@ -340,7 +342,7 @@ Nate took the elevation two positions east of the **Mage**. Higher ground. Cross
 
 "**Warriors** — south wall, thirty seconds!" Marcus relayed it without hesitation. A man who'd spent his career translating technical reports into operational decisions and didn't need to understand **SA** to trust the source. "Nate, the big one is yours. Slow it down. Don't kill it — pin it. We'll finish it when the adds are clear."
 
-Marcus reads people. Nate reads architecture. Marcus knows who goes where and when. Nate knows what things are made of and where they break. Together that covers who does what and where they stand.
+Marcus read people. Nate read architecture. Marcus knew who went where and when. Nate knew what things were made of and where they broke. Between them, that covered the room.
 
 Nate sighted on the proto-guard's left shoulder. The gap **SA** had highlighted was narrow — two inches of exposed fibrous interior between overlapping bark plates. At forty feet, with a handmade crossbow that had a two-degree left cant he was compensating for by feel, that was a challenging shot. On the ranch, it was the equivalent of dropping a coyote through a gap in the brush at fifty yards with a rifle that pulled left — one window, and the margin was measured in inches.
 
@@ -367,6 +369,8 @@ He didn't say anything. He nodded. Once. Short. The nod of a man whose professio
 Rex was at the room's edge. He'd worked the perimeter through the entire fight — not fighting, never fighting, but appearing wherever a Thornling's path threatened a non-combatant. The **Mage** on the elevation had never seen the Thornling that circled toward her flank, because Rex had darted in from the blind side — snap at the root-leg, peel away, snap again — bumping it two steps left into a **Warrior** whose blade was already swinging. The Thornling went down. Rex had moved on before it hit the floor.
 
 Nobody noticed. Nobody ever noticed. The dog was invisible the way infrastructure was invisible — essential, everywhere, and completely taken for granted by everyone who benefited from it.
+
+The dog had no class. No rank. No screen, no stats, no place whatsoever in the **System**'s tidy architecture. He had a man who needed things moved and the God-given stubbornness to move them. The **System** would never count him. That was going to be the **System**'s problem, not his.
 
 But Nate noticed. He'd been getting flashes all fight — Rex's ground-level view of the room, snapshots of ankle and root-leg and stone floor, the spatial map of a dog who knew where every moving thing was and where it was going. Three rooms in, and the impressions were coming faster, sharper, like a radio signal clearing as you drove closer to the tower.
 
@@ -400,6 +404,8 @@ A woman approached. Leather-worker class, based on the tools she'd been given. J
 
 The leather-worker looked slightly overwhelmed. Josie did not notice or did not care, and the distinction didn't matter because the conversation was already happening and supply chains were already forming in the space between two women who had been strangers twenty minutes ago and were now conducting the first trade negotiation in Tutorial history.
 
+The **System** had built a dungeon. Josie Pickett was building a market. In the long run — and there would be a long run, longer and stranger than any of them suspected — the market would matter more. But the long run was a luxury the Tutorial did not sell, and Josie was going to have to build her supply chain on credit and salvaged thorns and the sheer audacity of a woman who had never met a discard pile she couldn't monetize.
+
 Nate watched her work and smiled. *She's building the auction house. Three rooms into the Tutorial and she's already creating the economy that the System didn't provide. While the warriors argue about who killed the most Thornlings, Josie Pickett is constructing the supply infrastructure that will keep those warriors alive in whatever comes next.*
 
 Nate sat with the upgraded crossbow on his knees. Rex, who had been coiled tight through three rooms of combat — darting, herding, reading threats before the System did — finally let go. He pressed his side against Nate's leg, exhaled the long shuddering breath of a dog coming off adrenaline, and put his chin on Nate's boot. Eyes half-closed. Tail slow. The working dog was off the clock, and what was left was just a dog who wanted to be near his person.
@@ -413,6 +419,8 @@ Then Nate let the three rooms compile into a picture.
 Room 1: Combat exists. Here's how it works. Here's what dies and how. Room 2: Resources are finite. Mana runs out, stamina burns, cooldowns are real, the System gives you tools but those tools have costs. Room 3: Positioning wins. Architecture matters. Cover, elevation, choke points — the room is a weapon if you know how to use it.
 
 Each room escalated. Each room taught one lesson and tested the last. The difficulty curve was textbook — he'd played enough games to recognize it, and he'd managed enough engineering projects to respect it. Escalating difficulty curves didn't flatten. They were ramps. And ramps led somewhere, usually somewhere the people on them didn't want to go.
+
+The ramp was not a kindness. It had never been a kindness. But it was, in its own brutal arithmetic, a mercy — because the thing waiting past the Tutorial's last door would not grade on a curve, and every room between here and there was a chance to become something harder to kill. The **System** was not generous. But it was, occasionally, practical. The distinction kept more people alive than generosity ever had.
 
 "It's a difficulty ramp," Nate said. Marcus had drifted over during the crafting work, standing nearby with the quiet attention of a man who was always listening even when he appeared to be doing something else. "Rooms 1 through 3 were the tutorial within the Tutorial. Combat, resources, positioning. The training wheels come off next."
 

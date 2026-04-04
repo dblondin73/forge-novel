@@ -100,6 +100,8 @@ The crafting tables were built for function, not display. **SA** read them as st
 
 Everything designed to be *used* was real. Everything designed to be *chosen* was fake.
 
+The test had been running since the weapons went up on the racks. Forty-eight people reached for the shine. One checked the grain. The **System** noted the difference — it had been designed to note the difference — though whether it *cared* about the answer was a question the **System** was not built to ask, and wouldn't have liked the answer to regardless.
+
 "Flint."
 
 "I see it. The System dressed the mannequins and forgot to dress the stage." A pause. "Or it didn't forget. Classic starter-zone gear philosophy — pretty enough to grab, fragile enough to replace. Every game does this. Hand out gray-quality trash, let it break on the first boss, drive upgrades through the progression system."
@@ -185,6 +187,8 @@ Grip wrapped in a strip of leather. Real leather — pulled from the inside of a
 Ten minutes. The crossbow looked like someone built it in a barn. The stock was a table leg. The trigger was a wall bracket. The prod was the only honest piece of steel in the room.
 
 It was ugly in the way that honest things are ugly and dangerous in the way that engineered things are dangerous.
+
+The **System** had offered him a sword. Something older had handed him a workshop. It would take the **System** quite some time to work out which gift was more dangerous — and by the time it did, the man with the table-leg crossbow would have given it considerably more to worry about than one improvised weapon. But that was later. For now, it was just a man, a dog, and the ugliest crossbow in the history of armament, and if you'd asked the **System** whether it was concerned, it would have said no. The **System** would have been wrong. The **System** was wrong about a great many things that morning. It was early yet.
 
 "I have catalogued what you just did," Flint said, "and I want you to know that from a strictly technical standpoint, you just built a ranged weapon from furniture and wall fixtures while forty-eight people with functioning class assignments selected purpose-built armaments designed by a god-tier intelligence. And yours is better. I find that personally offensive on their behalf."
 
@@ -369,6 +373,8 @@ Not fast. A grinding shudder — stone on stone — and the wall that had been b
 Someone screamed. Several people scrambled for the corridor. Marcus was already there — "MOVE! Formation, NOW! Warriors front, mages second rank, support behind — GO!" — his voice cutting through the panic with the authority of a man who'd spent a career directing people who didn't want to be directed.
 
 The wall didn't speed up. It didn't need to. Six inches every few seconds, the room shrinking with the mechanical indifference of a trash compactor that didn't care what was inside it. The message was clear: forward was the only direction the System was offering, and the offer had an expiration date.
+
+Subtle, that. Very subtle. A shrinking room and a single open door — as if fifty adults needed a metaphor to understand *move.* The **System** could have simply teleported them. It chose the slow squeeze instead, because fear was a resource too, and the Tutorial was nothing if not efficient with its materials.
 
 Warriors at the corridor mouth. Mages behind them, hands glowing with unsteady light. Marcus in the center of the formation, his **Vanguard** class doing something Nate couldn't see but could feel in the way people responded — standing straighter, breathing slower, finding a rhythm that wasn't their own but helped.
 

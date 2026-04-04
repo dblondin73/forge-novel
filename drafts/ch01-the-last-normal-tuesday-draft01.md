@@ -112,6 +112,8 @@ He swung the tailgate up, latched it, and climbed into the cab. Rex shifted in t
 
 ---
 
+If you'd asked him what the most dangerous thing on his property was, he'd have said the bull — or the hogs, on a bad week. He wouldn't have said the tree line. Nobody ever says the tree line. That's rather the point.
+
 The northeast corner looked clean. No fresh rooting, no disturbed wire. The earth anchors were holding and the low strand was still pinned tight. Nate checked the fence on foot, one hand trailing along the top wire the way his father had taught him. The wire was good. Four days since the last repair and the hogs hadn't come back. Small victories.
 
 He was crouched at the corner post checking the bottom clip when Rex stopped watching the cattle.
@@ -145,6 +147,8 @@ This animal's proportions were wrong.
 The legs were too long by six inches, maybe eight — not dramatically, not cartoonishly, but enough that his eye caught it the way his ear caught a bearing running rough. The body was leaner than a whitetail's, the chest deeper, the neck longer and carried at an angle that no East Texas deer had ever used. The rack was massive and branching in a pattern he didn't recognize — not the upward-reaching tines of a whitetail, but something that swept forward and out, the antlers curving in a geometry that reminded him of the branching architecture of a root system. Wide. Ancient-looking. Wrong for any species he'd ever seen in Panola County or anywhere else. And the antlers themselves weren't bone — not the chalky white of a Texas buck's rack. They had the color and grain of old-growth heartwood, silvered and polished, each tine tapering to a point that caught the low horizon light and held it like a candle flame. He'd read about antlers like that. Rowan wood and silver branch, the crown of the Fae stag in stories he'd listened to on cassette while baling hay in college. The stories had been fiction. The antlers were thirty yards away and throwing light.
 
 It was the most beautiful animal he had ever looked at.
+
+He wasn't wrong about that. But beauty was the smallest thing the stag was carrying, and the least of what it had come to deliver. If it helps — and it won't — he was handling it better than most would have. Most would have run. Nate Hall stood at a fence line with barbed wire under his palm and his dog at his leg and *looked*, which was either the bravest thing a man could do in that moment or the most stubborn. With this one, the difference was academic.
 
 The thought arrived without his consent and settled in with absolute certainty. Beautiful the way a thunderstorm was beautiful — the kind of beauty that had nothing to do with comfort and everything to do with scale. The animal's coat was a deep reddish brown that caught the pre-dawn glow and held it, and the light that came back off the fur was warmer than the light that went in, as if the deer — the thing that looked like a deer — was running at a slightly higher temperature than the world around it. The coat had a velvet shimmer, a quality that had no business on a living animal, an ethereal texture that seemed to repel the mist pooling at its hooves.
 
