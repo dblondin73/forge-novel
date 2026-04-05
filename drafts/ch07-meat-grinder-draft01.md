@@ -4,15 +4,21 @@
 
 The cavern opened like a throat.
 
-Not a room — a cavern. The corridor dumped them through a narrow choke point and the walls fell away on both sides and the ceiling vanished into darkness that SA couldn't fully penetrate. Stalactites hung in clusters fifty feet up, stone teeth in a stone mouth, and somewhere in the dark above them water ran through channels that Nate couldn't see but could hear — the steady rush of underground flow amplified and warped by acoustics that turned every drip into three drips and every footstep into five.
+Not a room — a cavern. The corridor dumped them through a narrow choke point and the walls fell away on both sides and the ceiling vanished into darkness that **Structural Analysis** couldn't fully penetrate. Stalactites hung in clusters fifty feet up, stone teeth in a stone mouth, and somewhere in the dark above them water ran through channels that Nate couldn't see but could hear — the steady rush of underground flow amplified and warped by acoustics that turned every drip into three drips and every footstep into five.
 
 The sound was wrong. Not the kind of wrong that stone rooms had been — generated torchlight, procedural tile. This was architectural wrong. The cavern's shape bent sound the way a funhouse mirror bent light. Marcus said "Hold" and the word came back from three directions, each echo arriving at a different delay, and four people turned to look at four different walls because every one of them heard the order from a different origin point.
 
-*Engineer lens:* Concave surfaces, irregular angles, standing wave interference. The acoustics weren't accidental. The System had designed a room where directional hearing was useless.
+Concave surfaces, irregular angles, standing wave interference. The acoustics weren't accidental. The System had designed a room where directional hearing was useless.
 
 Rex didn't care.
 
 The dog had moved to the front of Nate's position before the first echo died, body low, ears swiveling — not tracking sound, tracking movement. A Border Collie working stock didn't rely on hearing the herd. He relied on reading the herd. Body language, weight shifts, the geometry of pack behavior in open space. Sound was a luxury. Sight and pressure were the job.
+
+Judge hated it.
+
+The Blue Heeler had been running hot since Room 6 — forty pounds of compact aggression wired to charge, bark, and bite ankles until whatever she was driving went where she wanted it to go. She barked once at the cavern entrance and the sound came back from nine directions, a chorus of phantom dogs that made her flatten her ears and drop her head. She barked again — shorter, sharper, testing — and the echo turned it into a pack she couldn't see. Her hackles rose. She looked at Rex, who hadn't made a sound, and something passed between the two dogs that wasn't the bond. Older than that. Working-dog shorthand. Rex worked silent because silence was his method. Judge worked loud because volume was hers. In this room, her method was a liability.
+
+She closed her mouth. It looked like it cost her something.
 
 An impression washed through the bond: *wide space, hard floor, water ahead, movement underneath.*
 
@@ -28,7 +34,7 @@ Spawn points. Ten standard-density pulses scattered across the main chamber, dor
 
 "Both."
 
-"Just checking. Because your heart rate suggests one of those landed harder than the other."
+"Just checking. Because your heart rate suggests one of those landed harder than the other." A pause. "Also, for the record: the combat AI that designed this room's acoustics would have made an excellent divorce attorney. Every piece of information arrives too late and from the wrong direction."
 
 The group was filing through the choke point — eighteen people, moving in the cautious spread that six rooms of combat had taught them. Marcus was already calling positions, and his voice bounced off three walls and a stalactite cluster and arrived at every fighter's ears as a three-part round of conflicting instructions. A Warrior turned left when he should have turned right. Another stopped entirely, looking toward the ceiling, trying to sort the echo from the source.
 
@@ -40,7 +46,7 @@ Right fist raised, two fingers extended, pointed at the left flank. Hold positio
 
 Tactical hand signals. The kind he'd seen in a hundred briefings at Lockheed, watched operators drill in a dozen SCIF coordination meetings. He'd never used them in the field because he'd never been in the field — he was the systems engineer who sat behind the glass and watched other people gesture their way through kill houses on monitors. His hands knew the vocabulary because his eyes had memorized it the way his hands memorized spring steel — through repetition and attention and the particular stubbornness of a man who learned things whether or not anyone asked him to.
 
-*DoD training. Finally paying off in the weirdest possible context.*
+*All those SCIF briefings. All those kill-house rehearsals watched through glass. Finally paying off in the weirdest possible context.*
 
 Marcus saw the signals. His eyes locked on Nate's hands for two seconds, processing, and then something shifted in his face — the recognition of a shared professional language that predated the System and every game metaphor they'd been leaning on. He raised his own hand. Repeated the signal. Relayed it through his Vanguard HUD.
 
@@ -68,11 +74,15 @@ The Thornlings hesitated. Not intelligence — something more basic, something c
 
 Rex moved with them. Patient. Relentless. The geometry of a dog herding stock that didn't know it was being herded.
 
+Judge hit them from behind.
+
+She came in low and fast — no bark, which was wrong and unnatural and visibly pissing her off — and snapped at the trailing Thornling's ankle joint. Forty pounds of Blue Heeler driving from the rear, teeth clicking on bark-skin, the heeler's ancient job of biting hocks and dodging kicks translated into something the Tutorial had never planned for. The Thornling stumbled forward. Into Rex's pressure zone. Into the water. Header and heeler, working a pair of monsters the way they'd worked cattle that outweighed them by a thousand pounds — Rex holding the front with his eye, Judge pushing from behind with her teeth, the two dogs running a lane that funneled everything between them toward the water channel.
+
 The first Thornling's bark-foot hit the water channel and the current took it. Not dramatically — the flow was shallow, maybe eight inches — but the bark-skin absorbed moisture on contact. SA showed it in real time: the cellular structure of the Thornling's legs drinking water like dry sponge, the bark expanding, the joints stiffening as wet wood did what wet wood always did. The creature slowed. Its movements went from predatory to labored, legs fighting waterlogged weight that hadn't been there three seconds ago.
 
 The second Thornling followed its companion into the water because pack creatures followed their own into bad decisions. Rex had known they would. The dog read herd behavior the way Flint read sensor data — through pattern recognition so deep it looked like prophecy.
 
-*Gamer lens:* Environmental advantage. The devs gave us a water trap and the mobs don't know how to avoid it.
+*The devs gave us a water trap and the mobs don't know how to avoid it.*
 
 Nate sighted from the ledge. The first Thornling was knee-deep and barely moving, bark-legs swollen and stiff. Forty feet. Clean angle. He squeezed.
 
@@ -98,6 +108,8 @@ A support class — older man, thin, the kind of person who'd survived five room
 
 Sixteen people stood in the cavern, breathing hard, and the silence after the echoes died was worse than the noise had been.
 
+*He didn't know their names yet. He would. In the quiet hours between the fighting and the sleeping, when the surviving sat with the space where the dead had been, the names would find him the way names always found the people who bothered to carry them. For now they were the young one and the smart one, and those descriptions would have to do until grief finished filling in the details.*
+
 ---
 
 Room 8 was a corridor turned kill box.
@@ -120,13 +132,9 @@ She'd been behind the line — correct position, smart, the same survival math t
 
 Nate saw her through the dust. SA painted the collapsed section — structural analysis reading every stone, every gap, every load-bearing piece of rubble and every piece that was just weight. And there, along the left wall where the corridor's original stonework met the collapse: a weak point. A fracture line where the generated stone had sheared clean along a procedural seam. The kind of seam SA always found — the place where the System's environment engine had stitched two render sections together and left a structural scar.
 
-Four lenses fired simultaneously.
+Everything fired at once. The gamer math said dead weight — outside heal range, the healer couldn't reach her, the tank couldn't reach her, and crossing through two Thornlings in a narrow corridor with no cover was a death sentence for whoever tried. SA showed a structural weak point in the corridor wall. Break the seam, create a bypass. The fracture line extended eight feet along the left wall. Five solid hits with the hammer and the weak section would drop, opening a path behind the collapse that avoided the Thornlings entirely.
 
-*Gamer lens:* Dead weight. Outside heal range. In any raid, you triaged — the healer couldn't reach her, the tank couldn't reach her, and crossing through two Thornlings in a narrow corridor with no cover was a death sentence for whoever tried.
-
-*Engineer lens:* SA shows a structural weak point in the corridor wall. Break the seam, create a bypass. The fracture line extends eight feet along the left wall. Five solid hits with the hammer and the weak section drops, opening a path behind the collapse that avoids the Thornlings entirely.
-
-*Ranch lens:* You don't leave livestock in the fence. Period. You don't calculate the value of the animal against the cost of the rescue. The animal is in the fence and you go get it.
+And underneath all of it, the thing that wasn't math at all: you don't leave livestock in the fence. Period. You don't calculate the value of the animal against the cost of the rescue. The animal is in the fence and you go get it.
 
 Nate handed the crossbow to the nearest Warrior — a woman who'd been steady through seven rooms and had the kind of hands that suggested she'd held tools before she'd held swords. "Point at what moves. Squeeze the lever."
 
@@ -162,6 +170,8 @@ Nate went through the gap backward, hammer-first, and the second Thornling's rak
 
 He hit the corridor floor on the safe side and the pain arrived with the kind of delayed precision that serious injuries used when they wanted to make an entrance. Two lines of wet heat across his back, left shoulder to right hip. Not deep enough to reach anything critical. Deep enough to cost.
 
+Judge was on him before the Shield Guardian let go. Not checking on him — standing over him. All forty pounds planted across his torso, hackles up, lips peeled back, a snarl coming out of her chest that vibrated through his ribs and into the stone floor. Rex pressed against his left side, calm, steady, the quiet reassurance of a dog who trusted the situation to resolve. Judge trusted nothing. She faced the rubble gap with her teeth bared and dared anything on the other side to come through it. A Warrior stepped too close and she snapped the air two inches from his boot and the man backed up fast.
+
 The Crafter was sitting against the wall, shaking, alive. The material pouch still clutched in both hands.
 
 Marcus appeared in Nate's field of vision. The Vanguard's HUD was doing something behind his eyes — reading Nate's condition, probably, the health data that Marcus could see and Nate couldn't because his interface showed two green arcs and an amber tag and nothing resembling useful medical information.
@@ -185,6 +195,8 @@ He paid it. He'd pay it again.
 The Thornguard on the other side of the collapse was still there. Marcus sent the team around through a secondary passage SA identified — longer route, but it avoided the rubble and put them on the Thornguard's flank. The creature went down in forty seconds. Anticlimactic, the way most fights were when you had the angles and the numbers and the enemy didn't know you were coming.
 
 One more person didn't make it through Room 8. A Warrior caught a Thornling's thorn-rake through the gap in his chain shirt during the flanking maneuver. The Healer couldn't reach him in time. She was still working on Nate's back when it happened, and the look on her face when she realized — when Marcus's Vanguard HUD showed her a health bar going dark while her hands were on the wrong patient — was something Nate filed in the place where he kept things he'd carry for a long time.
+
+*Three rooms. Three people. The arithmetic of the Tutorial was simple enough for a child to follow, and cruel enough that no child should have to.*
 
 Fifteen people walked into the rest corridor.
 
@@ -238,6 +250,8 @@ The dead were behind him. The boy who'd turned toward the echo. The man who'd be
 
 He didn't think about them. He worked.
 
+*This is how some men pray. Not with words — they've never trusted words the way they trust their hands. They pray with the hammer. With the heat. With the act of making something whole when the world keeps breaking things apart. If you're listening for it, you can hear it in the ring of steel on iron — not a plea, not a request, just the steady communion of a man who builds because building is the truest thing he knows how to offer.*
+
 The hammer found the anvil. The anvil answered. And in the space between the strike and the ring, something held — not the materials, though they held too. Something in the act itself. Something in the choosing to build when the easier response was to sit against the wall and count the people who weren't sitting anymore.
 
 The crossbow took shape under his hands. Better than it had been. Stronger. The stock reinforced with Thornguard composite. The trigger filed to precision. The prod re-tensioned and seated into the stock with a connection that Field Repair had deepened at every station since Room 0. Not a new weapon — the same weapon, improved at every stop by a man who knew what materials wanted to become.
@@ -248,6 +262,8 @@ Her ring inventory was open — the dimensional space projecting a faint blue gl
 
 Her eyes were red. She hadn't cried. She was going to, later, when the room was dark and the sorting was done and there was nothing left to keep her hands busy. For now she sorted because sorting was the only thing that made sense when the world stopped making sense. Every piece of bark and thorn and strange material that passed through her fingers was a problem she could solve — *this goes here, that goes there, this one is special, that one is trash* — and solvable problems were the only currency that still had value.
 
+Judge lay beside the Healer, getting the shoulder wound closed. She didn't like it — kept trying to stand, kept getting a firm hand on her scruff pushing her back down. The green glow settled over the torn muscle and Judge watched it with the deep suspicion of a dog who did not trust things that glowed. When the Healer finished, Judge stood, tested the leg, found it acceptable, and went to find Rex.
+
 Rex patrolled the perimeter.
 
 Back and forth along the rest area's edges, the slow, measured patrol of a dog walking a fence line that didn't need walking. No threats. No spawn points. SA confirmed what Rex already knew — the rest area was safe, the corridor between rooms was the Tutorial's version of a cease-fire, and nothing was coming through the walls until they moved forward.
@@ -256,7 +272,7 @@ The dog patrolled anyway. Because patrol was what he did when the work paused bu
 
 Marcus sat on a stone ledge near the corridor entrance, his back to the wall, Vanguard HUD running behind his eyes. The soft blue glow of his interface reflected off the stone in small, shifting patterns as he scrolled through data that only he could see.
 
-"How many more rooms?" His voice was quiet. Not defeated — Marcus didn't do defeated. But the program manager's energy had shifted from managing an operation to managing a crisis, and the distinction showed in the lines around his eyes.
+"How many more rooms?" His voice was quiet. Not defeated — Marcus didn't do defeated. But the sergeant's energy had shifted from leading an advance to managing a retreat, and the distinction showed in the lines around his eyes.
 
 Nate set the crossbow down. Wiped his hands on his jeans, which had stopped being civilian clothes around Room 3 and were now just the thing between his skin and the Tutorial. "Two, if the pattern holds. One more encounter room. Then the boss."
 
@@ -270,7 +286,7 @@ Marcus absorbed that the way he absorbed every piece of data — silently, compl
 
 It wasn't a question, but Nate answered anyway. "No."
 
-Marcus looked at his Vanguard HUD. The health bars that Nate couldn't see — the detailed readouts of every person in the group, the numbers that Marcus tracked the way a project manager tracked budget lines and a military officer tracked personnel readiness. Whatever he saw made his jaw tighten.
+Marcus looked at his Vanguard HUD. The health bars that Nate couldn't see — the detailed readouts of every person in the group, the numbers that Marcus tracked the way he'd once tracked his Marines' readiness before a patrol. Every bar was a person. Every dip was a problem. Whatever he saw made his jaw tighten.
 
 "Two fighters are below forty percent. The Healer's mana is regenerating at half the rate it was in the early rooms — the System's recharge curve is flattening as we get deeper. If the next room hits as hard as the last two..."
 
@@ -296,7 +312,7 @@ Marcus looked at the crossbow. At the forge behind Nate, still glowing with the 
 
 "Can't promise that."
 
-Marcus held his gaze for three seconds. The seconds of a man weighing what he wanted to say against what he needed to say and finding them incompatible. He settled on a nod — not approval, not permission, just the acknowledgment of one professional recognizing that another professional had made a call and would make it again and that arguing about it was a use of time they didn't have.
+Marcus held his gaze for three seconds. The seconds of a sergeant who'd seen men do brave, stupid things and lived to write the reports on both. He settled on a nod — not approval, not permission, just the acknowledgment of one hard man recognizing that another hard man had made a call and would make it again and that ordering him not to was a waste of good air.
 
 He walked back to the group. Fifteen people. Fewer than half of what they'd started with on this path. He didn't count them out loud, but Nate saw his lips move.
 
@@ -306,7 +322,7 @@ Room 9 was built for spectacle.
 
 Wide chamber — sixty feet across, high vaulted ceiling, arena-like proportions that SA read as deliberately theatrical. The System had shaped this room for an audience. Stone columns along the walls in matched pairs, torchlight brighter than any room since Room 0, the floor swept clean of rubble and debris as if something had prepared the space for what was about to happen.
 
-*Gamer lens:* Arena room. The encounter before the boss. Every dungeon crawler built one — the room where the difficulty spiked and the game wanted you to feel it. High ceiling for spectacle. Clear sightlines for drama. The System was watching.
+Arena room. The encounter before the boss. Every dungeon crawler built one — the room where the difficulty spiked and the game wanted you to feel it. High ceiling for spectacle. Clear sightlines for drama. The System was watching.
 
 Twelve spawn points. Ten standard. Two Thornguard.
 
@@ -322,7 +338,7 @@ Wide. Moving along the chamber's eastern wall with a speed that Thornguards hadn
 
 "It's flanking," Flint said. "The second Thornguard is running a flanking pattern. That is — that's not standard behavior. The combat AI is adapting." A pause. Processing. "Nate. The flanking pattern it's running is the same one Marcus used in Room 7. The mobs watched us. The System taught them."
 
-*Gamer lens, updated and alarmed:* The AI director is learning. Adaptive difficulty. The mobs are running flanking patterns we used two rooms ago. The System watched us and taught them our own tactics.
+*The AI director is learning. Adaptive difficulty. The mobs are running our own flanking patterns from two rooms ago. The System watched us and taught them our tactics.*
 
 "SECOND THORNGUARD, EAST WALL!" Nate signed and shouted simultaneously — the room's acoustics were clean enough for voice, the chamber's flat walls returning sound without the cavern's distortion. Marcus relayed through his HUD. Two Warriors peeled off to intercept.
 
@@ -337,6 +353,16 @@ The Thornlings split. One went wide. Rex shifted with it — not chasing, just a
 Not a bite — a snap. Jaws closing on air six inches from the Thornling's bark-face, the sound sharp and percussive in the chamber's clean acoustics. The creature recoiled. A dog snap was older than the System, older than whatever combat AI drove these things, and the response it triggered — *back away from the thing with teeth* — bypassed tactical programming entirely.
 
 The Healer lived because a dog understood that sometimes the oldest tools worked best.
+
+Judge was already in trouble on the far side.
+
+She'd charged the two Thornlings heading for the Mage — no hesitation, no calculation, just the full-throttle commitment of a heeler who saw threats and went at them with everything she had. She got the first one turned, ankle-bite and dodge, the dance she'd been bred for. The second one caught her. A thorn-rake across the shoulder that opened a line through her blue-mottled coat and spun her sideways. She yelped — sharp, high, the sound cutting through the chamber's acoustics like a blade — and for one terrible second she was on her side with a Thornling standing over her.
+
+She bit it in the face.
+
+From the ground, bleeding, forty pounds against a creature three times her weight, she lunged upward and locked onto the bark where a jaw would be and held. The Thornling thrashed. Judge held. A Warrior reached them four seconds later and put a sword through the creature's back, and Judge let go and stood up and shook blood out of her coat and looked for the next thing to fight because stopping wasn't in her vocabulary.
+
+The shoulder wound was ugly. Not deep — the bark-thorns had caught muscle but missed the joint — but she was favoring the leg, and the blood matting her blue coat was the kind of visible that made Nate's chest tighten in a way that combat injuries to people hadn't managed.
 
 Nate fired from center-chamber. The crossbow was the difference — had been the difference for three rooms, was the difference now. The reinforced stock didn't shift on his shoulder. The filed trigger broke clean, no slop, the bolt releasing at the exact moment he wanted it. The Thornguard composite inlaid along the contact surfaces absorbed recoil that the original table-leg stock had transmitted straight into his collarbone.
 
@@ -362,7 +388,7 @@ The last rest corridor was short and quiet, and the workshop the System provided
 
 Full forge. Proper bellows. An anvil that SA read as genuine cast iron with a hardened steel face — the same reading, the same honest material, but a step up from the previous rest area. Rack of tools along the back wall that included a draw knife, a fuller, and a set of punches that would have made a real blacksmith nod. Water trough fed by a channel in the wall that produced actual flowing water.
 
-*Gamer lens:* Pre-boss crafting station. The best one yet — scaled to the difficulty ahead, the way every well-designed dungeon scaled its resource nodes. The devs were saying *you're going to need everything we're giving you,* and Nate believed them.
+Pre-boss crafting station. The best one yet — scaled to the difficulty ahead, the way every well-designed dungeon scaled its resource nodes. The devs were saying *you're going to need everything we're giving you,* and Nate believed them.
 
 He worked.
 
@@ -408,15 +434,17 @@ Marcus was standing at the corridor exit, looking ahead. Not at anything — the
 
 ---
 
+*Twenty feet. That's all the distance the Tutorial gave them between the last fight and the next one. Twenty feet of stone corridor, quiet as a held breath, and in that silence every one of them became briefly, terribly honest about what they were walking toward.*
+
 The corridor was twenty feet long.
 
 No spawn points. No traps. No environmental hazards or procedural tricks or acoustic nightmares. Just stone, clean and solid, and silence, and a door at the end.
 
 Twelve feet tall. Heavy — SA read the density as solid stone, not generated composite, not the hollow-core fakery that dressed up so many of the Tutorial's surfaces. This door was built to last. Carved with patterns that covered the full surface — interlocking lines and geometric shapes that SA categorized as decorative but that something in Nate's gut categorized differently. Intentional. Designed. The System had put effort into this door because whatever was behind it deserved an entrance.
 
-*Gamer lens:* Raid entrance. Boss door. Every dungeon crawler telegraphed the final fight with a bigger door. This was the door you screenshot before you opened it, the one that told you to check your consumables and assign your party roles and make peace with the probability that at least one person in the group wasn't walking back through.
+Raid entrance. Boss door. Every dungeon crawler telegraphed the final fight with a bigger door. This was the door you screenshot before you opened it, the one that told you to check your consumables and assign your party roles and make peace with the probability that at least one person in the group wasn't walking back through.
 
-Marcus moved to the front. Vanguard HUD running full — every health bar, every mana pool, every condition and debuff and lingering injury that fifteen people carried into this corridor. Nate couldn't see what Marcus saw, but he could read it in Marcus's face. The program manager's expression performing the particular discipline of a man who was looking at numbers he didn't like and choosing to lead anyway.
+Marcus moved to the front. Vanguard HUD running full — every health bar, every mana pool, every condition and debuff and lingering injury that fifteen people carried into this corridor. Nate couldn't see what Marcus saw, but he could read it in Marcus's face. The sergeant's face — not the program manager's, not anymore — performing the particular discipline of a man who was looking at numbers he didn't like and choosing to lead from the front anyway.
 
 "We go in together," Marcus said. His voice carried down the twenty feet of corridor the way his voice had carried across Room 0 — not loud, not projected, just aimed. Every word placed where it needed to land. "We fight together. Nobody alone."
 
@@ -428,9 +456,11 @@ Nate stood behind the line. Crossbow loaded — the last thorn bolt seated in th
 
 Hammer on his belt. The forging hammer from Room 0's crafting table — upgraded, reinforced, the bark-plate face adding mass to a tool that had started as an afterthought and become a purpose. Still recognizably the same hammer. Still the first real tool his hands had found in this place.
 
-Rex at his left knee. Ears forward, body still. Not coiled — the tension had left him somewhere around Room 8, replaced by something that wasn't relaxation but was its working equivalent. The absolute certainty of a dog who had never questioned whether his person had a plan, because the question was irrelevant. The person would handle what came. The dog would handle what the person couldn't. Between them, they'd been handling since before this System existed, and neither of them saw any reason to stop.
+Rex at his left knee. Judge at his right. Ears forward, bodies still. Rex wasn't coiled — the tension had left him somewhere around Room 8, replaced by something that wasn't relaxation but was its working equivalent. Judge was coiled. Judge was always coiled. The shoulder wound had sealed into a pink line under her blue-mottled coat, and she stood with the particular readiness of a dog who had been hurt by the last room and intended to take it personally in the next one.
 
-His tail didn't move. His breathing was even. The bond carried no impression because no impression was needed — just the steady, clear signal of a dog who was here, who was ready, who would be both of those things until there was nothing left to be ready for.
+Rex had never questioned whether his person had a plan, because the question was irrelevant. The person would handle what came. The dogs would handle what the person couldn't. Between them, they'd been handling since before this System existed, and none of them saw any reason to stop.
+
+Rex's tail didn't move. His breathing was even. The bond carried no impression because no impression was needed — just the steady, clear signal of a dog who was here, who was ready, who would be both of those things until there was nothing left to be ready for.
 
 Josie stood behind Nate. Close enough that he could hear the faint clink of materials in her ring — the forty-three types shifting against each other in whatever dimensional space the System used to store a woman's obsessive collection of nine rooms' worth of monster parts and structural anomalies and things she'd found through instinct the System couldn't account for.
 
@@ -456,7 +486,7 @@ Marcus stepped forward first. Because he always did.
 
 Nate followed. Because the man behind the line followed the man at the front, and that was how it worked, and it had always been how it worked, and neither of them needed a System to tell them the things they'd known since before they'd known each other.
 
-Rex moved with Nate. Left knee. Ears forward. Eyes on the space beyond the door where something waited that didn't know yet what a rancher and his dog could do in a room they hadn't been born in.
+Rex moved with Nate. Left knee. Judge on the right, shoulder healed, eyes fixed forward with the intensity of a dog who had already decided the next room owed her something. Two dogs and a rancher walking into a room they hadn't been born in, and the thing waiting inside didn't know yet what that meant.
 
 Fifteen people walked through the door.
 

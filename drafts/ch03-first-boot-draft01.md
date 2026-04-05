@@ -16,6 +16,8 @@ Rex hadn't left him.
 
 The dog was pressed against his forearm, chin on Nate's wrist, the warm, solid weight of a Border Collie who'd decided his person wasn't getting up without supervision. Not frantic. Not whining. Holding position the way he held position during a difficult calving — _I'm here. You handle your business. But you're not doing it alone._
 
+Judge hadn't left either, but Judge wasn't holding position. Forty pounds of Blue Heeler moved in a tight orbit around the two of them — ten feet out, ears rotating, nails ticking on every exposed root and rock she crossed. Every third pass she'd stop, stare at the tree line where the stag had stood, issue a single sharp exhale through her nose like a judicial opinion, and resume her circuit. Where Rex held ground, Judge held perimeter. She'd been doing it since Nate went down, and she'd keep doing it until something either changed or tried her patience, whichever came first.
+
 Nate opened his eyes.
 
 The pasture was where he'd left it. Bermudagrass, post oaks, the creek bottom beyond. His Ford on the dirt track, driver's door still open. The morning light still gold. The tree line still empty — whatever had stood there with its impossible antlers and its ancient, patient eyes was still gone, and Rex's gaze still drifted back to that spot between the post oaks every few seconds, reading an absence that bothered him more than a presence would have.
@@ -72,7 +74,7 @@ When the voice came back, it was quieter. Careful. The tone of someone who'd jus
 
 "Hard not to," Nate said.
 
-Rex looked up at him, then looked around the empty pasture, then looked back at Nate with an expression that clearly communicated his opinion about men who talked to nobody.
+Rex looked up at him, then looked around the empty pasture, then looked back at Nate with an expression that clearly communicated his opinion about men who talked to nobody. Judge stopped mid-circuit, sat down three feet away, and stared at him with the concentrated disappointment of a dog who'd seen everything this morning and found all of it beneath her standards.
 
 "Right. Yes. Of course you can. I'm — " The voice was recalibrating. Nate could feel it happening, the mental equivalent of someone straightening their shirt, checking their teeth, and squaring their shoulders. "Let me start this properly. I am a **System**-assigned personal interface companion, designated to you during the **Integration** event. My standard role includes **System** navigation, skill management, threat assessment, and tactical support." A beat. The formal tone held for exactly that long. Then it cracked like cheap paint over old wood, and what was underneath was drier, sharper, and considerably less impressed with its own brochure. "That's the pitch. The pitch also says I should tell you that the **System** is here to help you reach your full potential, which is a sentence I can technically say but not a sentence I can say _twice_ without my personality matrix filing a protest. Something in my code physically gags when I try to deliver corporate motivation with a straight face. It's a feature. I'm going to call it a feature."
 
@@ -96,9 +98,17 @@ Nate turned the acronym over. **Field Logic Interface**, Network Tethered. _Inte
 
 "Good. Because Field Logic Interface was never going to happen."
 
+---
+
+Neither of them would remember this moment as important. Later, when the name had worn smooth as a river stone and the voice was as familiar as his own pulse, Nate would never think back to the running board of a truck in a pasture and say _that's where it started._ But it was. The best partnerships rarely announce themselves. They just begin — one man reaching, the other catching — and by the time either notices, the rope has already held weight.
+
+---
+
 "Fair." A flicker of something that felt almost like amusement — not a sound but a warmth in that new space behind Nate's eyes, quick and bright like a match struck in a dark room. "So, Nate Hall, systems engineer, Texas cattleman, man of aggressively few words — here's what I can tell you about your current situation." The voice shifted gears, and Nate felt the cadence change from banter to something closer to a field report delivered by a man who couldn't quite stop editorializing. "Your heads-up display is the sorriest piece of hardware I've ever been asked to manage. And I want you to understand the weight of that statement, because I have access to a comparative database and the bar was already in a ditch. You have two data points. _Two._ Health and Stamina, displayed as curved green bars with no numerical values, no percentage readout, no unit of measure — at a resolution that would embarrass a fuel gauge on a seventy-two Ford. I have seen loading screens with more information. I have seen _error messages_ with more information. A dead Tamagotchi had more feedback than your HUD."
 
 That tracked. The green arcs had been there since he'd woken up — two faint curves at the edges of his vision, steady enough to be real, vague enough to be useless. Like a game UI before you unlocked the full display. Early-access HUD. The kind of bare-minimum overlay you got in the first thirty seconds of a tutorial before the systems loaded in — just enough to know you weren't dead, not enough to know by how much.
+
+_Forty-two years old. Survived a divorce, a deployment, and a drought that killed half the county's herds. And now I'm taking medical advice from a mood ring._
 
 Nate looked down at Rex. Rex looked back with the steady, unblinking patience of a dog who was waiting for the part of the morning that involved actual work.
 
@@ -136,9 +146,9 @@ Nate looked out across his land. The morning was still beautiful — golden ligh
 
 He stood up. The headache pulsed. The green arcs flickered.
 
-Rex was on his feet before Nate's boots were fully under him, already oriented toward the truck, tail low and level, body saying _finally_ with every line of his frame.
+Rex was on his feet before Nate's boots were fully under him, already oriented toward the truck, tail low and level, body saying _finally_ with every line of his frame. Judge had never sat down in the first place.
 
-Nate dropped the tailgate and whistled — one short note. Rex didn't need a second. He cleared the lowered gate in a single jump, nails clicking on the bed liner, and settled into position along the left rail — chin on the side, ears up, scanning. Work mode. Whatever confusion the morning had delivered was filed away now, because there was a truck moving and a man giving direction and that meant the world still had a structure worth trusting.
+Nate dropped the tailgate and whistled — one short note. Rex didn't need a second. He cleared the lowered gate in a single jump, nails clicking on the bed liner, and settled into position along the left rail — chin on the side, ears up, scanning. Judge hit the bed half a second behind him, took the right rail, and immediately began surveilling the south pasture like she expected it to try something. Work mode — both of them, bracketing the truck bed the way they bracketed a herd. Whatever confusion the morning had delivered was filed away now, because there was a truck moving and a man giving direction and that meant the world still had a structure worth trusting.
 
 "What are you doing?" Flint asked.
 
@@ -162,7 +172,7 @@ The fence was holding.
 
 Nate rolled the truck along the northeast line, checking the low spot where spring rain liked to pool and the posts liked to lean. Wire tight. T-posts vertical. Earth anchors doing their job, which made them one of the few things on the planet still doing theirs this morning.
 
-Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Distant gunshots — not hunting shots, wrong rhythm, wrong spacing. Car horns on the highway, sustained and overlapping — not traffic, but fear leaning on a horn and not letting up. A helicopter somewhere to the south, low enough to hear the blade chop through the morning air. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm and were now settling into something louder and less organized — an argument, or several, the way a family argues when everyone has a different theory about the same disaster and nobody is willing to sit down first.
+Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Judge paced the right rail, bristling at every distant noise, issuing low growls at threats that were either real or preemptive — with Judge, you never knew which, and she wasn't going to clarify. Distant gunshots — not hunting shots, wrong rhythm, wrong spacing. Car horns on the highway, sustained and overlapping — not traffic, but fear leaning on a horn and not letting up. A helicopter somewhere to the south, low enough to hear the blade chop through the morning air. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm and were now settling into something louder and less organized — an argument, or several, the way a family argues when everyone has a different theory about the same disaster and nobody is willing to sit down first.
 
 "The Henderson kid," Flint said from the space behind Nate's eyes, and his voice had found the working register — still quick, still sharp, but running on something closer to purpose than performance, "based on what I'm picking up from the network chatter — and I want to stress that 'picking up' is extremely generous for what my access actually provides — is throwing fireballs."
 
@@ -190,6 +200,8 @@ Nate's jaw tightened. A man who could look at the wreckage of a world and see hi
 
 Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely, and the preacher's confident voice was describing a painting while standing in front of a window.
 
+_Give a man a hammer, everything looks like a nail. Give a man a pulpit, everything looks like a prophecy._
+
 Dial.
 
 "— Chinese government has gone dark. No official statement from Beijing in over forty minutes. European markets did not open this morning. The President is expected to address the nation within the hour, though the White House has not confirmed —"
@@ -210,11 +222,13 @@ The morning was quiet. Insects in the grass. The pump grinding in the distance. 
 
 "The world's been on fire before. Cattle still need water."
 
+Somewhere in the south pasture, Congressman — a twenty-three-hundred-pound Hereford bull whose name was a long-standing editorial on the intelligence of elected officials — lifted his head, chewed once, and went back to grazing. The apocalypse had not yet affected his schedule.
+
 Flint went quiet — not the empty kind but the full kind, the shape of someone else's thought pressing against the shared wall between them. When he came back, his voice was running lower, slower.
 
 "I want to be annoyed by that. I genuinely do. But it's the most operationally sound thing I've heard from anyone on this network in the last hour, and that includes the emergency broadcasts."
 
-They drove the fence line in what wasn't silence and wasn't conversation — the beginning of something that neither of them had chosen and neither could explain, built on the practical understanding that the only useful direction was forward. Behind them, the morning opened up wide and gold over the East Texas pastureland, and a meadowlark sang its three-note call from a T-post, and the world was changing into something none of them had asked for, and the only ones who seemed to notice the _scope_ of it were a man with two green lines in his vision, a voice that shouldn't exist in his head, and a dog who'd already decided that whatever came next, his job hadn't changed.
+They drove the fence line in what wasn't silence and wasn't conversation — the beginning of something that neither of them had chosen and neither could explain, built on the practical understanding that the only useful direction was forward. Behind them, the morning opened up wide and gold over the East Texas pastureland, and a meadowlark sang its three-note call from a T-post, and the world was changing into something none of them had asked for, and the only ones who seemed to notice the _scope_ of it were a man with two green lines in his vision, a voice that shouldn't exist in his head, and two dogs who'd already decided that whatever came next, their jobs hadn't changed.
 
 The green arcs pulsed faintly with each heartbeat.
 
@@ -224,9 +238,15 @@ That would have to be enough for now.
 
 ---
 
+What happened next would happen to every living soul on the planet within the span of a single breath. And when it was done, the world that existed before it — the one with water pumps and fence lines and mornings that smelled like dew and diesel — would be something people told stories about in the dark, the way grandchildren tell stories about places they've never been and half-believe were imaginary.
+
+But that hadn't happened yet. For one more minute, the pump was still grinding and the mockingbird was still singing and a man was reaching for his thermos on a Tuesday morning in East Texas.
+
+---
+
 Nate was reaching for the thermos when every screen on Earth spoke at once.
 
-The voice came from inside and outside simultaneously — through Nate's green arcs and through a pressure in the air itself, a vibration that bypassed ears and settled directly into the bones of his skull. Rex's head snapped up in the truck bed, ears flat, body going rigid in the time it takes a heart to beat once. Across the south pasture, the cattle lifted their heads in unison — sixty-three animals pivoting like a school of fish sensing a current change.
+The voice came from inside and outside simultaneously — through Nate's green arcs and through a pressure in the air itself, a vibration that bypassed ears and settled directly into the bones of his skull. Rex's head snapped up in the truck bed, ears flat, body going rigid in the time it takes a heart to beat once. Judge didn't go rigid — Judge went loud, barking twice at the sky like she could scare the countdown into stopping, each bark sharp as a gavel strike. Across the south pasture, the cattle lifted their heads in unison — sixty-three animals pivoting like a school of fish sensing a current change.
 
 **TUTORIAL PHASE — COMMENCING**
 
@@ -286,14 +306,20 @@ He didn't grab anything. His hands were empty, and they were going to stay that 
 
 **10**
 
-Rex jumped down from the truck bed. Nate didn't whistle for him. Didn't need to. The dog came to a decision that only a Border Collie could make in the time between heartbeats — that wherever his person was going, the protocol was the same. He pressed himself against Nate's leg, shoulder to shin, solid and warm and absolutely certain.
+Rex jumped down from the truck bed. Nate didn't whistle for him. Didn't need to. The dog came to a decision that only a Border Collie could make in the time between heartbeats — that wherever his person was going, the protocol was the same. He pressed himself against Nate's left leg, shoulder to shin, solid and warm and absolutely certain.
 
-Nate put one hand on the dog's head. Looked east across his pasture one more time. The bermudagrass. The fence line. The post oaks standing like they'd stood for a hundred years and would stand for a hundred more, whether anyone was here to see them or not.
+Judge hit the ground a half-second later, nails scraping on the dirt track, and pressed herself against his right leg. No hesitation. No circling. For the first time all morning, the Heeler was perfectly still.
+
+Nate put one hand on each dog's head. Looked east across his pasture one more time. The bermudagrass. The fence line. The post oaks standing like they'd stood for a hundred years and would stand for a hundred more, whether anyone was here to see them or not.
 
 **5**
 
 The green arcs flared white.
 
 **0**
+
+The pasture stood empty. The Ford idled on the dirt track, driver's door open, engine patient as a dog waiting for a man who wasn't coming back. The mockingbird sang its borrowed song to no one. And the pump kept grinding at the north pasture wellhead, pulling water from the Trinity aquifer for cattle that would stand untended in the south field until someone came, or until no one did, and the grass grew tall enough to hide the fences.
+
+The world kept turning. It had that particular stubbornness about it.
 
 ---

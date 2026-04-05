@@ -10,9 +10,9 @@ The white didn't fade. It stopped.
 
 One moment there was nothing — no light, no dark, no temperature, no sound, no ground beneath his boots. Then the nothing resolved into something, and the something was worse, because at least nothing had been honest about what it was.
 
-Nate was suspended in a void. Not floating — suspended. The distinction mattered. Floating implied buoyancy, implied a medium, implied physics was still on speaking terms with whatever place this was. This was different. He was held in position the way a specimen was held on a slide — precisely, deliberately, without his input or consent. Nobody had asked him to sign a waiver.
+Nate was suspended in a void. Not floating — suspended. The distinction mattered. Floating implied buoyancy, implied a medium, implied physics was still on speaking terms with whatever place this was. This was different. He was held in position the way a specimen was held on a slide — precisely, deliberately, without his input or consent. Nobody had asked him to sign a waiver. Nobody had offered him a pamphlet.
 
-He couldn't feel his body. He knew it was there the way you knew your truck was in the driveway even when you couldn't see it from the kitchen window — by absence of evidence to the contrary. His hands weren't responding to his request to make fists. His legs weren't responding to his request to stand. His lungs were working, or at least he thought they were, but he couldn't feel his chest expanding. The only thing that still felt like his was his mind, and even that felt like someone had opened the hood and was looking at the engine.
+He couldn't feel his body. He knew it was there the way you knew your truck was in the driveway even when you couldn't see it from the kitchen window — by absence of evidence to the contrary. His hands weren't responding to his request to make fists. His legs weren't responding to his request to stand. His lungs were working, or at least he thought they were, but he couldn't feel his chest expanding. The weight that had been pressed against both legs — Rex left, Judge right, the last real thing he'd felt — was gone, or he couldn't feel it, and he didn't know which was worse. The only thing that still felt like his was his mind, and even that felt like someone had opened the hood and was looking at the engine without asking.
 
 Something was scanning him.
 
@@ -30,7 +30,7 @@ Then it went deeper.
 
 The scan moved past his body and into something else — into the space behind his thoughts, the architecture of who he was. It mapped his neural pathways the way he would map a network topology: where the connections ran, how they clustered, which nodes carried the most traffic. It found his engineering training and measured it. It found his ranch instincts and measured those too. It found the muscle memory of twenty-five years of physical work, the spatial awareness that came from navigating a thousand acres of pastures and woods in the fog, the pattern-recognition that came from reading system logs until the anomalies stood up and waved at you.
 
-It was efficient. It was thorough. It was completely indifferent to whether he wanted it to happen.
+It was efficient. It was thorough. It had the bedside manner of a DMV kiosk.
 
 And as it read him, it converted what it read.
 
@@ -52,7 +52,7 @@ Gone.
 
 He knew the memory had existed. He knew what it was about, the way you know a word you can't recall — the shape of it, the space where it should be, the frustrating certainty that it was right _there_ a moment ago. But the thing itself, the actual sensory experience of standing in the east pasture at age nine with the sun going down and his mother's voice carrying across four hundred yards of bermudagrass — that was gone. Converted. Filed somewhere he couldn't access in a format he couldn't read.
 
-The scan kept moving. Deeper. Faster. His first dog — what was her name? She'd been a red heeler mix; he remembered that, he remembered the _fact_ of her but the _feel_ of her was dissolving. The weight of her head on his knee. The sound of her tags jingling on the porch. Gone. The time he'd fallen out of the pecan tree and broken his arm — he could remember the hospital, the cast, but the actual moment of falling, the rush of air and the crack of the branch and the instantaneous certainty that this was going to hurt — the scan touched it and it softened into nothing.
+The scan kept moving. Deeper. Faster. His first dog — what was her name? She'd been a red heeler mix, blue-speckled like — like someone. The comparison was right there, attached to a warm weight against his right leg that he couldn't feel anymore. He remembered the _fact_ of the old dog but the _feel_ of her was dissolving. The weight of her head on his knee. The sound of her tags jingling on the porch. Gone. The time he'd fallen out of the pecan tree and broken his arm — he could remember the hospital, the cast, but the actual moment of falling, the rush of air and the crack of the branch and the instantaneous certainty that this was going to hurt — the scan touched it and it softened into nothing.
 
 _You're being overwritten._ The thought arrived with fear attached. _This isn't a scan. It's a migration. And it's not checking whether the data transferred clean._
 
@@ -118,7 +118,7 @@ Then the installer made a decision.
 
 ---
 
-It gave up on the occupied space. Not gracefully — the way a machine gives up when it runs out of options. It sectioned off the territory it couldn't claim, drew a boundary around it, labeled it with something Nate couldn't read, and routed everything else around it. A workaround. A patch job. The engineering equivalent of admitting the bolt was stripped and drilling a new hole next to it.
+It gave up on the occupied space. Not gracefully — the way a machine gives up when it runs out of options. It sectioned off the territory it couldn't claim, drew a boundary around it, labeled it with something Nate couldn't read, and routed everything else around it. A workaround. A patch job. The engineering equivalent of admitting the bolt was stripped and drilling a new hole next to it. Nate had seen this move before. He'd done it himself, on systems that were live and couldn't go down and had one partition that refused to cooperate. You worked around it. You documented it as "known issue" and moved on. He was a known issue now. Outstanding.
 
 The framework installed itself in the remaining space. Nate felt it — a cold scaffolding assembling itself around the warm territory it couldn't touch. Structures. Categories. Containers. The shelving went up around the immovable thing in the center of the room, and the installer populated those shelves with whatever it could manage: baseline physical stats, a placeholder where a class designation should be, the barest skeleton of an interface.
 
@@ -218,9 +218,11 @@ Something cold settled in his chest. Not grief — not yet. The inventory was st
 
 Rex.
 
-Rex was already there. Pressed against his side, nose working Nate's hand, the urgent attention of a dog who'd come out of whatever that was to find his person on the ground and hadn't left since. No blue screen. No green lines. Just a Border Collie doing the only job that mattered.
+Rex was already there. Pressed against his left side, nose working Nate's hand, the urgent attention of a dog who'd come out of whatever that was to find his person on the ground and hadn't left since. No blue screen. No green lines. Just a Border Collie doing the only job that mattered.
 
-_At least one of us came through clean,_ Nate thought.
+Judge was on his right. Not pressed — _planted._ Forty pounds of Blue Heeler standing over his hip like a sentry, facing outward, hackles up, scanning the pasture with the focused aggression of a dog who had decided that whatever had just happened was a threat and threats got her full attention. She wasn't checking on Nate. Rex had that covered. Judge was making sure nothing else got close while he was down. The division of labor was as old as working dogs: one watches the fallen, one watches the perimeter. Nobody had taught them that. Nobody had needed to.
+
+_At least two of us came through clean,_ Nate thought.
 
 He got to his knees. Then his feet. The world tilted, steadied, tilted again.
 
@@ -244,7 +246,7 @@ The man stared at him for a moment, confused, then whatever he was seeing pulled
 
 From down the county road — the Henderson place, maybe a quarter mile — he could hear whooping. Voices carrying the way voices carry in open country when there's nothing between you and the sound but pasture and fence line. Someone hollering for someone else to come look at this, come see, you ain't gonna believe it.
 
-The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. Nate wondered what that family's homeowner's insurance was going to look like.
+The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. Judge barked — one sharp syllable aimed at the flame like a cease-and-desist order. She had strong opinions about fire in proximity to people, and the opinion had not changed just because the world had. Nate wondered what that family's homeowner's insurance was going to look like.
 
 They looked happy. They looked grateful. They looked like people who had been given exactly what they wanted.
 
@@ -254,7 +256,9 @@ Nate watched them with a head full of empty shelves and two green lines that tol
 
 Rex put his shoulder into Nate's calf — not the work-press of a Border Collie positioning for a task. The quiet check. The one that said _I don't know what just happened but I know where I belong._
 
-Rex sat down and Nate put his hand on the dog's head. Stood at his fence line. Watched the world receive its gift.
+Judge circled him once — tight, deliberate, the patrol she ran when something wasn't right — and sat at his left heel. Not touching him. Watching everything. If Rex was the comfort, Judge was the perimeter. Together they bracketed him the way they bracketed cattle: one steadied, one secured.
+
+Nate put his hand on Rex's head. Stood at his fence line. Watched the world receive its gift.
 
 Somewhere deep inside him, in the space the installer couldn't touch, something that had been there his whole life settled quietly back into place, like a man who'd stood up when a stranger entered the room and sat back down when the stranger left.
 
@@ -278,11 +282,11 @@ The man by the Tahoe glanced back at him one more time — that brief, uncertain
 
 They didn't say goodbye. People receiving gifts don't tend to look over their shoulder at the man who didn't get one. The man helped his wife back into the Tahoe. The kids piled in after. The doors closed. The engine — it had been idling the whole time — settled into gear, and the white Chevy rolled forward on the county road and kept going, and then it was just Nate and Rex and the sound of the Henderson place hollering a quarter mile away.
 
-Rex pressed harder against Nate's leg.
+Rex pressed harder against Nate's leg. Judge hadn't moved from her post — still facing outward, still scanning, still running a threat assessment that the world no longer made sense for but that she was going to finish anyway because she was Judge and Judge finished things.
 
-"Yeah," Nate said to the dog. "I saw it too."
+"Yeah," Nate said to them both. "I saw it too."
 
-The dog was watching the same direction he was — not toward the celebration, not toward where the Tahoe had been, but back toward the tree line where the stag had stood twenty minutes ago.
+Rex was watching the same direction he was — not toward the celebration, not toward where the Tahoe had been, but back toward the tree line where the stag had stood twenty minutes ago. Judge was watching everything else.
 
 The tree line was empty. The stag was gone.
 
@@ -294,7 +298,9 @@ Not from pain — from absence. The way a breaker trips: not with warning, not w
 
 Rex was on him before he stopped moving. A cold nose pressed against the back of his hand. The warm weight of a Border Collie head against his forearm — not gentle, not panicked. Present.
 
-Nate's cheek came to rest against the sandy loam. The ground was warm. It held him the way the land always had — without opinion, without urgency, without asking what had just happened.
+Judge was there a half-second later. She didn't check on him — Rex had that — she dropped low and pressed against his back, forty pounds of Blue Heeler forming a wall between Nate and whatever else the world might have planned. Guarding. Even now. Especially now.
+
+Nate's cheek came to rest against the sandy loam. The ground was warm. It held him the way the land always had — without opinion, without urgency, without asking what had just happened. Two dogs pressed against him — one at his arm, one at his back — and the weight of them was the most real thing left.
 
 The green arcs pulsed once, steady, and held.
 
@@ -302,4 +308,4 @@ He let his eyes close.
 
 ---
 
-The green arcs held steady over closed eyes, patient as the land beneath him. At the north pasture, the pump kept running — bearings and all.
+The green arcs held steady over closed eyes, patient as the land beneath him. Two dogs held steady against his body — one watching him, one watching everything else. At the north pasture, the pump kept running — bearings and all.

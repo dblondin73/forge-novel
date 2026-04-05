@@ -73,7 +73,7 @@ Anomalies are individuals whose integration failed because the Holy Spirit alrea
 - **7-book series:** *Beneath the Overlay*
 - Book 1 outline: 32 chapters, 3 acts
 - Story Bible: 100+ entities tracked in Forge Codex (Nova MCP server)
-- Inspirations: Dresden Files, The Land, HWFWM, Primal Hunter, Iron Druid, Dungeon Crawler Carl, Breathless, Cradle
+- Inspirations: Dresden Files, The Land, HWFWM, Primal Hunter, Iron Druid, Dungeon Crawler Carl, Breathless, Cradle, Defiance of the Fall
 
 ---
 

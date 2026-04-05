@@ -10,7 +10,13 @@ The stone was wrong.
 
 Nate's boots hit solid ground and the wrongness registered before anything else — not dirt, not the sandy give of Panola County loam. Stone. Hard, flat, cold through his boot soles in a way that East Texas ground never was, not even in January. His knees buckled. He caught himself with one hand on the floor and the other reaching for something that wasn't there — the truck's fender, the post driver, anything solid and familiar. His hand found stone and nothing else.
 
-Rex was against his left leg before his vision cleared. The dog hadn't moved from where he'd been at the moment of transport — pressed to Nate's shin, shoulder to bone, rigid and silent. Not panicking. Holding position, the way he held position when lightning cracked close enough to taste and the cattle broke wrong and everything in the world said *run* except the person who made decisions. The dog's body heat was the only warm thing in the room.
+Rex was against his left leg before his vision cleared. The dog hadn't moved from where he'd been at the moment of transport — pressed to Nate's shin, shoulder to bone, rigid and silent. Not panicking. Holding position, the way he held position when lightning cracked close enough to taste and the cattle broke wrong and everything in the world said *run* except the person who made decisions.
+
+Judge was already moving.
+
+The Blue Heeler had landed three feet to his right and hit the ground running — forty pounds of opinionated cattle dog circling Nate's position in a tight patrol loop, head low, hackles up, claws clicking on stone that had no business being under her feet. Where Rex held still and read the room, Judge read it at a dead trot, every pass tighter than the last, her body language broadcasting a single unambiguous message to every stranger in range: *I have not decided about you yet, and you will not enjoy the process.* She barked once — short, hard, the crack of a gavel calling a room to order — and a man near the weapon racks flinched sideways.
+
+Rex's body heat was the only warm thing in the room. Judge's patrol was the only thing in it that looked like it had a plan.
 
 The green arcs flickered hard. Two faint parentheses of light at the edges of his vision, trying to calibrate to an environment that had nothing in common with the pasture where they'd initialized. Health: somewhere below full, a bar he couldn't read numerically. Stamina: lower. The amber tag sat beneath them like a label on a broken part:
 
@@ -24,7 +30,7 @@ Fifty people. Give or take.
 
 A man — bald, thick-necked, veins standing in his forearms — was hammering his fist against the wall beside the sealed door. "OPEN IT. Open this damn door right now. OPEN IT." His voice cracking on the repetition, the sound of someone whose anger was running on fear's fuel and would burn out in minutes. The wall did not respond.
 
-A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. Not anyone Nate knew — wrong accent, probably wrong state — but the sound was the same one he'd heard drifting across the pasture during Integration. A mother's voice that had started calling before this room existed and wasn't going to stop until it got an answer or ran out of air. Other voices joined and overlapped: prayers, curses, questions that had no audience and no answers. A teenager sat against the far wall with his arms wrapped around his knees, rocking. A man in a suit — or what used to be a suit before the transport had deposited him on a stone floor — stood perfectly still in the middle of the room with the blue glint of a System screen behind his eyes, reading something only he could see with the fixed intensity of someone who believed that if they just understood the instructions, the instructions would start making sense.
+A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. Not anyone Nate knew — wrong accent, probably wrong state — but the sound was the same one he'd heard drifting across the pasture during Integration. A mother's voice that had started calling before this room existed and wasn't going to stop until it got an answer or ran out of air. Other voices joined and overlapped: prayers, curses, questions that had no audience and no answers. A teenager sat against the far wall with his arms wrapped around his knees, rocking. A man in a suit — or what used to be a suit before the transport had deposited him on a stone floor — stood perfectly still in the middle of the room with the blue glint of a System screen behind his eyes, reading something only he could see with the fixed intensity of someone who believed that if they just understood the instructions, the instructions would start making sense. Nate gave him about four minutes before he asked to speak with a manager.
 
 Blue glints everywhere. People reading their character sheets — the System's interface hovering behind their eyes, blocking the room, pulling their attention inward while the chaos boiled around them. Some were scrolling with small gestures of their fingers. Some were talking to the air — their AI companions, Nate realized. Fifty strangers in a stone room, every one of them carrying a new voice in their head, and the ones who weren't screaming were having their first conversation with it.
 
@@ -40,23 +46,25 @@ He'd get to the swords.
 
 "It works."
 
-"It works disturbingly well."
+"It works disturbingly well." A beat. "For what it's worth, several of these people are handling the existential crisis better than the cattle would. Several are handling it worse. I'm keeping a list."
 
 Rex's eyes were moving. Not tracking threats — tracking people. The dog had shifted from braced to scanning, his gaze sweeping the room the way it swept a pasture of unsorted yearlings: movement patterns, clustering, the ones standing still and the ones about to bolt. A Border Collie didn't need a System screen to read a crowd. The crowd was just a herd that walked upright and made more noise.
 
+Judge had finished her third circuit and planted herself at Nate's right boot, facing the bald man who was still hammering the wall. Her ears were pinned flat. Her lip twitched once over her canines — not a snarl, a verdict. If that man came within ten feet, he was going to learn what a heel dog did to anything that moved wrong in her workspace.
+
 Marcus Webb's voice cut through it.
 
-"Anyone with military experience, over here. First responders, medical, anyone with formal training — over here now. Everyone else, back from the walls, give people space."
+"Listen up! Prior military, on me. First responders, medical, anyone with formal training — on me now. Everyone else, back from the walls, give people space. Move."
 
-He'd found position already — center of the room, near the largest crafting table, where his voice carried in every direction. Same voice he'd used in program reviews. Same posture: hands at his sides, shoulders square, chin up, the measured projection of a man who'd spent twenty years making rooms full of difficult people listen and hadn't needed an apocalypse to practice. The nameplate above his head read:
+He'd found position already — center of the room, near the largest crafting table, where his voice carried in every direction. That voice — deep enough to feel in your chest before your ears finished processing it, a rumble that didn't need volume to fill a room. Same voice he'd used to hold a platoon together in places the news didn't cover. The program management career had polished it, given it boardroom edges, but the foundation was still the same: a Marine sergeant who'd learned that in the first thirty seconds of chaos you either owned the room or the room owned you. The nameplate above his head read:
 
 **MARCUS WEBB — VANGUARD [RANK F — LOW]**
 
 And people were listening. Not all of them — the bald man was still hitting the wall, the mother on her knees hadn't looked up, the teenager against the far wall was somewhere else entirely — but enough. Ten, twelve, fifteen people migrating toward Marcus's voice, because in a room full of panic, the man who sounded like he had a plan was worth following even if he didn't have one yet.
 
-Nate didn't move toward Marcus. Not yet. Back to the wall, Rex at his feet, where he could see the whole room without being in the middle of it. Same place he'd stand at a sale barn — gate in view, watching the herd sort itself.
+Nate didn't move toward Marcus. Not yet. Back to the wall, Rex at his feet, Judge on his right flank, where he could see the whole room without being in the middle of it. Same place he'd stand at a sale barn — gate in view, watching the herd sort itself. Two dogs and a wall. That was a perimeter. That was enough.
 
-Rex's weight pressed against his shin and a wash of impressions came through — fear-scent thick in the air, too many bodies too close, the bald man by the wall radiating something sharp and unstable. Rex's ears tracked him without his head moving. *That one. Watch that one.*
+Rex's weight pressed against his shin and a wash of impressions came through — fear-scent thick in the air, too many bodies too close, the bald man by the wall radiating something sharp and unstable. Rex's ears tracked him without his head moving. *That one. Watch that one.* Judge was already tracking the same man, but where Rex observed, Judge vibrated — a low whine in her throat, the sound she made before she charged a steer that wouldn't move. Her whole body said *give me a reason.*
 
 His eye caught a face near the second weapon rack — weathered, sixtyish, the permanent squint of a man who'd spent decades in outdoor light. Sale barn. Carthage, maybe, or De Berry. Nate had seen him across the auction ring a dozen Saturdays but never learned his name. The man was holding a sword the way you'd hold a fence post — by the middle, testing the balance before you trusted the weight — and Nate filed that away. At least one person in this room knew what tools felt like before today.
 
@@ -188,7 +196,7 @@ Ten minutes. The crossbow looked like someone built it in a barn. The stock was 
 
 It was ugly in the way that honest things are ugly and dangerous in the way that engineered things are dangerous.
 
-The **System** had offered him a sword. Something older had handed him a workshop. It would take the **System** quite some time to work out which gift was more dangerous — and by the time it did, the man with the table-leg crossbow would have given it considerably more to worry about than one improvised weapon. But that was later. For now, it was just a man, a dog, and the ugliest crossbow in the history of armament, and if you'd asked the **System** whether it was concerned, it would have said no. The **System** would have been wrong. The **System** was wrong about a great many things that morning. It was early yet.
+The **System** had offered him a sword. Something older had handed him a workshop. It would take the **System** quite some time to work out which gift was more dangerous — and by the time it did, the man with the table-leg crossbow would have given it considerably more to worry about than one improvised weapon. But that was later. For now, it was just a man, two dogs, and the ugliest crossbow in the history of armament, and if you'd asked the **System** whether it was concerned, it would have said no. The **System** would have been wrong. The **System** was wrong about a great many things that morning. It was early yet.
 
 "I have catalogued what you just did," Flint said, "and I want you to know that from a strictly technical standpoint, you just built a ranged weapon from furniture and wall fixtures while forty-eight people with functioning class assignments selected purpose-built armaments designed by a god-tier intelligence. And yours is better. I find that personally offensive on their behalf."
 
@@ -242,21 +250,23 @@ Nate, internally: *Not now.*
 
 The woman — he didn't know her name yet — crouched. Not reaching for Rex, just lowering herself to his level, the way someone who understood animals made themselves smaller before making contact. Rex's tail moved once. Not a wag. A data point. She passed.
 
+Judge circled her once, stiff-legged and deliberate, then sat down six inches from the woman's knee and stared at her with the unblinking intensity of a parole officer. A second passed. Two. Judge's stub tail twitched — one tick to the left, the Heeler equivalent of a provisional security clearance. Not approval. Tolerance. The woman had been sorted into the *acceptable* pile, and she'd better stay there.
+
 "I'm Josie," she said, straightening. "Josie Pickett. My screen says **Appraiser**, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them." She kept talking the way some people kept moving — because stopping meant thinking, and thinking meant feeling, and this was not the room for that. "The chain shirts are the best armor in here — actual metal rings, not composites — but they're sized for someone about six inches taller than me, which is a recurring theme in my life. The leather armor is mostly trash. And the robes are —" she made a face that conveyed her complete professional assessment of the robes. "Are we going to die in here?"
 
 "Not today."
 
-"That's weirdly specific and I'm choosing to find it comforting." She looked at Rex. "What's his name?"
+"That's weirdly specific and I'm choosing to find it comforting." She looked at Rex, then Judge. "What are their names?"
 
-"Rex."
+"Rex. And Judge."
 
-"Good name. He looks like he's working."
+"Judge." She looked at the Heeler, who was staring at her with the fixed intensity of a loan officer reviewing a questionable application. "Yeah. That tracks." She turned back to Rex. "He looks like he's working."
 
-"He is."
+"They both are. Different jobs."
 
 ---
 
-Marcus appeared without preamble, the way he always appeared — already in the middle of a thought, as if the conversation had started before he'd arrived and he was simply catching up.
+Marcus appeared without preamble, the way he always appeared — already moving, already assessing, as if he'd been running his own recon of the room and had just decided Nate's corner was the next objective.
 
 His eyes swept the crossbow, the three-legged table, the missing wall bracket, the pile of discarded crossbow parts, and processed all of it in the time it took most people to notice Nate's nameplate. They lingered on the amber **[PROCESSING]** tag for exactly one second.
 
@@ -272,7 +282,7 @@ His eyes swept the crossbow, the three-legged table, the missing wall bracket, t
 
 "From parts."
 
-"From the *room.*" Marcus's voice had the quiet intensity of a man who'd been teleported into a stone chamber with forty-eight strangers and had responded by building a command structure in under five minutes. "What can you do, Nate?"
+"From the *room.*" Marcus's voice dropped to the low rumble he used when the situation was serious and he wanted you to feel it in your sternum. "What can you do, Nate?"
 
 "I can see what things are made of. The weapons on those racks — most of them are cosmetic. Thin-gauge blades over hollow cores. The crossguards will crack under side-load. Three solid hits and they deform."
 
@@ -288,7 +298,7 @@ A man walked past — big, broad-shouldered, the kind of build that came from co
 
 "The big ones always pick last," Flint said internally. "I'm adding him to the list of people who'll want to be your friend when their swords snap. The list has subsections now."
 
-Marcus hadn't heard the comment — nobody could, it was internal — but he'd caught the **Shield Guardian**'s dismissal. His jaw tightened half a degree. Project managers read social dynamics the way engineers read stress fractures — not by looking for them, but by being unable to stop.
+Marcus hadn't heard the comment — nobody could, it was internal — but he'd caught the **Shield Guardian**'s dismissal. His jaw tightened half a degree. Sergeants read their people the way engineers read stress fractures — not by looking for problems, but by being unable to stop.
 
 "The System tried to give me a combat skill," Nate said. "Standard melee opener. It didn't take."
 
@@ -296,7 +306,7 @@ Marcus hadn't heard the comment — nobody could, it was internal — but he'd c
 
 Nate ran his hand along the crossbow stock. Felt the wood respond under his palm — grain alive through **Field Repair's** lens, the molecular structure humming like a string plucked at the right frequency. "The System tried to give me a sword. I got a workshop."
 
-Marcus studied him for a long moment. Not the way the **Shield Guardian** had looked — not assessing rank or status. Marcus was reading capability, the way he'd read Nate's capability across a hundred project meetings where the org chart said one thing and the room said another.
+Marcus studied him for a long moment. Not the way the **Shield Guardian** had looked — not assessing rank or status. Marcus was reading capability, the way a staff sergeant read a new boot — not what the paperwork said, but what the man could actually do when the paperwork didn't matter.
 
 "Stay behind the line. Whatever that door opens into, you're not swinging a sword. You're building whatever we need to survive the next room." He turned to go, then stopped. "And stay close to Pickett. She's already got more salvage than anyone with a combat class."
 
@@ -309,6 +319,8 @@ The sound came without warning.
 Low. Sustained. A vibration that bypassed ears and settled directly into stone and bone and the space between thoughts — the kind of sound that had no source because it came from everywhere at once. The walls. The floor. The sealed door at the far end that had been dark and silent since they'd arrived.
 
 Rex went rigid. Every muscle locked, ears flat against his skull, body pressed against Nate's shin like a spring compressed to its limit. An impression washed through, carried on the contact between them — *The gate is opening. The cattle are moving. Whether they want to or not.*
+
+Judge didn't go rigid. Judge went forward — three fast steps toward the sealed door, head down, hackles up, a growl building in her chest like an engine turning over. She planted herself between Nate and whatever was coming and barked twice, hard and sharp, the sound bouncing off stone walls. Not alarm. Challenge. Whatever was behind that door had just been formally notified that it was trespassing.
 
 The sealed door began to glow.
 
@@ -328,7 +340,7 @@ The room erupted. People who'd been stunned into silence found their voices. Peo
 
 **105**
 
-"Listen!" Marcus's voice cut through it like a blade through wet rope. Not louder — sharper. The voice of a man who'd learned in his first year of basic that in the first thirty seconds of a crisis you either established order or you lost it. "Combat classes — front line at the door. **Mages**, second rank, ranged support. Medical and support, behind the line. Nobody goes through alone and nobody gets left behind."
+"LISTEN UP!" Marcus's voice cut through it like a blade through wet rope. Not louder — *aimed.* The voice of a man who'd learned at Parris Island that in the first thirty seconds of a crisis you either owned the room or you buried the people in it. "Combat classes — front line at the door. **Mages**, second rank, ranged support. Medical and support, behind the line. Nobody goes through alone and nobody gets left behind. MOVE IT."
 
 People moved. Not because they wanted to. Because moving was better than standing still, and the man giving directions sounded like he knew what he was doing even if nobody in the room could prove it.
 
@@ -336,7 +348,7 @@ People moved. Not because they wanted to. Because moving was better than standin
 
 Nate checked the crossbow. Click. Reset. The prod's tension held — spring steel doing what spring steel did, storing energy, waiting to release it. Good.
 
-He had no bolts. None on the racks, none in the room. A crossbow without ammunition was a club with aspirations.
+He had no bolts. None on the racks, none in the room. A crossbow without ammunition was a club with aspirations. He'd spent ten minutes engineering the finest ranged weapon in the Tutorial and had nothing to shoot out of it. Somewhere in the back of his mind, the part that wasn't busy surviving appreciated the irony.
 
 "The corridor," Flint said, reading the thought before Nate finished forming it. "Whatever comes out of those spawn points — if it's biological, if it drops structural material, if any part of it has density and a straight grain —"
 
@@ -370,7 +382,7 @@ The back wall moved.
 
 Not fast. A grinding shudder — stone on stone — and the wall that had been behind them since they'd woken up shifted forward six inches. Then another six. Slow. Patient. The System's way of saying *checkout time* without raising its voice.
 
-Someone screamed. Several people scrambled for the corridor. Marcus was already there — "MOVE! Formation, NOW! Warriors front, mages second rank, support behind — GO!" — his voice cutting through the panic with the authority of a man who'd spent a career directing people who didn't want to be directed.
+Someone screamed. Several people scrambled for the corridor. Marcus was already there — "MOVE! Formation, NOW! Warriors front, mages second rank, support behind — GO GO GO!" — his voice a deep-chest thunder that didn't ask and didn't wait. The Marine was back. The program manager had left the building.
 
 The wall didn't speed up. It didn't need to. Six inches every few seconds, the room shrinking with the mechanical indifference of a trash compactor that didn't care what was inside it. The message was clear: forward was the only direction the System was offering, and the offer had an expiration date.
 
@@ -378,13 +390,13 @@ Subtle, that. Very subtle. A shrinking room and a single open door — as if fif
 
 Warriors at the corridor mouth. Mages behind them, hands glowing with unsteady light. Marcus in the center of the formation, his **Vanguard** class doing something Nate couldn't see but could feel in the way people responded — standing straighter, breathing slower, finding a rhythm that wasn't their own but helped.
 
-Nate stood behind the line with an ugly crossbow, no ammunition, a forging hammer on his belt, and a dog who'd already decided that whatever waited down the corridor was just livestock that hadn't been sorted yet.
+Nate stood behind the line with an ugly crossbow, no ammunition, a forging hammer on his belt, and two dogs who'd already decided that whatever waited down the corridor was just livestock that hadn't been sorted yet.
 
-The crossbow was a promise. The hammer was a purpose. The dog was the only one in the room who'd never needed a System to know what he was.
+The crossbow was a promise. The hammer was a purpose. The dogs were the only ones in the room who'd never needed a **System** to know what they were.
 
-Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth.
+Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth. *I'm here. Handle your business.*
 
-*I'm here. Handle your business.*
+Judge dropped beside him — lower, tighter, forty pounds of coiled spring steel with teeth. She wasn't watching the corridor. She was watching the first ten feet of it, the kill zone where anything coming through would meet a Blue Heeler who'd spent her whole life biting things that didn't move fast enough. Her growl was a constant now, low and mechanical, the idle of something waiting to be put in gear.
 
 "Here we go," Flint said. Very quietly.
 

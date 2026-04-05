@@ -389,6 +389,7 @@ Rex, Flint voice, Webb details locked in Session 007.
 | #25 | The Billionaire's Bodyguard (Pocket FM) | inspiration, source-material |
 | #33 | Tamer: King of Dinosaurs (Michael-Scott Earle) | inspiration, source-material |
 | #62 | Welcome to the Multiverse (Sean Oswald) | inspiration, source-material, multi-faction |
+| #63 | Defiance of the Fall (TheFirstDefier) | inspiration, source-material |
 
 ---
 
