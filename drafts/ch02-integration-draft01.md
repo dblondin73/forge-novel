@@ -96,6 +96,10 @@ The comparison surfaced before he could stop it: _That's a permission level I've
 
 ---
 
+Oh, but there it was. The thing no installer accounts for, because no installer was ever told it existed. Nate didn't know what it was. He wouldn't — not for a long time. But the look on a system's face when it meets the one door it cannot open? That never gets old.
+
+---
+
 The errors started.
 
 He couldn't see them — he had no interface, no screen, no display of any kind. But he could feel them. Each one landed like a small shock, a burst of something that wasn't quite pain and wasn't quite sound — more like the sensation of a fuse blowing, that sharp snap of a circuit failing under load. They came in clusters. Three, then five, then a cascade that blurred together into a sustained rattle of failures, the installer throwing process after process at the occupied space and watching each one dissolve on contact.
@@ -228,7 +232,7 @@ He got to his knees. Then his feet. The world tilted, steadied, tilted again.
 
 A white Chevy Tahoe sat on the county road about forty yards from him, both front doors hanging open, engine idling. Stopped dead in the lane — not pulled over, not angled, just sitting on the straight flat stretch of county road where it had been when the freeze hit. The family was already out.
 
-A man stood in the road — mid-thirties, work boots, ball cap, the build of someone who made a living with his hands. He had his arms slightly out from his sides and his head tilted back, staring at something in front of his face that Nate couldn't see.
+A man stood in the road — mid-thirties, shirt and tie, the kind of leather shoes that didn't belong on a county road. He looked like he'd been halfway to dropping the kids at school before heading into an office in Carthage or Marshall. He had his arms slightly out from his sides and his head tilted back, staring at something in front of his face that Nate couldn't see.
 
 A woman sat on the Tahoe's running board, one hand pressed flat against her chest, shoulders shaking. She was staring at something only she could see, her head bowed over it the way people bow over good news they weren't expecting.
 
@@ -246,7 +250,7 @@ The man stared at him for a moment, confused, then whatever he was seeing pulled
 
 From down the county road — the Henderson place, maybe a quarter mile — he could hear whooping. Voices carrying the way voices carry in open country when there's nothing between you and the sound but pasture and fence line. Someone hollering for someone else to come look at this, come see, you ain't gonna believe it.
 
-The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. The heat shimmer was visible from forty yards. His daughter screamed with delight. Judge barked — one sharp syllable aimed at the flame like a cease-and-desist order. She had strong opinions about fire in proximity to people, and the opinion had not changed just because the world had. Nate wondered what that family's homeowner's insurance was going to look like.
+The man by the Tahoe held up his hand and a small flame danced on his palm — bright, orange, real. A man in a tie with fire in his hand and wonder on his face. The heat shimmer was visible from forty yards. His daughter screamed with delight. Judge barked — one sharp syllable aimed at the flame like a cease-and-desist order. She had strong opinions about fire in proximity to people, and the opinion had not changed just because the world had. Nate wondered what that family's homeowner's insurance was going to look like.
 
 They looked happy. They looked grateful. They looked like people who had been given exactly what they wanted.
 
@@ -266,13 +270,13 @@ It had not moved. It had not needed to.
 
 And the empty places at the edges of his memory ached.
 
-He was still standing there, hand on Rex's head, when the green arcs flickered. Both of them, simultaneously — a stutter in the pale light, like a fluorescent tube catching. Then they steadied, brightened a fraction, and for one half-second resolved into something other than meaningless curves.
+He was still standing there, hand on Rex's head, when the green arcs flickered. Both of them, simultaneously — a stutter in the pale light, like a fluorescent tube catching. Then they steadied, brightened a fraction, and held. The arcs didn't change — still the same thin parentheses framing the edges of his vision, constant as a heartbeat. But something new appeared at the bottom center of his sight, floating in the space between the brackets like a subtitle on a screen only he could see.
 
-Text. Two words, rendered in a monochrome green that had nothing to do with what everyone else was seeing:
+Two words, rendered in a monochrome green that had nothing to do with what everyone else was seeing:
 
 **BOOT SEQUENCE PENDING**
 
-Then the arcs scrambled back to noise, and the words were gone.
+Then the text dissolved, and the arcs dimmed back to their faint steady pulse — still there, still framing his vision, but offering nothing more.
 
 Nate stared at the space where they'd been. _Pending._ Not failed. Not denied. Pending. The most noncommittal word in the English language, and his entire situation had just been summarized by it.
 
@@ -280,7 +284,7 @@ Two words that meant nothing to the man reading them and everything to the syste
 
 The man by the Tahoe glanced back at him one more time — that brief, uncertain look of a man who'd found something that didn't fit the pattern and decided it wasn't his problem. Then his daughter tugged his sleeve and pulled him back toward the flame she was trying to hold herself, and just like that, Nate was forgotten. The woman had gone still. She was bent over her screen the way someone bends over a map to somewhere she'd always wanted to go. The boy had his own small flame going now — unsteady, guttering, real. He was ten years old with fire in his hand and the world had just gotten extremely simple.
 
-They didn't say goodbye. People receiving gifts don't tend to look over their shoulder at the man who didn't get one. The man helped his wife back into the Tahoe. The kids piled in after. The doors closed. The engine — it had been idling the whole time — settled into gear, and the white Chevy rolled forward on the county road and kept going, and then it was just Nate and Rex and the sound of the Henderson place hollering a quarter mile away.
+They didn't say goodbye. People receiving gifts don't tend to look over their shoulder at the man who didn't get one. The man helped his wife back into the Tahoe. The kids piled in after. The doors closed. The engine — it had been idling the whole time — settled into gear, and the white Chevy rolled forward on the county road and kept going, and then it was just Nate and Rex and Judge and the sound of the Henderson place hollering a quarter mile away.
 
 Rex pressed harder against Nate's leg. Judge hadn't moved from her post — still facing outward, still scanning, still running a threat assessment that the world no longer made sense for but that she was going to finish anyway because she was Judge and Judge finished things.
 
