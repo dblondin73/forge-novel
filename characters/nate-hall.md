@@ -160,11 +160,15 @@ WIS is primary stat — drives perception, discernment, System resistance. Grows
 - **Nate has NO character sheet** — his info is felt and interacted with mentally through his HUD.
 - **Mixed geometry:** Hard angles + organic curves. System UI is rigid boxes. Nate's has curves because its source is organic.
 
-**Evolution:**
-1. Phase 1 BASIC (Book 1 early) — monochrome green, faint. Two curved bars: health/stamina.
-2. Phase 2 TACTICAL (Book 1 Ch22+) — color. Green base, amber threats, cold white System processes, luminous gold divine architecture. THE STRINGS visible.
-3. Phase 3 ANALYTICAL (Books 3-4) — structural analysis overlay, crafting ID, System process depth.
-4. Phase 4 ARCHITECTURAL (Books 5-7) — full dual-layer vision (System + divine simultaneously).
+**Evolution (Beta Build → Catches Up → Surpasses):**
+1. Phase 1A BOOT (Ch3) — monochrome green, faint. Two curved bars: health/stamina. DOS prompt vs. everyone's polished blue panels.
+2. Phase 1B CRAFT OVERLAY (Ch4) — SA wireframe overlay on focused objects. Structural data, stress points. Diagnostic, not combat.
+3. Phase 1C THREAT AWARENESS (Ch5-6) — peripheral green brightens toward threats. First accidental toggle during crafting (Ch6).
+4. Phase 1D TARGETING (Ch7-8) — focal reticle on aim. Flint starts pushing data to display. Semi-intentional toggle control.
+5. Phase 2A COLOR (Ch9-11) — amber threats, blue-green environmental. Flint co-pilots display. Intentional toggle. THE CROSSOVER: HUD surpasses blue panels.
+6. Phase 2B TACTICAL (Ch11-15) — full color. THE STRINGS. Divine gold. Concentric targeting. Custom engineering workstation.
+7. Phase 3 ANALYTICAL (Books 2-4) — dense data panels, crafting ID, rune reading.
+8. Phase 4 ARCHITECTURAL (Books 4-7) — full dual-layer vision (System + divine simultaneously).
 
 ---
 
@@ -195,10 +199,10 @@ Nate does NOT pick a weapon from the racks. He picks materials and BUILDS his lo
 
 ## Book 1 Progression
 
-- Starts: no class, no skills, monochrome HUD barely showing health/stamina
-- Tutorial: Level 4 Engineer. Improvised crossbow + hammer. Glitchy SA, developing Field Repair.
-- Mid-book: 4 skills, HUD sharpening
-- End: Level 10, 5 skills (including one unauthorized), HUD Phase 2, settlement of ~20
+- Starts: no class, no skills, monochrome HUD barely showing health/stamina (Phase 1A)
+- Tutorial: Level 4 Engineer. Improvised crossbow + hammer. Glitchy SA, developing Field Repair. HUD grows through Phases 1A-1D (craft overlay → threat awareness → targeting + Flint co-pilot)
+- Mid-book: 4 skills, HUD Phase 2A (color arrives, toggle control, crossover moment — surpasses blue panels)
+- End: Level 10, 5 skills (including one unauthorized), HUD Phase 2B (full tactical), settlement of ~20
 
 ---
 

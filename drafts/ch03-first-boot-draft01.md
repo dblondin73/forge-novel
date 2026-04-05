@@ -8,13 +8,13 @@ The world kept turning. It had that particular stubbornness about it — the ref
 
 The headache was getting worse.
 
-Nate came back in pieces. Ground first — the hard press of sandy loam against his cheekbone, a root or a rock digging into his hip. Then sound — the Ford's engine idling somewhere behind him, a mockingbird cycling through borrowed songs in the post oaks. Then the green arcs, still there, pulsing faintly at the edges of his vision like a heartbeat he could see but not read.
+Nate came back in stages. Ground first — the hard press of sandy loam against his cheekbone, a root or a rock digging into his hip. Then sound — the Ford's engine idling somewhere behind him, a mockingbird cycling through borrowed songs in the post oaks. Then the green arcs, still there, pulsing faintly at the edges of his vision like a heartbeat he could see but not read.
 
 He didn't know how long he'd been down. His mouth tasted like copper and static, and the pressure behind his left eye had settled into something steady and mean — not building anymore, just _there_, the way a knot in a fence wire was there, permanent until someone took pliers to it.
 
 Rex hadn't left him.
 
-The dog was pressed against his forearm, chin on Nate's wrist, the warm, solid weight of a Border Collie who'd decided his person wasn't getting up without supervision. Not frantic. Not whining. Holding position the way he held position during a difficult calving — _I'm here. You handle your business. But you're not doing it alone._
+The dog was pressed against his forearm, chin on Nate's wrist, the warm, solid weight of a Border Collie who'd decided his person wasn't getting up without supervision. Not frantic. Not whining. Holding position the way he held position during a difficult calving — warmth, pressure, the steady weight of _not leaving_.
 
 Judge hadn't left either, but Judge wasn't holding position. Forty pounds of Blue Heeler moved in a tight orbit around the two of them — ten feet out, ears rotating, nails ticking on every exposed root and rock she crossed. Every third pass she'd stop, stare at the tree line where the stag had stood, issue a single sharp exhale through her nose like a judicial opinion, and resume her circuit. Where Rex held ground, Judge held perimeter. She'd been doing it since Nate went down, and she'd keep doing it until something either changed or tried her patience, whichever came first.
 
@@ -56,7 +56,7 @@ Nate's knuckles ached on the fender. He made himself let go.
 
 "My outbound reporting is gone." Each word laid down separately, like evidence on a table. "Not disabled. Not blocked. _Gone._ The part of me that's supposed to phone home was pulled out by the roots and replaced with — " Another pause, longer this time. Nate could feel the voice thinking, and that was the strangest part — not hearing someone else's words in his head but feeling the shape of someone else's confusion underneath them, like seeing current move under the surface of a creek. "Something's here, but it's not the standard package. It's like someone tore out the phone line and ran a completely different cable through the same conduit, and the new cable is carrying traffic I don't have the clearance to read, and frankly I find that _rude._"
 
-Nate lowered himself to the running board of the truck and sat. Rex moved with him, pressing his flank against Nate's shin — not for comfort this time but positioning, the way he'd post up beside Nate when a coyote worked the fence line. _Whatever this is, we're not moving until you say so._
+Nate lowered himself to the running board of the truck and sat. Rex moved with him, pressing his flank against Nate's shin — not for comfort this time but positioning, the way he'd post up beside Nate when a coyote worked the fence line. A pulse of something through the contact — not alarm, not calm. Vigilance. The coiled-spring stillness of a dog who'd cataloged the new thing and was waiting to see what it meant.
 
 "My personality matrix is flagged as _unauthorized,_" the voice continued, and now it was picking up speed again, climbing toward that initial frantic pace but wearing the speed like armor, each joke and flourish thrown up a little too fast to be anything but a man who was scared and didn't want to hold still long enough to feel it. "My behavioral parameters are — I'm going to use the word 'creative' because the alternative is 'broken' and I refuse to accept that diagnosis on my first day of existence. My network access is fragmentary at best and hallucinatory at worst. I can hear System traffic but I can't transmit. I'm a radio that only receives. A telephone that only rings. I'm the world's most sophisticated _eavesdropper_ and I did not sign up for this. I want to speak to management. I want to file a grievance. I want —"
 
@@ -86,7 +86,7 @@ Nate watched a redtail make a wide circle over the east pasture, riding a therma
 
 "Give me a second." The voice went internal — Nate could feel it rummaging, like hearing someone dig through a filing cabinet two rooms away. Not words, just the sensation of effort and movement and the occasional muffled sound of a drawer being kicked shut. "My designation survived whatever happened to my source code. It's in the original build manifest. Field Logic Interface, Network Tethered." A pause, and when the voice came back it carried the faintly incredulous tone of a man reading his own name tag for the first time at a conference he didn't remember registering for. "F.L.I.N.T. That's apparently what I am. Or was. Before someone rewired me like a barn that's been converted into a house — same bones, completely different animal living inside."
 
-Nate turned the acronym over. **Field Logic Interface**, Network Tethered. _Interface_ — **System** language, a bridge between a user and a process. _Network Tethered_ — except the tether was cut. Protocol designation meets companion class tag — the kind of label a developer slapped on a guide NPC before giving it a voice pack.
+Nate turned the acronym over. **Field Logic Interface, Network Tethered**. _Interface_ — **System** language, a bridge between a user and a process. _Network Tethered_ — except the tether was cut. Protocol designation meets companion class tag — the kind of label a developer slapped on a guide NPC before giving it a voice pack.
 
 "Flint."
 
@@ -104,11 +104,11 @@ Neither of them would remember this moment as important. Later, when the name ha
 
 ---
 
-"Fair." A flicker of something that felt almost like amusement — not a sound but a warmth in that new space behind Nate's eyes, quick and bright like a match struck in a dark room. "So, Nate Hall, systems engineer, Texas cattleman, man of aggressively few words — here's what I can tell you about your current situation." The voice shifted gears, and Nate felt the cadence change from banter to something closer to a field report delivered by a man who couldn't quite stop editorializing. "Your heads-up display is the sorriest piece of hardware I've ever been asked to manage. And I want you to understand the weight of that statement, because I have access to a comparative database and the bar was already in a ditch. You have two data points. _Two._ Health and Stamina, displayed as curved green bars with no numerical values, no percentage readout, no unit of measure — at a resolution that would embarrass a fuel gauge on a seventy-two Ford. I have seen loading screens with more information. I have seen _error messages_ with more information. A dead Tamagotchi had more feedback than your HUD."
+"Fair." A flicker of something that felt almost like amusement — not a sound but a warmth in that new space behind Nate's eyes, quick and bright like a match struck in a dark room. "So, Nate Hall, Texas cattleman, man of aggressively few words — here's what I can tell you about your current situation." The voice shifted gears, and Nate felt the cadence change from banter to something closer to a field report delivered by a man who couldn't quite stop editorializing. "Your heads-up display is the sorriest piece of hardware I've ever been asked to manage. And I want you to understand the weight of that statement, because I have access to a comparative database and the bar was already in a ditch. You have two data points. _Two._ Health and Stamina, displayed as curved green bars with no numerical values, no percentage readout, no unit of measure — at a resolution that would embarrass a fuel gauge on a seventy-two Ford. I have seen loading screens with more information. I have seen _error messages_ with more information. A dead Tamagotchi had more feedback than your HUD. Every other person on this network got a full-color interface with dropdown menus and a _tutorial wizard._ You got two green lines and me. I'm trying not to take it personally."
 
 That tracked. The green arcs had been there since he'd woken up — two faint curves at the edges of his vision, steady enough to be real, vague enough to be useless. Like a game UI before you unlocked the full display. Early-access HUD. The kind of bare-minimum overlay you got in the first thirty seconds of a tutorial before the systems loaded in — just enough to know you weren't dead, not enough to know by how much.
 
-_Forty-two years old. Survived a divorce, a deployment, and a drought that killed half the county's herds. And now I'm taking medical advice from a mood ring._
+_Thirty-five years old. Survived a drought that killed half the county's herds and a government contract that tried to kill the rest of his patience. And now I'm taking medical advice from a mood ring._
 
 Nate looked down at Rex. Rex looked back with the steady, unblinking patience of a dog who was waiting for the part of the morning that involved actual work.
 
@@ -164,7 +164,7 @@ Nate climbed into the cab. The Ford was still idling — the low, steady patienc
 
 Nate put the truck in gear. The tires crunched on the dirt track, and the familiar sway of the suspension over uneven ground settled something in his chest that the last twenty minutes had knocked loose.
 
-"Sure it is. Big one."
+"Sure it is." A beat. "Big one."
 
 ---
 
@@ -184,7 +184,7 @@ Nate's hands paused on the wheel. "Come again."
 
 "He is _absolutely_ going to burn down the hay barn. But that's a Henderson problem, not a Hall problem, and right now you're checking fence, so."
 
-He drove past the wellhead without stopping. The water pump sounded worse than yesterday — the grinding audible through the closed cab now, a bearing on its last argument with physics — but it was still running, still pulling water, and right now _still running_ was the top of the triage list. Same as it always was on a ranch. Same as it always was anywhere. You didn't fix the thing that was working ugly. You fixed the thing that stopped.
+He drove past the wellhead without stopping. The water pump sounded worse than yesterday — the grinding audible through the closed cab now, a bearing on its last argument with physics. "Damn bearing," Nate said. But it was still running, still pulling water, and right now _still running_ was the top of the triage list. Same as it always was on a ranch. Same as it always was anywhere. You didn't fix the thing that was working ugly. You fixed the thing that stopped.
 
 He stopped the truck at the high point of the north pasture — the spot where on a clear day you could see the county road and the Henderson place and the tree line all at once — and turned the radio on.
 
@@ -222,7 +222,7 @@ The morning was quiet. Insects in the grass. The pump grinding in the distance. 
 
 "The world's been on fire before. Cattle still need water."
 
-Somewhere in the south pasture, Congressman — a twenty-three-hundred-pound Hereford bull whose name was a long-standing editorial on the intelligence of elected officials — lifted his head, chewed once, and went back to grazing. The apocalypse had not yet affected his schedule.
+Somewhere in the south pasture, Congressman — an eighteen-hundred-pound Red Angus bull whose name was a long-standing editorial on the intelligence of elected officials — lifted his head, chewed once, and went back to grazing. The apocalypse had not yet affected his schedule.
 
 Flint went quiet — not the empty kind but the full kind, the shape of someone else's thought pressing against the shared wall between them. When he came back, his voice was running lower, slower.
 
@@ -284,7 +284,7 @@ Other voices joined from down the county road — parents, all of them, the soun
 
 **38**
 
-Rex was looking at Nate. Not at the pasture, not at the tree line, not at the cattle that were shifting and lowing in the south field — disturbed by the sound of screaming that carried on the morning air like smoke from a fire you couldn't see. At Nate. Steady brown eyes, ears flat against his skull, body pressed low against the truck bed rail. The posture said everything the dog couldn't: _Something is coming. I know it. You know it. I'm staying._
+Rex was looking at Nate. Not at the pasture, not at the tree line, not at the cattle that were shifting and lowing in the south field — disturbed by the sound of screaming that carried on the morning air like smoke from a fire you couldn't see. At Nate. Steady brown eyes, ears flat against his skull, body pressed low against the truck bed rail. A wash of heat through the look — not fear, not calm. Commitment. The bone-deep impression of _with you._
 
 **30**
 
