@@ -8,7 +8,7 @@ Fifty people, give or take, in a room built to ask one question: *what are you m
 
 The stone was wrong.
 
-Nate's boots hit solid ground and the wrongness registered before anything else — not dirt, not the sandy give of Panola County loam. Stone. Hard, flat, cold through his boot soles in a way that East Texas ground never was, not even in January. His knees buckled. He caught himself with one hand on the floor and the other reaching for something that wasn't there — the truck's fender, the post driver, anything solid and familiar. His hand found stone and nothing else.
+Nate's boots hit solid ground and the wrongness registered before anything else — not dirt, not the sandy give of ranch loam. Stone. Hard, flat, cold through his boot soles in a way that East Texas ground never was, not even in January. His knees buckled. He caught himself with one hand on the floor and the other reaching for something that wasn't there — the truck's fender, the post driver, anything solid and familiar. His hand found stone and nothing else.
 
 Rex was against his left leg before his vision cleared. The dog hadn't moved from where he'd been at the moment of transport — pressed to Nate's shin, shoulder to bone, rigid and silent. Not panicking. Holding position, the way he held position when lightning cracked close enough to taste and the cattle broke wrong and everything in the world said *run* except the person who made decisions.
 
@@ -30,7 +30,7 @@ Fifty people. Give or take.
 
 A man — bald, thick-necked, veins standing in his forearms — was hammering his fist against the wall beside the sealed door. "OPEN IT. Open this damn door right now. OPEN IT." His voice cracking on the repetition, the sound of someone whose anger was running on fear's fuel and would burn out in minutes. The wall did not respond.
 
-A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. Not anyone Nate knew — wrong accent, probably wrong state — but the sound was the same one he'd heard drifting across the pasture during Integration. A mother's voice that had started calling before this room existed and wasn't going to stop until it got an answer or ran out of air. Other voices joined and overlapped: prayers, curses, questions that had no audience and no answers. A teenager sat against the far wall with his arms wrapped around his knees, rocking. A man in a suit — or what used to be a suit before the transport had deposited him on a stone floor — stood perfectly still in the middle of the room with the blue glint of a System screen behind his eyes, reading something only he could see with the fixed intensity of someone who believed that if they just understood the instructions, the instructions would start making sense. Nate gave him about four minutes before he asked to speak with a manager.
+A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. Not anyone Nate knew — wrong accent, probably wrong state — but the sound was the same one he'd heard drifting across the pasture during Integration. A mother's voice that had started calling before this room existed and wasn't going to stop until it got an answer or ran out of air. Other voices joined and overlapped: prayers, curses, questions that had no audience and no answers. A teenager sat against the far wall with his arms wrapped around his knees, rocking. A man in a suit — or what used to be a suit before the transport had deposited him on a stone floor — stood perfectly still in the middle of the room with the <<nate shouldn't notice blue in the eyes this may need to be an observation from narrator >>blue glint of a System screen behind his eyes, reading something only he could see with the fixed intensity of someone who believed that if they just understood the instructions, the instructions would start making sense. Nate gave him about four minutes before he asked to speak with a manager.
 
 Blue glints everywhere. People reading their character sheets — the System's interface hovering behind their eyes, blocking the room, pulling their attention inward while the chaos boiled around them. Some were scrolling with small gestures of their fingers. Some were talking to the air — their AI companions, Nate realized. Fifty strangers in a stone room, every one of them carrying a new voice in their head, and the ones who weren't screaming were having their first conversation with it.
 
@@ -80,9 +80,7 @@ Then Nate looked at the racks — *really* looked — and the world shifted.
 
 Not dramatically. Not a special effect. Like focusing on a reflection in glass and suddenly seeing what was behind it all along. The green arcs pulsed once, and whatever Nate was looking at became *legible.*
 
-The green arcs shifted. Not brighter — *wider.* Something new flickered at the edge of his vision, ghosting over the weapon rack like a wireframe laid on glass. Faint. Rough. The monochrome green of a system running its first diagnostic. It looked like hell. It was the most useful thing his HUD had done since it appeared.
-
-**Structural Analysis (SA)**. The words surfaced in the green arcs and settled there like they'd always been waiting. He didn't know what it was supposed to show him. He only knew what it did.
+**Structural Analysis (SA)**. The words surfaced in the <<the words should be in a text bix or the like not in the green bars  a box or new slightly curved bar at the bottom of his vision>> green arcs and settled there like they'd always been waiting. He didn't know what it was supposed to show him. He only knew what it did.
 
 The swords: Pretty. Polished. Blades catching the torchlight and looking heroic. **SA** read them as thin-gauge steel with a decorative finish over a hollow core. The edge was real — sharp enough to cut skin — but the spine was half the thickness it should be for a functional blade. Three solid impacts against anything harder than flesh and the steel would deform. Five and it snapped. The crossguards were cast alloy, not forged — they'd crack at the weld under side-load. The handle wraps were uniform synthetic. No grain. No variation. Not real leather. A rendering of leather that had never been near an animal.
 
@@ -179,8 +177,6 @@ Mid-assembly — hands on both the prod and the stock — the skill grant arrive
 When it hit Nate's framework, it crashed.
 
 The occupied space rejected it. He felt the skill try to load — **Basic Strike**, probably, the standard melee opener — and felt it stutter, catch, collapse. Fragments scattering through the space behind his eyes like sparks off a bad weld. Not gracefully. The System's combat programming met resistance that shouldn't exist on any framework it had built, and broke apart.
-
-A sword for a workshop. It was not, on its face, an impressive trade. But the **System** measured in damage per second, and the thing that had rewritten Nate's framework measured in something the **System** had no column for. The difference would take time to matter. It would matter enormously.
 
 "*Shit,*" Flint said, with no theater in it at all.
 
@@ -322,7 +318,7 @@ The sound came without warning.
 
 Low. Sustained. A vibration that bypassed ears and settled directly into stone and bone and the space between thoughts — the kind of sound that had no source because it came from everywhere at once. The walls. The floor. The sealed door at the far end that had been dark and silent since they'd arrived.
 
-Rex went rigid. Every muscle locked, ears flat against his skull, body pressed against Nate's shin like a spring compressed to its limit. An impression washed through the contact — the gut-deep charge of a gate swinging wide, herd surging, no choice in it. Movement coming whether anything was ready or not.
+Rex went rigid. Every muscle locked, ears flat against his skull, body pressed against Nate's shin like a spring compressed to its limit. An impression washed through, carried on the contact between them — *The gate is opening. The cattle are moving. Whether they want to or not.*
 
 Judge didn't go rigid. Judge went forward — three fast steps toward the sealed door, head down, hackles up, a growl building in her chest like an engine turning over. She planted herself between Nate and whatever was coming and barked twice, hard and sharp, the sound bouncing off stone walls. Not alarm. Challenge. Whatever was behind that door had just been formally notified that it was trespassing.
 
@@ -334,9 +330,7 @@ Lines of amber light traced the doorframe, following seams that **SA** showed Na
 
 "Spawn points," Flint said. Combat mode — rapid, precise, the showmanship compressed but not gone. "Fifteen down the first visible stretch. More beyond my range. They're dormant but they're heating up." His voice dropped. "The Tutorial handed out the party favors. Now it's about to introduce the piñata. Except the piñata hits back."
 
-Numbers appeared in Nate's green arcs — not because he'd asked, but because the HUD had decided he needed them. That was new. The green lines had been passive furniture since Integration — something he looked at, not something that looked back.
-
-"Interesting," Flint said. "Your HUD just did something without being asked. I didn't push that. You didn't pull it. It decided you needed a countdown and gave you one." A beat. "I'm choosing not to find that unsettling."
+Numbers appeared between Nate's green arcs — not because he'd asked, but because the HUD had decided he needed them.
 
 **120**
 
@@ -400,7 +394,7 @@ Nate stood behind the line with an ugly crossbow, no ammunition, a forging hamme
 
 The crossbow was a promise. The hammer was a purpose. The dogs were the only ones in the room who'd never needed a **System** to know what they were.
 
-Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth. Through the contact, warmth and certainty — the coiled-spring readiness of a dog who knew his job and was waiting to do it.
+Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth. <<fix>>*I'm here. Handle your business.*
 
 Judge dropped beside him — lower, tighter, forty pounds of coiled spring steel with teeth. She wasn't watching the corridor. She was watching the first ten feet of it, the kill zone where anything coming through would meet a Blue Heeler who'd spent her whole life biting things that didn't move fast enough. Her growl was a constant now, low and mechanical, the idle of something waiting to be put in gear.
 
