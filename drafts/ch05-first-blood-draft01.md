@@ -12,7 +12,7 @@ Then the walls fell away and they were in a chamber, and the scratching stopped.
 
 Nate liked the scratching better.
 
-**Structural Analysis** (**SA**) had been tracking heat signatures under the stone for the last forty seconds. Six of them, pulsing in slow sequence. Something was coming. The only question was *when.*
+**Structural Analysis** (**SA**) had been tracking displacement patterns under the stone for the last forty seconds. Six points where the floor's load distribution shifted in slow sequence — something pressing upward, testing the stone from below. Something was coming. The only question was *when.*
 
 Spawn point three cracked first. Bark-covered fingers pushed through the stone. Then the whole thing erupted upward in a shower of dirt and rock, and the room went from silence to pandemonium in about two seconds.
 
@@ -69,6 +69,8 @@ Kill shot.
 The fight was ending. Warriors mobbing the last two Thornlings with more aggression than coordination — blades finding bark more often than seams, brute-forcing kills that technique should have made cleaner. The **Mage** threw a second **Fire Bolt** at a Thornling that was already dying, and the bolt was weaker than the first. Noticeably. Even from thirty feet away, Nate could see the difference — the first had been a bonfire, the second a campfire. Mana cost catching up.
 
 Nobody had noticed what the dogs did. Forty-nine people fighting for their lives, and not a single one had seen a Border Collie and a Blue Heeler work a monster like a pair that had been splitting cattle since Judge was old enough to bite.
+
+*The **System** had no classification for what they'd done. No rank, no class, no skill tree. Two animals operating below the threshold of everything the **System** measured — and executing a combat maneuver that three **Warriors** with full class kits hadn't thought to try. The **System** noted their existence the way a ledger notes a rounding error. It would learn, eventually, that rounding errors compound.*
 
 Nate's hand found Rex's head and got a flash — the Thornling's legs from six inches off the ground, the angle of its stumble, the exact moment Rex had broken off because the threat was past. A thirty-second combat engagement compressed into a single image, delivered through warm fur under Nate's palm. *Handled.*
 
@@ -441,6 +443,8 @@ Room 1: Combat exists. Here's how it works. Here's what dies and how. Room 2: Re
 Each room escalated. Each room taught one lesson and tested the last. The difficulty curve was textbook — he'd played enough games to recognize it, and he'd managed enough engineering projects to respect it. Escalating difficulty curves didn't flatten. They were ramps. And ramps led somewhere, usually somewhere the people on them didn't want to go.
 
 The ramp was not a kindness. It had never been a kindness. But it was, in its own brutal arithmetic, a mercy — because the thing waiting past the Tutorial's last door would not grade on a curve, and every room between here and there was a chance to become something harder to kill. The **System** was not generous. But it was, occasionally, practical. The distinction kept more people alive than generosity ever had.
+
+*Practical. What a word to use for a thing that counted bodies the way an accountant counted receipts — necessary losses, acceptable margins, the cost of doing business in a world it had built and staffed and stocked with things designed to kill the employees. But the **System** didn't lie about what it was. That was the worst part. It never once pretended to be kind.*
 
 "It's a difficulty ramp," Nate said. Marcus had drifted over during the crafting work, standing nearby with the quiet attention of a man who was always listening even when he appeared to be doing something else. "Rooms 1 through 3 were the tutorial within the Tutorial. Combat, resources, positioning. The training wheels come off next."
 

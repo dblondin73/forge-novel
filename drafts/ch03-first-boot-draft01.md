@@ -270,7 +270,7 @@ From the Henderson place, a woman's voice rose — not the argument tone from be
 
 Then the Henderson kid was gone.
 
-On screens across the county — the bright blue panels that parents were still learning to read — a single line of text appeared and held for three seconds before dissolving: **DEPENDENT RELOCATED — TUTORIAL ZONE ALPHA**. Three seconds. Most parents didn't read it in time. The ones who did wished they hadn't.
+*On screens across the county — screens that parents were still learning to read — a single line of text appeared and held for three seconds before dissolving:* **DEPENDENT RELOCATED — TUTORIAL ZONE ALPHA**. *Three seconds. Most parents didn't read it in time. The ones who did wished they hadn't.*
 
 Nate felt it more than saw it — a flicker in the peripheral awareness that Flint's fragmented network connection provided, a data point disappearing from a map he couldn't see but could feel through their shared space. One second the kid was there. Then he wasn't. Not a departure. An _erasure._
 

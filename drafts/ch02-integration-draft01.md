@@ -88,7 +88,7 @@ And the memory loss stopped.
 
 Not gradually — all at once. The dissolving, the conversion, the careful disassembly of who he was — all of it ceased in the same instant the occupied space made itself known. As if a hand had reached down and pulled the plug on the machine that had been eating him alive. The memories still in the pipeline — a summer afternoon, the face of a girl he'd known in college, the particular blue of a dawn he'd watched from horseback — stuttered and held. Damaged. Incomplete. But present. Whatever was in there had drawn a line, and everything behind that line was under its protection.
 
-The installer tried again. Harder this time — Nate felt the difference the way you felt the difference between a hand knocking on a door and a boot trying to kick it in. The framework attempted to write itself into the occupied space, to overlay its structures on top of whatever was already there.
+The installer tried again. Harder this time — Nate felt the difference the way you felt the difference between a hand knocking on a door and a boot trying to kick it in. The framework attempted to write itself into the occupied space, to overlay its structures on top of whatever had been there first.
 
 The occupied space didn't acknowledge the attempt. The framework's structures touched it and dissolved — not shattered, not repelled, just _undone_ — the way frost dissolves on a warm windshield. Quietly. Completely. As if the structures had never existed at all.
 
@@ -102,7 +102,7 @@ Oh, but there it was. The thing no installer accounts for, because no installer 
 
 The errors started.
 
-He couldn't see them — he had no interface, no screen, no display of any kind. But he could feel them. Each one landed like a small shock, a burst of something that wasn't quite pain and wasn't quite sound — more like the sensation of a fuse blowing, that sharp snap of a circuit failing under load. They came in clusters. Three, then five, then a cascade that blurred together into a sustained rattle of failures, the installer throwing process after process at the occupied space and watching each one dissolve on contact.
+He couldn't see them — he had no interface, no screen, no display of any kind. But he could feel them. Each one landed like a small shock, a burst of something that wasn't quite pain and wasn't quite sound — more like the sensation of a fuse blowing, that sharp snap of a circuit failing under load. They came in clusters. Three, then five, then a cascade that blurred together into a sustained rattle of failures, the installer throwing process after process at the thing it couldn't move and watching each one dissolve on contact.
 
 The frustration was the part that surprised him. Not his frustration — the installer's. He could feel it the way you could feel a dog straining against a leash, the way you could feel a stuck bolt that wouldn't turn no matter how much torque you applied. Whatever this was, it had been designed to integrate everything. Every human mind, every consciousness, every identity — all of it was supposed to slide neatly into the framework, receive its classification, accept its parameters, and begin operating within its structure. That was the design. That was the purpose.
 
@@ -122,13 +122,13 @@ Then the installer made a decision.
 
 ---
 
-It gave up on the occupied space. Not gracefully — the way a machine gives up when it runs out of options. It sectioned off the territory it couldn't claim, drew a boundary around it, labeled it with something Nate couldn't read, and routed everything else around it. A workaround. A patch job. The engineering equivalent of admitting the bolt was stripped and drilling a new hole next to it. Nate had seen this move before. He'd done it himself, on systems that were live and couldn't go down and had one partition that refused to cooperate. You worked around it. You documented it as "known issue" and moved on. He was a known issue now. Outstanding.
+It gave up on the territory it couldn't claim. Not gracefully — the way a machine gives up when it runs out of options. It sectioned off the territory it couldn't claim, drew a boundary around it, labeled it with something Nate couldn't read, and routed everything else around it. A workaround. A patch job. The engineering equivalent of admitting the bolt was stripped and drilling a new hole next to it. Nate had seen this move before. He'd done it himself, on systems that were live and couldn't go down and had one partition that refused to cooperate. You worked around it. You documented it as "known issue" and moved on. He was a known issue now. Outstanding.
 
 The framework installed itself in the remaining space. Nate felt it — a cold scaffolding assembling itself around the warm territory it couldn't touch. Structures. Categories. Containers. The shelving went up around the immovable thing in the center of the room, and the installer populated those shelves with whatever it could manage: baseline physical stats, a placeholder where a class designation should be, the barest skeleton of an interface.
 
 It was, Nate realized with the particular exhaustion of a man who had watched too many rushed deployments go live before they were ready, a partial installation. The installer had gotten maybe forty percent of what it wanted. The rest — the part that was supposed to overwrite his core identity, assign his purpose, define his metrics of worth — had failed. The occupied space sat in the center of his consciousness like a stone in a stream, and the framework flowed around it the way water flows around something it can't move.
 
-And the memories it had already converted — the ones the occupied space had been too late to protect — were gone. His grandmother's kitchen. His mother's voice across the pasture. The red heeler's name. The fall from the pecan tree. Surface memories, fringe memories, the edges of a life. But they were his edges, and they were gone, and the empty places where they'd been ached like phantom limbs.
+And the memories it had already converted — the ones that had been outside its protection when the conversion started — were gone. His grandmother's kitchen. His mother's voice across the pasture. The red heeler's name. The fall from the pecan tree. Surface memories, fringe memories, the edges of a life. But they were his edges, and they were gone, and the empty places where they'd been ached like phantom limbs.
 
 The void began to break apart.
 
@@ -188,7 +188,7 @@ Nate was one of those.
 
 He opened his eyes.
 
-Wind in the bermudagrass. Post oaks swaying at the tree line. A mockingbird running its catalog in the canopy — cardinal, blue jay, car alarm — as if nothing had interrupted it. From the direction of the county road, voices. Excited. Already excited. However long the world had been frozen, it was over now, and Nate had missed the thaw.
+Wind in the bermudagrass. Post oaks swaying at the tree line. A mockingbird running its catalog in the canopy — cardinal, blue jay, car horn — as if nothing had interrupted it. From the direction of the county road, voices. Excited. Already excited. However long the world had been frozen, it was over now, and Nate had missed the thaw.
 
 He was lying on his side in the pasture. His ears were ringing. His hands were shaking. And his vision —
 
