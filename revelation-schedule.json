@@ -1,0 +1,75 @@
+{
+  "_schema": "Revelation scheduling — multi-step information reveals across chapters. Each revelation has a plant, hint chain, and full reveal. Queried by /forge-write to know which revelations to advance in each chapter.",
+  "revelations": [
+    {
+      "id": "system-binding",
+      "revelation": "The System is progressively binding Nate — Stage 1 through 4",
+      "plant_chapter": 2,
+      "hint_chapters": [3, 5, 8, 12],
+      "full_reveal_chapter": 16,
+      "characters_who_learn": ["Nate"],
+      "reader_knows_before_character": true,
+      "reader_learns_chapter": 4,
+      "status": "planted",
+      "notes": "Narrator drops hints throughout. Nate won't understand until much later."
+    },
+    {
+      "id": "flint-dual-loyalty",
+      "revelation": "Flint serves the System first, Nate second — his friendship is genuine but constrained",
+      "plant_chapter": 3,
+      "hint_chapters": [5, 7, 10, 14],
+      "full_reveal_chapter": 18,
+      "characters_who_learn": ["Nate"],
+      "reader_knows_before_character": true,
+      "reader_learns_chapter": 6,
+      "status": "planted",
+      "notes": "Flint's hesitations, the things he doesn't say. Narrator comments on what Flint withholds."
+    },
+    {
+      "id": "nate-pre-system-origin",
+      "revelation": "Nate has pre-System markers — his abilities aren't entirely System-granted",
+      "plant_chapter": 1,
+      "hint_chapters": [4, 8, 13, 17],
+      "full_reveal_chapter": 22,
+      "characters_who_learn": ["Nate", "Flint"],
+      "reader_knows_before_character": true,
+      "reader_learns_chapter": 8,
+      "status": "planted",
+      "notes": "The occupied space, his WIS stat, things that don't fit the System's model."
+    },
+    {
+      "id": "stag-purpose",
+      "revelation": "The Stag is a pre-System entity with its own agenda",
+      "plant_chapter": 5,
+      "hint_chapters": [9, 14, 19],
+      "full_reveal_chapter": 24,
+      "characters_who_learn": ["Nate"],
+      "reader_knows_before_character": false,
+      "status": "planted",
+      "notes": "Brief sightings, Rex reacting to something unseen. Slow burn."
+    },
+    {
+      "id": "sonja-witness-gift",
+      "revelation": "Sonja can perceive the spiritual layer — she sees what the System hides",
+      "plant_chapter": 9,
+      "hint_chapters": [11, 15],
+      "full_reveal_chapter": 17,
+      "characters_who_learn": ["Nate", "Sonja"],
+      "reader_knows_before_character": false,
+      "status": "not_yet_planted",
+      "notes": "Sonja hasn't appeared yet (introduced post-Tutorial)."
+    },
+    {
+      "id": "integration-global-scope",
+      "revelation": "The Integration affected the entire world — other nations, other creatures, other systems",
+      "plant_chapter": 1,
+      "hint_chapters": [4, 8],
+      "full_reveal_chapter": 9,
+      "characters_who_learn": ["Nate"],
+      "reader_knows_before_character": true,
+      "reader_learns_chapter": 4,
+      "status": "planted",
+      "notes": "Interludes show the wider world. Nate is tunnel-visioned on survival."
+    }
+  ]
+}

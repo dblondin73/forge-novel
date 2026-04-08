@@ -1,0 +1,223 @@
+{
+  "_schema": "Epistemic state tracking — what each character knows/doesn't know/falsely believes at each chapter boundary. Updated after each draft. Queried by /forge-write during context loading.",
+  "_usage": "Before writing chapter N, load the entry for chapter N-1 to know what the POV character is aware of. After drafting, update with learned_this_chapter.",
+  "characters": {
+    "nate": {
+      "after_ch01": {
+        "knows": [
+          "Normal life on the ranch",
+          "Something catastrophic just happened (the Integration)",
+          "Rex is with him",
+          "The world has changed — sky, sounds, everything wrong"
+        ],
+        "doesnt_know": [
+          "What the Integration is",
+          "The System exists",
+          "Flint exists",
+          "Tutorial exists",
+          "Anyone else's fate"
+        ],
+        "falsely_believes": [],
+        "learned_this_chapter": [
+          "The world just broke"
+        ]
+      },
+      "after_ch02": {
+        "knows": [
+          "The Integration happened — reality reshaped",
+          "A System exists and is speaking to him",
+          "He has been 'integrated' — something was done to him",
+          "Rex survived and is bonded to him",
+          "He's in some kind of Tutorial"
+        ],
+        "doesnt_know": [
+          "What the System really is",
+          "The System is binding him progressively",
+          "Flint's true nature or name",
+          "Other survivors exist nearby",
+          "The Tutorial's full structure"
+        ],
+        "falsely_believes": [
+          "The System is a neutral tool"
+        ],
+        "learned_this_chapter": [
+          "The System exists",
+          "He's in a Tutorial",
+          "The Integration changed him physically"
+        ]
+      },
+      "after_ch03": {
+        "knows": [
+          "Flint exists — an AI companion assigned to him",
+          "Flint's name (F.L.I.N.T.)",
+          "He has a HUD overlay (basic phase)",
+          "Structural Analysis is his primary skill",
+          "The Tutorial has rooms to clear",
+          "Rex can sense danger through their bond"
+        ],
+        "doesnt_know": [
+          "System is binding him (Stage 1 progressing)",
+          "Flint has network access to System data",
+          "Sonja, Marcus, or Josie exist",
+          "The Tutorial's full 10-room structure",
+          "His class designation (Engineer)"
+        ],
+        "falsely_believes": [
+          "The System is a neutral tool helping him survive",
+          "Flint is fully loyal to him (Flint serves the System first)"
+        ],
+        "learned_this_chapter": [
+          "Flint exists and has a name",
+          "He has Structural Analysis",
+          "The HUD exists"
+        ]
+      },
+      "after_ch04": {
+        "knows": [
+          "Tutorial rooms have monsters and objectives",
+          "SA reveals structural weak points in enemies and environment",
+          "His crossbow and hammer are effective tools",
+          "Rex fights alongside him — physical combat, not magical",
+          "The bond with Rex transmits emotional impressions"
+        ],
+        "doesnt_know": [
+          "System binding progression",
+          "Other humans in the Tutorial",
+          "His full stat block",
+          "Flint's dual loyalty"
+        ],
+        "falsely_believes": [
+          "The System is neutral",
+          "He's alone in the Tutorial"
+        ],
+        "learned_this_chapter": [
+          "How SA works in combat",
+          "Rex bond transmits impressions in danger"
+        ]
+      },
+      "after_ch05": {
+        "knows": [
+          "Combat is lethal — he can die here",
+          "Killing is necessary for survival",
+          "His abilities are growing with use",
+          "The Tutorial is testing him specifically",
+          "Rex's combat instincts are reliable"
+        ],
+        "doesnt_know": [
+          "System binding",
+          "Other humans",
+          "His class",
+          "The Stag's purpose",
+          "Flint's System-first loyalty"
+        ],
+        "falsely_believes": [
+          "The System is neutral",
+          "He's alone in this"
+        ],
+        "learned_this_chapter": [
+          "He can kill when he has to",
+          "The Tutorial escalates"
+        ]
+      },
+      "after_ch06": {
+        "knows": [
+          "Josie Pickett exists — met her in the Tutorial",
+          "Josie is an Appraiser class",
+          "Other humans survived the Integration and are in Tutorials",
+          "The rooms get harder",
+          "Flint has access to System information Nate can't see"
+        ],
+        "doesnt_know": [
+          "System binding",
+          "Marcus Webb exists",
+          "Sonja Lee exists",
+          "The full party that will form",
+          "Flint's dual loyalty specifics"
+        ],
+        "falsely_believes": [
+          "The System is neutral",
+          "Flint is fully on his side"
+        ],
+        "learned_this_chapter": [
+          "Josie exists",
+          "He's not alone",
+          "Appraiser is a class"
+        ]
+      },
+      "after_ch07": {
+        "knows": [
+          "Marcus Webb exists — military background, Vanguard class",
+          "Working together is necessary to survive harder rooms",
+          "The Tutorial is a gauntlet with escalating difficulty",
+          "Team tactics matter — his SA + Marcus's combat + Josie's appraisal",
+          "Rex and the team can coordinate"
+        ],
+        "doesnt_know": [
+          "System binding",
+          "Sonja Lee exists",
+          "The Tutorial has a boss (Room 10)",
+          "His own class name (Engineer)",
+          "The full scope of post-Tutorial world"
+        ],
+        "falsely_believes": [
+          "The System is neutral",
+          "Clearing the Tutorial means safety"
+        ],
+        "learned_this_chapter": [
+          "Marcus Webb exists and is Vanguard",
+          "Team combat works"
+        ]
+      },
+      "after_ch08": {
+        "knows": [
+          "The Tutorial has a final challenge (Room 10 boss)",
+          "The team can fight together effectively",
+          "His abilities have grown significantly",
+          "The bond with Rex is deepening",
+          "Post-Tutorial world awaits — and it won't be safe"
+        ],
+        "doesnt_know": [
+          "System binding specifics",
+          "Sonja Lee",
+          "The Stag's purpose",
+          "What the post-Tutorial world actually looks like",
+          "His full potential (hidden stats)"
+        ],
+        "falsely_believes": [
+          "The System is neutral",
+          "Graduating the Tutorial is the hard part"
+        ],
+        "learned_this_chapter": [
+          "The Tutorial has a boss fight",
+          "The team is stronger together than apart"
+        ]
+      }
+    },
+    "flint": {
+      "_note": "Flint knows far more than Nate — he has System network access. Track what he REVEALS vs what he WITHHOLDS.",
+      "withholds_through_ch08": [
+        "System binding is progressive (Stage 1-4)",
+        "His own dual loyalty (System-first, Nate-second)",
+        "Nate's hidden stats and origin markers",
+        "The full Tutorial structure before Nate reaches each room",
+        "Other Tutorials running simultaneously",
+        "The Stag's significance"
+      ],
+      "has_revealed_by_ch08": [
+        "His name and basic function",
+        "Room-level tactical data (enemy types, weak points)",
+        "Other party members' class info when asked",
+        "Basic System terminology"
+      ]
+    },
+    "reader": {
+      "_note": "Track dramatic irony — what the READER knows that Nate doesn't. Built through narrator hints and interludes.",
+      "knows_that_nate_doesnt_by_ch08": [
+        "The System is not neutral (narrator hints throughout)",
+        "Flint's loyalty is divided (narrator commentary)",
+        "The Integration is global, not local",
+        "Other factions exist (interlude hints)"
+      ]
+    }
+  }
+}
