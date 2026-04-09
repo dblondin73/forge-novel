@@ -282,7 +282,7 @@ Then the Thornling screamed and surged forward, and Tyler's technique evaporated
 
 A **Warrior** intervened — the woman who'd been fighting on the front line since Room 1. Two rooms of constant swinging had worn her base technique into something that actually worked — not polished, but practiced, her body starting to believe what the System had downloaded. She drove the Thornling off Tyler with two quick cuts and a shove that used the blade's flat like a battering ram. The Thornling went down.
 
-And as it dropped, something flared around her — a brief pulse of golden light, a chime that Nate couldn't hear but could see in the way her eyes widened and her mouth opened in a small *oh*. Flint's glitchy combat log flickered — fragments of data from a network Flint shouldn't have been reading: **[SWORD TECHNIQUE — RANK 1: LOW → MID. ENHANCED OPTION UNLOCKED: POWER STRIKE.]** Her next swing was different. Faster, tighter, the blade glowing faintly as the System guided it into the seam of a Thornling closing from her left. The first System-assisted strike Nate had seen — not just downloaded knowledge, but active guidance, the System steering her arm like a hand on the wheel. It hit harder than anything she'd thrown before.
+And as it dropped, something flared around her — a brief pulse of golden light, a chime that Nate couldn't hear but could see in the way her stance shifted and her mouth opened in a small *oh*. Flint's glitchy combat log flickered — fragments of data from a network Flint shouldn't have been reading: **[SWORD TECHNIQUE — RANK 1: LOW → MID. ENHANCED OPTION UNLOCKED: POWER STRIKE.]** Her next swing was different. Faster, tighter, the blade glowing faintly as the System guided it into the seam of a Thornling closing from her left. The first System-assisted strike Nate had seen — not just downloaded knowledge, but active guidance, the System steering her arm like a hand on the wheel. It hit harder than anything she'd thrown before.
 
 She was already looking for the next target with the hungry focus of someone who wanted to feel that chime a second time.
 
@@ -310,7 +310,7 @@ One bolt. One kill. At thirty feet. With ammunition made from the last room's co
 
 "OUR thorn. In YOUR crossbow. WE did that. Team effort. TEAM KILL." She pumped both fists in the air. "THE SUPPLY CHAIN WORKS."
 
-A **Warrior** nearby, mid-swing, paused long enough to give Josie a look of profound bewilderment before the System reminded him that he was in combat and there was a Thornling within arm's reach. Somewhere in the back of Nate's skull, Flint was making a sound that might have been laughter, if AIs laughed, which they absolutely did not and he would deny it under oath.
+A **Warrior** nearby, mid-swing, paused long enough to give Josie a look of total bewilderment before the System reminded him that he was in combat and there was a Thornling within arm's reach. Somewhere in the back of Nate's skull, Flint was making a sound that might have been laughter, if AIs laughed, which they absolutely did not and he would deny it under oath.
 
 A spike of urgency hit Nate's chest — Rex's impression, not his own. Not words — a spatial flash of the **Mage** from ground level, exposed flank, something closing fast from the direction she wasn't facing. Threat-direction, immediate, the kind of warning a ranch dog gave when a bull turned wrong in the pen.
 
@@ -376,7 +376,7 @@ Whatever the **Vanguard** class was giving him, Nate could see the effect — fi
 
 Tank. Healer. DPS. The holy trinity of every MMO Nate had ever touched, forming in real time in a stone room sixty feet across with real blood and real consequences. Marcus was running the fight like an RTS — top-down, unit placement, resource allocation. Every fighter a piece on a board only he could see fully.
 
-Nate recognized the pattern with a gamer's appreciation and an engineer's respect. *Every other fighter in this room is playing their character. Marcus is playing the board.*
+Nate recognized the pattern and respected the execution. *Every other fighter in this room is playing their character. Marcus is playing the board.*
 
 The warriors took the choke. Two men, shoulder to shoulder, the rock formations funneling the basic Thornlings into a two-wide corridor where even rough technique could hold. Their swings were still rough — but two rooms of use had worn the worst edges off. Both had earned at least one milestone chime, their basic sword technique creeping from Low toward Mid within Rank 1, and the difference showed: shorter arcs, less wasted motion, the downloaded knowledge settling into muscle memory instead of fighting it. One swung his base technique while the other fired his **Power Strike** — the System-guided blow hitting harder and landing cleaner, a faint glow along the blade's edge. Then they swapped. Rotation. Not because they were good at it, but because Marcus had told them to and two rooms of surviving had taught them that listening to Marcus was cheaper than learning the hard way.
 

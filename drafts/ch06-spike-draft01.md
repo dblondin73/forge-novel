@@ -260,13 +260,13 @@ Twelve sets.
 
 Marcus counted heads. His **Vanguard** HUD doing the math that his face was already doing manually — the count, the gap, the equation that every raid leader recognized.
 
-Twenty-five people. Twelve sets.
+Twenty-four people. Twelve sets. The number sat in the silence where twenty-five had been.
 
-The math was deliberate. And something about the way the gear materialized — the amber glow, the organized rows, the presentation that was less "supply drop" and more "storefront display" — nagged at a place in Nate's engineering brain that cataloged design intent. The **System** wasn't just distributing equipment. It was making the distribution *feel* like a reward. Making the upgrade *feel* like progress earned. Making the new armor *feel* like validation for surviving the rooms that had killed Tyler.
+The math was deliberate. And something about the way the gear materialized — the amber glow, the organized rows, the presentation that was less "supply drop" and more "storefront display" — nagged at the part of him that cataloged design intent. The **System** wasn't just distributing equipment. It was making the distribution *feel* like a reward. Making the upgrade *feel* like progress earned. Making the new armor *feel* like validation for surviving the rooms that had killed Tyler.
 
 Dopamine hit. Classical conditioning. Perform, survive, receive shiny things. The oldest loop in game design, and the **System** was running it on traumatized humans who were too grateful for better armor to notice the leash being fitted to the collar.
 
-"Distribute among your party," Marcus read aloud, and his voice carried the particular flatness it got when the mission required something that the man inside the uniform didn't want to do. He looked at the gear. Looked at the group. Looked at the faces of twenty-five people who'd just lost friends and were now being asked to decide who deserved protection.
+"Distribute among your party," Marcus read aloud, and his voice carried the particular flatness it got when the mission required something that the man inside the uniform didn't want to do. He looked at the gear. Looked at the group. Looked at the faces of twenty-four people who'd just lost someone and were now being asked to decide who deserved protection.
 
 "Fighters first," Marcus said. "The people holding the line get the armor. That's not preference — it's math. If the front line goes down, the support line goes down thirty seconds later."
 
@@ -274,9 +274,9 @@ He was right. Nate knew he was right. Everyone in the corridor knew he was right
 
 The sets distributed. Warriors grabbed upgraded weapons with the urgency of people who'd watched their blades bend against **Thornguard** plate. The **Shield Guardian** took a reinforced shield that **SA** read as genuinely improved — actual metal facing over a layered composite core. Better. Not good. Better.
 
-And the gratitude was immediate. Visible. The **Warrior** with the lion shield tested his new blade and his face opened into something that looked uncomfortably like joy. A woman who'd been fighting in starter leather ran her hands over the new chest piece and her eyes went bright. The room filled with the particular energy of people receiving gifts — not supplies, not necessities, *gifts* — and nobody was thinking about the distribution math or the scarcity equation or the very deliberate way the **System** had made twelve sets for twenty-five people so that receiving gear felt like winning and not receiving it felt like losing.
+And the gratitude was immediate. Visible. The **Warrior** with the lion shield tested his new blade and his face opened into something that looked uncomfortably like joy. A woman who'd been fighting in starter leather ran her hands over the new chest piece and her eyes went bright. The room filled with the particular energy of people receiving gifts — not supplies, not necessities, *gifts* — and nobody was thinking about the distribution math or the scarcity equation or the very deliberate way the **System** had made twelve sets for twenty-four people so that receiving gear felt like winning and not receiving it felt like losing.
 
-The **System** just trained twenty-five people to want what it gives. That's not a loot drop. That's a leash.
+The **System** just trained twenty-four people to want what it gives. That's not a loot drop. That's a leash.
 
 A crossbow improvement kit sat in the lineup. Better limbs, reinforced rail, a proper trigger mechanism. Nate picked it up. **SA** read the components — honest materials, real engineering, the **System**'s first actual investment in crossbow infrastructure. The limbs alone would double his effective range.
 
@@ -304,7 +304,7 @@ Nate was already walking back to the forge. He didn't explain. Didn't make a spe
 
 *Flint saw it too.*
 
-*The AI that lives in Nate's head — the one who was supposed to be a System-loyal companion process, the one the Holy Spirit rewrote before first boot — watched Nate give away the crossbow kit, and something inside its processing architecture lit up that its diagnostic suite couldn't classify. Not admiration. Flint doesn't do admiration. Something closer to — recognition. The way a machine recognizes a pattern it was built to find but wasn't told to look for.*
+*The AI that lives in Nate's head — the one who was supposed to be a System-loyal companion process, the one that something older and quieter than the System rewrote before first boot — watched Nate give away the crossbow kit, and something inside its processing architecture lit up that its diagnostic suite couldn't classify. Not admiration. Flint doesn't do admiration. Something closer to — recognition. The way a machine recognizes a pattern it was built to find but wasn't told to look for.*
 
 *Flint logged the event. Filed it under "unclassified subsystem activity." Cross-referenced it with seventeen other moments across six rooms where Nate had done something that the System's behavioral models didn't predict, and the unclassified subsystem's signature had spiked, and the correlation between the two was too clean to be coincidence and too far outside Flint's operational framework to be anything Flint could admit to understanding.*
 
@@ -428,7 +428,7 @@ Judge worked the other margin — the aggressive one, the one where things neede
 
 This is the last encounter before something changes. The moment where the build comes together — coordinated DPS, crowd control, tank-and-spank on real elites. Five rooms of cohesion paying off. Classic design.
 
-The room cleared. Twenty-five people standing in an eighty-foot chamber, breathing hard, bleeding in places, but standing. The **Healer** was already working — a thigh wound on a Warrior, hands glowing, mana carefully rationed. The **Mage** sat against the second pillar with her head back and her eyes closed, mana somewhere between "empty" and "don't ask." Two support-class fighters had minor gashes from Thornlings that had gotten past the line before Rex redirected them.
+The room cleared. Twenty-four people standing in an eighty-foot chamber, breathing hard, bleeding in places, but standing. The **Healer** was already working — a thigh wound on a Warrior, hands glowing, mana carefully rationed. The **Mage** sat against the second pillar with her head back and her eyes closed, mana somewhere between "empty" and "don't ask." Two support-class fighters had minor gashes from Thornlings that had gotten past the line before Rex redirected them.
 
 Costly. Close. But clear.
 

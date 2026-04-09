@@ -136,7 +136,7 @@ A beat. Nate felt the shift — Flint's attention snapping sideways, rummaging, 
 
 "Well, look at that. There IS something here. One skill, pre-loaded, already active." Flint's voice carried the particular shade of surprise that a mechanic gets when he opens a hood expecting catastrophe and finds one part that's actually pristine. "**Structural Analysis**. System description says — and I'm reading this verbatim because I don't have the context to editorialize — '_Reveals the underlying structure of objects, constructs, and systems within range. Passive scan, focus-activated. Displays load-bearing architecture, stress points, material composition._' Rank 1, Low tier. The absolute floor. But it's clean — no corruption, no flags, no **[PROCESSING]** tag. It's the one thing in your entire build that actually looks like it was supposed to be there."
 
-**Structural Analysis**. The engineer's lens, turned into a System skill. See the bones of a thing — what's load-bearing, what's decorative, where the stress concentrations live. He'd spent his entire career doing exactly that, just with blueprints and diagnostic tools instead of whatever this was.
+**Structural Analysis**. What he'd done his whole career, turned into a System skill. See the bones of a thing — what's load-bearing, what's decorative, where the stress concentrations live. He'd spent his entire career doing exactly that, just with blueprints and diagnostic tools instead of whatever this was.
 
 "That's not nothing," Nate said.
 
@@ -222,7 +222,7 @@ Nate almost smiled. Almost. "He's going to burn down the hay barn."
 
 "I'm a big fan of your work. Truly. Fence: riveting. Please continue."
 
-He drove past the wellhead without stopping. The water pump sounded worse than yesterday — the grinding audible through the closed cab now, a bearing on its last argument with physics. The engineer in him cataloged it automatically: intermittent vibration, frequency increasing under load, probable race degradation on the inner bearing. It was the sound of a machine that had been telling you it needed attention for three weeks and was now clearing its throat for the final time.
+He drove past the wellhead without stopping. The water pump sounded worse than yesterday — the grinding audible through the closed cab now, a bearing on its last argument with physics. He cataloged it automatically: intermittent vibration, frequency increasing under load, probable race degradation on the inner bearing. It was the sound of a machine that had been telling you it needed attention for three weeks and was now clearing its throat for the final time.
 
 "Damn bearing," Nate said. But it was still running, still pulling water, and right now _still running_ was the top of the triage list. Same as it always was on a ranch. Same as it always was anywhere. You didn't fix the thing that was working ugly. You fixed the thing that stopped.
 
@@ -388,11 +388,11 @@ Stone. That was the first thing — stone everywhere, underfoot and overhead and
 
 His boots were on stone. Rex was pressed against his left leg, body rigid, nose working overtime — ears flat, tail tucked, the full-body tension of a dog who'd been standing in a pasture three seconds ago and was now standing in a hallway that smelled like nothing he'd ever cataloged. Judge was against his right leg, hackles up from shoulders to tail, issuing a low continuous growl at everything and nothing — the walls, the torchlight, the fundamental wrongness of a place that shouldn't exist. Her opinion of the **System** had been firmly established.
 
-Torches. Actual torches — fire on sticks, mounted in iron brackets along the walls at regular intervals, throwing unsteady light that made the shadows breathe. The engineering part of Nate's brain noted the spacing automatically: eight feet apart, alternating sides, providing overlapping coverage with minimal dead zones. Functional lighting design. Someone had thought about this.
+Torches. Actual torches — fire on sticks, mounted in iron brackets along the walls at regular intervals, throwing unsteady light that made the shadows breathe. He noted the spacing automatically: eight feet apart, alternating sides, providing overlapping coverage with minimal dead zones. Functional lighting design. Someone had thought about this.
 
 _Dungeon._
 
-The word surfaced from the gamer lens and sat there with the matter-of-fact weight of recognition. Not metaphorical. Not symbolic. An actual, honest-to-God dungeon — stone corridors, torch-lit, built to channel you forward. Tutorial dungeon. Starter instance. The kind of introductory zone every game used to teach you the controls before it started trying to kill you.
+The word surfaced and sat there with the matter-of-fact weight of recognition. Not metaphorical. Not symbolic. An actual, honest-to-God dungeon — stone corridors, torch-lit, built to channel you forward. Tutorial dungeon. Starter instance. The kind of introductory zone every game used to teach you the controls before it started trying to kill you.
 
 Except the stone under his boots was real. The torch-heat on his face was real. And the sound his breath made in the close air of that corridor was the sound of a man breathing in a real place that had real walls and a real ceiling and was going to have real consequences.
 
@@ -431,7 +431,7 @@ Along the walls, weapon racks. Swords, axes, bows, staves, a collection that wou
 
 Nate didn't reach for any of them.
 
-He looked at the weapons, and then he looked at the walls, and then he looked at the pedestal, and the engineering lens was already firing — not at the weapons but at the _room._ The bones of the thing. What it was made of. How it was built. What was load-bearing and what was decoration.
+He looked at the weapons, and then he looked at the walls, and then he looked at the pedestal, and **Structural Analysis** was already firing — not at the weapons but at the _room._ The bones of the thing. What it was made of. How it was built. What was load-bearing and what was decoration.
 
 "Flint. What does SA show me on the weapon racks?"
 
