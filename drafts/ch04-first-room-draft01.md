@@ -334,6 +334,10 @@ Nobody asked why the man with the **PROCESSING** tag was handing out water while
 
 ---
 
+Pay attention to this. Not because it was dramatic — it wasn't. A man handing out water in a room full of people reaching for swords. But the things that matter rarely look like they matter when they're happening. They look small. They look quiet. They look like a man crouching beside a grieving mother and saying _drink something_ while the rest of the room chases power. The System was watching fifty people choose weapons. It was not watching the one who chose water. It should have been.
+
+---
+
 Marcus appeared without preamble — already moving, already assessing, as if he'd been running his own recon of the room and had just decided Nate's corner was the next objective.
 
 His eyes swept the crossbow, the three-legged table, the missing wall bracket, the pile of discarded crossbow parts, and processed all of it in the time it took most people to notice Nate's nameplate. They lingered on the amber **[PROCESSING]** tag for exactly one second.

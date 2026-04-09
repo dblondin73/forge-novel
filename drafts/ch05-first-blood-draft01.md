@@ -78,7 +78,7 @@ The fight was ending. Warriors mobbing the last two Thornlings with more aggress
 
 Nobody had noticed what the dogs did. Forty-nine people fighting for their lives, and not a single one had seen a Border Collie and a Blue Heeler work a monster like a pair that had been splitting cattle since Judge was old enough to bite.
 
-*The System had no classification for what they'd done. No rank, no class, no skill tree. Two animals operating below the threshold of everything the System measured — and executing a combat maneuver that three Warriors with full class kits hadn't thought to try. The System noted their existence the way a ledger notes a rounding error. It would learn, eventually, that rounding errors compound.*
+*The System had no classification for what they'd done. No rank, no class, no skill tree. Two animals operating below the threshold of everything the System measured — and executing a combat maneuver that three Warriors with full class kits hadn't thought to try. The System noted their existence the way a ledger notes a rounding error. It would learn, eventually, that rounding errors compound. She was watching the dogs before the System thought to. She's always been fond of the ones who work without being asked.*
 
 Nate's hand found Rex's head and got a flash — the Thornling's legs from six inches off the ground, the angle of its stumble, the exact moment Rex had broken off because the threat was past. A thirty-second combat engagement compressed into a single image, delivered through warm fur under Nate's palm. Urgency fading to pack-satisfaction. The job was done.
 
@@ -116,7 +116,7 @@ Because it had been designed to.
 
 Golden chimes. Progress bars. A tiny fanfare for every increment. The System hadn't just given them tools — it had given them a *feedback loop.* Kill the thing, get the chime. See the number. Chase the next number. The same dopamine architecture that kept people clicking in games, except the stakes were blood and the rewards were muscle-deep.
 
-*Give a man a sword and he'll swing it. Give him a number afterward and he'll chase the next one. The System understood this about people — had been designed to understand it, or had learned it, which amounted to the same thing. Every reward was a hook. Every hook set deeper than the last. The System was building something inside each of them that felt like growth and might have been a leash, and nobody was going to notice the difference until it was too late to care — because by then, the leash would feel like the only thing keeping them alive. Which was the point. It had always been the point.*
+*Give a man a sword and he'll swing it. Give him a number afterward and he'll chase the next one. The System understood this about people — had been designed to understand it, or had learned it, which amounted to the same thing. Every reward was a hook. Every hook set deeper than the last. The System was building something inside each of them that felt like growth and might have been a leash, and nobody was going to notice the difference until it was too late to care — because by then, the leash would feel like the only thing keeping them alive. Which was the point. It had always been the point. But there are older hooks than golden chimes, love. And the ones that don't glitter are the ones that hold.*
 
 Nate watched them scroll and chase their numbers and thought: *Post-first-dungeon inventory check. Every MMO in history did this — killed you a little, healed you up, then showed you the loot screen so the dopamine hit arrived with the numbers. Classic design. Good design, actually.*
 
@@ -344,7 +344,7 @@ The fight ended. Eight Thornlings down. Zero fatalities. Two injuries — a gash
 
 The **Mage** was leaning against the wall, hands dark, breathing hard. She'd thrown four **Fire Bolts** total. The first two had been full-power dumps — bright, dramatic, effective, expensive. The third had been half-power, a sign she was starting to feel the drain. The fourth had been a flicker. She'd gone dark mid-fight, standing useless while the warriors covered her position, and the look on her face said she'd learned the lesson the System intended. Mana was a resource. Resources had limits. And limits didn't care about adrenaline.
 
-*The System was teaching.* And the class was learning. Which would have been heartwarming if their teacher wasn't a kidnapper and the classroom wasn't a dungeon.
+*The System was teaching. And the class was learning. Which would have been heartwarming if their teacher wasn't a kidnapper and the classroom wasn't a dungeon. But she's seen classrooms before, love — real ones, the kind where the lesson costs more than tuition. The best teachers are never kind. They're precise.*
 
 ---
 
@@ -510,7 +510,7 @@ Room 1: Combat exists. Here's how it works. Here's what dies and how. Room 2: Re
 
 Each room escalated. Each room taught one lesson and tested the last. The difficulty curve was textbook — he'd played enough games to recognize it, and he'd managed enough engineering projects to respect it. Adaptive difficulty meant the ramp adjusted to what they could handle, which meant the ramp never flattened. It calibrated. And calibrated ramps led to a place where the calibration reached the limit of what calibration could account for.
 
-*The ramp was not a kindness. It had never been a kindness. But it was, in its own brutal arithmetic, a mercy — because the thing waiting past the Tutorial's last door would not grade on a curve, and every room between here and there was a chance to become something harder to kill. The System was not generous. But it was, occasionally, practical. The distinction kept more people alive than generosity ever had.*
+*The ramp was not a kindness. It had never been a kindness. But it was, in its own brutal arithmetic, a mercy — because the thing waiting past the Tutorial's last door would not grade on a curve, and every room between here and there was a chance to become something harder to kill. The System was not generous. But it was, occasionally, practical. The distinction kept more people alive than generosity ever had. She could see the shape of what was coming. She always could. And if she held her tongue, it was not because she didn't care — it was because some lessons only land when the student walks into them with both eyes open.*
 
 "It's a difficulty ramp," Nate said. Marcus had drifted over during the crafting work, standing nearby with the quiet attention of a man who was always listening even when he appeared to be doing something else. "Rooms 1 through 3 were the tutorial within the Tutorial. Combat, resources, positioning. The training wheels come off next."
 

@@ -150,6 +150,12 @@ The void began to break apart.
 
 ---
 
+Every person on earth went through it. Eight billion integrations, eight billion frameworks installed, eight billion sets of shelves erected in eight billion minds. Most went cleanly — the full write, the complete overwrite, the seamless migration from what they had been to what the System needed them to become. They woke up grateful. They woke up classified. They woke up with blue screens and starter kits and the warm certainty that the thing that had just happened to them was a gift.
+
+One did not. And the difference — small as a single partition error on a single node — would ripple outward in ways neither the System nor the man lying in the bermudagrass could yet imagine.
+
+---
+
 Not violently — ice breaking in spring. Cracks of real light appearing in the darkness, carrying the smell of — bermudagrass? — and the sound of wind. The real world leaking back through the fractures.
 
 Nate felt gravity first. Then weight. Then the specific, undeniable sensation of lying on his side on hard ground with something pressing into his hip.
@@ -245,6 +251,12 @@ Nate put his hand on Rex's head. Stood at his fence line. Watched the world rece
 Somewhere deep inside him, in the space the installer couldn't touch, something that had been there his whole life settled quietly back into place. Like a man who'd stood up when a stranger entered the room and sat back down when the stranger left. It had not fought. It had not needed to. The stranger had left of his own accord, and the room was exactly as it had been.
 
 And the empty places at the edges of his memory ached.
+
+---
+
+It is worth noting — because no one else will, and the moment deserves it — that the man standing at the fence had not moved. Not toward the celebration. Not away from it. He had watched the world receive what he had been denied, and instead of reaching for it, he had put his hand on a dog's head and stood still. That is not the response the System was designed for. The System understood wanting. It understood reaching. It did not understand a man who could watch the feast and feel the hunger and choose not to eat, because something in him — older than the hunger, quieter than the want — already knew what the food was made of.
+
+---
 
 He was still standing there, hand on Rex's head, when the green arcs flickered. Both of them, simultaneously — a stutter in the pale light, like a fluorescent tube catching. Then they steadied, brightened a fraction, and held. Something new appeared at the bottom center of his sight, floating between the brackets like a subtitle on a screen only he could see.
 

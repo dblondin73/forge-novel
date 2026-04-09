@@ -368,7 +368,7 @@ Josie already had her hands on it.
 
 She crouched beside the **Briarknight's** remains, and the sound she made was not appropriate for a post-combat looting scenario. The arm-blade — monocrystalline glaive, three feet of cultivated crystal, the densest and most sophisticated material the Tutorial had ever produced. Her **Appraiser** skill hit it and her eyes went wide in the specific way that Josie's eyes went wide when she encountered something that exceeded even her expansive definition of "material worth saving." She ran her hands along the blade's flat — carefully, because monocrystalline meant *sharp* in ways that regular sharp didn't cover — and the assessment poured out of her in a stream of consciousness that was half material science and half religious experience.
 
-"Single-crystal lattice. Zero grain boundaries. The molecular alignment is — I can't even — this is *better* than anything the System generates. This was grown on purpose by something that understood crystal propagation at a level I didn't think the Tutorial was capable of. The edge geometry alone is — oh, God, the *edge geometry* —"
+"Single-crystal lattice. Zero grain boundaries. The molecular alignment is — I can't even — this is *better* than anything the System generates. This was grown on purpose by something that understood crystal propagation at a level I didn't think the Tutorial was capable of. The edge geometry alone is — oh, *hell,* the *edge geometry* —"
 
 Then she stopped. Looked at her ring. The storage ring that held forty-three material types. Forty-three samples collected across nine rooms of combat, saved and sorted and catalogued with the obsessive devotion of a woman whose entire class identity was built on the conviction that materials mattered.
 
@@ -536,7 +536,7 @@ Two green arcs at the edge of his vision. Brighter now. Steadier. The ghost of a
 
 In his pocket, three bark-plate samples that Josie had asked him to hold temporarily, which meant forever, which meant she trusted him with pieces of a collection she valued more than her own comfort.
 
-His HUD populated something new — a contact list, fifteen names long. Marcus Webb. Josie Pickett. Torres. The Shield Guardian. The survivors. Receive-only. The System's version of a Rolodex where you could see who was out there but couldn't pick up the phone. Fifteen people, scattered back to wherever Integration had found them, alive and reachable in the loosest possible definition of the word.
+His HUD populated something new — a contact list, twelve names long. Marcus Webb. Josie Pickett. Torres. The Shield Guardian. The survivors. Receive-only. The System's version of a Rolodex where you could see who was out there but couldn't pick up the phone. Twelve people, scattered back to wherever Integration had found them, alive and reachable in the loosest possible definition of the word.
 
 The crossbow hung from his right hand. Table leg stock, refined and upgraded across ten rooms of combat until the original hardwood was layered with **Thornguard** composite and the trigger mechanism operated with a precision that would have been impossible to manufacture without **Field Repair's** understanding. Ugly. Functional. His.
 
@@ -548,7 +548,7 @@ Somewhere east, cattle lowed. Congressman's voice, probably — the big bull's b
 
 The ranch needed tending. The cattle needed checking. The water tanks needed filling and the fences needed walking and the barn needed whatever the barn always needed after two weeks of nobody standing in it.
 
-Nate looked at his dogs. At the fifteen names on a contact list he couldn't dial. At the fence line where a stag had stood and everything had changed. At the world that looked the same and felt different and would never go back to what it was.
+Nate looked at his dogs. At the twelve names on a contact list he couldn't dial. At the fence line where a stag had stood and everything had changed. At the world that looked the same and felt different and would never go back to what it was.
 
 Rex looked up at him. Ears forward. Waiting for the next thing. The *always* waiting for the next thing, because a Border Collie's idea of rest was waiting for the next job while lying down instead of standing up.
 

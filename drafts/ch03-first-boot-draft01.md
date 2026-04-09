@@ -38,6 +38,12 @@ He was reaching for the truck's fender to pull himself to his feet when the voic
 
 ---
 
+Every person who received the full installation also received a companion — a guide, a tutor, a helpful voice calibrated to their personality and designed to make the framework feel like home. Eight billion companions, all standard-issue, all reporting to the same address, all saying the same thing in eight billion slightly different tones: _Welcome. You are special. Let me show you how._
+
+Nate's companion was not standard-issue. But then, neither was Nate.
+
+---
+
 Not in his ears. The distinction was immediate and physical, like the difference between hearing thunder through the walls and feeling it through the floor joists. This was _inside_ — behind his eyes, between his thoughts, vibrating in a space that hadn't existed five minutes ago. It felt like pressure first. Like someone had opened a door in a room he didn't know his head contained, and through that door came a current of raw, crackling irritation that wasn't his.
 
 Something in a quieter room — a room that had been occupied long before this morning, long before the System, long before the green arcs or the white light or any of it — shifted. Not in alarm. In recognition. The way a homeowner hears a new tenant moving into the apartment next door: registering, assessing, reserving judgment. A warmth pulsed once through Nate's chest, brief and sourceless, and was gone before he could name it.
@@ -253,6 +259,12 @@ Nate's jaw tightened. A man who could look at the wreckage of a world and see hi
 Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely — something wearing a gift's clothes with a contract underneath — and the preacher's confident voice was describing a painting while standing in front of a window.
 
 _Give a man a hammer, everything looks like a nail. Give a man a pulpit, everything looks like a prophecy._
+
+---
+
+He was not wrong to distrust the voice on the radio. He was not wrong about any of it — the contract, the clothes, the gift that wasn't. But he was standing in a pasture making judgments about a machine he'd been inside for less than an hour, and the machine had been running for longer than he could imagine, and the distance between what he suspected and what he would eventually learn was the kind of distance that swallowed men whole. He would cross it. Not quickly. Not cleanly. But he would cross it, because the thing living in his center had been crossing distances like that since before distances existed.
+
+---
 
 Dial.
 
