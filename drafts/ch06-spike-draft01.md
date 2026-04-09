@@ -28,7 +28,7 @@ Rex had felt them two seconds before Flint's sensors registered the density shif
 
 Marcus was already calling formation from the corridor mouth, his **Vanguard** HUD painting positional data across the fighters' combat interfaces. "**Warriors**, spread formation — we've got room to maneuver. Don't bunch up. **Mage**, find elevation — there." He pointed to a cluster of boulders along the north edge, waist-high, good sight lines. "**Healer**, behind the rock line. Support, stay mobile."
 
-Twenty-five people. Down from the corridor losses between the barrier and the rest area — the thinning nobody talked about, the quiet math of bodies that had started moving and stopped. Three Healers. Josie. Nate. Rex. Judge. And the rest — the ones who weren't combat classes but had survived three rooms of learning that survival wasn't optional.
+Forty-nine people. All of them — every last body that had walked out of Room 0 and fought through three rooms of Thornlings without losing a single soul. Three Healers. Josie. Nate. Rex. Judge. And the rest — the ones who weren't combat classes but had survived three rooms of learning that survival wasn't optional. Nobody had died yet. That fact sat in the group like a held breath, fragile and heavy at the same time.
 
 The spawn points fired.
 
@@ -254,19 +254,19 @@ Upgraded crossbow. Upgraded hammer. Twenty minutes of forge work that felt like 
 
 "TUTORIAL ADVANCEMENT REWARD — DISTRIBUTE AMONG YOUR PARTY."
 
-The **System**'s text appeared in the blue that Nate couldn't access — but everyone else could. A crafting station along the east wall activated, surfaces glowing with the soft amber of System-generated equipment. Gear materialized in organized rows: reinforced leather armor, improved weapons, a shield with actual metal facing instead of composite pretending. Twelve sets. Laid out with the careful presentation of merchandise designed to be chosen.
+The **System**'s text appeared in the blue that Nate couldn't access — but everyone else could. A crafting station along the east wall activated, surfaces glowing with the soft amber of System-generated equipment. Gear materialized in organized rows: reinforced leather armor, improved weapons, a shield with actual metal facing instead of composite pretending. Twenty-four sets. Laid out with the careful presentation of merchandise designed to be chosen.
 
-Twelve sets.
+Twenty-four sets.
 
 Marcus counted heads. His **Vanguard** HUD doing the math that his face was already doing manually — the count, the gap, the equation that every raid leader recognized.
 
-Twenty-four people. Twelve sets. The number sat in the silence where twenty-five had been.
+Forty-eight people. Twenty-four sets. The number sat in the silence where forty-nine had been.
 
 The math was deliberate. And something about the way the gear materialized — the amber glow, the organized rows, the presentation that was less "supply drop" and more "storefront display" — nagged at the part of him that cataloged design intent. The **System** wasn't just distributing equipment. It was making the distribution *feel* like a reward. Making the upgrade *feel* like progress earned. Making the new armor *feel* like validation for surviving the rooms that had killed Tyler.
 
 Dopamine hit. Classical conditioning. Perform, survive, receive shiny things. The oldest loop in game design, and the **System** was running it on traumatized humans who were too grateful for better armor to notice the leash being fitted to the collar.
 
-"Distribute among your party," Marcus read aloud, and his voice carried the particular flatness it got when the mission required something that the man inside the uniform didn't want to do. He looked at the gear. Looked at the group. Looked at the faces of twenty-four people who'd just lost someone and were now being asked to decide who deserved protection.
+"Distribute among your party," Marcus read aloud, and his voice carried the particular flatness it got when the mission required something that the man inside the uniform didn't want to do. He looked at the gear. Looked at the group. Looked at the faces of forty-eight people who'd just lost someone — their *first* someone — and were now being asked to decide who deserved protection.
 
 "Fighters first," Marcus said. "The people holding the line get the armor. That's not preference — it's math. If the front line goes down, the support line goes down thirty seconds later."
 
@@ -274,9 +274,9 @@ He was right. Nate knew he was right. Everyone in the corridor knew he was right
 
 The sets distributed. Warriors grabbed upgraded weapons with the urgency of people who'd watched their blades bend against **Thornguard** plate. The **Shield Guardian** took a reinforced shield that **SA** read as genuinely improved — actual metal facing over a layered composite core. Better. Not good. Better.
 
-And the gratitude was immediate. Visible. The **Warrior** with the lion shield tested his new blade and his face opened into something that looked uncomfortably like joy. A woman who'd been fighting in starter leather ran her hands over the new chest piece and her eyes went bright. The room filled with the particular energy of people receiving gifts — not supplies, not necessities, *gifts* — and nobody was thinking about the distribution math or the scarcity equation or the very deliberate way the **System** had made twelve sets for twenty-four people so that receiving gear felt like winning and not receiving it felt like losing.
+And the gratitude was immediate. Visible. The **Warrior** with the lion shield tested his new blade and his face opened into something that looked uncomfortably like joy. A woman who'd been fighting in starter leather ran her hands over the new chest piece and her eyes went bright. The room filled with the particular energy of people receiving gifts — not supplies, not necessities, *gifts* — and nobody was thinking about the distribution math or the scarcity equation or the very deliberate way the **System** had made twenty-four sets for forty-eight people so that receiving gear felt like winning and not receiving it felt like losing.
 
-The **System** just trained twenty-four people to want what it gives. That's not a loot drop. That's a leash.
+The **System** just trained forty-eight people to want what it gives. That's not a loot drop. That's a leash.
 
 A crossbow improvement kit sat in the lineup. Better limbs, reinforced rail, a proper trigger mechanism. Nate picked it up. **SA** read the components — honest materials, real engineering, the **System**'s first actual investment in crossbow infrastructure. The limbs alone would double his effective range.
 
@@ -428,7 +428,7 @@ Judge worked the other margin — the aggressive one, the one where things neede
 
 This is the last encounter before something changes. The moment where the build comes together — coordinated DPS, crowd control, tank-and-spank on real elites. Five rooms of cohesion paying off. Classic design.
 
-The room cleared. Twenty-four people standing in an eighty-foot chamber, breathing hard, bleeding in places, but standing. The **Healer** was already working — a thigh wound on a Warrior, hands glowing, mana carefully rationed. The **Mage** sat against the second pillar with her head back and her eyes closed, mana somewhere between "empty" and "don't ask." Two support-class fighters had minor gashes from Thornlings that had gotten past the line before Rex redirected them.
+The room cleared. Forty-eight people standing in an eighty-foot chamber, breathing hard, bleeding in places, but standing. The **Healer** was already working — a thigh wound on a Warrior, hands glowing, mana carefully rationed. The **Mage** sat against the second pillar with her head back and her eyes closed, mana somewhere between "empty" and "don't ask." Two support-class fighters had minor gashes from Thornlings that had gotten past the line before Rex redirected them.
 
 Costly. Close. But clear.
 
@@ -478,13 +478,9 @@ Rex's head pressed against Nate's hand. The dog was still facing forward, always
 
 The left path narrowed and the narrowing was a corridor of its own — a gauntlet stocked with Thornlings that hit harder than anything in Rooms 1 through 6. The **System** had sorted the stronger fighters onto the harder road and then immediately proved why the sorting existed.
 
-Seven people didn't make it through.
+The left path delivered them to a rest area — smaller, tighter, the walls closer together in a way that made the reduced group feel like a reduction instead of just a number. Eighteen people out of forty-eight. The barrier had sorted the strongest fighters and the people the **System** wanted to keep watching onto the harder road, and left thirty others on the easier path with no say in the matter.
 
-Not all deaths. Some were injuries too severe for the **Healer**'s depleted mana — fighters dragged to alcoves in the corridor walls where they could wait for help that nobody was sure was coming. Some were walls — barriers that materialized behind stragglers, cutting them off from the group with the same clinical precision as the fork. Left behind. Not dead. Just gone.
-
-The **System** winnowed. That was the word. Not "killed" and not "sorted" but *winnowed* — the agricultural precision of separating grain from chaff, keeping what the process needed and discarding what it didn't, and the fact that the grain didn't get a say in the matter was the whole point.
-
-The rest area on the left path was smaller, tighter, the walls closer together in a way that made the reduced group feel like a reduction instead of just a number. Marcus did the headcount — standing, moving through the group, making eye contact, counting bodies with the systematic care of a man who refused to let people become numbers even when the numbers were all he had left.
+Marcus did the headcount — standing, moving through the group, making eye contact, counting bodies with the systematic care of a man who refused to let people become numbers even when the numbers were all he had left.
 
 "Eighteen," he said. And then, because Marcus was the kind of leader who translated his own reports: "Twelve fighters. Three support. Josie. You. The dogs."
 
@@ -550,7 +546,7 @@ The silence that followed had weight. Tyler's absence filling the space that hum
 
 Nobody spoke for a moment. The corridor stretched ahead, dark, the torchlight failing at the edge of visible range. **Structural Analysis** read what it could — stone walls, narrower than before, spawn points pulsing in the deep. More of them. Closer together.
 
-"The difficulty just doubled," Flint said. His voice carried none of the usual theater. Just information, delivered with the weight of data that mattered. "The group just halved. I want to say the math works out but I'd be lying, and I've been told my poker face needs work." A beat. "On account of not having a face."
+"The difficulty just doubled," Flint said. His voice carried none of the usual theater. Just information, delivered with the weight of data that mattered. "Eighteen people on the hard path. Forty-eight minus Tyler, minus thirty on the easy road, equals us. I want to say the math works out but I'd be lying, and I've been told my poker face needs work." A beat. "On account of not having a face."
 
 Rex was already facing the corridor.
 

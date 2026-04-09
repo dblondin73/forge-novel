@@ -488,7 +488,7 @@ Light — brighter than the corridor, brighter than any room since the System fi
 
 And in the space, shapes. Architecture. The suggestion of something massive and deliberate and patient, something that had been built for exactly this moment and had been waiting since before the door existed for someone to finally walk through it.
 
-Fifteen people who'd been fifty in the first room and twenty-five at the split and eighteen when this corridor started and fifteen now because the Tutorial had taken what it wanted and left what it couldn't break. Behind them: nine rooms of stone and blood and the particular education that came from learning that the world had rules you couldn't read and a difficulty curve designed to teach through loss.
+Fifteen people who'd been fifty in the first room and forty-nine when Tyler fell and eighteen when the barrier sorted them onto the hard path and fifteen now because the Tutorial had taken what it wanted and left what it couldn't break. Behind them: nine rooms of stone and blood and the particular education that came from learning that the world had rules you couldn't read and a difficulty curve designed to teach through loss.
 
 Ahead: the last thing the Tutorial had to show them.
 

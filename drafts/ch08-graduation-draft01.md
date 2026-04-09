@@ -484,7 +484,7 @@ But it came with separation.
 
 Marcus noticed first. His edges — the hard lines of his shoulders, his boots, the sword on his hip — were thinning. Going translucent around the borders — walls first, then the dead, now the living. Except Marcus wasn't dying. He was being *relocated.*
 
-"Contact list just populated," Marcus said, looking at something Nate couldn't see — a blue-screen notification, golden-bordered, the System's parting gift. "Fifteen names. Everyone who survived. Receive-only." He looked up. His eyes found Nate through the dissolving arena with the steady focus of a man who understood that some goodbyes were temporary and some weren't and the System wasn't specifying which. "Can't call. Can receive. The System's version of a phone book with no outbound."
+"Contact list just populated," Marcus said, looking at something Nate couldn't see — a blue-screen notification, golden-bordered, the System's parting gift. "Twelve names. Everyone who survived. Receive-only." He looked up. His eyes found Nate through the dissolving arena with the steady focus of a man who understood that some goodbyes were temporary and some weren't and the System wasn't specifying which. "Can't call. Can receive. The System's version of a phone book with no outbound."
 
 The Mage was next. Her form softened at the edges, the blue screen still glowing in front of her face as the Tutorial pulled her away from it. She didn't fight it. Just read her screen harder, trying to absorb every stat before the numbers faded with the stone.
 
