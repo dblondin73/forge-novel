@@ -38,7 +38,7 @@ Nate's hands moved before his brain formed the word for what they were doing.
 
 Right fist raised, two fingers extended, pointed at the left flank. Hold position. Then a flat palm, lowered twice. Get down.
 
-Tactical hand signals. The kind he'd seen in a hundred briefings at Lockheed, watched operators drill in a dozen SCIF coordination meetings. He'd never used them in the field because he'd never been in the field — he was the systems engineer who sat behind the glass and watched other people gesture their way through kill houses on monitors. His hands knew the vocabulary because his eyes had memorized it the way his hands memorized spring steel — through repetition and attention and the particular stubbornness of a man who learned things whether or not anyone asked him to.
+Tactical hand signals. The kind he'd seen in a hundred briefings at Lockheed, watched operators drill in a dozen SCIF coordination meetings. He'd never used them in the field because he'd never been in the field — he was the systems engineer who sat behind the glass and watched other people gesture their way through kill houses on monitors. His hands knew the vocabulary because his eyes had memorized it — through repetition, attention, and the particular stubbornness of a man who learned things whether or not anyone asked him to.
 
 Marcus saw the signals. His eyes locked on Nate's hands for two seconds, processing, and then something shifted in his face — the recognition of a shared professional language that predated the System and every game metaphor they'd been leaning on. He raised his own hand. Repeated the signal. Relayed it through his **Vanguard** HUD.
 
@@ -62,7 +62,7 @@ Two fingers, pointed. *Enemy, that direction.* Flat palm down. *Hold.* Fist pump
 
 Something new happened when he raised the crossbow.
 
-The HUD — his monochrome green interface that still looked like a DOS prompt next to everyone else's polished blue panels — shifted. Concentric arcs appeared at his focal point, faint green geometry that tightened as he aimed, narrowing on the target the way a camera lens pulled focus. Not a full targeting system. The HUD was confirming what he was already looking at, drawing a circle around the place his eyes had chosen and saying *yes, there.*
+The HUD — his monochrome green interface that still looked like a DOS prompt next to everyone else's polished blue panels — shifted. Concentric arcs appeared at his focal point, faint green geometry that tightened as he aimed, narrowing on the target like a lens pulling focus. Not a full targeting system. The HUD was confirming what he was already looking at, drawing a circle around the place his eyes had chosen and saying *yes, there.*
 
 Then text appeared at his periphery. Brief. Sharp.
 
@@ -94,7 +94,7 @@ Rex moved with them. Patient. Relentless. The geometry of a dog herding stock th
 
 The first Thornling's bark-foot hit the water channel and the current took it. Not dramatically — the flow was shallow, maybe eight inches — but the bark-skin absorbed moisture on contact. **SA** showed it in real time: the bark grain swelling as moisture wicked through, the material expanding unevenly, the joints stiffening as wet wood did what wet wood always did. The creature slowed. Its movements went from predatory to labored, legs fighting waterlogged weight that hadn't been there three seconds ago.
 
-The second Thornling followed its companion into the water because pack creatures followed their own into bad decisions. Rex had known they would. The dog read herd behavior the way Flint read sensor data — through pattern recognition so deep it looked like prophecy.
+The second Thornling followed its companion into the water because pack creatures followed their own into bad decisions. Rex had known they would. The dog read herd behavior through pattern recognition so deep it looked like prophecy.
 
 New text at Nate's periphery:
 
@@ -124,7 +124,7 @@ A support class — older man, thin, the kind of person who'd survived five room
 
 Sixteen people stood in the cavern, breathing hard, and the silence after the echoes died was worse than the noise had been.
 
-*He didn't know their names yet. He would. In the quiet hours between the fighting and the sleeping, when the surviving sat with the space where the dead had been, the names would find him the way names always found the people who bothered to carry them.*
+*He didn't know their names yet. He would. In the quiet hours between the fighting and the sleeping, when the surviving sat with the space where the dead had been, the names would find him. They always found the people who bothered to carry them.*
 
 ---
 
@@ -220,7 +220,7 @@ The Healer got to him. Her hands were dimmer than they'd been three rooms ago �
 
 He paid it. He'd pay it again.
 
-The **Thornguard** on the other side of the collapse was still there. Marcus sent the team around through a secondary passage **SA** identified — longer route, but it avoided the rubble and put them on the **Thornguard's** flank. The creature went down in forty seconds. Anticlimactic, the way most fights were when you had the angles and the numbers and the enemy didn't know you were coming.
+The **Thornguard** on the other side of the collapse was still there. Marcus sent the team around through a secondary passage **SA** identified — longer route, but it avoided the rubble and put them on the **Thornguard's** flank. The creature went down in forty seconds. Anticlimactic. Most fights were, when you had the angles and the numbers and the enemy didn't know you were coming.
 
 One more person didn't make it through Room 8. A Warrior caught a Thornling's thorn-rake through the gap in his chain shirt during the flanking maneuver. The Healer couldn't reach him in time. She was still working on Nate's back when it happened, and the look on her face when she realized — when Marcus's **Vanguard** HUD showed her a health bar going dark while her hands were on the wrong patient — was something Nate filed in the place where he kept things he'd carry for a long time.
 
@@ -248,7 +248,7 @@ He set the stock on the anvil. Heated the **Thornguard** plate — the densest p
 
 The hammer rang on the anvil.
 
-It was the cleanest sound in the room. In the cavern. In the entire Tutorial, maybe. A single note of steel on iron that cut through the silence of fifteen exhausted people and existed for exactly as long as the physics required and no longer. No echo. No distortion. The forge was honest in the way that work was honest — it didn't pretend to be anything other than what it was.
+It was the cleanest sound in the room. In the cavern. In the entire Tutorial, maybe. A single note of steel on iron that cut through the silence of fifteen exhausted people and existed for exactly as long as the physics required and no longer. No echo. No distortion. The forge was honest. Work-honest. It didn't pretend to be anything other than what it was.
 
 He struck again. The **Thornguard** plate curved against the stock and **Field Repair** bonded the surfaces at the molecular level — bark-composite gripping hardwood the way good materials gripped each other when someone who understood them brought them together. Not welding. Not gluing. The materials choosing to hold.
 
@@ -330,7 +330,7 @@ Rex read the room before anyone else.
 
 The dog had been at Nate's side when the spawn points fired. By the time the Thornlings were moving in pairs, Rex was already repositioning — not toward the nearest threat but toward the threat geometry that would do the most damage. Two Thornlings heading for the Healer meant two Thornlings heading for the only person keeping the group alive. Rex intercepted at the twelve o'clock position, body low, the stare locked on.
 
-The Thornlings split. One went wide. Rex shifted with it — not chasing, just adjusting the angle of pressure the way he'd adjusted for cattle that tried to break from the group. The Thornling's path bent toward the Warrior line where it could be engaged. The other Thornling kept coming and Rex did something Nate had never seen from him in the Tutorial: he lunged.
+The Thornlings split. One went wide. Rex shifted with it — not chasing, just adjusting the angle of pressure — same geometry as a heifer trying to break from the group. The Thornling's path bent toward the Warrior line where it could be engaged. The other Thornling kept coming and Rex did something Nate had never seen from him in the Tutorial: he lunged.
 
 Not a bite — a snap. Jaws closing on air six inches from the Thornling's bark-face, the sound sharp and percussive in the chamber's clean acoustics. The creature recoiled. A dog snap was older than the System, older than whatever combat AI drove these things, and the response it triggered — *back away from the thing with teeth* — bypassed tactical programming entirely.
 
@@ -352,7 +352,7 @@ The flanking **Thornguard** adjusted. The one-armed creature shifted its approac
 
 The Warrior line closed on it from three sides. Four fighters who'd learned that **Thornguard** bark was weakest where the armor had already been damaged, working the exposed joint where Nate's bolt had taken the arm. Swords found the gaps. The creature went to one knee. Went to both. The deep-timber scream cut short when the Shield Guardian put his full weight behind a downward strike that split the bark-plate across the spine.
 
-The fight ended the way hard fights end — not with a dramatic final blow but with the slow, grinding realization that the room had run out of things to fight. The last three Thornlings went down in overlapping seconds, surrounded, outnumbered, the coordinated pairs broken into isolated targets that the surviving fighters put down with the mechanical efficiency of people who had been doing this for nine rooms and had stopped feeling anything about it except tired.
+The fight ended ugly and quiet — not with a dramatic final blow but with the slow, grinding realization that the room had run out of things to fight. The last three Thornlings went down in overlapping seconds, surrounded, outnumbered, the coordinated pairs broken into isolated targets that the surviving fighters put down with the mechanical efficiency of people who had been doing this for nine rooms and had stopped feeling anything about it except tired.
 
 Quiet.
 
@@ -372,7 +372,7 @@ The last rest corridor was short and quiet, and the workshop the System provided
 
 Full forge. Proper bellows. An anvil that **SA** read as genuine cast iron with a hardened steel face — a step up from the previous rest area. Rack of tools along the back wall that included a draw knife, a fuller, and a set of punches that would have made a real blacksmith nod. Water trough fed by a channel in the wall that produced actual flowing water.
 
-Pre-boss crafting station. Scaled to the difficulty ahead, the way every well-designed dungeon scaled its resource nodes. The devs were saying *you're going to need everything we're giving you,* and Nate believed them.
+Pre-boss crafting station. Scaled to the difficulty ahead — good dungeon design, resource nodes matched to what was coming. The devs were saying *you're going to need everything we're giving you,* and Nate believed them.
 
 He worked.
 
@@ -420,13 +420,13 @@ Josie was doing full inventory now. Every material in the ring laid out on the w
 
 Flint, internally: "Seventeen materials the System's loot tables don't account for. I don't have a model for how she's finding them. The best explanation I can construct involves intuition operating at a level my classification framework doesn't recognize, and I want it on the record that I find this deeply annoying."
 
-She knew the boss room was next. Everyone knew. The knowledge sat in the rest area like a third presence — not visible, not audible, but taking up space the way dread took up space when it had nowhere else to go. Josie's hands moved faster when she was scared. The sorting accelerated, each piece placed with a precision that was either mastery or the kind of control you exerted on the small things when the big things were beyond your grip.
+She knew the boss room was next. Everyone knew. The knowledge sat in the rest area like a third presence — not visible, not audible, but taking up space — dread with nowhere else to go. Josie's hands moved faster when she was scared. The sorting accelerated, each piece placed with a precision that was either mastery or the kind of control you exerted on the small things when the big things were beyond your grip.
 
-The Shield Guardian was testing his shield. Nate had fixed it two rooms ago — a **Field Repair** job on a crack that had run from boss to rim after the Room 7 **Thornguard** collision. The repair held. The big man tested the shield the way a fighter tested a shield: hit it, check the ring, hit it again.
+The Shield Guardian was testing his shield. Nate had fixed it two rooms ago — a **Field Repair** job on a crack that had run from boss to rim after the Room 7 **Thornguard** collision. The repair held. The big man tested the shield: hit it, check the ring, hit it again.
 
 He caught Nate's eye across the rest area.
 
-The nod was slow. Deliberate. Not the dismissive assessment he'd given Nate in Room 0, when a rancher had walked past the weapon racks and started dismantling furniture and the Shield Guardian had looked at him the way experienced men looked at people who were about to get themselves killed through creativity. That had been eight rooms and a lifetime ago. This nod carried the weight of nine rooms between them — the forge work, the shield repair, the rescue in Room 8, the silent coordination that had kept people alive when the System's acoustics tried to get them killed.
+The nod was slow. Deliberate. Not the dismissive assessment he'd given Nate in Room 0, when a rancher had walked past the weapon racks and started dismantling furniture and the Shield Guardian had given him the look that experienced men reserved for people about to get themselves killed through creativity. That had been eight rooms and a lifetime ago. This nod carried the weight of nine rooms between them — the forge work, the shield repair, the rescue in Room 8, the silent coordination that had kept people alive when the System's acoustics tried to get them killed.
 
 Respect. Earned in the currency that couldn't be counterfeited: competence witnessed under pressure.
 

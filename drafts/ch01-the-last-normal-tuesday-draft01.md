@@ -18,11 +18,11 @@ Nate Hall crouched beside the wellhead, boots sunk two inches into the sandy cla
 
 "Bearings, not motor." He pulled his hand back. "Well, shit."
 
-The vibration ran wrong through the casing — a subtle grinding rhythm where there should have been smooth rotation. Three months ago it had been a whisper. Now it sounded like a dentist's drill buried under forty feet of pipe. The pump had been telegraphing this failure since Christmas, politely, the way well-built equipment telegraphed failure when it had the manners to give you a heads-up before it quit entirely. Like a good employee putting in two weeks' notice. Unlike a good employee, the pump had not offered to train its replacement.
+The vibration ran wrong through the casing — a subtle grinding rhythm where there should have been smooth rotation. Three months ago it had been a whisper. Now it sounded like a dentist's drill buried under forty feet of pipe. The pump had been telegraphing this failure since Christmas — politely, with manners, giving him a heads-up before it quit entirely. Like a good employee putting in two weeks' notice. Unlike a good employee, the pump had not offered to train its replacement.
 
 He wiped his palm on his jeans. He'd replaced the seals twice, the pressure switch once, and the check valve three times. The first check valve had been the cheap one from the co-op. He didn't make that mistake twice. The bearings were original — twenty-two years of spinning in East Texas humidity, pulling water from the Trinity aquifer for cattle that didn't care about maintenance schedules and would drink the stock tank dry by Thursday if he let them.
 
-He sat back on his heels and looked at the pump the way he looked at everything broken — with the patient attention of a man who'd been opening hoods and finding problems since before he could drive. On a ranch, that was about eight years old. The pump didn't owe him anything. Twenty-two years was a good run. Most marriages didn't last that long, and at least the pump had been consistent.
+He sat back on his heels and studied the pump — patient, unhurried, with the attention of a man who'd been opening hoods and finding problems since before he could drive. On a ranch, that was about eight years old. The pump didn't owe him anything. Twenty-two years was a good run. Most marriages didn't last that long, and at least the pump had been consistent.
 
 He just needed it to hold until the weekend. Pull it Saturday, swap the bearings, have it back in the ground before the afternoon heat turned the pasture into a convection oven. Simple enough. Assuming nothing else broke between now and then, which — on a ranch — was like assuming the weather would cooperate. Technically possible. Historically unlikely.
 
@@ -70,7 +70,7 @@ Not every eye on a ranch sees the same thing. Most look for what's there. A few 
 
 ---
 
-Rex had jumped down from the truck bed and sat at Nate's boots, locked onto the herd with that flat, unblinking stare Border Collies were born with. He could watch cattle for hours without moving anything but his eyes. Nate had seen him hold a breakaway heifer at a gate for twenty minutes on nothing but eye contact and the quiet promise that moving was a very bad idea. There were dogs that worked cattle because they were trained to. Rex worked cattle because it was what he was for, and the cattle knew it the way prey knew a predator — in their bones, before their brains caught up.
+Rex had jumped down from the truck bed and sat at Nate's boots, locked onto the herd with that flat, unblinking stare Border Collies were born with. He could watch cattle for hours without moving anything but his eyes. Nate had seen him hold a breakaway heifer at a gate for twenty minutes on nothing but eye contact and the quiet promise that moving was a very bad idea. There were dogs that worked cattle because they were trained to. Rex worked cattle because it was what he was for, and the cattle knew it — in their bones, before their brains caught up.
 
 Judge had jumped down too, but where Rex sat still and watched, Judge paced. Two tight circles around Nate's boots. Perimeter check — no threats, unsatisfactory. She planted herself at his left side and stared at the herd with the focused aggression of a creature who wanted desperately to be released upon them. She was a heel dog, bred to drive cattle by biting ankles, and every moment she wasn't biting an ankle was a moment she was thinking about biting an ankle. She vibrated with restrained purpose. The jury was ready. The defendants were grazing. This was, in Judge's professional opinion, contempt of court.
 
@@ -162,7 +162,7 @@ He was handling it better than most would have. But then, most people hadn't spe
 
 ---
 
-The northeast corner looked clean. No fresh rooting, no disturbed wire. The earth anchors held and the low strand was pinned tight. Nate checked the fence on foot, one hand trailing along the top wire the way his father had taught him — fingers reading the tension the way a mechanic's ear read an engine. The wire was good. Four days since the repair and the hogs hadn't tested it.
+The northeast corner looked clean. No fresh rooting, no disturbed wire. The earth anchors held and the low strand was pinned tight. Nate checked the fence on foot, one hand trailing along the top wire — his father's method — fingers reading the tension like a mechanic's ear on an engine. The wire was good. Four days since the repair and the hogs hadn't tested it.
 
 Small victories. On a ranch, you took them where you found them and didn't get greedy.
 
@@ -170,7 +170,7 @@ He was crouched at the corner post, checking the bottom clip, when Rex stopped w
 
 Nate noticed because Rex never stopped watching cattle. The dog was in the truck bed just behind him — Nate could see the black-and-white shape in his peripheral vision, that flat unblinking stare locked on the herd. Nothing got past him when he was working. Rex had once spotted a limping calf at two hundred yards in fading light, before Nate had finished counting heads. The dog didn't miss things. It wasn't in his wiring.
 
-Now Rex was standing on the toolbox. Not the lazy stand of a dog shifting position — the rigid, locked stand of a Border Collie who'd found something worth every ounce of his attention. Head turned toward the post oaks along the creek bottom to the south. Ears pricked so far forward they were nearly touching. Body gone still the way it went still before he moved cattle — total focus, zero wasted motion, every molecule aimed at a single point in the tree line like a compass needle snapping to north.
+Now Rex was standing on the toolbox. Not the lazy stand of a dog shifting position — the rigid, locked stand of a Border Collie who'd found something worth every ounce of his attention. Head turned toward the post oaks along the creek bottom to the south. Ears pricked so far forward they were nearly touching. Body gone still — total focus, zero wasted motion, every molecule aimed at a single point in the tree line like a compass needle snapping to north.
 
 Judge was on her feet too. But where Rex had gone still, Judge had gone taut — every muscle coiled, hackles rising along her spine in a blue-speckled ridge. She was beside Rex on the toolbox, lower, legs braced wide, and the sound coming out of her was nothing Nate had ever heard. Not her usual bark. Not her opinionated commentary. A low, sustained growl that started in her chest and vibrated through her whole frame — the sound of a dog who wanted to charge, was built to charge, whose every instinct screamed _go_.
 
@@ -178,7 +178,7 @@ And she wasn't going.
 
 Judge, who had once charged a copperhead without breaking stride. Judge, who had opinions about thunderstorms and expressed them at full volume. Judge was holding position, and that scared Nate more than anything in the tree line could have.
 
-He straightened from the fence and followed their gaze. Scanning the shadows the way he scanned everything — looking for the break in the pattern. Coyote, maybe. Loose dog. Feral hog, though they didn't usually move this time of morning. Whitetail was the most likely answer. Rex had seen hundreds of deer without more than an ear flick.
+He straightened from the fence and followed their gaze. Scanning the shadows — looking for the break in the pattern. Coyote, maybe. Loose dog. Feral hog, though they didn't usually move this time of morning. Whitetail was the most likely answer. Rex had seen hundreds of deer without more than an ear flick.
 
 Rex wasn't flicking his ears. Rex was vibrating.
 
@@ -204,11 +204,11 @@ That was what his brain offered. It was trying to be helpful — trying to slot 
 
 Except it wasn't right.
 
-His hand tightened on the wire, barbs pressing into his palm without quite breaking skin. He'd grown up around whitetails. Watched them from truck cabs and deer blinds and kitchen windows for twenty-five years. He knew their proportions the way he knew the proportions of his own truck — by feel, by accumulated exposure, by the deep pattern-recognition that came from sharing a landscape with something long enough to know what it looked like in every light and every season.
+His hand tightened on the wire, barbs pressing into his palm without quite breaking skin. He'd grown up around whitetails. Watched them from truck cabs and deer blinds and kitchen windows for twenty-five years. He knew their proportions like he knew his own truck — by feel, by accumulated exposure, by the deep pattern-recognition that came from sharing a landscape with something long enough to know what it looked like in every light and every season.
 
 This animal's proportions were wrong.
 
-The legs were too long by six inches, maybe eight — not dramatically, not cartoonishly, but enough that his eye caught it the way his ear caught a bearing running rough. The body leaner than a whitetail's. Chest deeper. Neck longer, carried at an angle no East Texas deer had ever used. The rack was massive, branching in a pattern he didn't recognize — not the upward tines of a whitetail but something that swept forward and out, curving in a geometry that reminded him of root systems. Wide. Ancient-looking. Wrong for any species he'd ever seen in Panola County or anywhere else.
+The legs were too long by six inches, maybe eight — not dramatically, not cartoonishly, but enough that his eye snagged on it — a bearing running rough, something just off-spec enough to matter. The body leaner than a whitetail's. Chest deeper. Neck longer, carried at an angle no East Texas deer had ever used. The rack was massive, branching in a pattern he didn't recognize — not the upward tines of a whitetail but something that swept forward and out, curving in a geometry that reminded him of root systems. Wide. Ancient-looking. Wrong for any species he'd ever seen in Panola County or anywhere else.
 
 The antlers weren't bone. Not the chalky white of a Texas buck's rack. They had the color and grain of old-growth heartwood — silvered, polished, each tine tapering to a point that caught the low horizon light and held it. He'd read about antlers like that. Rowan wood and silver branch, the crown of the Fae stag in the old stories he'd listened to on cassette while baling hay in college. The stories had been fiction.
 
@@ -230,11 +230,11 @@ Nate stood very still. Hand on the wire. Boots in the grass. Thirty yards of ope
 
 In the truck bed, Rex's subsonic warning hadn't stopped — that bone-deep vibration rolling steady, the sound of a dog who had identified something beyond his experience and was not going to stop reporting it. Judge was silent. Utterly, horribly silent. Pressed flat, shaking — not from cold. Every line of her body aimed at the tree line. Lips pulled back from her teeth, no sound. All that fury with nowhere to send it, because whatever stood at the tree line was beyond anything she was built to confront.
 
-The stag — the word felt more accurate than _deer_ or _buck_, the way it always did in the old stories, the ones where the white hart appeared at the boundary between forest and field and the hunter who followed it never came back the same — stood at the exact threshold of shadow and light. It was facing perpendicular to the fence, flank toward Nate, and it was doing something he'd never seen a deer do in twenty-five years.
+The stag — the word felt more accurate than _deer_ or _buck_, as it always did in the old stories, the ones where the white hart appeared at the boundary between forest and field and the hunter who followed it never came back the same — stood at the exact threshold of shadow and light. It was facing perpendicular to the fence, flank toward Nate, and it was doing something he'd never seen a deer do in twenty-five years.
 
 It was still.
 
-Not frozen. Not alert. Not calculating escape routes the way every prey animal in East Texas calculated escape routes every waking second. Just still. The way a mountain was still. The way bedrock was still. Present and unhurried and completely unconcerned with anything as small as a man at a fence. The mist curled around its legs like it belonged there.
+Not frozen. Not alert. Not calculating escape routes — not running the prey-animal calculus that every living thing in East Texas ran every waking second. Just still. Mountain-still. Bedrock-still. Present and unhurried and completely unconcerned with anything as small as a man at a fence. The mist curled around its legs like it belonged there.
 
 His brain was running hot. Every comparison bounced. He'd cataloged the wrongness — proportions, antlers, coat, behavior — and his pattern-matching had chewed through its entire library and come back empty-handed. Now it was doing what overtaxed systems always did: cycling the same query against the same empty table, faster and faster, burning resources on a search that was never going to return a result.
 
@@ -262,9 +262,9 @@ The stag blinked.
 
 And the light changed.
 
-Not gradually. Not the way weather shifted or clouds moved. Sudden. The quality of sunlight compressed in a single heartbeat, the gold deepening past gold, past amber, past any color that belonged to a March morning in East Texas. The sky above the tree line fractured into parallel lines — thin, precise, mechanical — stretching horizon to horizon like someone had dragged a comb across the sky and left the teeth marks.
+Not gradually. Not like weather or clouds. Sudden. The quality of sunlight compressed in a single heartbeat, the gold deepening past gold, past amber, past any color that belonged to a March morning in East Texas. The sky above the tree line fractured into parallel lines — thin, precise, mechanical — stretching horizon to horizon like someone had dragged a comb across the sky and left the teeth marks.
 
-The wind stopped. Every blade of bermudagrass went still. The post oaks froze mid-rustle. The world went silent the way a server room went silent when the power cut — total, instant, absolute.
+The wind stopped. Every blade of bermudagrass went still. The post oaks froze mid-rustle. The world went silent — total, instant, absolute. A server room with the power cut.
 
 Rex launched from the truck bed. Nails on liner, thud of landing, three fast strides on packed dirt — and then the dog was at his left leg, pressed against him with the full weight of thirty-five pounds. Rigid. But not running. Every muscle said _go_ and everything Rex was made of said _here_.
 
@@ -278,7 +278,7 @@ Nate's ears popped. Hard. Pressure falling fast enough to feel, fast enough to m
 
 The stag hadn't moved.
 
-It stood at the tree line with its impossible antlers and its luminous eyes and it watched him the way he watched broken systems — with the patient attention of something that already knew the diagnosis and was waiting for him to catch up.
+It stood at the tree line with its impossible antlers and its luminous eyes and it watched him with the patient attention of something that already knew the diagnosis and was waiting for him to catch up.
 
 _That's not weather._ The last clear thought his brain would offer before the world changed. _That's not light. That's a signal._
 

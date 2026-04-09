@@ -6,7 +6,7 @@ The trees were wrong the same way the torches had been wrong — too even, too d
 
 **Structural Analysis** fired on the canopy before he'd taken three steps into the clearing.
 
-Render boundary. Sixty feet up, where the treetops met blue, the simulation's ceiling pretended to be atmosphere. The seam was subtle — most people wouldn't notice, the same way most people didn't notice where a good paint job met the trim. But **SA** read structural boundaries the way a surveyor read property lines, and the sky stopped being sky and started being infrastructure exactly where the **System**'s environment engine had decided that "up" wasn't worth rendering anymore.
+Render boundary. Sixty feet up, where the treetops met blue, the simulation's ceiling pretended to be atmosphere. The seam was subtle — most people wouldn't notice, the same way most people didn't notice where a good paint job met the trim. But **SA** read structural boundaries like property lines on a survey, and the sky stopped being sky and started being infrastructure exactly where the **System**'s environment engine had decided that "up" wasn't worth rendering anymore.
 
 Different tileset. The **System** rotated encounter environments — forest clearing after three rooms of stone corridors. Diablo did this. Act 1 forest, Act 2 desert. Same enemies, new wallpaper. Except wallpaper didn't have spawn points, and this clearing had sixteen of them pulsing under the generated loam like infected heartbeats.
 
@@ -40,7 +40,7 @@ The **Thornguards** didn't erupt. They rose.
 
 Slow. Deliberate. Six feet of bark-plate armor pushing up through the forest floor like old-growth stumps deciding they'd had enough of being stepped over. The bark was different — thicker, layered, the kind of laminate plating that Josie had been collecting fragments of since Room 1 but had never seen intact on a living frame. Chest armor that covered shoulder to waist in overlapping plates. Arms that ended in forearm spikes instead of thorn clusters — longer, heavier, built for punching through things that the basic Thornlings' raking attacks couldn't scratch.
 
-The first **Thornguard** straightened to its full height and the clearing went quiet in the way that clearings go quiet when a predator arrives and every prey animal in range decides simultaneously that stillness is better than speed.
+The first **Thornguard** straightened to its full height and the clearing went predator-quiet — every prey animal in range deciding simultaneously that stillness was better than speed.
 
 *New room, new wallpaper, and the Interior Decorator from Hell just introduced armored variants. Pretty enough to fool you into thinking you weren't about to lose something. The **System** had the aesthetic sensibility of a dentist's waiting room — but darling, the drills were real.*
 
@@ -52,7 +52,7 @@ Not glanced. Not deflected. *Bounced* — the blade meeting resistance it wasn't
 
 F-rank weapons hitting their ceiling. The **System** scaled the weapons to handle basic Thornlings and then introduced an enemy that made those weapons irrelevant. Same thing that happened in procurement when the spec changed mid-contract and the hardware that passed last month's test couldn't pass this month's.
 
-Judge hit the nearest Thornling from behind before the Warriors had fully engaged — forty pounds of Blue Heeler driving into its root-legs at a dead sprint, teeth finding the joint where bark met ground and *pulling*. The creature staggered. A **Warrior**'s blade found its chest while it was off-balance. Judge was already gone, wheeling toward the next one, driving it sideways into the kill zone that Rex's stare was herding it toward. Header and heeler. Rex positioned; Judge punished. The pair worked the Thornling pack the way they'd worked cattle — Rex holding the eye, applying pressure from the front, and Judge charging from behind to bite and drive anything that didn't move fast enough.
+Judge hit the nearest Thornling from behind before the Warriors had fully engaged — forty pounds of Blue Heeler driving into its root-legs at a dead sprint, teeth finding the joint where bark met ground and *pulling*. The creature staggered. A **Warrior**'s blade found its chest while it was off-balance. Judge was already gone, wheeling toward the next one, driving it sideways into the kill zone that Rex's stare was herding it toward. Header and heeler. Rex positioned; Judge punished. The pair worked the Thornling pack like livestock that didn't know it was livestock yet — Rex holding the eye, applying pressure from the front, and Judge charging from behind to bite and drive anything that didn't move fast enough.
 
 The **Mage**'s **Fire Bolt** hit the second **Thornguard** in the chest. Bark ignited — orange flare, heat bloom, the surface layer crackling and splitting. For half a second it looked like it worked. Then the fire died against the second layer and the **Thornguard** kept moving, trailing smoke, the chest plate cracked but not penetrated. The **Mage**'s face said everything her mana bar was already confirming: that bolt cost a quarter tank and bought three seconds.
 
@@ -130,7 +130,7 @@ The side-spawns fired.
 
 Three more Thornlings, flanking from the east wall. Rex was already there — low, silent, the stare driving one toward the Warrior line before it had taken three steps. Judge came in behind the second — not herding, *attacking*, the Heeler's teeth finding root-leg and ripping sideways with a snarl that echoed off the cave walls and came back sounding like three dogs instead of one. The Thornling went down thrashing, bark-limbs scraping stone. But the third got through, and a support-class woman who'd been holding a torch for light took a bark-arm across the side that sent her spinning into the wall.
 
-Tyler was fighting the way Tyler always fought — big axe, bigger swings, the System-assisted precision giving his seventeen-year-old frame the combat timing of a trained soldier. Axe Technique fired and the blade buried itself in a Thornling's chest. Clean kill. The technique greyed out. Cooldown.
+Tyler was fighting like he always fought — big axe, bigger swings, the System-assisted precision giving his seventeen-year-old frame the combat timing of a trained soldier. Axe Technique fired and the blade buried itself in a Thornling's chest. Clean kill. The technique greyed out. Cooldown.
 
 The **Thornguard** came from the back of the room.
 
@@ -150,7 +150,7 @@ He went down.
 
 The room kept fighting around him. That was the thing — the thing that would haunt the people who were there for longer than the death itself. The room didn't stop. The Thornlings didn't pause. The **System** didn't freeze the encounter for a moment of silence. Tyler hit the cave floor and the fight continued over him, and for seventeen seconds that felt like seventeen hours, a seventeen-year-old boy lay on generated stone with bark thorns in his chest while the room roared.
 
-A **Healer** reached him. The woman — young, hands already dimmer than they'd been at the start of the fight, four rooms of constant triage wearing her mana down the way four days of calving season wore a rancher's body down — dropped to her knees beside Tyler and pressed her palms to the wound. The glow intensified. Flesh knitted at the edges. She closed the external damage the way she'd closed a dozen gashes and punctures across five rooms of combat. Skill and **System** working together, the healing protocol executing through her hands with the same efficiency that guided the Warriors' blades.
+A **Healer** reached him. The woman — young, hands already dimmer than they'd been at the start of the fight, four rooms of constant triage wearing her mana down — calving-season exhaustion, the kind that hollowed you out from the inside — dropped to her knees beside Tyler and pressed her palms to the wound. The glow intensified. Flesh knitted at the edges. She closed the external damage the way she'd closed a dozen gashes and punctures across five rooms of combat. Skill and **System** working together, the healing protocol executing through her hands with the same efficiency that guided the Warriors' blades.
 
 The wound closed.
 
@@ -178,7 +178,7 @@ Rex pressed against Nate's leg. Not herding. Not working. Just — there. The st
 
 Judge couldn't be still.
 
-She paced a tight circuit around the body — not sniffing, not investigating, just *moving*. Three steps left, pivot, three steps right, pivot. The restless patrol of a working dog who had identified a problem she couldn't fix and whose entire operating system was built on fixing problems by driving toward them. Something was wrong. She could feel it the way she felt a steer that had gone down in the pasture — the wrongness of a living thing that had stopped being living — and her response was the only response she had: keep moving, keep circling, keep working the perimeter of the thing that broke.
+She paced a tight circuit around the body — not sniffing, not investigating, just *moving*. Three steps left, pivot, three steps right, pivot. The restless patrol of a working dog who had identified a problem she couldn't fix and whose entire operating system was built on fixing problems by driving toward them. Something was wrong. She could feel it — steer down in the pasture, the wrongness of a living thing that had stopped being living — and her response was the only response she had: keep moving, keep circling, keep working the perimeter of the thing that broke.
 
 It wasn't going to make sense again. Judge kept pacing anyway.
 
@@ -198,9 +198,9 @@ A pause. The kind of pause that Flint filled with data when data was available a
 
 Nobody else could hear Flint. Nobody needed to. The AI told Nate because Nate was the only one who could listen, and because Flint was learning that some information mattered not because it was tactically useful but because the alternative was a silence that felt like complicity.
 
-Marcus stood over the body with the expression of a man who had led people for twenty years and had just been reminded what that cost. His jaw worked. His hands opened and closed at his sides — not fists, not relaxed, the hands of a sergeant who'd written letters home and was about to add to the count. The **Vanguard** HUD was feeding him data — health bars, mana levels, the after-action metrics of a fight that had gone wrong in exactly the way the **System** had intended — and none of it mattered.
+Marcus stood over the body with the expression of a man who had led people for twenty years and had just been reminded what that cost. His jaw worked. His hands opened and closed at his sides — not fists, not relaxed, the hands of a sergeant who'd written letters home and was about to add to the count. The **Vanguard** HUD was feeding him data — health bars, mana levels, the after-action metrics of a fight that had gone wrong exactly as the **System** had intended — and none of it mattered.
 
-"We move him to the side," Marcus said. His voice was flat. Not cold — flat, the way a field is flat after a storm has pressed everything down. "We clear the room. We keep moving."
+"We move him to the side," Marcus said. His voice was flat. Not cold — flat. Storm-pressed. Everything leveled. "We clear the room. We keep moving."
 
 Nobody argued. Nobody had the energy to argue with the only correct decision available to a group of people who couldn't go back and couldn't stay and could only go forward through rooms that were going to keep doing this.
 
@@ -208,7 +208,7 @@ They moved Tyler's body to the east wall. Two Warriors carried him — one at th
 
 Josie was collecting.
 
-She moved to the **Thornguard**'s remains the way she always moved — fast, certain, hands finding material with the instinct that had identified real leather in the first room and structural thorns in Room 1 and every hidden piece of value that the group had walked past since the Tutorial started. Her hands were shaking. Her face was the face of a woman who had seen a boy die and was processing that information in the only way she knew how, which was to keep working, keep moving, keep her hands busy with materials that made sense in a world that had just stopped making any.
+She moved to the **Thornguard**'s remains — fast, certain, same as always, hands finding material with the instinct that had identified real leather in the first room and structural thorns in Room 1 and every hidden piece of value that the group had walked past since the Tutorial started. Her hands were shaking. Her face was the face of a woman who had seen a boy die and was processing that information in the only way she knew how, which was to keep working, keep moving, keep her hands busy with materials that made sense in a world that had just stopped making any.
 
 She worked around the body. Not over it. Around. A deliberate, careful geometry that cost her time and efficiency and was non-negotiable, the spatial respect of a woman who had run estate sales in homes where people had died and had learned that you worked the room but you didn't work the person.
 
@@ -238,7 +238,7 @@ But the iron was real. The coals were real. The heat, when Nate worked the bello
 
 **Field Repair** sang.
 
-Not literally — there was no sound. But the skill's connection to materials intensified near the forge the way a radio signal strengthened near the tower. His palms read the anvil's iron: dense, old, the crystalline structure of metal that had been heated and cooled and heated again until it forgot what it was like to be ore. The hammer in his belt loop hummed against his hip. The **Thornguard** plates Josie had laid on the workbench resolved into legibility through **SA** — grain direction, density maps, the natural stress lines that told him where the material wanted to bend and where it wanted to hold.
+Not literally — there was no sound. But the skill's connection to materials intensified near the forge like a radio signal strengthening near the tower. His palms read the anvil's iron: dense, old, the crystalline structure of metal that had been heated and cooled and heated again until it forgot what it was like to be ore. The hammer in his belt loop hummed against his hip. The **Thornguard** plates Josie had laid on the workbench resolved into legibility through **SA** — grain direction, density maps, the natural stress lines that told him where the material wanted to bend and where it wanted to hold.
 
 He pulled the crossbow onto the workbench. Three rooms of combat had tested every joint and connection. The prod's spring steel was still true — **SA** confirmed the temper held, the crystalline memory intact, the steel doing what good steel did. The stock had taken impacts. Micro-fractures along the grain where recoil had stressed the wood past its design intent, because the design intent had been "hold a prod" and the actual use had been "fire thorn bolts through armored bark at forty feet, repeatedly."
 
@@ -324,7 +324,7 @@ The rings distributed. One per person — and this time the math was generous. O
 
 Reward after deprivation. The conditioning loop closing.
 
-When Nate slipped his ring on, **SA** read the architecture — a compressed space existing inside the band's structure, folded the way a napkin folded to fit a ring. Small. Enough for maybe a dozen items, depending on size. The **System** had given them pockets.
+When Nate slipped his ring on, **SA** read the architecture — a compressed space existing inside the band's structure, folded like a napkin tucked into a ring. Small. Enough for maybe a dozen items, depending on size. The **System** had given them pockets.
 
 Josie's eyes went wide.
 
@@ -484,7 +484,7 @@ Not all deaths. Some were injuries too severe for the **Healer**'s depleted mana
 
 The **System** winnowed. That was the word. Not "killed" and not "sorted" but *winnowed* — the agricultural precision of separating grain from chaff, keeping what the process needed and discarding what it didn't, and the fact that the grain didn't get a say in the matter was the whole point.
 
-The rest area on the left path was smaller, tighter, the walls closer together in a way that made the reduced group feel like a reduction instead of just a number. Marcus did the headcount the way Marcus did everything — standing, moving through the group, making eye contact, counting bodies with the systematic care of a man who refused to let people become numbers even when the numbers were all he had left.
+The rest area on the left path was smaller, tighter, the walls closer together in a way that made the reduced group feel like a reduction instead of just a number. Marcus did the headcount — standing, moving through the group, making eye contact, counting bodies with the systematic care of a man who refused to let people become numbers even when the numbers were all he had left.
 
 "Eighteen," he said. And then, because Marcus was the kind of leader who translated his own reports: "Twelve fighters. Three support. Josie. You. The dogs."
 
