@@ -107,7 +107,7 @@ Skills from life, not a stat sheet:
 - Father deceased — died when Nate was in his twenties. Rancher who taught him everything.
 - Mother deceased within the last few years — Nate cared for her through her final illness. She pushed him toward engineering school (Louisiana Tech).
 - Only child. No siblings. No spouse. No children.
-- Functionally alone at Integration: just him, Rex, and the cattle.
+- Functionally alone at Integration: just him, Rex, Judge, and the cattle.
 
 ---
 
@@ -223,6 +223,7 @@ Nate does NOT pick a weapon from the racks. He picks materials and BUILDS his lo
 | F.L.I.N.T. (Codex #2) | System-assigned AI, Holy Spirit rewritten. Sarcastic, trusted partner. |
 | Sonja Lee (Codex #3) | Mission-driven protector relationship (Book 2+). He reads blueprints, she sees meaning. |
 | Rex (Codex #64) | Border Collie. Working dog, first empathic bond. Impressions only, never words. |
+| Judge | Blue Heeler. Working dog, partner to Rex. Opinions, verdicts, and relentless aggression. |
 | Marcus Webb (Codex #86) | DoD colleague. Class: Vanguard. Complementary pair — Marcus reads people, Nate reads architecture. |
 | Josie Pickett (Codex #102) | The Loot Goblin. Class: Appraiser. Crafting partnership — she sees value, he sees structure. |
 
@@ -236,7 +237,7 @@ Nate does NOT pick a weapon from the racks. He picks materials and BUILDS his lo
 | **Cattle** | 63 head of Red Angus |
 | **Herd Bull** | Congressman — 1,800-lb registered Red Angus |
 | **Horses** | Quarter horses — working stock |
-| **Working Dog** | Rex — 4-year-old Border Collie |
+| **Working Dogs** | Rex — 4-year-old Border Collie; Judge — Blue Heeler |
 | **Truck** | Ford — fence line rounds, tailgate workbench |
 | **Terrain** | Rolling pasture, bermudagrass, post oak tree lines, creek bottoms, sandy loam over red clay |
 

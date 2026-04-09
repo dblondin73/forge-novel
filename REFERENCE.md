@@ -20,6 +20,9 @@ Red-haired, green-eyed Anomaly of Irish descent. Very fit — athletic, strong, 
 **Rex** — Codex #64
 Nate's Border Collie. Four years old, 35 lbs at Integration. Working stock dog AND companion — switches between intense work focus and affectionate mush. Communicates through behavior and empathic impressions — feelings, images, urgency (#72). Bond is BIDIRECTIONAL: Rex sends impressions to Nate, Nate responds verbally early (Books 1-2), learns to send impressions back mid-series. Survives Integration, transported to Tutorial via companion bond (#88). Post-Integration evolution through **Companion Resonance**: heightened senses, empathic amplification, physical edge, pack tactics. Resonance is conduit-based, not System-granted. **Herding adaptation**: On the ranch, Rex herds cattle with eye and pressure (prey flight response). Against Tutorial creatures with no flight instinct, Rex adapts to ACTIVE HARASSMENT — darting lunges, nipping at legs, bump-and-break to physically redirect threats. Same principle (control movement through applied pressure), different method. Nate is Rex's only alpha — they are pack.
 
+**Judge** — Blue Heeler (no Codex ID yet)
+Nate's Blue Heeler. Forty pounds of pure opinion. Where Rex communicates through silence and precision, Judge communicates through volume, aggression, and verdicts. Bred to drive cattle by biting ankles — every moment she isn't biting an ankle is a moment she's thinking about biting one. Transported to Tutorial alongside Rex via companion bond (#88). In combat, Judge is the aggressor — charges, harasses, delivers impact where Rex delivers pressure. Her bark sounds like a gavel. Her silence is terrifying. Comedy vehicle: opinions about everything, expressed as prosecutorial judgments.
+
 **Marcus Webb** — Codex #86
 Nate's boss at the DoD contracting firm. Former military (enlisted, first career) turned program/project manager. Fiftyish, body disagrees with the **Vanguard** class's opinion of his age. The Adapter — recognizes the new reality faster than most. Tutorial class: **Vanguard** (#99). In Nate's Tutorial pocket by geography. Manages the pocket's defense the way he managed programs — translates technical reports into operational decisions. Nate reads architecture, Marcus reads people. Together they cover who does what and where they stand.
 
@@ -231,7 +234,7 @@ System attempts standard starter abilities, but Nate's occupied space warps what
 Phase 1 (Adds): Thornling swarm, Briarknight watches, drains group to ~60%. Phase 2 (The Knight): Briarknight advances, targets Healer, adapts in real-time, Shield Guardian goes down. Phase 3 (Engineer's Answer): Nate sees structural weakness via SA — arena pillar is load-bearing, armor is brittle under compression. Environmental kill: pillar collapse pins the Briarknight. Team finishes it — Warriors into the gaps. **The Engineer doesn't kill the boss. The Engineer makes the boss killable.** Post-boss: loot chest, Josie harvests arm-blade, graduation, Level 4 exit, back to Earth.
 
 **Tutorial Pet Bond and Companion Resonance** — Codex #88
-Animals with strong pre-existing bonds transported alongside owner. For Anomaly-bonded companions, enhancement is stronger. NOT a System feature.
+Animals with strong pre-existing bonds transported alongside owner. Both Rex (Border Collie) and Judge (Blue Heeler) transported with Nate. For Anomaly-bonded companions, enhancement is stronger. NOT a System feature.
 
 **Tutorial Child Protection** — Codex #83
 Children vanish to secure holding zone before adults are transported. Instant and terrifying.
