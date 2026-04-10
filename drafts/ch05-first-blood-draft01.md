@@ -2,11 +2,11 @@
 
 ---
 
-The Tutorial had a curriculum. Nobody had asked the fifty people walking through the dark whether they'd signed up.
+The Tutorial had a curriculum. Nobody had asked the forty-six people walking through the dark whether they'd signed up.
 
 ---
 
-The passage had funneled them forward — fifty people pressing through a dim stone corridor with nothing but the sound of their own breathing and something scratching beneath the floor ahead.
+The passage had funneled them forward — forty-six people pressing through a dim stone corridor with nothing but the sound of their own breathing and something scratching beneath the floor ahead. Four fewer than had entered Room 1. Four people whose names most of them hadn't learned before the Tutorial made the introductions permanent.
 
 Then the walls fell away and they were in a chamber, and the scratching stopped.
 
@@ -76,7 +76,7 @@ The word sat in his chest with a weight he hadn't expected. Not guilt — he'd k
 
 The fight was ending. Warriors mobbing the last two Thornlings with more aggression than coordination — blades finding bark more often than seams, brute-forcing kills that technique should have made cleaner. The **Mage** threw a second **Fire Bolt** at a Thornling that was already dying, and the bolt was weaker than the first. Noticeably. The first had been a bonfire, the second a campfire. Mana cost catching up with enthusiasm.
 
-Nobody had noticed what the dogs did. Forty-nine people fighting for their lives, and not a single one had seen a Border Collie and a Blue Heeler work a monster like a pair that had been splitting cattle since Judge was old enough to bite.
+Nobody had noticed what the dogs did. Forty-five people fighting for their lives, and not a single one had seen a Border Collie and a Blue Heeler work a monster like a pair that had been splitting cattle since Judge was old enough to bite.
 
 *The System had no classification for what they'd done. No rank, no class, no skill tree. Two animals operating below the threshold of everything the System measured — and executing a combat maneuver that three Warriors with full class kits hadn't thought to try. The System noted their existence the way a ledger notes a rounding error. It would learn, eventually, that rounding errors compound. She was watching the dogs before the System thought to. She's always been fond of the ones who work without being asked.*
 
@@ -86,7 +86,7 @@ Nate's hand found Rex's head and got a flash — the Thornling's legs from six i
 
 Judge sat at Nate's other side, panting hard, her stub tail vibrating at a frequency that suggested she was not done and would like to go again immediately. She stared at the dissolving Thornling remains with the pointed intensity of a dog who took the continued existence of enemies as a personal insult. When the remains finished dissolving, she looked at Nate and sighed — a dramatic, full-body exhale that communicated, clearly and without ambiguity, that she had been having the time of her life and he had let it end too soon.
 
-"Six hostiles, zero fatalities on our side," Flint said. The combat edge was dropping from his voice, replaced by something closer to his baseline — analytical, slightly theatrical. "The **Warriors** performed adequately, which is a word I'm using generously. The **Mage** needs a fuel management seminar. And your crossbow—"
+"Six hostiles, zero fatalities on our side," Flint said. "Which puts us at forty-six still breathing. I want you to appreciate that number, because the Tutorial certainly is." The combat edge was dropping from his voice, replaced by something closer to his baseline — analytical, slightly theatrical. "The **Warriors** performed adequately, which is a word I'm using generously. The **Mage** needs a fuel management seminar. And your crossbow—"
 
 "Two-degree cant. I know."
 
@@ -256,7 +256,7 @@ From that space behind his eyes, Flint murmured: "I'm archiving that sentence. N
 
 The second room was bigger, and the System had been taking notes.
 
-Eight Thornlings this time and they were faster, too. The spawn points fired in a staggered pattern that **Structural Analysis** read as deliberate: two up front, a pause, three from the sides, another pause, then three more from the rear corners. Bracketing. The System had watched fifty people beat six Thornlings in a straight line and thought, *yeah, let's fix that.*
+Eight Thornlings this time and they were faster, too. The spawn points fired in a staggered pattern that **Structural Analysis** read as deliberate: two up front, a pause, three from the sides, another pause, then three more from the rear corners. Bracketing. The System had watched forty-six people beat six Thornlings in a straight line and thought, *yeah, let's fix that.*
 
 Adaptive difficulty. The term surfaced from a hundred games he'd played — Diablo's monster density scaling with party size, Destiny's nightfall modifiers, the AI director in Left 4 Dead reading player performance and adjusting spawn rates in real time. Same principle. Different stakes. The difficulty was *watching* them and responding, which meant every room they aced was a room the next one would try to correct for. Not a curriculum. A conversation. The Tutorial was talking back.
 
@@ -294,7 +294,7 @@ Tyler stumbled back, breathing hard, eyes wide with the specific terror of someo
 
 Nate raised the crossbow. First thorn bolt seated in the groove. The weight was different from the rack bolts — denser, the center of mass shifted forward by the natural taper. His hands adjusted without conscious input, the kind of micro-correction that came from twenty years of switching between tools that all balanced differently.
 
-**Structural Analysis** painted the target: a Thornling at thirty feet, its bark-plate chest armor showing the same seam patterns as Room 1 but tighter. Denser growth. The System was upgrading its monsters between rooms. Because of course it was. Why wouldn't the thing that kidnapped fifty people and put them in a dungeon also be petty enough to adjust the difficulty when they started winning.
+**Structural Analysis** painted the target: a Thornling at thirty feet, its bark-plate chest armor showing the same seam patterns as Room 1 but tighter. Denser growth. The System was upgrading its monsters between rooms. Because of course it was. Why wouldn't the thing that kidnapped forty-six people and put them in a dungeon also be petty enough to adjust the difficulty when they started winning.
 
 He squeezed.
 
@@ -340,11 +340,23 @@ Two thorn bolts. Two kills that mattered.
 
 "I said 'your girlfriend's material salvage.' The possessive was grammatical, not romantic. The fact that you immediately corrected the romantic interpretation tells me things I'm filing under a category you don't want to know about."
 
-The fight ended. Eight Thornlings down. Zero fatalities. Two injuries — a gashed arm and a **Warrior** who'd twisted his ankle when a Thornling knocked him sideways — both already being handled by healers whose confidence had grown measurably since Room 1.
+But the rear spawns had found the gaps.
+
+The man who'd been telling jokes between rooms — nervous jokes, bad ones, the kind people told because silence was worse — had been standing near the back wall when the third wave punched through. No weapon drawn. No combat class. He'd been a **Crafter** of some kind, assigned a toolkit he hadn't figured out yet, and the Thornling that came through the south-wall spawn point didn't care about his class or his potential or the fact that he'd made three people laugh in the corridor when laughing felt impossible. It hit him low, thorn-cluster raking across his stomach, and he went down making a sound that wasn't a joke and wasn't a scream but something between them that Nate would hear in the dark for a long time.
+
+A **Healer** tried to reach him. Too far. Too late. The second rear-spawn Thornling cut her off, and by the time a **Warrior** hacked it down, the man on the floor had stopped making sounds.
+
+Two more near the east wall. The woman who'd shared her water bottle with strangers in the rest area — passing it down the line without being asked, the small kindness that cost nothing and meant everything — caught a thorn-arm across the throat when the side-spawn flanked wider than Marcus's formation could cover. She dropped without a word. A man beside her, unarmed, who'd stepped forward a half-second too late to shield her, took the same Thornling's backswing across the chest. The **Warrior** who killed it stood over two bodies instead of one.
+
+The fight ended. Eight Thornlings down. Three dead. Two more injured — a gashed arm and a **Warrior** who'd twisted his ankle when a Thornling knocked him sideways — both already being handled by healers whose confidence had grown measurably since Room 1. The healers' hands shook now. Not from exhaustion. From the three people on the stone floor that no amount of white light would fix.
+
+Forty-three. The number landed heavier than the math suggested.
+
+In Room 1, four people had died and the group had fractured — screaming, weeping, the raw shock of mortality arriving without warning. Now the shock was thinner. Not gone. Spread across a surface that had already cracked. People looked at the bodies and looked away. A woman crossed herself. A man sat down hard against the wall and stared at nothing. But nobody screamed. The Tutorial was teaching them that too — not just how to fight, but how to keep moving after someone didn't.
 
 The **Mage** was leaning against the wall, hands dark, breathing hard. She'd thrown four **Fire Bolts** total. The first two had been full-power dumps — bright, dramatic, effective, expensive. The third had been half-power, a sign she was starting to feel the drain. The fourth had been a flicker. She'd gone dark mid-fight, standing useless while the warriors covered her position, and the look on her face said she'd learned the lesson the System intended. Mana was a resource. Resources had limits. And limits didn't care about adrenaline.
 
-*The System was teaching. And the class was learning. Which would have been heartwarming if their teacher wasn't a kidnapper and the classroom wasn't a dungeon. But she's seen classrooms before, love — real ones, the kind where the lesson costs more than tuition. The best teachers are never kind. They're precise.*
+*The System was teaching. And the class was learning. Three fewer students in the seats than when the lesson started. Which would have been heartwarming if their teacher wasn't a kidnapper and the classroom wasn't a dungeon. But she's seen classrooms before, love — real ones, the kind where the lesson costs more than tuition. The best teachers are never kind. They're precise. And the ones who don't come home from the lesson — well. The silence where their laughter was is the loudest thing in the corridor now.*
 
 ---
 
@@ -416,7 +428,19 @@ The proto-guard seized. Both arms locked. Its advance stopped completely, seven 
 
 The warriors finished it. Two men converging on the immobilized creature, hacking into the joints Nate had already cracked open. Not surgical. Not pretty. But they attacked the same target at the same time from two angles without getting in each other's way, and three rooms ago that would have been impossible. Eight seconds of ugly, coordinated violence, and the proto-guard collapsed in a sound of splitting bark and tearing root-fiber that echoed off the stone walls. Amber sap pooled beneath the carcass, thick and dark.
 
-Silence. Then breathing. Then the particular quiet that followed a fight where everyone had done their job and nobody had died.
+But the room had done what the room was designed to do.
+
+The rock formations that made positioning possible also made isolation possible. A **Warrior** — young, built like a linebacker, one of the stronger fighters in the group — had pushed too far east chasing a Thornling into a corridor between two stone ridges. Good instinct, bad geometry. The corridor narrowed. His sword arc shortened. Two Thornlings came around the far end and caught him from a direction his blade couldn't reach. He killed one. The second killed him. By the time another fighter reached the corridor, the young man was on the stone and the Thornling was already moving on to easier targets.
+
+Behind the west rock formation, two people had tried to shelter — a man and a woman, both non-combatants, who'd read the elevated terrain and cover positions as safety instead of what they actually were: kill boxes with limited exits. A Thornling from the south-wall spawn found the gap between the rocks. The man had been carrying a shield he barely knew how to hold. He put it between the creature and the woman behind him, and for two seconds the shield held. Then the thorn-cluster punched through the wood and through the arm holding it, and the man went down. The woman tried to run. The corridor was six feet long with one exit, and the Thornling was between her and it.
+
+Nate heard the sounds. He couldn't see them — the rock formation blocked line of sight from his elevated position. By the time a **Warrior** cleared the corridor, there were two more bodies on the stone floor.
+
+The particular quiet that followed a fight where the room itself had been the weapon.
+
+Three more dead. Forty. The number had stopped being arithmetic and started being a roll call that got shorter every room.
+
+Nobody said the names. That was the part that stayed with Nate — nobody said the names because almost nobody knew them. Forty-three had walked into this room and forty had walked out, and even the three who hadn't were becoming abstractions faster than felt decent. The young **Warrior** who'd chased too deep. The man who'd held his shield until it broke. The woman behind him. They'd be remembered by what they did at the end, not who they'd been before it. The Tutorial was stripping identity down to function, and the dead were the first to lose theirs.
 
 The **Shield Guardian** was standing near the east wall. The same man who'd glanced at Nate's **PROCESSING** tag in the starting room and walked away with the calculation of rank and classification behind his eyes — *unclassified, unconventional, not worth the investment.*
 
@@ -454,11 +478,11 @@ The things Flint didn't say were starting to form a pattern.
 
 ## Rest Area 2 — Group Forms
 
-The rest area was where Nate stopped counting fights and started counting lessons.
+The rest area was where Nate stopped counting fights and started counting the living.
 
 The corridor widened into the now-familiar pattern — warmer light, smooth walls, a crafting station against the west wall. This one had a larger tool selection: a grinder wheel, a small anvil, additional files. The System rewarding progression with better tools, the same way a game unlocked better crafting options with each zone. Classic design. He'd have done the same thing.
 
-*Three rooms. Six Thornlings, then eight, then eight-plus-one. The difficulty wasn't ramping — it was calibrating. Each room adjusted based on the last. The spawn patterns got more complex. The Thornlings got denser. And then the proto-guard, testing whether the group could handle a priority target while managing adds. This wasn't a difficulty curve. It was a DPS check wrapped in a positioning test wrapped in a resource management exam. And they'd passed all three — barely — which meant the Tutorial had the data it needed to push harder.*
+*Three rooms. Six Thornlings, then eight, then eight-plus-one. Six dead between Rooms 2 and 3 — ten total since the Tutorial started. The difficulty wasn't ramping — it was calibrating. Each room adjusted based on the last. The spawn patterns got more complex. The Thornlings got denser. And then the proto-guard, testing whether the group could handle a priority target while managing adds. This wasn't a difficulty curve. It was a DPS check wrapped in a positioning test wrapped in a resource management exam. And they'd passed all three — barely, and not everyone — which meant the Tutorial had the data it needed to push harder.*
 
 Nate sat at the workbench and pulled the crossbow apart.
 
@@ -514,7 +538,7 @@ Each room escalated. Each room taught one lesson and tested the last. The diffic
 
 "It's a difficulty ramp," Nate said. Marcus had drifted over during the crafting work, standing nearby with the quiet attention of a man who was always listening even when he appeared to be doing something else. "Rooms 1 through 3 were the tutorial within the Tutorial. Combat, resources, positioning. The training wheels come off next."
 
-Marcus watched the corridor where fifty people were resting, trading, comparing character sheets, arguing about who'd gotten the best kills. People settling into roles that had been assigned an hour ago and were already feeling permanent. The warriors clustered together, comparing technique, the golden-chime warriors unconsciously gravitating to the center of those clusters. The **Mage** was talking to a **Healer** about mana regen timing. The crafters were working Josie's supply chain. Groups forming. Hierarchies hardening.
+Marcus watched the corridor where forty people were resting, trading, comparing character sheets, not talking about the ten who weren't. People settling into roles that had been assigned an hour ago and were already feeling permanent. The warriors clustered together, comparing technique, the golden-chime warriors unconsciously gravitating to the center of those clusters. The **Mage** was talking to a **Healer** about mana regen timing. The crafters were working Josie's supply chain. Groups forming. Hierarchies hardening.
 
 "We've got maybe fifteen who can fight," Marcus said. "Five who can support — **Healers**, buffers, the woman with the shield aura. And her." He nodded toward Josie, who was explaining laminate bark-plate theory to the weaver with the enthusiasm of a woman who had found a new audience. "What do you call what she does?"
 
@@ -530,7 +554,7 @@ Marcus smiled. Not the boardroom smile — the real one, the one that cracked th
 
 "Three rooms completed," Flint said. For once, the theatrical edge was gone. No wit, no deflection, no speed-as-armor. Just information, delivered with the quiet weight of data that mattered. "The combat log glitched again during Room 3. Briefly. But I caught a progress indicator before it closed — three of ten." A pause. Not a processing delay. A choice. "The difficulty hasn't peaked yet, Nate. It hasn't come close."
 
-Nate looked at the corridor. At the fifty people who were resting, healing, comparing numbers, chasing chimes. At the warriors whose technique was improving because the System was *making* it improve, one golden pulse at a time. At the **Mage** who was learning mana discipline because the System had let her burn dry and learn what empty felt like. At Marcus, who was turning strangers into a unit because the System had given him the tools and he'd brought the experience.
+Nate looked at the corridor. At the forty people who were resting, healing, comparing numbers, chasing chimes. At the warriors whose technique was improving because the System was *making* it improve, one golden pulse at a time. At the **Mage** who was learning mana discipline because the System had let her burn dry and learn what empty felt like. At Marcus, who was turning strangers into a unit because the System had given him the tools and he'd brought the experience.
 
 They were getting stronger. All of them. Every room, every fight, every chime and milestone and unlocked option. The System was making them better — faster, tougher, more capable than they'd been an hour ago.
 

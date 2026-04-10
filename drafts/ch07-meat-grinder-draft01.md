@@ -116,15 +116,13 @@ The fight lasted eight minutes. Felt like forty.
 
 By the time the last **Thornguard** went down — three Warriors and the Shield Guardian working its exposed lower back while Nate put a thorn bolt through the arm joint that Rex had herded it into exposing — the cavern floor was littered with bark and thorn and the particular wet-wood smell of Thornling death mixed with underground water.
 
-Two people didn't get up when the fighting stopped.
+One person didn't get up when the fighting stopped.
 
-A Warrior — young, maybe twenty-two, the kind of build that came from a gym membership and protein shakes rather than fence work. A **Thornguard** had caught him in the acoustic chaos, a forearm spike through the ribs while he was turning toward an echo instead of the threat. The Healer got to him. Wasn't fast enough.
+A Warrior — mid-thirties, stocky, quiet. The kind of fighter who never shouted in combat because shouting was wasted energy. He'd been solid since Room 3. Dependable. The man you put on a flank because he'd hold it without being told and rotate without being asked. Six rooms of competence had made him reliable, and reliability had made him tired, and tired had put him half a second behind the **Thornguard's** arm-spike when the echo bounced his callout off the wrong wall. He turned toward the sound. The spike came from the silence. Through the chain shirt's side gap, under the arm he'd raised to block a threat that wasn't there. The Healer reached him in nine seconds. He'd needed seven.
 
-A support class — older man, thin, the kind of person who'd survived five rooms by staying behind the line and being smart about it. He'd been smart about it in Room 7 too, right up until the water channel flooded its banks during the **Thornguard** fight and the current knocked him off his feet and a Thornling found him before anyone else did.
+Seventeen people stood in the cavern, breathing hard, and the silence after the echoes died was worse than the noise had been.
 
-Sixteen people stood in the cavern, breathing hard, and the silence after the echoes died was worse than the noise had been.
-
-*He didn't know their names yet. He would. In the quiet hours between the fighting and the sleeping, when the surviving sat with the space where the dead had been, the names would find him. They always found the people who bothered to carry them.*
+*He didn't know the man's name yet. He would. In the quiet hours between the fighting and the sleeping, when the surviving sat with the space where the dead had been, the names would find him. They always found the people who bothered to carry them.*
 
 ---
 
@@ -222,11 +220,13 @@ He paid it. He'd pay it again.
 
 The **Thornguard** on the other side of the collapse was still there. Marcus sent the team around through a secondary passage **SA** identified — longer route, but it avoided the rubble and put them on the **Thornguard's** flank. The creature went down in forty seconds. Anticlimactic. Most fights were, when you had the angles and the numbers and the enemy didn't know you were coming.
 
-One more person didn't make it through Room 8. A Warrior caught a Thornling's thorn-rake through the gap in his chain shirt during the flanking maneuver. The Healer couldn't reach him in time. She was still working on Nate's back when it happened, and the look on her face when she realized — when Marcus's **Vanguard** HUD showed her a health bar going dark while her hands were on the wrong patient — was something Nate filed in the place where he kept things he'd carry for a long time.
+One more person didn't make it through Room 8. A Warrior — one of the paired rotation fighters, the woman's partner, the man who'd been running clean two-person drills since Room 4 and had become the quiet half of the most efficient killing pair in the group. He knew the flanking maneuver cold. Had executed it three times without a scratch. But nine rooms of combat had eaten his reserves down to fumes, and fatigue did what **Thornguards** hadn't — put a stutter in his footwork at the worst possible second. His boot caught rubble from the collapse. He stumbled forward instead of stepping left. The Thornling's thorn-rake found the gap between chain shirt and belt, and the angle that would have been a glancing blow on a man with fresh legs became a killing stroke on a man running on nothing.
+
+The Healer couldn't reach him in time. She was still working on Nate's back when it happened, and the look on her face when she realized — when Marcus's **Vanguard** HUD showed her a health bar going dark while her hands were on the wrong patient — was something Nate filed in the place where he kept things he'd carry for a long time.
 
 *The **System** logged it as a resource allocation failure. Healer capacity divided by patient count, with the remainder expressed in a name that would never appear on someone's interface again. Tidy math. The **System** was always tidy.*
 
-Fifteen people walked into the rest corridor.
+Sixteen people walked into the rest corridor.
 
 ---
 
@@ -248,7 +248,7 @@ He set the stock on the anvil. Heated the **Thornguard** plate — the densest p
 
 The hammer rang on the anvil.
 
-It was the cleanest sound in the room. In the cavern. In the entire Tutorial, maybe. A single note of steel on iron that cut through the silence of fifteen exhausted people and existed for exactly as long as the physics required and no longer. No echo. No distortion. The forge was honest. Work-honest. It didn't pretend to be anything other than what it was.
+It was the cleanest sound in the room. In the cavern. In the entire Tutorial, maybe. A single note of steel on iron that cut through the silence of sixteen exhausted people and existed for exactly as long as the physics required and no longer. No echo. No distortion. The forge was honest. Work-honest. It didn't pretend to be anything other than what it was.
 
 He struck again. The **Thornguard** plate curved against the stock and **Field Repair** bonded the surfaces at the molecular level — bark-composite gripping hardwood the way good materials gripped each other when someone who understood them brought them together. Not welding. Not gluing. The materials choosing to hold.
 
@@ -264,7 +264,7 @@ Nate's hands moved and his mind went quiet.
 
 This was the part he couldn't explain to anyone who didn't already understand it. The act of building — of taking materials and a purpose and the knowledge in his hands and producing something that would work when it was needed — created a silence in him that nothing else could reach. Not meditation, though the breathing slowed and the world narrowed to the point of contact between tool and material. Just work. The rhythm of hammer on anvil, the heat of the forge on his face, the smell of hot metal and quenching water and the honest sweat of a man doing the thing his hands were made to do.
 
-The dead were behind him. The boy who'd turned toward the echo. The man who'd been smart until the water knocked him down. The Warrior who bled out while the Healer's hands were on Nate's back instead. Their names sat in his chest where names went when they stopped being sounds people answered to and started being weights that stayed.
+The dead were behind him. The quiet Warrior who'd turned toward the echo and away from the spike. The rotation fighter who'd stumbled on rubble because nine rooms had ground his legs down to nothing. Two men who'd done everything right for six rooms and then done one thing wrong because their bodies couldn't cash the checks their training kept writing. Their names sat in his chest where names went when they stopped being sounds people answered to and started being weights that stayed.
 
 He didn't think about them. He worked.
 
@@ -282,7 +282,7 @@ Her eyes were red. She hadn't cried. She was going to, later, when the room was 
 
 Everyone had their version of keeping their hands busy when keeping still meant thinking about the people who'd stopped.
 
-Marcus sat on a stone ledge near the corridor entrance, eyes moving in the steady sweep of a man reading data only he could see. His jaw worked once. Twice. He looked at the fifteen people in the rest area and his lips moved without sound. Counting.
+Marcus sat on a stone ledge near the corridor entrance, eyes moving in the steady sweep of a man reading data only he could see. His jaw worked once. Twice. He looked at the sixteen people in the rest area and his lips moved without sound. Counting.
 
 Rex patrolled the perimeter. Back and forth along the rest area's edges, the slow, measured patrol of a dog walking a fence line that didn't need walking. No threats. No spawn points. **SA** confirmed what Rex already knew — the rest area was safe. The dog patrolled anyway. Because patrol was what he did when the work paused but the alertness didn't. Same reason Nate forged. Same reason Josie sorted.
 
@@ -358,9 +358,15 @@ Quiet.
 
 The arena room went still. Nate lowered the crossbow. The reticle faded from his HUD — the concentric arcs loosening, dissolving back into the monochrome green baseline, the targeting system standing down with the same semi-intentional responsiveness that had brought it up. He hadn't dismissed it consciously. He'd stopped aiming, and the HUD had read the intent. Getting better at listening to him. Getting better at knowing when the work was done.
 
-One person down hard. A Warrior — she'd been in the front rotation since Room 5, broad-shouldered, quiet, the kind of competence that held a formation together without anyone noticing until it was gone. The flanking **Thornguard** had caught her from the side while the formation was oriented on the center. She'd turned toward the wrong threat — not her fault, not anyone's fault, the adaptive AI's learned flanking maneuver punishing with a tactic the group had taught it two rooms ago. The System had watched them fight and turned their own creativity into a weapon, and now a woman who'd survived nine rooms by being solid and reliable had a punctured thigh that the Healer was already working on with dimmer hands than anyone wanted to see.
+One person didn't get up.
 
-Fifteen standing. One barely. The Healer was already working, hands on the worst injuries first, the dim glow of depleted mana doing what it could. Which was less than anyone wanted and more than anyone deserved, given that the woman doing the healing hadn't slept or fully recharged since before Room 7.
+A Warrior — she'd been in the front rotation since Room 5, broad-shouldered, quiet, the kind of competence that held a formation together without anyone noticing until it was gone. The flanking **Thornguard** had caught her from the side while the formation was oriented on the center. She hadn't turned toward the wrong threat. That was the part that sat in Nate's chest afterward. She'd read the flank correctly — had started her pivot, shield arm coming up, feet shifting to meet it. Nine rooms of muscle memory executing the right response at the right time. But the adaptive AI had studied those nine rooms too, and the **Thornguard's** feint drew her guard high while its lower arm-spike drove upward through the gap below the chain shirt's hem. The tactic the group had taught the System two rooms ago, refined and returned with interest.
+
+The Healer reached her fast. Hands already glowing, already pouring what was left of her mana into the wound. But the glow flickered. Dimmed. The reserves that had been thin after Room 8 were thinner now, and the puncture had hit the femoral, and there was a math to blood loss that didn't care how skilled the hands were when the tank was dry. The Healer's face went through three stages in four seconds — urgency, desperation, and the particular stillness that arrived when a medical professional recognized the moment treatment became attendance.
+
+*The **System** didn't distinguish between the two. Healer mana depleted, patient health at zero, encounter complete. Clean data. The machine that ran the world had never understood the difference between a death it caused and a death it watched, because the machine had never understood death at all. It understood removal. Subtraction. A number becoming a smaller number. The rest was noise the **System** didn't record and wouldn't have known what to do with if it had.*
+
+Fifteen people standing. The Healer sat on the arena floor beside the woman she hadn't saved, hands still glowing the faint residual green of mana that had nothing left to heal, and didn't move until Marcus touched her shoulder.
 
 Flint, internally: "I want you to know I had tactical data on that **Thornguard's** flanking vector — " He stopped. The sentence hung unfinished for two full seconds. "Never mind. The room is clear. Focus forward."
 

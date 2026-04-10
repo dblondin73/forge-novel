@@ -28,7 +28,7 @@ Rex had felt them two seconds before Flint's sensors registered the density shif
 
 Marcus was already calling formation from the corridor mouth, his **Vanguard** HUD painting positional data across the fighters' combat interfaces. "**Warriors**, spread formation — we've got room to maneuver. Don't bunch up. **Mage**, find elevation — there." He pointed to a cluster of boulders along the north edge, waist-high, good sight lines. "**Healer**, behind the rock line. Support, stay mobile."
 
-Forty-nine people. All of them — every last body that had walked out of the safe room and fought through three rooms of Thornlings without losing a single soul. Three Healers. Josie. Nate. Rex. Judge. And the rest — the ones who weren't combat classes but had survived three rooms of learning that survival wasn't optional. Nobody had died yet. That fact sat in the group like a held breath, fragile and heavy at the same time.
+Forty people. That was what three rooms of Thornlings had left them — ten gone between Rooms 1 and 3, bodies that the Tutorial had broken and the group had carried past and tried not to think about. Three Healers. Josie. Nate. Rex. Judge. And the rest — the ones who weren't combat classes but had survived three rooms of learning that survival wasn't optional. Forty people who'd walked out of Room 3 still breathing. That number sat in the group like a held breath, fragile and heavy at the same time.
 
 The spawn points fired.
 
@@ -49,6 +49,12 @@ A **Warrior** — the man with the lion-embossed shield, the one who'd been reli
 And bounced.
 
 Not glanced. Not deflected. *Bounced* — the blade meeting resistance it wasn't designed for, the thin-gauge steel that **SA** had read as cosmetic garbage in the first room ringing off armor that was everything the sword was not: dense, layered, honest material built to stop exactly the kind of attack the **System** had been training these fighters to deliver. The **Warrior** staggered back two steps, his sword arm vibrating from the impact, his face showing the particular shock of a man who'd just discovered that three rooms of success hadn't prepared him for the difficulty spike the Tutorial had been building toward.
+
+The second **Warrior** — a woman who'd been fast and precise through three rooms — tried the same gap on the second **Thornguard**. Her blade hit shoulder plate and skated sideways, the edge catching nothing but bark dust, and the follow-through left her turned wrong. The **Thornguard**'s forearm spike came down like a splitting maul. She folded. Not backward — *down*, legs gone, the spike punching through collarbone armor that had never been designed to stop a vertical strike from something that outweighed her by three hundred pounds. A **Healer** sprinted toward her and the light in his hands hit the wound and did nothing that mattered. Internal. The spike had gone through infrastructure that healing couldn't rebuild fast enough, and she bled out on generated loam while the fight raged ten feet away.
+
+A support-class man — the one who'd been steady through three rooms, never flashy, never scared, just *there* with a torch and a short blade and the willingness to hold ground — caught a Thornling rake across the throat while his attention was on the **Thornguard**. Wrong enemy. Wrong second. The Thornling's bark-arm opened his neck and he sat down against a tree that wasn't a tree and didn't get up.
+
+Two dead in under a minute. The forest clearing that had felt manageable thirty seconds ago now felt like what it was — the **System**'s announcement that the warm-up was over.
 
 F-rank weapons hitting their ceiling. The **System** scaled the weapons to handle basic Thornlings and then introduced an enemy that made those weapons irrelevant. Same thing that happened in procurement when the spec changed mid-contract and the hardware that passed last month's test couldn't pass this month's.
 
@@ -86,11 +92,11 @@ Mini-boss encounter. The Tutorial just introduced elites. Everything before this
 
 Silence. Heavy breathing. The **Mage** sitting on the boulder with her hands dark and her mana bar somewhere near empty. A **Warrior** looking at his sword — the blade bent fifteen degrees from the **Thornguard**'s chest plate, the thin-gauge steel deformed exactly as **SA** had predicted it would three rooms ago. Another **Warrior** with a gash across his ribs where a forearm spike had caught him on the half-turn, bark thorns leaving punctures that the **Healer** was already working on with dimmer hands than anyone wanted to see.
 
-People who'd felt confident after Room 3 were shaking now. Three rooms of building competence, three rooms of learning the rhythm, three rooms of *nobody dies and the system works and we're getting better at this* — and one fight with two armored enemies had shattered all of it.
+People who'd felt confident after Room 3 were shaking now. Three rooms of building competence, three rooms of learning the rhythm, three rooms of *the losses are behind us and we're getting better at this* — and one fight with two armored enemies had shattered all of it. Two more names added to the count. Thirty-eight left.
 
-"Casualties?" Marcus said, and the word held the weight of a man who was asking for the first time and praying the answer was small.
+"Casualties?" Marcus said, and the word held the weight of a man who already knew the answer and was asking because asking was what leaders did.
 
-"Zero fatalities." Flint ran the count through Nate's combat HUD — the simplified readout, green arcs and amber tag, nothing like the detailed stat pages the others had. "Four injuries, two moderate. One sword deformed beyond field use. And the **Mage** is at nine percent mana, which I mention because single digits make me philosophically uncomfortable. I've seen vending machines with more reserves."
+"Two dead." Flint ran the count through Nate's combat HUD — the simplified readout, green arcs and amber tag, nothing like the detailed stat pages the others had. "Four more injured, two moderate. One sword deformed beyond field use. And the **Mage** is at nine percent mana, which I mention because single digits make me philosophically uncomfortable. I've seen vending machines with more reserves."
 
 Josie stood up from the first **Thornguard**'s corpse holding a piece of chest plate the size of a dinner plate. Three-layer laminate bark, intact, still warm from whatever passed for body heat in a creature grown from wood and malice.
 
@@ -128,7 +134,11 @@ They broke through. Marcus's call — fast push, center room — saved them from
 
 The side-spawns fired.
 
-Three more Thornlings, flanking from the east wall. Rex was already there — low, silent, the stare driving one toward the Warrior line before it had taken three steps. Judge came in behind the second — not herding, *attacking*, the Heeler's teeth finding root-leg and ripping sideways with a snarl that echoed off the cave walls and came back sounding like three dogs instead of one. The Thornling went down thrashing, bark-limbs scraping stone. But the third got through, and a support-class woman who'd been holding a torch for light took a bark-arm across the side that sent her spinning into the wall.
+Three more Thornlings, flanking from the east wall. Rex was already there — low, silent, the stare driving one toward the Warrior line before it had taken three steps. Judge came in behind the second — not herding, *attacking*, the Heeler's teeth finding root-leg and ripping sideways with a snarl that echoed off the cave walls and came back sounding like three dogs instead of one. The Thornling went down thrashing, bark-limbs scraping stone. But the third got through, and a support-class woman who'd been holding a torch for light took a bark-arm across the side that sent her spinning into the wall. She hit stone and didn't move. A **Healer** reached her — hands bright, mana pouring into the wound — but the bark-arm had caught her wrong, the angle driving thorn-tips between ribs into spaces that leather couldn't cover and healing couldn't reach fast enough. She died on the cave floor with the torch still burning beside her, the flame steadier than the hand that had held it.
+
+A **Warrior** on the east flank went down next — a man in his forties who'd been competent and quiet and whose name Nate had never learned. Two Thornlings hit him simultaneously from opposite sides while he was mid-technique, the cooldown window catching him exposed, and the double impact drove him into a stalagmite with a sound that ended the conversation about whether the cave's stone formations were decorative. They weren't. He crumpled at the base and the Thornlings moved past him toward the support line because the Tutorial's creatures didn't stop for the dead any more than the Tutorial did.
+
+Four dead across two rooms. The number building toward something that felt less like attrition and more like design.
 
 Tyler was fighting like he always fought — big axe, bigger swings, the System-assisted precision giving his seventeen-year-old frame the combat timing of a trained soldier. Axe Technique fired and the blade buried itself in a Thornling's chest. Clean kill. The technique greyed out. Cooldown.
 
@@ -182,7 +192,7 @@ She paced a tight circuit around the body — not sniffing, not investigating, j
 
 It wasn't going to make sense again. Judge kept pacing anyway.
 
-Permadeath. No respawn. No save point, no resurrection mechanic, no "release spirit and run back to your corpse." The Tutorial had permanent consequences. Every room from this point forward carried a price tag denominated in something that couldn't be ground back.
+Permadeath. No respawn. No save point, no resurrection mechanic, no "release spirit and run back to your corpse." The Tutorial had permanent consequences. Five dead across two rooms — two in the forest, three in the cave — and every room from this point forward carried a price tag denominated in something that couldn't be ground back. Thirty-five people left.
 
 **Structural Analysis** read the room's architecture — the spawn point placement, the entrance clustering, the delayed **Thornguard** deployment. The kill zone wasn't an accident. The **System** had built this death into the encounter the way an engineer built tolerances into a design. Calculated. Deliberate. The room's geometry was optimized to produce exactly what it had produced — a situation where someone who was strong but not fast enough, brave but not experienced enough, *young* but not experienced enough in the ways that kept you alive.
 
@@ -254,19 +264,19 @@ Upgraded crossbow. Upgraded hammer. Twenty minutes of forge work that felt like 
 
 "TUTORIAL ADVANCEMENT REWARD — DISTRIBUTE AMONG YOUR PARTY."
 
-The **System**'s text appeared in the blue that Nate couldn't access — but everyone else could. A crafting station along the east wall activated, surfaces glowing with the soft amber of System-generated equipment. Gear materialized in organized rows: reinforced leather armor, improved weapons, a shield with actual metal facing instead of composite pretending. Twenty-four sets. Laid out with the careful presentation of merchandise designed to be chosen.
+The **System**'s text appeared in the blue that Nate couldn't access — but everyone else could. A crafting station along the east wall activated, surfaces glowing with the soft amber of System-generated equipment. Gear materialized in organized rows: reinforced leather armor, improved weapons, a shield with actual metal facing instead of composite pretending. Eighteen sets. Laid out with the careful presentation of merchandise designed to be chosen.
 
-Twenty-four sets.
+Eighteen sets.
 
 Marcus counted heads. His **Vanguard** HUD doing the math that his face was already doing manually — the count, the gap, the equation that every raid leader recognized.
 
-Forty-eight people. Twenty-four sets. The number sat in the silence where forty-nine had been.
+Thirty-five people. Eighteen sets. The number sat in the silence where forty had been.
 
 The math was deliberate. And something about the way the gear materialized — the amber glow, the organized rows, the presentation that was less "supply drop" and more "storefront display" — nagged at the part of him that cataloged design intent. The **System** wasn't just distributing equipment. It was making the distribution *feel* like a reward. Making the upgrade *feel* like progress earned. Making the new armor *feel* like validation for surviving the rooms that had killed Tyler.
 
 Dopamine hit. Classical conditioning. Perform, survive, receive shiny things. The oldest loop in game design, and the **System** was running it on traumatized humans who were too grateful for better armor to notice the leash being fitted to the collar.
 
-"Distribute among your party," Marcus read aloud, and his voice carried the particular flatness it got when the mission required something that the man inside the uniform didn't want to do. He looked at the gear. Looked at the group. Looked at the faces of forty-eight people who'd just lost someone — their *first* someone — and were now being asked to decide who deserved protection.
+"Distribute among your party," Marcus read aloud, and his voice carried the particular flatness it got when the mission required something that the man inside the uniform didn't want to do. He looked at the gear. Looked at the group. Looked at the faces of thirty-five people who'd lost five of their own across two rooms and were now being asked to decide who deserved protection.
 
 "Fighters first," Marcus said. "The people holding the line get the armor. That's not preference — it's math. If the front line goes down, the support line goes down thirty seconds later."
 
@@ -274,9 +284,9 @@ He was right. Nate knew he was right. Everyone in the corridor knew he was right
 
 The sets distributed. Warriors grabbed upgraded weapons with the urgency of people who'd watched their blades bend against **Thornguard** plate. The **Shield Guardian** took a reinforced shield that **SA** read as genuinely improved — actual metal facing over a layered composite core. Better. Not good. Better.
 
-And the gratitude was immediate. Visible. The **Warrior** with the lion shield tested his new blade and his face opened into something that looked uncomfortably like joy. A woman who'd been fighting in starter leather ran her hands over the new chest piece and her eyes went bright. The room filled with the particular energy of people receiving gifts — not supplies, not necessities, *gifts* — and nobody was thinking about the distribution math or the scarcity equation or the very deliberate way the **System** had made twenty-four sets for forty-eight people so that receiving gear felt like winning and not receiving it felt like losing.
+And the gratitude was immediate. Visible. The **Warrior** with the lion shield tested his new blade and his face opened into something that looked uncomfortably like joy. A woman who'd been fighting in starter leather ran her hands over the new chest piece and her eyes went bright. The room filled with the particular energy of people receiving gifts — not supplies, not necessities, *gifts* — and nobody was thinking about the distribution math or the scarcity equation or the very deliberate way the **System** had made eighteen sets for thirty-five people so that receiving gear felt like winning and not receiving it felt like losing.
 
-The **System** just trained forty-eight people to want what it gives. That's not a loot drop. That's a leash.
+The **System** just trained thirty-five people to want what it gives. That's not a loot drop. That's a leash.
 
 A crossbow improvement kit sat in the lineup. Better limbs, reinforced rail, a proper trigger mechanism. Nate picked it up. **SA** read the components — honest materials, real engineering, the **System**'s first actual investment in crossbow infrastructure. The limbs alone would double his effective range.
 
@@ -428,7 +438,7 @@ Judge worked the other margin — the aggressive one, the one where things neede
 
 This is the last encounter before something changes. The moment where the build comes together — coordinated DPS, crowd control, tank-and-spank on real elites. Five rooms of cohesion paying off. Classic design.
 
-The room cleared. Forty-eight people standing in an eighty-foot chamber, breathing hard, bleeding in places, but standing. The **Healer** was already working — a thigh wound on a Warrior, hands glowing, mana carefully rationed. The **Mage** sat against the second pillar with her head back and her eyes closed, mana somewhere between "empty" and "don't ask." Two support-class fighters had minor gashes from Thornlings that had gotten past the line before Rex redirected them.
+The room cleared. Thirty-five people standing in an eighty-foot chamber, breathing hard, bleeding in places, but standing. The **Healer** was already working — a thigh wound on a Warrior, hands glowing, mana carefully rationed. The **Mage** sat against the second pillar with her head back and her eyes closed, mana somewhere between "empty" and "don't ask." Two support-class fighters had minor gashes from Thornlings that had gotten past the line before Rex redirected them.
 
 Costly. Close. But clear.
 
@@ -458,7 +468,7 @@ A mother calling her child's name. Routed right. The child — a girl, maybe ten
 
 The girl pressed her palms against the barrier. The mother pressed hers against the other side. Three inches of **System** architecture between them, and **SA** read the barrier as having no mass, no material, no structural properties — energy and purpose and nothing else — which meant there was nothing to break and nothing to fight and nothing to do except watch a mother and child separated by a wall that wasn't a wall by a system that didn't care.
 
-*And just like that, the herd got smaller. Not because anyone died this time — just because a wall appeared where a hallway used to be, and the **System** decided who was worth the harder road. I won't tell you it gets easier. I'm not in the habit of lying to you, love. Not about this.*
+*And just like that, the herd got halved. Not because anyone died this time — just because a wall appeared where a hallway used to be, and the **System** decided who was worth the harder road. Half and half. Nearly even. As if that makes it better. I won't tell you it gets easier. I'm not in the habit of lying to you, love. Not about this.*
 
 A man and his wife reached the barrier together and the gap opened on different sides and the sound she made when they separated was the sound of something breaking that wasn't physical.
 
@@ -470,7 +480,7 @@ Marcus — left. The **Vanguard**'s performance data had earned him the harder p
 
 The **Mage** — left. The **Healer** — left, and her face said everything about how she felt about being sorted into the group that would need more healing.
 
-Nate watched the right-path group through the transparent barrier. Faces he'd seen in five rooms of fighting — the woman who'd handed out water between Rooms 2 and 3, the man who'd been useless in combat but had kept morale alive with bad jokes that nobody laughed at and everyone needed. The people who'd been part of this thing and now weren't, because the **System** had split the raid and the group finder didn't care about bonds.
+Nate watched the right-path group through the transparent barrier. Seventeen faces he'd fought beside across five rooms — the woman who'd handed out water between Rooms 2 and 3, the man who'd been useless in combat but had kept morale alive with bad jokes that nobody laughed at and everyone needed. Half the survivors. People who'd bled with him and now stood on the other side of glass that wasn't glass, because the **System** had split the raid and the group finder didn't care about bonds.
 
 Rex's head pressed against Nate's hand. The dog was still facing forward, always forward, ears tracking the sounds from the left corridor. But his body pressed against Nate's leg a fraction harder than usual — the canine equivalent of acknowledgment. Something had changed. The herd was smaller. The work wasn't.
 
@@ -478,7 +488,7 @@ Rex's head pressed against Nate's hand. The dog was still facing forward, always
 
 The left path narrowed and the narrowing was a corridor of its own — a gauntlet stocked with Thornlings that hit harder than anything in Rooms 1 through 6. The **System** had sorted the stronger fighters onto the harder road and then immediately proved why the sorting existed.
 
-The left path delivered them to a rest area — smaller, tighter, the walls closer together in a way that made the reduced group feel like a reduction instead of just a number. Eighteen people out of forty-eight. The barrier had sorted the strongest fighters and the people the **System** wanted to keep watching onto the harder road, and left thirty others on the easier path with no say in the matter.
+The left path delivered them to a rest area — smaller, tighter, the walls closer together in a way that made the reduced group feel like a reduction instead of just a number. Eighteen people out of thirty-five. The barrier had sorted the strongest fighters and the people the **System** wanted to keep watching onto the harder road, and left seventeen others on the easier path with no say in the matter. Nearly even. The **System** hadn't skimmed the best off the top — it had split the group down the middle, and the even divide made the sorting feel less like selection and more like amputation.
 
 Marcus did the headcount — standing, moving through the group, making eye contact, counting bodies with the systematic care of a man who refused to let people become numbers even when the numbers were all he had left.
 
@@ -546,7 +556,7 @@ The silence that followed had weight. Tyler's absence filling the space that hum
 
 Nobody spoke for a moment. The corridor stretched ahead, dark, the torchlight failing at the edge of visible range. **Structural Analysis** read what it could — stone walls, narrower than before, spawn points pulsing in the deep. More of them. Closer together.
 
-"The difficulty just doubled," Flint said. His voice carried none of the usual theater. Just information, delivered with the weight of data that mattered. "Eighteen people on the hard path. Forty-eight minus Tyler, minus thirty on the easy road, equals us. I want to say the math works out but I'd be lying, and I've been told my poker face needs work." A beat. "On account of not having a face."
+"The difficulty just doubled," Flint said. His voice carried none of the usual theater. Just information, delivered with the weight of data that mattered. "Eighteen people on the hard path. Thirty-five minus five dead, minus seventeen on the easy road, equals us. I want to say the math works out but I'd be lying, and I've been told my poker face needs work." A beat. "On account of not having a face."
 
 Rex was already facing the corridor.
 

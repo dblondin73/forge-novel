@@ -479,3 +479,171 @@ Fifty people moved forward. Not because they were ready. Because the room they w
 ---
 
 The **System** counted them through. Fifty warm bodies, one unclassified framework, and a dog that kept growling at the floor. More than enough.
+
+---
+
+The corridor opened into Room 1 like a throat widening into a stomach.
+
+Sixty feet across. Eighty deep. Ceiling lost in shadow above the torchlight. Same stone, same iron sconces, same architecture — but the light was wrong. Dimmer. Warmer. The torches here burned amber instead of orange, and the shadows between them were thicker, deeper, the kind of dark that moved when you looked away from it.
+
+**Structural Analysis** fired before his boots stopped moving. The wireframe overlay swept the room in a stuttering pulse — walls, floor, ceiling, the four stone pillars supporting the vaulted arches — and then locked onto the floor. The spawn points from the corridor continued here. Dozens of them. Closer together. Brighter. No longer dormant.
+
+Hatching.
+
+"Twenty-six active spawn points," Flint said. Combat-stripped, rapid. "Distributed in three clusters — eight left, ten center, eight right. Activation is staggered. First wave incoming in—"
+
+The floor split.
+
+Not cracked — split, like bark peeling off a log. A section of stone three feet across hinged upward and something climbed out of it. Fast. Wrong. A shape that belonged in a forest but was made of stone-room materials — bark-textured skin stretched over a frame that moved like a dog and stood like a child. Three and a half feet tall. Arms too long for the body, ending in fingers that weren't fingers. Thorns. Four-inch thorns where fingertips should be, amber sap beading at each point.
+
+More. Five, eight, twelve — the floor opening in a cascade of stone-bark panels, creatures pulling themselves up and into the torchlight like saplings growing in fast-forward. They moved in a pack. No formation, but a pattern — spreading outward from the center, filling gaps, covering angles. Herding behavior. Rex saw it the same instant Nate did. A snarl ripped from the dog's chest, low and sustained, the sound he made when coyotes pushed too close to the calves and the line had to hold.
+
+Thornlings. He didn't know the name yet. The **System** hadn't labeled them. But **Structural Analysis** read their bodies the way it read everything else — bark over woody fiber, structural density concentrated in the limbs and skull, sap channels running through the core like a circulatory system built from tree biology. Living architecture. Counterfeit life built from counterfeit materials by a System that could generate stone and steel and apparently something that bled amber and wanted to kill you.
+
+"Organic constructs," Flint confirmed. "System-generated. Pack hunters. The thorns are structural — load-bearing, not decorative. And the limbs have tensile strength well beyond their size. Do not let the height fool you. These are not small."
+
+The first one screamed.
+
+Not a human sound. Not an animal sound. A vibration, high and grinding, wood fibers under tension — the sound a green branch makes when you bend it past its breaking point but it doesn't break. Twenty more joined it. The room filled with the sound of a forest tearing itself apart.
+
+Marcus had the line formed before the first Thornling closed to twenty feet. Warriors front, shoulder to shoulder across the room's width, swords and axes and maces held in grips that ranged from trained to terrified. Mages behind them, hands up, light gathering between fingers that shook. Support and unclassified packed into the back third of the room, pressed against the corridor mouth like passengers backing toward the emergency exit.
+
+"HOLD THE LINE! Let them come to you! Don't break formation!"
+
+Good order. Clear voice. The right call.
+
+It lasted eight seconds.
+
+The Thornlings didn't charge in a line. They swarmed. The center cluster hit the warrior line head-on — screaming, thorned hands raking at shields and sword arms — and the flanking clusters split wide, running along the walls, climbing the stone with bark-gripping fingers that found purchase on surfaces that should have been smooth. They came from three directions and the line was built for one.
+
+A warrior on the left flank — young, maybe twenty-two, holding a longsword in both hands because nobody had told him one hand was enough for the weight — took a Thornling across the face. The thorns raked from jaw to temple and he screamed, dropped the sword, pressed both hands to the wounds. Blood between his fingers, real blood, the first anyone in the room had seen since the sky broke. He stumbled backward. Into the gap.
+
+Two Thornlings poured through the gap like water through a cracked dam.
+
+They hit the second rank — the Mages — and the Mages weren't ready. A woman in robes threw a bolt of blue energy that caught one in the chest and sent it tumbling. The other one went low, under her guard, thorned fingers catching the hem of her robe and climbing her body like a vine scaling a wall. She screamed. The Thornling's thorns punched through the fabric and into her shoulder and the scream changed pitch — from fear to pain, raw and wet and immediate.
+
+Marcus was already moving. His body shifted — **Vanguard** class doing something that Nate felt in the air, a pulse of something that wasn't sound or light but made the warriors near him plant their feet harder, tighten their grips, stop giving ground. An aura. A field effect. The System's version of a staff sergeant's voice, quantified and broadcast.
+
+But the left flank was gone.
+
+The young warrior who'd dropped his sword was on the ground. A Thornling crouched on his chest, thorned fingers buried in his shoulders, pinning him. He was screaming — thrashing, kicking, trying to get it off — and two more were coming. The nearest warrior turned to help him, and the Thornling she'd been holding at the line lunged through her opened guard.
+
+Nate raised the crossbow. No bolt. He lowered it.
+
+The hammer came off his belt. Not a ranged weapon. Not an ideal choice. But a pound and a half of forged steel on a hardwood handle, and the Thornling pinning the young man had a skull that **Structural Analysis** read as bark over woody fiber over a dense core node — the structural keystone that held the rest of the creature's framework together.
+
+He stepped forward. Rex moved with him — not ahead, beside, matching his pace the way he matched it on a fence line when the bull was wrong and the distance was closing. Judge — somewhere behind, Nate hadn't tracked him in the chaos — let out a bark that was half snarl, half tactical directive. *Moving.*
+
+The hammer came down on the Thornling's skull with the full rotation of shoulders that had swung post drivers for two decades. The core node shattered. The creature collapsed — not fell, collapsed, structural integrity gone, bark-skin sagging over a framework that had lost its keystone. Amber sap sprayed across the stone floor and across Nate's forearm, warm and smelling like cedar and something older.
+
+He grabbed the young warrior's arm. Pulled. The kid came up bleeding from eight puncture wounds, face white, eyes wild with the particular terror of someone who had just learned what pain actually felt like. Nate shoved him toward the back of the room. "Move."
+
+The kid moved.
+
+But the line was broken in two places now, and the Thornlings were still coming. The second wave — the staggered activation Flint had mentioned — was climbing out of the floor in the center of the room, behind the warrior line. Between the front rank and the support.
+
+"Second wave, center!" Flint called. "Eight more. They're inside the formation."
+
+A man died.
+
+Not a main character. Not someone Nate knew. A man in khakis and a polo shirt — office worker, insurance adjuster, someone who'd been sitting at a desk twelve hours ago — who'd been pushed to the edge of the formation when the line broke. He'd picked up a mace in the safe room because it was heavy and heavy felt safe. He swung it at the first Thornling that came at him and missed wide, the weight carrying his arms past center, momentum spinning him a quarter turn. The Thornling didn't miss. Thorned fingers punched into his side below the ribs — four inches of structural thorn, dense as hardwood, driven by limbs with tensile strength well beyond their size. The man made a sound. Not a scream. A sound like air leaving a tire. He sat down. The Thornling climbed his chest the way the other one had climbed the Mage, thorns finding flesh, and a second one joined it.
+
+Nate was fifteen feet away. He saw it happen. He couldn't reach it.
+
+The man stopped moving. The Thornlings stayed on him for two more seconds, thorns buried deep, and then pulled away and went for the next target. The body on the stone floor didn't get up.
+
+Around him, the chaos had a texture. Not random — patterned, the way a cattle stampede had a pattern if you'd seen enough of them to read the motion instead of just feeling the fear. The Thornlings targeted isolation. They didn't hit the center of the warrior line, where shields overlapped and swords covered each other. They hit the edges. The gaps. The places where someone had stepped wrong or turned to help a neighbor and opened a seam.
+
+They were herding. Rex knew it. Nate knew it. The Thornlings were running the same playbook as coyotes on calves — separate, isolate, bring down.
+
+"Flint. The thorns. On that one." Nate pointed at the Thornling corpse at his feet — the one he'd hammered. The thorned fingers, splayed in death, four inches of dense structural material with a point already shaped by biology.
+
+"You cannot be serious."
+
+He was already crouching. The hammer's peen hooked under one of the thorn-fingers and snapped it free at the base joint. Dense. Straight enough. Slightly curved, but the crossbow's two-degree cant pulled left anyway — load the bolt with the curve opposing the cant and the errors canceled. Field artillery math applied to salvaged monster parts.
+
+He loaded the thorn into the crossbow rail. Seated it against the string. Not a perfect fit — the base was wider than a standard bolt nock — but the prod's tension didn't care about cosmetics. It cared about stored energy and release mechanics.
+
+"That is a thorn. From a creature's hand. Loaded into a crossbow made from furniture."
+
+"It's a bolt."
+
+"It is objectively not a—"
+
+He fired.
+
+The thorn crossed twenty feet of torchlit air and buried itself in the skull of a Thornling climbing a warrior's back. The creature's bark-face caved inward around the thorn — its own material, its own density, turned back on itself. It fell. The warrior staggered forward, free, bleeding from thorn-wounds on both shoulders.
+
+"I take it back," Flint said. "That's a bolt."
+
+Josie was already at the fallen Thornling. She'd been trailing Nate — not close enough to be in danger, close enough to be in range of everything that dropped. Her hands found the dead creature's other hand, snapped off three thorns in rapid succession, inspected each one in the half-second between grabbing and stowing. Two went into the sack. One she tossed to Nate without looking. Good one. Straight. He loaded it.
+
+"Four more!" she called. "Two cracked, two solid. Do you want the cracked ones?"
+
+"Cracked ones shatter on impact."
+
+"Shrapnel bolts!"
+
+He almost smiled. "Later."
+
+A woman screamed — high, sustained, the sound of someone past fear and into something beyond it. The right side of the room. Nate turned. A cluster of Thornlings — four, five — had pushed through the right flank and caught a knot of unclassified people against the wall. No weapons. No combat training. Three of them were doing what untrained people do in a fight — backing up until there was nowhere to back up to, hands raised, voices making sounds that weren't words.
+
+Marcus was fighting through the center, trying to reach them. Warriors on his flanks, hacking at Thornlings with swords that were already showing stress fractures — the cosmetic steel bending at the edges, crossguards cracking exactly the way **Structural Analysis** had predicted. Two swords had already snapped. Their owners had switched to fists and panic.
+
+A woman against the right wall went down. Thornlings swarmed her — three of them — and the people next to her scattered like quail flushing from brush. Running. Not toward the group. Away from the creatures. Into gaps, into corners, into the open spaces between pillars where isolation meant death.
+
+One of those runners — a man, middle-aged, heavy, breathing hard — made it ten feet before a Thornling caught his ankle. He hit the stone face-first and the sound was bad. Two more piled onto him before he could roll over. It was fast. Not cinematic. Not dramatic. Fast and ugly and over in the time it took Nate to reload.
+
+Three down by the time Marcus got the line reformed.
+
+Marcus's voice hammered through the noise — not orders now, something rawer, the battlefield voice that bypassed rank and training and grabbed the lizard brain directly. "CLOSE THE GAPS! PUSH THEM BACK TO CENTER! WARRIORS ON THE FLANKS — *NOW!*"
+
+The **Vanguard** aura pulsed. Nate felt it from thirty feet away — steadying, grounding, a frequency that told your body to stop shaking before your brain could argue. Warriors who'd been breaking reformed. Mages who'd been firing wild found targets. The line re-formed — uglier than before, gaps patched with bodies instead of skill, but a line. A wall of desperate, bleeding, terrified people who'd decided that holding was better than running because the ones who ran were the ones who died.
+
+Nate fired. Loaded. Fired. Josie fed him thorns — snapping them off fallen Thornlings the way she'd sorted leather in the safe room, fast and certain and completely uninterested in the fact that the materials were still warm and leaking sap. Rex worked the left flank, driving Thornlings away from isolated targets with the focused aggression of a dog that had finally found livestock worth sorting. He didn't bite — he herded, flanking, blocking, his body between the creatures and the people the creatures wanted. Judge worked the right, heavier, meaner, less precise — he bit, and the Thornlings learned quickly that the Blue Heeler's jaw pressure exceeded the structural tolerance of their bark-skin limbs.
+
+The last Thornling died under three swords and a hammer.
+
+Silence.
+
+Not true silence — breathing, moaning, someone sobbing against the far wall. But the grinding wood-scream was gone and the spawn points had gone dark and the room had the stunned, post-storm stillness of a pasture after a tornado passes and you walk out to count what's missing.
+
+---
+
+Four.
+
+Four people who'd walked into this room alive and weren't walking out.
+
+The man in the khakis lay where he'd fallen, hands still half-raised, the mace three feet from fingers that would never close on it. The woman against the right wall. The heavy man who'd run for a corner. And a fourth — a young woman Nate hadn't seen go down, found by Marcus's people during the sweep, curled against the base of a pillar with thorn wounds in her chest and throat. She'd died facing the wall. Away from the fight. She'd been trying to get away from it, and the room hadn't let her.
+
+The group that had walked in fifty strong stood at forty-six, and nobody was counting yet because counting meant accepting, and accepting meant understanding that the number could get smaller again.
+
+Marcus stood in the center of the room, chest heaving, blood from someone else's wounds streaked across his forearms. His face had the carved-granite stillness of a man who'd lost people before and knew the face you had to wear when it happened, because if the leader broke, the formation broke, and the formation was all they had.
+
+"Check the wounded. Pair up. Nobody alone." His voice was steady. His hands were not.
+
+A **Healer** — the same woman who'd touched the grieving mother's shoulder in the safe room — was on her knees beside the young warrior Nate had pulled from under the first Thornling. Green light spilled from her palms and the puncture wounds were closing, slowly, the flesh knitting in a way that was beautiful and grotesque in equal measure. She was crying while she worked. Healing a stranger and grieving for four more she'd never reached.
+
+The bald man from New Jersey was sitting against a pillar with his arms wrapped around his knees, rocking, the same motion as the kid in the Oregon hoodie from the safe room. Different man, same frequency. The kid in the Oregon hoodie was standing, though. Standing, holding a sword someone had pressed into his hands at some point, the blade streaked with amber sap. He was staring at the sword like he wasn't sure how it had gotten there, and his expression was the particular horror of someone who'd just discovered they were capable of violence and hadn't decided yet whether that was better or worse than being incapable of it.
+
+A woman — fortysomething, scrubs, the one who'd grabbed the longsword like a stethoscope — was pulling a jacket off her shoulders and draping it over the face of the man in khakis. Slowly. Carefully. The gesture of someone who knew that covering a body was the first kindness available when all the others had failed. Nobody had asked her to. Nobody had told her to. She just did it, and the doing of it was the kind of quiet that said everything about what kind of room this had become.
+
+Nate stood by the far wall, hammer on his belt, crossbow in his hands, Rex pressed against his shin, and didn't speak. Five thorn-bolts left in a pile at his feet, Josie's work, sorted and graded and ready. The crossbow's prod still held tension. **Structural Analysis** still flickered at the edges of his vision, reading the dead Thornlings, reading the walls, reading the room's architecture with the same detached precision it had read the weapon racks.
+
+Four people. Their names would be learned later, at a rest stop, spoken aloud by people who'd stood near them or talked to them or watched them fall. Their faces would stay with the people who'd seen them die — not in the clean, categorized way that the **System** recorded data, but in the rough, unsorted way that human memory preserved things that mattered. They would be the first entries in a ledger that would grow, and the ledger would never be balanced, and nobody in the room knew yet that the Tutorial's death count was a number the **System** had budgeted for from the beginning.
+
+Josie sat down beside him. Not talking. Not looting. Sitting with the sack clutched to her chest and her eyes fixed on the jacket draped over the man in khakis, and for the first time since she'd started talking in the safe room, she had nothing to say.
+
+Rex's warmth pressed against his leg and a wash of impression came through — grief-scent in the air, the pack diminished, something missing that couldn't be retrieved. Rex understood loss the way dogs understood it. Not abstractly. The scent that was there and then wasn't. The space in the herd that didn't fill back in.
+
+Nate closed his eyes. Three seconds. A stillness that didn't need words or names or explanations. Just the pause. Just the breath. The occupied space inside him — the part the **System** couldn't classify and Flint couldn't fully read — settled like water finding its level, and for three seconds, in a room full of death and amber sap and the sound of a woman crying while she healed a stranger, everything that mattered was held.
+
+He opened his eyes. Picked up the thorn-bolts. Loaded one.
+
+"Next room?" Josie asked. Quiet. Hoarse.
+
+"Next room."
+
+---
+
+She counted them through, too. Not in numbers. In faces. In the ones who held and the ones who broke and the one who knelt in silence while the room learned what it cost to be alive in a place that wasn't built for living. The Tutorial had a lesson plan for Room 1: learn to fight. The room had taught something different — learn to lose. The two lessons weren't the same, but they'd arrive at the same destination eventually. They always did. The only question was how many faces she'd count before the last door opened.
