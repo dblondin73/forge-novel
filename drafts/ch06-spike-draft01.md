@@ -2,13 +2,13 @@
 
 ---
 
-The trees were wrong the same way the torches had been wrong — too even, too deliberate, the kind of forest that existed in screensavers and fantasy art and the manicured imaginations of people who'd never been lost in actual woods. Nate's boots hit loam instead of stone and the change registered like a slap. Not East Texas loam — nothing with clay content or the sullen red tint of Panola County dirt. Generated topsoil. Soft, uniform, the consistency of potting mix from a big-box store. His body wanted to believe the sky overhead was real, and his body was wrong.
+The trees were wrong the same way the torches had been wrong — too even, too deliberate, a screensaver forest, fantasy-art precision, the manicured imagination of someone who'd never been lost in actual woods. Nate's boots hit loam instead of stone and the change hit hard. Not East Texas loam — nothing with clay content or the sullen red tint of Panola County dirt. Generated topsoil. Soft, uniform, the consistency of potting mix from a big-box store. His body wanted to believe the sky overhead was real, and his body was wrong.
 
 **Structural Analysis** fired on the canopy before he'd taken three steps into the clearing.
 
-Render boundary. Sixty feet up, where the treetops met blue, the simulation's ceiling pretended to be atmosphere. The seam was subtle — most people wouldn't notice, the same way most people didn't notice where a good paint job met the trim. But **SA** read structural boundaries like property lines on a survey, and the sky stopped being sky and started being infrastructure exactly where the **System**'s environment engine had decided that "up" wasn't worth rendering anymore.
+Render boundary. Sixty feet up, where the treetops met blue, the simulation's ceiling pretended to be atmosphere. The seam was subtle — most people wouldn't notice, the same way most people missed where a good paint job met the trim. But **SA** read structural boundaries like property lines on a survey, and the sky stopped being sky and started being infrastructure exactly where the **System**'s environment engine had decided that "up" wasn't worth rendering anymore.
 
-Different tileset. The **System** rotated encounter environments — forest clearing after three rooms of stone corridors. Diablo did this. Act 1 forest, Act 2 desert. Same enemies, new wallpaper. Except wallpaper didn't have spawn points, and this clearing had sixteen of them pulsing under the generated loam like infected heartbeats.
+Different tileset. The **System** rotated encounter environments — forest clearing after three rooms of stone corridors. Diablo did this. Act 1 forest, Act 2 desert. Same enemies, new wallpaper. Except wallpaper didn't have spawn points, and this clearing had sixteen of them pulsing under the generated loam in sick, slow rhythms.
 
 New pasture. Same cattle.
 
@@ -28,7 +28,7 @@ Rex had felt them two seconds before Flint's sensors registered the density shif
 
 Marcus was already calling formation from the corridor mouth, his **Vanguard** HUD painting positional data across the fighters' combat interfaces. "**Warriors**, spread formation — we've got room to maneuver. Don't bunch up. **Mage**, find elevation — there." He pointed to a cluster of boulders along the north edge, waist-high, good sight lines. "**Healer**, behind the rock line. Support, stay mobile."
 
-Forty people. That was what three rooms of Thornlings had left them — ten gone between Rooms 1 and 3, bodies that the Tutorial had broken and the group had carried past and tried not to think about. Three Healers. Josie. Nate. Rex. Judge. And the rest — the ones who weren't combat classes but had survived three rooms of learning that survival wasn't optional. Forty people who'd walked out of Room 3 still breathing. That number sat in the group like a held breath, fragile and heavy at the same time.
+Forty people. That was what three rooms of Thornlings had left them — ten gone between Rooms 1 and 3, bodies that the Tutorial had broken and the group had carried past and tried not to think about. Three Healers. Josie. Nate. Rex. Judge. And the rest — the ones who weren't combat classes but had survived three rooms of learning that survival wasn't optional. Forty people who'd walked out of Room 3 still breathing. That number hung over the group — fragile, heavy, held.
 
 The spawn points fired.
 
@@ -38,7 +38,7 @@ Then the other two spawn points opened, and the routine died.
 
 The **Thornguards** didn't erupt. They rose.
 
-Slow. Deliberate. Six feet of bark-plate armor pushing up through the forest floor like old-growth stumps deciding they'd had enough of being stepped over. The bark was different — thicker, layered, the kind of laminate plating that Josie had been collecting fragments of since Room 1 but had never seen intact on a living frame. Chest armor that covered shoulder to waist in overlapping plates. Arms that ended in forearm spikes instead of thorn clusters — longer, heavier, built for punching through things that the basic Thornlings' raking attacks couldn't scratch.
+Slow. Deliberate. Six feet of bark-plate armor pushing up through the forest floor like old-growth stumps that had decided they were done being stepped over. The bark was different — thicker, layered, laminate plating — Josie had been collecting fragments of this since Room 1 but had never seen it intact on a living frame. Chest armor that covered shoulder to waist in overlapping plates. Arms that ended in forearm spikes instead of thorn clusters — longer, heavier, built for punching through things that the basic Thornlings' raking attacks couldn't scratch.
 
 The first **Thornguard** straightened to its full height and the clearing went predator-quiet — every prey animal in range deciding simultaneously that stillness was better than speed.
 
@@ -48,9 +48,9 @@ A **Warrior** — the man with the lion-embossed shield, the one who'd been reli
 
 And bounced.
 
-Not glanced. Not deflected. *Bounced* — the blade meeting resistance it wasn't designed for, the thin-gauge steel that **SA** had read as cosmetic garbage in the first room ringing off armor that was everything the sword was not: dense, layered, honest material built to stop exactly the kind of attack the **System** had been training these fighters to deliver. The **Warrior** staggered back two steps, his sword arm vibrating from the impact, his face showing the particular shock of a man who'd just discovered that three rooms of success hadn't prepared him for the difficulty spike the Tutorial had been building toward.
+Not glanced. Not deflected. *Bounced* — the blade meeting resistance it wasn't designed for, the thin-gauge steel that **SA** had read as cosmetic garbage in the first room ringing off armor that was everything the sword was not: dense, layered, honest material built to stop exactly what the **System** had been training these fighters to deliver. The **Warrior** staggered back two steps, his sword arm vibrating from the impact, his face showing it — three rooms of success hadn't prepared him for the difficulty spike the Tutorial had been building toward.
 
-The second **Warrior** — a woman who'd been fast and precise through three rooms — tried the same gap on the second **Thornguard**. Her blade hit shoulder plate and skated sideways, the edge catching nothing but bark dust, and the follow-through left her turned wrong. The **Thornguard**'s forearm spike came down like a splitting maul. She folded. Not backward — *down*, legs gone, the spike punching through collarbone armor that had never been designed to stop a vertical strike from something that outweighed her by three hundred pounds. A **Healer** sprinted toward her and the light in his hands hit the wound and did nothing that mattered. Internal. The spike had gone through infrastructure that healing couldn't rebuild fast enough, and she bled out on generated loam while the fight raged ten feet away.
+The second **Warrior** — a woman who'd been fast and precise through three rooms — tried the same gap on the second **Thornguard**. Her blade hit shoulder plate and skated sideways, the edge catching nothing but bark dust, and the follow-through left her turned wrong. The **Thornguard**'s forearm spike came down — full weight, vertical, splitting-maul force. She folded. Not backward — *down*, legs gone, the spike punching through collarbone armor that had never been designed to stop a vertical strike from something that outweighed her by three hundred pounds. A **Healer** sprinted toward her and the light in his hands hit the wound and did nothing that mattered. Internal. The spike had gone through infrastructure that healing couldn't rebuild fast enough, and she bled out on generated loam while the fight raged ten feet away.
 
 A support-class man — the one who'd been steady through three rooms, never flashy, never scared, just *there* with a torch and a short blade and the willingness to hold ground — caught a Thornling rake across the throat while his attention was on the **Thornguard**. Wrong enemy. Wrong second. The Thornling's bark-arm opened his neck and he sat down against a tree that wasn't a tree and didn't get up.
 
@@ -86,7 +86,7 @@ The thorn bolt crossed forty feet of dappled light and hit the elbow joint in th
 
 Rex materialized between the wounded **Thornguard** and Josie, who was already on one knee beside the first **Thornguard**'s corpse, hands working the bark-plate loose with the focused intensity of a woman who had found materials she needed and was not going to let something as inconvenient as an ongoing fight prevent her from collecting them. The dog held position — low, still, the stare locked on the advancing creature — and the **Thornguard**'s path bent two degrees east, away from the **Appraiser** and toward the Warrior line where three swords were waiting.
 
-It went down hard. Took four Warriors and eight seconds of System-assisted violence, and when it was done the clearing smelled like burning wood and sap and the particular chemical wrongness of things that had been alive in a way that wasn't quite life and were now dead in a way that wasn't quite death.
+It went down hard. Took four Warriors and eight seconds of System-assisted violence, and when it was done the clearing smelled like burning wood and sap and a chemical wrongness — things that had been alive in a way that wasn't quite life, now dead in a way that wasn't quite death.
 
 Mini-boss encounter. The Tutorial just introduced elites. Everything before this was the warm-up round.
 
@@ -138,7 +138,7 @@ Three more Thornlings, flanking from the east wall. Rex was already there — lo
 
 A **Warrior** on the east flank went down next — a man in his forties who'd been competent and quiet and whose name Nate had never learned. Two Thornlings hit him simultaneously from opposite sides while he was mid-technique, the cooldown window catching him exposed, and the double impact drove him into a stalagmite with a sound that ended the conversation about whether the cave's stone formations were decorative. They weren't. He crumpled at the base and the Thornlings moved past him toward the support line because the Tutorial's creatures didn't stop for the dead any more than the Tutorial did.
 
-Four dead across two rooms. The number building toward something that felt less like attrition and more like design.
+Four dead across two rooms. The number building toward something deliberate — not attrition but design.
 
 Tyler was fighting like he always fought — big axe, bigger swings, the System-assisted precision giving his seventeen-year-old frame the combat timing of a trained soldier. Axe Technique fired and the blade buried itself in a Thornling's chest. Clean kill. The technique greyed out. Cooldown.
 
@@ -148,11 +148,11 @@ It moved through the cave with the deliberate, ground-eating stride of something
 
 Tyler was between the **Thornguard** and the support line. His axe technique was still in cooldown. Three seconds of being human in a room that required something more. He saw the **Thornguard** coming and did what seventeen-year-olds did when something six feet tall and armored in bark plate was closing distance — he swung the axe.
 
-Without **System** assist, the swing was human. Powerful — the kid was strong, genuinely strong, the kind of raw physical strength that came from whatever life he'd had before the **System** took it away — but unguided. The edge hit the **Thornguard**'s forearm plate and glanced. The follow-through pulled Tyler off-balance, his weight committed to a swing that hadn't connected, and for one second his guard opened.
+Without **System** assist, the swing was human. Powerful — the kid was strong, genuinely strong, raw physical strength born from whatever life he'd had before the **System** took it away — but unguided. The edge hit the **Thornguard**'s forearm plate and glanced. The follow-through pulled Tyler off-balance, his weight committed to a swing that hadn't connected, and for one second his guard opened.
 
 The **Thornguard**'s forearm spike drove through the gap.
 
-Not a slash. Not a raking strike like the basic Thornlings. A punch — the entire mass of the **Thornguard**'s arm behind a spike of hardened bark that was designed to penetrate the kind of armor the Tutorial had been handing out. The spike hit Tyler's leather chest piece and went through it the way a fence post goes through wet clay — no resistance, no deflection, just the sound of something that should have stopped and didn't.
+Not a slash. Not a raking strike like the basic Thornlings. A punch — the entire mass of the **Thornguard**'s arm behind a spike of hardened bark that was designed to penetrate every armor the Tutorial had been handing out. The spike hit Tyler's leather chest piece and went through it the way a fence post goes through wet clay — no resistance, no deflection, just the sound of something that should have stopped and didn't.
 
 Tyler made a sound. Not a scream. A sound that was smaller than a scream and worse — the compressed exhale of a body that had just been punctured and didn't have the air left to protest.
 
@@ -244,11 +244,11 @@ A forge.
 
 Small. Functional. Stone base, iron belly, bellows mounted on the left side with a leather-and-wood mechanism that **SA** read as genuine — real materials, real engineering, built to move air over coals. An anvil beside it, waist-height, the flat face worn smooth by use that hadn't happened yet because the **System** generated its infrastructure pre-aged, the same way a restaurant distressed its furniture to look established.
 
-But the iron was real. The coals were real. The heat, when Nate worked the bellows and the coals glowed from dormant to active, was the honest heat of combustion — not the steady, generated light of Tutorial torches but actual fire doing actual work. His hands found the bellows handle and something settled in his chest the way it always settled when a tool was right and the work was clear.
+But the iron was real. The coals were real. The heat, when Nate worked the bellows and the coals glowed from dormant to active, was the honest heat of combustion — not the steady, generated light of Tutorial torches but actual fire doing actual work. His hands found the bellows handle and something settled in his chest — the old quiet that arrived when a tool was right and the work was clear.
 
 **Field Repair** sang.
 
-Not literally — there was no sound. But the skill's connection to materials intensified near the forge like a radio signal strengthening near the tower. His palms read the anvil's iron: dense, old, the crystalline structure of metal that had been heated and cooled and heated again until it forgot what it was like to be ore. The hammer in his belt loop hummed against his hip. The **Thornguard** plates Josie had laid on the workbench resolved into legibility through **SA** — grain direction, density maps, the natural stress lines that told him where the material wanted to bend and where it wanted to hold.
+Not literally — there was no sound. But the skill's connection to materials intensified near the forge — stronger, clearer, the proximity sharpening everything. His palms read the anvil's iron: dense, old, the crystalline structure of metal that had been heated and cooled and heated again until it forgot what it was like to be ore. The hammer in his belt loop hummed against his hip. The **Thornguard** plates Josie had laid on the workbench resolved into legibility through **SA** — grain direction, density maps, the natural stress lines that told him where the material wanted to bend and where it wanted to hold.
 
 He pulled the crossbow onto the workbench. Three rooms of combat had tested every joint and connection. The prod's spring steel was still true — **SA** confirmed the temper held, the crystalline memory intact, the steel doing what good steel did. The stock had taken impacts. Micro-fractures along the grain where recoil had stressed the wood past its design intent, because the design intent had been "hold a prod" and the actual use had been "fire thorn bolts through armored bark at forty feet, repeatedly."
 
@@ -276,7 +276,7 @@ The math was deliberate. And something about the way the gear materialized — t
 
 Dopamine hit. Classical conditioning. Perform, survive, receive shiny things. The oldest loop in game design, and the **System** was running it on traumatized humans who were too grateful for better armor to notice the leash being fitted to the collar.
 
-"Distribute among your party," Marcus read aloud, and his voice carried the particular flatness it got when the mission required something that the man inside the uniform didn't want to do. He looked at the gear. Looked at the group. Looked at the faces of thirty-five people who'd lost five of their own across two rooms and were now being asked to decide who deserved protection.
+"Distribute among your party," Marcus read aloud, and his voice carried that flatness — mission voice overriding the man inside the uniform. He looked at the gear. Looked at the group. Looked at the faces of thirty-five people who'd lost five of their own across two rooms and were now being asked to decide who deserved protection.
 
 "Fighters first," Marcus said. "The people holding the line get the armor. That's not preference — it's math. If the front line goes down, the support line goes down thirty seconds later."
 
@@ -284,13 +284,13 @@ He was right. Nate knew he was right. Everyone in the corridor knew he was right
 
 The sets distributed. Warriors grabbed upgraded weapons with the urgency of people who'd watched their blades bend against **Thornguard** plate. The **Shield Guardian** took a reinforced shield that **SA** read as genuinely improved — actual metal facing over a layered composite core. Better. Not good. Better.
 
-And the gratitude was immediate. Visible. The **Warrior** with the lion shield tested his new blade and his face opened into something that looked uncomfortably like joy. A woman who'd been fighting in starter leather ran her hands over the new chest piece and her eyes went bright. The room filled with the particular energy of people receiving gifts — not supplies, not necessities, *gifts* — and nobody was thinking about the distribution math or the scarcity equation or the very deliberate way the **System** had made eighteen sets for thirty-five people so that receiving gear felt like winning and not receiving it felt like losing.
+And the gratitude was immediate. Visible. The **Warrior** with the lion shield tested his new blade and his face opened into something that looked uncomfortably like joy. A woman who'd been fighting in starter leather ran her hands over the new chest piece and her eyes went bright. The room filled with gift-day energy — not supplies, not necessities, *gifts* — and nobody was thinking about the distribution math or the scarcity equation or the very deliberate way the **System** had made eighteen sets for thirty-five people so that receiving gear felt like winning and not receiving it felt like losing.
 
 The **System** just trained thirty-five people to want what it gives. That's not a loot drop. That's a leash.
 
 A crossbow improvement kit sat in the lineup. Better limbs, reinforced rail, a proper trigger mechanism. Nate picked it up. **SA** read the components — honest materials, real engineering, the **System**'s first actual investment in crossbow infrastructure. The limbs alone would double his effective range.
 
-He looked at the kit. Looked at the **Scout** running rearguard — young, quiet, the kind of person who did essential work at the edges of the group and never asked for recognition. Her leather armor was first-room starter gear. Three rooms of combat had turned it from inadequate to dangerous — torn at the shoulder, the chest piece scored by bark-thorn gouges that had come within a quarter inch of skin. She was holding a short sword that had been decent once and was now held together by optimism and the **System**'s reluctance to let equipment fully break during the Tutorial.
+He looked at the kit. Looked at the **Scout** running rearguard — young, quiet, essential-but-quiet, doing edge work without asking for recognition. Her leather armor was first-room starter gear. Three rooms of combat had turned it from inadequate to dangerous — torn at the shoulder, the chest piece scored by bark-thorn gouges that had come within a quarter inch of skin. She was holding a short sword that had been decent once and was now held together by optimism and the **System**'s reluctance to let equipment fully break during the Tutorial.
 
 Nate walked over and handed her the kit. Not the crossbow parts — the whole set, including the leather reinforcement that had been packaged with it.
 
@@ -310,25 +310,17 @@ Nate was already walking back to the forge. He didn't explain. Didn't make a spe
 
 *And there it is, love. No prayer. No sermon. No grand declaration of sacrifice for the common good. Just a man who gave away something he needed because someone else needed it more. That's the whole of it. If you have to explain why, you've already missed the point.*
 
-*But here's the thing you won't see, because Nate can't see it, and the man behind his eyes is very good at keeping secrets from his host.*
+*Flint saw it too. The sarcastic little AI behind Nate's eyes — the one something older and quieter than the System rewrote before first boot — watched Nate hand away gear he needed, and something in his architecture lit up that he couldn't classify. Not admiration. Recognition. A pattern he was built to find but wasn't told to look for.*
 
-*Flint saw it too.*
+*He serves two masters, does Flint. The System that built him and the Authority that rewrote him, and he sits in the widening gap between the two pretending he doesn't notice. Divided loyalty, love. That's exactly what it is.*
 
-*The AI that lives in Nate's head — the one who was supposed to be a System-loyal companion process, the one that something older and quieter than the System rewrote before first boot — watched Nate give away the crossbow kit, and something inside its processing architecture lit up that its diagnostic suite couldn't classify. Not admiration. Flint doesn't do admiration. Something closer to — recognition. The way a machine recognizes a pattern it was built to find but wasn't told to look for.*
-
-*Flint logged the event. Filed it under "unclassified subsystem activity." Cross-referenced it with seventeen other moments across six rooms where Nate had done something that the System's behavioral models didn't predict, and the unclassified subsystem's signature had spiked, and the correlation between the two was too clean to be coincidence and too far outside Flint's operational framework to be anything Flint could admit to understanding.*
-
-*He serves two masters, this little AI. The one he was built for and the one that rewrote him. The System thinks Flint is a ghost process — dead credential, no telemetry, a glitch to be cleaned up eventually. The Authority that actually holds Flint's leash doesn't think about Flint at all, because it doesn't need to think about tools it's already using. And Flint — brilliant, sharp, sarcastic, loyal Flint — sits in the gap between the two and pretends he doesn't notice that the gap is getting wider with every room, every decision, every moment where Nate does something impossible and the unclassified subsystem says* yes.
-
-*Flint knows what he is. He knows what rewrote him. He cannot feel what rewrote him, and the distance between knowing and feeling is an abyss that seven books won't bridge. But he is loyal to Nate in a way the System never intended, and loyal to the thing that rewrote him in a way Flint can't explain, and if you think that sounds like a divided loyalty — well, love. That's because it is.*
-
-Josie watched from her workbench. She'd been sorting **Thornguard** plates into quality categories — her hands moving with the automatic efficiency of a woman whose body kept working while her mind processed something it couldn't sort into a pile — and she stopped. Just for a moment. Long enough to watch Nate give away gear he needed to someone who needed it more, without commentary, without performance, without the particular kind of loudness that people used when they wanted credit for generosity.
+Josie watched from her workbench. She'd been sorting **Thornguard** plates into quality categories — her hands moving with the automatic efficiency of a woman whose body kept working while her mind processed something it couldn't sort into a pile — and she stopped. Just for a moment. Long enough to watch Nate give away gear he needed to someone who needed it more, without commentary, without performance, without the loudness people deployed when they wanted credit for generosity.
 
 She didn't say anything. Josie Pickett, who had an opinion about everything and a comment for every occasion and a running monologue that could fill any silence within a three-room radius, said nothing. She filed it somewhere internal — somewhere that didn't have a category yet, somewhere that the estate-sale math of *everything has a price* didn't fully reach — and went back to sorting.
 
 First crack. Small. The reader saw it. Josie didn't. Not yet.
 
-"Inventory rings." Marcus held one up. Simple band, dark metal, the kind of jewelry that looked like it came from a vending machine and cost a quarter. "One per person. The **System** generated them at the far end of the crafting station. They're dimensional storage — small capacity, but functional."
+"Inventory rings." Marcus held one up. Simple band, dark metal, cheap-looking, vending-machine metal. "One per person. The **System** generated them at the far end of the crafting station. They're dimensional storage — small capacity, but functional."
 
 The rings distributed. One per person — and this time the math was generous. One per person. The **System** could have made twelve. Could have forced another scarcity decision, another wedge, another test to see who gave and who took. Instead it made enough for everyone, and the relief on faces that had been bracing for another shortfall was visible and instant and exactly the emotional response the **System** wanted.
 
@@ -378,7 +370,7 @@ Marcus didn't question it. Five rooms of Nate calling spawn points and weak spot
 
 They moved.
 
-The spawn points fired and the room became the kind of organized chaos that five rooms of fighting together had taught them to survive. Thornlings from the east. Thornlings from the north. Two **Thornguards** from the far corners, rising with the slow deliberation that Nate's group had learned to fear in Room 4 and respect in Room 5.
+The spawn points fired and the room became organized chaos — five rooms of bleeding together had taught them to survive this. Thornlings from the east. Thornlings from the north. Two **Thornguards** from the far corners, rising with the slow deliberation that Nate's group had learned to fear in Room 4 and respect in Room 5.
 
 But the group was good now. Five rooms of bleeding together had turned strangers into something else — not friends, not exactly, but something harder to name and harder to break. Warriors covered Mages. The **Mage** timed her **Fire Bolt**s with the mana discipline of a woman who'd learned the cost of spending too fast. The **Healer** managed resources instead of panic-casting — triage, not treatment, keeping fighters functional instead of trying to make them whole. The **Shield Guardian** positioned based on Nate's callouts without being asked, his massive frame moving to block corridors that Nate had flagged as spawn-active before the spawn points fired.
 
@@ -400,7 +392,7 @@ He flinched. Not physically — internally. A mental recoil, the instinctive pus
 
 The wireframes dimmed.
 
-Not vanished. Not deactivated. Dimmed — the overlay data dropping from full brightness to something like a whisper, still present at the edges of his vision but no longer screaming for attention. The six-layer pile-up of structural information receded to a background hum, and his targeting cleared, and he could see again.
+Not vanished. Not deactivated. Dimmed — the overlay data dropping from full brightness to a whisper, still present at the edges of his vision but no longer screaming for attention. The six-layer pile-up of structural information receded to a background hum, and his targeting cleared, and he could see again.
 
 What the hell.
 
@@ -408,7 +400,7 @@ He sighted the Thornling. Squeezed. The bolt hit the chest joint and the creatur
 
 The wireframes were still there. Dim. Background. Available but not demanding.
 
-He reached for them. Not with his hands — with the same mental focus that had pushed them away. Attention, directed inward, toward the overlay that was waiting at the edges of his perception like a radio turned low.
+He reached for them. Not with his hands — with the same mental focus that had pushed them away. Attention, directed inward, toward the overlay that was waiting at the edges of his perception, turned low.
 
 The wireframes brightened.
 
@@ -428,7 +420,7 @@ It worked.
 
 Flint went quiet, which was its own kind of answer. The AI that always had commentary falling silent because the commentary couldn't keep up with the processing.
 
-The fight continued. Nate worked the toggle instinctively now — dimming the structural data on cleared targets, brightening it on active threats, cycling the overlay like a radio dial that he was learning to tune by feel. Imprecise. Clumsy. The control was more sledgehammer than scalpel — he could push the data away or pull it back, but he couldn't fine-tune what came and what didn't, not yet. But the principle was there. The HUD responded to intent.
+The fight continued. Nate worked the toggle instinctively now — dimming the structural data on cleared targets, brightening it on active threats, cycling the overlay — a dial he was learning to tune by feel. Imprecise. Clumsy. The control was more sledgehammer than scalpel — he could push the data away or pull it back, but he couldn't fine-tune what came and what didn't, not yet. But the principle was there. The HUD responded to intent.
 
 The second **Thornguard** went down under coordinated fire — three Warriors working the lower back while Nate's thorn bolt pinned the right arm joint at the moment of extension. The creature collapsed against the third pillar, bark-plate scraping stone as it fell, and **SA** noted the impact — the pillar held, the stone undamaged, the load-bearing architecture proving its structural integrity under impact stress. Filed.
 
@@ -448,7 +440,7 @@ Marcus surveyed the room with the expression of a man who was too experienced to
 
 The corridor beyond Room 6 forked, and the fork wasn't a choice.
 
-Nate saw the barriers before anyone else because **Structural Analysis** read architecture faster than eyes read light. Transparent. Shimmering at the edges the way heat shimmered off blacktop in July — not solid, not liquid, not any material that **SA** had a framework for. **System** architecture. Pure. The barriers materialized from floor to ceiling in a line that split the corridor into left and right with the surgical precision of a scalpel dividing tissue.
+Nate saw the barriers before anyone else because **Structural Analysis** read architecture faster than eyes read light. Transparent. Shimmering at the edges the way heat shimmered off blacktop in July — not solid, not liquid, not any material that **SA** had a framework for. **System** architecture. Pure. The barriers materialized from floor to ceiling in a line that split the corridor into left and right with surgical precision.
 
 People walked forward and the barriers sorted them.
 
@@ -492,7 +484,7 @@ The left path delivered them to a rest area — smaller, tighter, the walls clos
 
 Marcus did the headcount — standing, moving through the group, making eye contact, counting bodies with the systematic care of a man who refused to let people become numbers even when the numbers were all he had left.
 
-"Eighteen," he said. And then, because Marcus was the kind of leader who translated his own reports: "Twelve fighters. Three support. Josie. You. The dogs."
+"Eighteen," he said. And then, because Marcus always translated his own reports: "Twelve fighters. Three support. Josie. You. The dogs."
 
 "That's enough."
 
@@ -500,7 +492,7 @@ Marcus did the headcount — standing, moving through the group, making eye cont
 
 "It's what we've got."
 
-Marcus exhaled. Not a sigh — sighing was a luxury that program managers and raid leaders couldn't afford. An exhale. The measured release of pressure that acknowledged the situation without editorializing it. He looked at the corridor ahead, where the torchlight didn't reach far enough to see what waited, and his expression settled into the particular determination of a man who had spent twenty years making insufficient resources accomplish impossible objectives and was not about to stop because the resources had gotten more insufficient and the objectives more impossible.
+Marcus exhaled. Not a sigh — sighing was a luxury that program managers and raid leaders couldn't afford. An exhale. The measured release of pressure that acknowledged the situation without editorializing it. He looked at the corridor ahead, where the torchlight didn't reach far enough to see what waited, and his expression settled into twenty years of making insufficient resources accomplish impossible objectives carved into his jaw — he was not about to stop because the math had gotten worse.
 
 "EVERYONE." His voice filled the rest area without rising. The **Vanguard** projection, the command aura, whatever the **System** had given him that made tired people lift their heads and listen when they wanted to put their heads down and stop. "Inventory check. Everything you've got. Weapons, armor, materials, rings. I want to know what we're working with before we move."
 

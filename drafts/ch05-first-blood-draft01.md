@@ -42,7 +42,7 @@ The bolt was a rack bolt — a basic projectile he'd grabbed from a supply rack 
 
 Movement on the east side. A Thornling broke through the warrior line, closing fast on a **Healer** and two unarmed people backed against the wall.
 
-The peripheral green flared. Not a thought — a direction. Something in his lower-left visual field brightened, pulling his attention like a bird flushing from cover. *There.* Before the conscious thought formed, the instinct had already delivered the answer: threat, east wall, closing.
+The peripheral green flared. Not a thought — a direction. Something in his lower-left visual field brightened, pulling his attention — bird flush, left field. *There.* Before the conscious thought formed, the instinct had already delivered the answer: threat, east wall, closing.
 
 Rex hit it from the side. Not a bite — a darting lunge at the Thornling's legs, thirty-five pounds of Border Collie snapping at bark-covered ankles and cutting back before the thorn-arms could swing. The creature stumbled, turned toward the dog, and Rex was already gone — circling left, nipping at the other side, driving it off-balance — stubborn heifer, meet stubborn dog. Making himself the problem the Thornling had to solve before it could reach anyone else.
 
@@ -66,17 +66,17 @@ He was already reloading. Second rack bolt seated. Cocked. The prod took the ten
 
 He put the second bolt into the seam.
 
-The impact was different this time. The bolt found the gap **Structural Analysis** had highlighted and sank to the fletching — through bark, through the fibrous interior, through whatever passed for a spine in a creature made of wood and spite. The Thornling seized, limbs locking, and collapsed forward onto the stone with a sound like a fence post hitting the ground. Amber sap pooled beneath it, already darkening.
+The impact was different this time. The bolt found the gap **Structural Analysis** had highlighted and sank to the fletching — through bark, through the fibrous interior, through whatever passed for a spine in a creature made of wood and spite. The Thornling seized, limbs locking, and collapsed forward onto the stone — a dull, wooden thud. Amber sap pooled beneath it, already darkening.
 
 First kill.
 
-The word sat in his chest with a weight he hadn't expected. Not guilt — he'd killed coyotes and copperheads and one rabid raccoon that had come up the porch steps at 2 AM. Killing a thing that was trying to kill people wasn't a moral question. It was logistics. But this was the first time the thing had been shaped like a person, almost, if you squinted, and the sound it made when it died was close enough to a voice that the difference mattered only because he chose to believe it did.
+The word sat in his chest with a weight he hadn't expected. Not guilt — he'd killed coyotes and copperheads and one rabid raccoon that had come up the porch steps at 2 AM. Killing a thing that was trying to kill people wasn't a moral question. It was logistics. But this was the first time the thing had been shaped close enough to a person, if you squinted, and the sound it made when it died was close enough to a voice that the difference mattered only because he chose to believe it did.
 
 "First blood," Flint said, and if Nate didn't know better, he'd say Flint sounded impressed. "Two bolts, one kill. Your crossbow has a two-degree cant to the left, but for a weapon built from furniture by a man who had ten minutes and no instructions, I'll call it a passing grade. Barely."
 
 The fight was ending. Warriors mobbing the last two Thornlings with more aggression than coordination — blades finding bark more often than seams, brute-forcing kills that technique should have made cleaner. The **Mage** threw a second **Fire Bolt** at a Thornling that was already dying, and the bolt was weaker than the first. Noticeably. The first had been a bonfire, the second a campfire. Mana cost catching up with enthusiasm.
 
-Nobody had noticed what the dogs did. Forty-five people fighting for their lives, and not a single one had seen a Border Collie and a Blue Heeler work a monster like a pair that had been splitting cattle since Judge was old enough to bite.
+Nobody had noticed what the dogs did. Forty-five people fighting for their lives, and not a single one had seen a Border Collie and a Blue Heeler work a monster — header and heeler, splitting cattle since Judge was old enough to bite.
 
 *The System had no classification for what they'd done. No rank, no class, no skill tree. Two animals operating below the threshold of everything the System measured — and executing a combat maneuver that three Warriors with full class kits hadn't thought to try. The System noted their existence the way a ledger notes a rounding error. It would learn, eventually, that rounding errors compound. She was watching the dogs before the System thought to. She's always been fond of the ones who work without being asked.*
 
@@ -96,17 +96,17 @@ Judge sat at Nate's other side, panting hard, her stub tail vibrating at a frequ
 
 ## Rest Area 1
 
-The rest area opened like an exhale.
+The rest area opened into something breathable.
 
 Wider corridor, warmer light, the torches burning with a steady amber glow instead of the combat room's flickering. The ceiling was higher here. The stone walls had shifted from rough-cut to something almost smooth, and **Structural Analysis** read the difference: functional architecture versus combat architecture. Load-bearing walls with dressed stone faces — finished, not raw. The System built its rest areas to feel safe. Casino psychology — neither the house nor the dungeon cared about your comfort. Both wanted you to stay long enough to spend something.
 
-People were sitting. Leaning against walls. Breathing in the particular way that people breathe when they've just survived something they didn't expect to survive, which was different from normal breathing — first-beer-after-fencing breathing, the same substance doing entirely different work.
+People were sitting. Leaning against walls. Breathing hard, ragged, the post-survival version — first-beer-after-fencing breathing, the same substance doing entirely different work.
 
 Healing was accelerating. The healers — three of them, all glowing with the soft white light of System-granted restoration — moved between the injured with the tentative authority of people who'd had their abilities for less than two hours and were still surprised when they worked. A **Warrior** with a gash across his forearm sat still while a woman pressed her palm to the wound and the flesh knitted like time-lapse footage of a cut healing in reverse. The **Warrior** watched it happen with wide eyes. The **Healer** watched it happen with wider ones.
 
 Then came the moment that told Nate everything he needed to know about where this was heading.
 
-Across the corridor, people were going still — eyes unfocused, heads tilted, the same vacant look as someone scrolling through a phone only they could see. Character sheets. They were reading whatever the System had given them. Some people scrolled with small finger gestures. Others talked quietly to their AI companions — the standard-issue System voices that Nate couldn't hear but could see in the way people tilted their heads and nodded at empty air.
+Across the corridor, people were going still — eyes unfocused, heads tilted, the vacant scroll-face of people reading screens only they could see. Character sheets. They were reading whatever the System had given them. Some people scrolled with small finger gestures. Others talked quietly to their AI companions — the standard-issue System voices that Nate couldn't hear but could see in the way people tilted their heads and nodded at empty air.
 
 A woman laughed at something her screen showed her. Not a nervous laugh — a *delighted* one. The sound of someone discovering she'd earned something.
 
@@ -150,7 +150,7 @@ And that wasn't quite true either. Something *had* changed during the fight — 
 
 "I got something different."
 
-Marcus studied him the way a sergeant studied a new piece of intel — not with alarm, but with the calibrated attention of a man who was already folding the new variable into his operational picture. "The System gave the rest of us an instruction manual. Class, skills, progression path, all of it laid out in nice clean text with a progress bar attached. What did it give you?"
+Marcus studied him — sergeant's eyes, calibrated, already folding the new variable into his operational picture. "The System gave the rest of us an instruction manual. Class, skills, progression path, all of it laid out in nice clean text with a progress bar attached. What did it give you?"
 
 Nate looked at the two green arcs. The amber tag. The void where a character sheet should have been.
 
@@ -172,7 +172,7 @@ The warriors had dragged two of the six corpses into the rest area before they'd
 
 She was pulling thorns. Not the small, cosmetic spines that covered the Thornlings' surface like bark texture — the structural thorns. Dense. Heavy. The ones that had been load-bearing components of a creature designed to kill, and which were now, in Josie Pickett's professional assessment, *materials.*
 
-"That one's structural. That one's garbage. This one — oh, this is a GOOD one, feel the weight on that." She held a thorn up to the torchlight and turned it like a jeweler examining a stone. "See the stress lines at the base? Decorative growths don't develop those. This was holding something together. This has *grain.*"
+"That one's structural. That one's garbage. This one — oh, this is a GOOD one, feel the weight on that." She held a thorn up to the torchlight and turned it in the torchlight, appraising. "See the stress lines at the base? Decorative growths don't develop those. This was holding something together. This has *grain.*"
 
 She sorted as she spoke — three piles forming on the stone floor with the organized speed of someone who'd been sorting inventory on flat surfaces her entire professional life. Her hands moved with a precision that had nothing to do with the System and everything to do with twelve years of pawn-shop work and a thousand Saturday mornings at estate sales. When she picked up a thorn, she already knew where it was going before she finished the rotation.
 
@@ -216,7 +216,7 @@ Josie pointed at him with the thorn. "I know."
 
 The first Flint-Josie clash — won by Josie on points, with Flint contesting the scorecard from inside Nate's skull. It would not be the last.
 
-Nate took the four structural thorns and set them on the workbench. The vise was forged iron, solid, the kind of metalwork that **Structural Analysis** read as honest in the same way the table legs in the starting room had been honest. Built to hold things, not to impress anyone.
+Nate took the four structural thorns and set them on the workbench. The vise was forged iron, solid, metalwork that **Structural Analysis** read as honest — same integrity as the table legs in the starting room. Built to hold things, not to impress anyone.
 
 **Field Repair** came online when his hands touched the first thorn.
 
@@ -224,7 +224,7 @@ Not dramatically. Not a glow or a special effect. The same quiet shift he'd felt
 
 Eight inches of dense, tapered material that had spent its existence punching through bark. Not long enough for a bolt shaft. But the perfect shape for a head.
 
-He grabbed three rack bolts from the supply box — the same plain wooden shafts with iron tips he'd been shooting. **Structural Analysis** read them: soft iron heads, loosely fitted, the kind of mass-produced garbage that would mushroom on impact and lose penetration after a few hits. But the shafts were straight and the length was right.
+He grabbed three rack bolts from the supply box — the same plain wooden shafts with iron tips he'd been shooting. **Structural Analysis** read them: soft iron heads, loosely fitted, mass-produced garbage that would mushroom on impact and lose penetration after a few hits. But the shafts were straight and the length was right.
 
 He set the first thorn in the vise. Filed the base into a socket with a rough file from the tool rack — the material responding differently than wood or metal, denser, more resistant, but with a grain that guided the cut instead of fighting it. Popped the iron head off the rack bolt. Seated the thorn head onto the shaft and felt **Field Repair** do its work — not gluing, not fastening, but *fusing.* The thorn's fibrous base threads wove into the wood grain of the shaft at a level below what any tool could achieve. Two materials becoming one because **Field Repair** understood how they wanted to hold each other.
 
@@ -280,9 +280,9 @@ Tyler — the teenager who'd grabbed the biggest axe in the starting room — sw
 
 Then the Thornling screamed and surged forward, and Tyler's technique evaporated. The knowledge was still in his head but panic had taken the wheel — his next swing was all fear and no form, the axe too heavy, the arc too wide, the edge glancing off bark-plate. A downloaded manual didn't help when your hands were shaking and your body had decided that *running* was the correct response.
 
-A **Warrior** intervened — the woman who'd been fighting on the front line since Room 1. Two rooms of constant swinging had worn her base technique into something that actually worked — not polished, but practiced, her body starting to believe what the System had downloaded. She drove the Thornling off Tyler with two quick cuts and a shove that used the blade's flat like a battering ram. The Thornling went down.
+A **Warrior** intervened — the woman who'd been fighting on the front line since Room 1. Two rooms of constant swinging had worn her base technique into something that actually worked — not polished, but practiced, her body starting to believe what the System had downloaded. She drove the Thornling off Tyler with two quick cuts and a shove that used the blade's flat as a battering ram. The Thornling went down.
 
-And as it dropped, something flared around her — a brief pulse of golden light, a chime that Nate couldn't hear but could see in the way her stance shifted and her mouth opened in a small *oh*. Flint's glitchy combat log flickered — fragments of data from a network Flint shouldn't have been reading: **[SWORD TECHNIQUE — RANK 1: LOW → MID. ENHANCED OPTION UNLOCKED: POWER STRIKE.]** Her next swing was different. Faster, tighter, the blade glowing faintly as the System guided it into the seam of a Thornling closing from her left. The first System-assisted strike Nate had seen — not just downloaded knowledge, but active guidance, the System steering her arm like a hand on the wheel. It hit harder than anything she'd thrown before.
+And as it dropped, something flared around her — a brief pulse of golden light, a chime that Nate couldn't hear but could see in the way her stance shifted and her mouth opened in a small *oh*. Flint's glitchy combat log flickered — fragments of data from a network Flint shouldn't have been reading: **[SWORD TECHNIQUE — RANK 1: LOW → MID. ENHANCED OPTION UNLOCKED: POWER STRIKE.]** Her next swing was different. Faster, tighter, the blade glowing faintly as the System guided it into the seam of a Thornling closing from her left. The first System-assisted strike Nate had seen — not just downloaded knowledge, but active guidance, the System steering her arm through the motion. It hit harder than anything she'd thrown before.
 
 She was already looking for the next target with the hungry focus of someone who wanted to feel that chime a second time.
 
@@ -292,7 +292,7 @@ It worked in games. It was working here too. And the difference between a game r
 
 Tyler stumbled back, breathing hard, eyes wide with the specific terror of someone who'd just watched another fighter unlock something he couldn't reach. No golden light for him. No enhanced option. His axe technique was crawling through Rank 1 Low while hers had jumped to Mid — the System rewarded confident use, and scared swings counted for less.
 
-Nate raised the crossbow. First thorn bolt seated in the groove. The weight was different from the rack bolts — denser, the center of mass shifted forward by the natural taper. His hands adjusted without conscious input, the kind of micro-correction that came from twenty years of switching between tools that all balanced differently.
+Nate raised the crossbow. First thorn bolt seated in the groove. The weight was different from the rack bolts — denser, the center of mass shifted forward by the natural taper. His hands adjusted without conscious input, micro-corrections built from twenty years of switching between tools that all balanced differently.
 
 **Structural Analysis** painted the target: a Thornling at thirty feet, its bark-plate chest armor showing the same seam patterns as Room 1 but tighter. Denser growth. The System was upgrading its monsters between rooms. Because of course it was. Why wouldn't the thing that kidnapped forty-six people and put them in a dungeon also be petty enough to adjust the difficulty when they started winning.
 
@@ -300,11 +300,11 @@ He squeezed.
 
 The thorn bolt flew differently than the rack bolts. Faster — the density carried momentum farther. Straighter — the natural aerodynamics of a shape that had evolved to penetrate bark guided the flight with a precision that no manufactured shaft could match. It hit the Thornling's chest plate at thirty feet and punched *deep.*
 
-The thorn head found the seam between bark plates like it remembered the way home — wood returning to wood, a material designed to exist inside bark understanding the architecture of bark from the inside out. The bolt buried itself to the base, amber sap erupting from the wound in a thick spray, and the Thornling dropped straight down like a marionette whose strings had been cut simultaneously.
+The thorn head found the seam between bark plates like it remembered the way home — wood returning to wood, a material designed to exist inside bark understanding the architecture of bark from the inside out. The bolt buried itself to the base, amber sap erupting from the wound in a thick spray, and the Thornling dropped straight down — every limb going slack at once.
 
 One bolt. One kill. At thirty feet. With ammunition made from the last room's corpses.
 
-"DID YOU SEE THAT?" Josie's voice from behind the line, carrying the particular intensity of a woman who had just watched raw materials she'd personally salvaged perform their intended function in the field. "MY THORN DID THAT."
+"DID YOU SEE THAT?" Josie's voice from behind the line, vibrating with the intensity of a woman who had just watched raw materials she'd personally salvaged perform their intended function in the field. "MY THORN DID THAT."
 
 "Your thorn, my crossbow," Nate said, reloading.
 
@@ -312,7 +312,7 @@ One bolt. One kill. At thirty feet. With ammunition made from the last room's co
 
 A **Warrior** nearby, mid-swing, paused long enough to give Josie a look of total bewilderment before the System reminded him that he was in combat and there was a Thornling within arm's reach. Somewhere in the back of Nate's skull, Flint was making a sound that might have been laughter, if AIs laughed, which they absolutely did not and he would deny it under oath.
 
-A spike of urgency hit Nate's chest — Rex's impression, not his own. Not words — a spatial flash of the **Mage** from ground level, exposed flank, something closing fast from the direction she wasn't facing. Threat-direction, immediate, the kind of warning a ranch dog gave when a bull turned wrong in the pen.
+A spike of urgency hit Nate's chest — Rex's impression, not his own. Not words — a spatial flash of the **Mage** from ground level, exposed flank, something closing fast from the direction she wasn't facing. Threat-direction, immediate, a ranch dog's bull-turned-wrong warning.
 
 Nate's head snapped left. The peripheral green was already bright on that side — the HUD confirming what Rex had sent a full second before the conscious thought caught up.
 
@@ -326,7 +326,7 @@ Judge didn't steer. Judge hit the Thornling's back legs like she was being paid 
 
 The Thornling's path bent — away from the **Mage**, toward a **Warrior** who had line-of-sight and a sword ready. The creature didn't decide to change direction. It was *herded.*
 
-The **Warrior**'s blade connected. The Thornling went down. Rex broke off with quiet efficiency. Judge broke off half a second later and barked once at the corpse — sharp, final, like a gavel after sentencing.
+The **Warrior**'s blade connected. The Thornling went down. Rex broke off with quiet efficiency. Judge broke off half a second later and barked once at the corpse — sharp, final — case closed.
 
 The **Mage** never knew she'd been in danger.
 
@@ -366,7 +366,7 @@ Room 3 was where the Tutorial stopped asking and started telling.
 
 Nate had used the brief rest between rooms to restock — three more rack bolts reinforced with salvaged Thornling fiber from Josie's supply pile, not as good as the thorn-headed ones but a sight better than bare iron. Seven bolts total. Three thorn-tipped, four reinforced rack. Enough to matter if he made them count.
 
-Wider chamber — sixty feet across, natural rock formations breaking the floor into corridors and cover positions that **Structural Analysis** read as deliberately placed. Not generated rock. Real stone, quarried and set, the kind of construction that required engineering intent. The System hadn't just built a room. It had built a *position.* Cover here. Choke point there. Elevated ground along the east wall with clear sight lines to the center. The Tutorial was teaching positioning now, and the classroom was the architecture itself.
+Wider chamber — sixty feet across, natural rock formations breaking the floor into corridors and cover positions that **Structural Analysis** read as deliberately placed. Not generated rock. Real stone, quarried and set, construction that required engineering intent. The System hadn't just built a room. It had built a *position.* Cover here. Choke point there. Elevated ground along the east wall with clear sight lines to the center. The Tutorial was teaching positioning now, and the classroom was the architecture itself.
 
 Eight Thornlings. And something else.
 
@@ -386,7 +386,7 @@ Whatever the **Vanguard** class was giving him, Nate could see the effect — fi
 
 "**Warriors** hold the choke between those rocks!" His voice carried with the flat authority of a man giving orders he expected followed. "Two-man front, rotate on cooldown. **Mage** — you see that elevation on the east side? Line of sight to the center. Burst fire, then *wait.* Let mana regen. Do not burn dry." He looked directly at her. "You've got four bolts in you before you're dark. Use three and hold one in reserve. Three." He held up fingers. The **Mage** nodded. "**Healer**, behind the **Warriors**, do NOT advance. If the line moves to you, back up. Let them come to your range."
 
-Tank. Healer. DPS. The holy trinity of every MMO Nate had ever touched, forming in real time in a stone room sixty feet across with real blood and real consequences. Marcus was running the fight like an RTS — top-down, unit placement, resource allocation. Every fighter a piece on a board only he could see fully.
+Tank. Healer. DPS. The holy trinity of every MMO Nate had ever touched, forming in real time in a stone room sixty feet across with real blood and real consequences. Marcus was running the fight as an RTS — top-down, unit placement, resource allocation. Every fighter a piece on a board only he could see fully.
 
 Nate recognized the pattern and respected the execution. *Every other fighter in this room is playing their character. Marcus is playing the board.*
 
@@ -418,19 +418,19 @@ Rex was everywhere and nowhere. Working the perimeter through the entire fight �
 
 A Thornling circled toward the **Mage**'s elevated position. Rex materialized on its flank — snap at the root-leg, peel away, snap again — bumping it two steps left into a **Warrior** whose blade was already swinging. The Thornling went down. Rex had moved on before it hit the floor. The **Mage** never saw the threat.
 
-Judge held the south wall. Where Rex ghosted through like a thought, Judge held ground like a statement — forty pounds of Blue Heeler planted between the rear-spawn corridor and the support line, barking at anything that came through with the authority of a dog who had decided that this was her fence line and she would die on it before she'd let something past.
+Judge held the south wall. Rex ghosted through — a thought with teeth. Judge held ground — a statement with jaws — forty pounds of Blue Heeler planted between the rear-spawn corridor and the support line, barking at anything that came through with the authority of a dog who had decided that this was her fence line and she would die on it before she'd let something past.
 
 Second thorn bolt into the proto-guard's right arm joint. **Structural Analysis** had mapped the seam while the creature was staggering from the first hit — the armor plates shifting, new gaps opening as structural integrity on the left side compromised the right. The bolt punched through bark and the proto-guard's right arm locked at the elbow.
 
 Third bolt. The curved one — Josie's vindicated thorn, the one Flint had called decorative and Josie had proved structural. Nate compensated for the rightward pull, aimed for the shoulder gap that had widened as the creature's damaged arms pulled the chest plates apart. The bolt flew true — the compensating flat he'd filed into the base correcting the drift — and buried itself in the shoulder-to-torso gap. Amber sap sprayed in a thick arc.
 
-The proto-guard seized. Both arms locked. Its advance stopped completely, seven feet of bark-armored proto-monster standing in the center of the room like a tree that had forgotten how to fall.
+The proto-guard seized. Both arms locked. Its advance stopped completely, seven feet of bark-armored proto-monster standing in the center of the room — rooted, locked, a dead tree still vertical.
 
 The warriors finished it. Two men converging on the immobilized creature, hacking into the joints Nate had already cracked open. Not surgical. Not pretty. But they attacked the same target at the same time from two angles without getting in each other's way, and three rooms ago that would have been impossible. Eight seconds of ugly, coordinated violence, and the proto-guard collapsed in a sound of splitting bark and tearing root-fiber that echoed off the stone walls. Amber sap pooled beneath the carcass, thick and dark.
 
 But the room had done what the room was designed to do.
 
-The rock formations that made positioning possible also made isolation possible. A **Warrior** — young, built like a linebacker, one of the stronger fighters in the group — had pushed too far east chasing a Thornling into a corridor between two stone ridges. Good instinct, bad geometry. The corridor narrowed. His sword arc shortened. Two Thornlings came around the far end and caught him from a direction his blade couldn't reach. He killed one. The second killed him. By the time another fighter reached the corridor, the young man was on the stone and the Thornling was already moving on to easier targets.
+The rock formations that made positioning possible also made isolation possible. A **Warrior** — young, linebacker-sized, one of the stronger fighters in the group — had pushed too far east chasing a Thornling into a corridor between two stone ridges. Good instinct, bad geometry. The corridor narrowed. His sword arc shortened. Two Thornlings came around the far end and caught him from a direction his blade couldn't reach. He killed one. The second killed him. By the time another fighter reached the corridor, the young man was on the stone and the Thornling was already moving on to easier targets.
 
 Behind the west rock formation, two people had tried to shelter — a man and a woman, both non-combatants, who'd read the elevated terrain and cover positions as safety instead of what they actually were: kill boxes with limited exits. A Thornling from the south-wall spawn found the gap between the rocks. The man had been carrying a shield he barely knew how to hold. He put it between the creature and the woman behind him, and for two seconds the shield held. Then the thorn-cluster punched through the wood and through the arm holding it, and the man went down. The woman tried to run. The corridor was six feet long with one exit, and the Thornling was between her and it.
 
@@ -488,7 +488,7 @@ Nate sat at the workbench and pulled the crossbow apart.
 
 Not apart-apart — the prod stayed seated, the stock was sound, the trigger mechanism had held through three rooms of combat use. But the sight picture was off. Two-degree cant plus the inherent imprecision of a weapon built from furniture in ten minutes. At twenty feet, the drift was manageable. At forty — Room 3's distance — he'd been compensating by feel, and feel was a variable he wanted to reduce.
 
-A metal bracket on the wall held a torch in place. **Structural Analysis** read it: iron, rectangular, with a cross-section that would file into a ring with about eight minutes of work. Nate pried it off the wall. Filed the center open against the grinder wheel — slow, patient work, the kind of work that his hands did while his brain processed everything else. The **Structural Analysis** wireframe overlay held steady on the metal as he worked — cleaner than it had been during crafting in the first rest area. The green lines sharper, the stress-point data resolving with less flicker. Every use refined it.
+A metal bracket on the wall held a torch in place. **Structural Analysis** read it: iron, rectangular, with a cross-section that would file into a ring with about eight minutes of work. Nate pried it off the wall. Filed the center open against the grinder wheel — slow, patient work, hands-busy-brain-free work, processing everything else while filing metal. The **Structural Analysis** wireframe overlay held steady on the metal as he worked — cleaner than it had been during crafting in the first rest area. The green lines sharper, the stress-point data resolving with less flicker. Every use refined it.
 
 The iron became a ring. The ring became a peep sight — mounted to the crossbow's rail with a friction fit that **Field Repair** bonded at a level deeper than any glue or fastener. Metal and wood holding each other with the quiet permanence of materials that had been properly introduced.
 
@@ -502,9 +502,9 @@ Sight picture through the ring: clean. The two-degree cant was still there — t
 
 Josie was trading.
 
-She'd set up shop three crafting stations down — not literally, but the energy was unmistakable. Josie Pickett had arranged her salvage on the workbench surface in a display that would have been at home in any estate sale in East Texas: materials sorted by type, quality, and potential application, each category separated by the kind of precise spacing that said *I know exactly what everything here is worth and I am prepared to negotiate.*
+She'd set up shop three crafting stations down — not literally, but the energy was unmistakable. Josie Pickett had arranged her salvage on the workbench surface in a display that would have been at home in any estate sale in East Texas: materials sorted by type, quality, and potential application, each category separated by precise spacing that said *I know exactly what everything here is worth and I am prepared to negotiate.*
 
-"Does anyone need bark-plate fragments?" Her voice carried the length of the corridor. "I have twelve now. The three-layer laminate ones, not the garbage single-layer. These are the good ones — interlocking grain, stress-tested, the kind of material that would make excellent shield facing or armor reinforcement if anyone here has the crafting skills to work them."
+"Does anyone need bark-plate fragments?" Her voice carried the length of the corridor. "I have twelve now. The three-layer laminate ones, not the garbage single-layer. These are the good ones — interlocking grain, stress-tested, material that would make excellent shield facing or armor reinforcement if anyone here has the crafting skills to work them."
 
 The leather-worker from the first rest area approached. And behind her, a man with a tinkerer's kit and a woman who'd been given a weaver class. Three crafters, drawn to Josie's workbench like iron filings to a magnet, because Josie Pickett had something none of them had: raw material, pre-sorted, quality-graded, ready to work.
 
@@ -526,7 +526,7 @@ Judge flopped down on Nate's other side with the dramatic finality of a dog coll
 
 Rex ignored her completely. Judge sighed.
 
-Nate scratched behind Rex's ears with one hand and rested the other on Judge's neck. For a few seconds the Tutorial was somewhere else — just a man and his dogs sitting together the way they'd sat on a thousand evenings after the cattle were in and the work was done.
+Nate scratched behind Rex's ears with one hand and rested the other on Judge's neck. For a few seconds the Tutorial was somewhere else — just a man and his dogs sitting together — same positions, same quiet, a thousand evenings after the cattle were in and the work was done.
 
 Then Nate let the three rooms compile into a picture.
 
