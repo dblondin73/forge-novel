@@ -28,7 +28,7 @@ Rex had felt them two seconds before Flint's sensors registered the density shif
 
 Marcus was already calling formation from the corridor mouth, his **Vanguard** HUD painting positional data across the fighters' combat interfaces. "**Warriors**, spread formation — we've got room to maneuver. Don't bunch up. **Mage**, find elevation — there." He pointed to a cluster of boulders along the north edge, waist-high, good sight lines. "**Healer**, behind the rock line. Support, stay mobile."
 
-Forty-nine people. All of them — every last body that had walked out of Room 0 and fought through three rooms of Thornlings without losing a single soul. Three Healers. Josie. Nate. Rex. Judge. And the rest — the ones who weren't combat classes but had survived three rooms of learning that survival wasn't optional. Nobody had died yet. That fact sat in the group like a held breath, fragile and heavy at the same time.
+Forty-nine people. All of them — every last body that had walked out of the safe room and fought through three rooms of Thornlings without losing a single soul. Three Healers. Josie. Nate. Rex. Judge. And the rest — the ones who weren't combat classes but had survived three rooms of learning that survival wasn't optional. Nobody had died yet. That fact sat in the group like a held breath, fragile and heavy at the same time.
 
 The spawn points fired.
 

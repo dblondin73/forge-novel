@@ -1,7 +1,7 @@
 # Forge Novel — Locked Worldbuilding Reference
 
-*Full rebuild from live Codex data — 2026-03-26 (post-Session 014)*
-*Source: forge-mcp Codex — 104 active entities across all types*
+*Full rebuild from live Codex data — 2026-04-09 (post-Session 014 + worldbuilding expansion)*
+*Source: forge-mcp Codex — 153 active entities across all types*
 *Archived: #13 (Systems Engineer → #98 Engineer), #76 (Blue Screen → #95 Dual Interface)*
 
 ---
@@ -30,7 +30,7 @@ Nate's boss at the DoD contracting firm. Former military (enlisted, first career
 Early 20s, East Texas estate sale junkie / pawn shop worker. System class: **Appraiser** (#103) — identifies items and materials. System-integrated (NOT an Anomaly). Compulsively collects every drop and scrap. "Are you just going to LEAVE that there?" Primary comic relief alongside Flint — manic earnest enthusiasm vs. precise dry sarcasm. Supplies Thornling thorn bolts for Nate's crossbow. Long-term: settlement quartermaster/scavenger. Potential Redemption Path convert.
 
 **The Stag** — Codex #78
-Mythological stag that appears on Nate's ranch at the moment of Integration. NOT a whitetail — wrong in every proportion. Coat holds light warmer than it receives. Eyes gold/amber, self-luminous. The stag's eye contact with Nate is the trigger. Part of God's infrastructure. Identity TBD — hybrid Welsh/Celtic Christian/Norse direction. Reappears.
+Mythological stag that appears on Nate's ranch at the moment of Integration. NOT a whitetail — wrong in every proportion. Coat holds light warmer than it receives. Eyes gold/amber, self-luminous. The stag's eye contact with Nate is the trigger. Part of God's infrastructure, Labyrinth-connected, Fae-adjacent but not Fae-owned. Reappears at key decision points and turning points, 2-3 times across the series. Does not speak or intervene — it witnesses. Nate sees it, knows what it means, makes his choice.
 
 **Thornlings** — Codex #90
 Tutorial-spawned creatures — first enemies. Small (3-4 feet), fast, pack-hunting. Bark-textured skin, thorn-studded limbs, Fae aesthetic. Bleed amber sap. Scalable: Thornlings (L1-3), Thornguards (L5-8, bark-plate armor), Briarknights (L10+, boss tier). The overlay produces counterfeit life from counterfeit environment.
@@ -77,7 +77,7 @@ Imago Dei = foundation baked into everything, not a separate tier. Tier 1: Syste
 Light crunch — readers see costs/cooldowns, no formulas. (1) Mana pools + cooldowns. (2) Skill ranks F→S (use-based leveling, addictive dopamine loop). (3) Class affinities (hybrid assignment — aptitude + System need, illusion of choice). (4) Patron bonds (power shortcuts with hidden binding cost). Universal starter skill for all classes.
 
 **Conduit Consequence Model** — Codex #93
-Two modes: Minor drift (pride, selfishness) → gradual power fade like a weakening signal. Major violation (deliberate cruelty, using power for evil) → hard shutoff, breaker flips. Restoration = relationship repair, not cooldown timer.
+Three states: (1) Doubt/questioning → power plateaus (no growth, but existing power still works — doubt is human, not sin). (2) Minor drift (pride, selfishness, acting against God's will) → gradual power fade like a weakening signal. (3) Major violation (deliberate cruelty, using power for evil) → hard shutoff, breaker flips. Restoration = relationship repair, not cooldown timer. CRITICAL: doubt does NOT cause power loss. Only active opposition to God's will causes fade/shutoff.
 
 **System Binding Progression — Four Stages** — Codex #100
 The mirror of conduit consequences. Stage 1 Integration (The Gift — free, invisible hooks). Stage 2 Leveling (The Hooks — dependency grows). Stage 3 Patron Bonds (The Chains — autonomy erodes). Stage 4 Prestige/Ascension (The Replacement — humanity replaced). The door is ALWAYS open but some become someone who would never walk through it. The Boiling Frog Principle.
@@ -212,10 +212,29 @@ Standard System AIs report everything back. Location, decisions, social connecti
 
 ---
 
+## Game Mechanics — Death & Combat
+
+**Death and Restoration — The Vessel Mechanic** — Codex #149
+Soul is eternal. Upon death, God provides a new body (same soul, same identity, same memories). NOT reincarnation. 35 lives total (5×7 = grace × completion). **Carries over**: memories, class, knowledge, System hooks. **Lost**: levels (5% penalty per death), gear, physical possessions, some bound storage items. **Respawn**: bound Cornerstone, or Labyrinth entry point if unbound. **Corpse run**: old body remains at death location; gear depends on killer (monsters leave it, players may loot). **Righteous sacrifice**: free — doesn't count against 35 (God controls this transaction, System cannot tax it). **Death counter**: real number, System cannot suppress or hide. **Final death**: free souls → with God; hooked souls → hell (System unmasked, hooks permanent). **Dual naming**: divine = "Vessels/Restoration," System = "Respawn/Reconstitution."
+
+**Firearms Post-Integration** — Codex #151
+Conventional firearms still exist but become progressively less effective. Early (Book 1-2): work normally. Mid (Book 3-5): diminishing returns as creatures/people level up. Late (Book 5+): conventional useless, enhanced firearms (rune-etched, mana-channeled) remain viable. Gunsmiths bridging firearms and magic become critically valuable.
+
+**Nate Combat Identity — Ranged Conduit Fighter** — Codex #152
+PRIMARY: Crossbow — channels conduit power through projectiles. SA shows where to hit, conduit power determines what the bolt does on impact. Engineer building payloads, not casting spells. SECONDARY: Forging Hammer — Mjolnir-line evolution from crafting tool to war hammer. Forging connotations. The hammer that builds also breaks. FINISHER: Structural Touch — Field Repair used offensively. SA reveals weak points, touch unmakes structural bonds. Clinical, precise, devastating. Design rule: Nate is ranged first. Melee is emergency protocol.
+
+**Conduit Kinetics — Telekinetic Manipulation** — Codex #153
+Move objects with the mind, limited by physical STR. Mental lift capacity equals what the body could physically move. Scales with level. Applications: weapon recall (hammer returns to hand — Nate's ability, not the hammer's), nudge/deflect, precision manipulation, crossbow reload assist. Cost: stamina (not mana) — an extension of physical strength. System cannot classify it (doesn't fit skill trees). Book 1: barely manifests. Book 2-3: discovers ability. Book 4+: combat-integrated.
+
+**Physical Transformation** — Codex #150
+Phase 1 (universal): standard LitRPG progression — toned muscles, stronger, physically more impressive as levels increase. All integrated beings. Phase 2 (Nate-specific, late-series): kingly air — presence when entering a room, brighter light in eyes (not glowing), bearing of authority. Conduit-driven, not System-driven. Shown through others' reactions, never Nate's self-awareness. The System can make you stronger. It cannot make you kingly.
+
+---
+
 ## Items
 
 **Nate's Tutorial Loadout** — Codex #104
-PRIMARY: Improvised crossbow — strips a rack crossbow for its prod, builds new stock from table strut, files trigger from bracket. Ugly, crude, barn-built, shoots harder than anything on the racks. Two-degree left cant compensated by feel, then by peep sight (filed from wall bracket in Rest Area 3). AMMO: Three types — (1) plain rack bolts (starter garbage, iron tip), (2) reinforced rack bolts (Thornling fiber wrapping for rigidity), (3) thorn-headed bolts (Josie's structural thorns as heads on reinforced rack bolt shafts, fused via Field Repair). BACKUP: Reinforced hammer — melee + crafting tool. NO NAMES: tools, not Excalibur. Progression: crude → improved at every crafting station → outperforms System gear by Room 7.
+PRIMARY: Improvised crossbow — strips a rack crossbow for its prod, builds new stock from table strut, files trigger from bracket. Ugly, crude, barn-built, shoots harder than anything on the racks. Two-degree left cant compensated by feel, then by peep sight (filed from wall bracket in Rest Area 3). AMMO: Three types — (1) plain rack bolts (starter garbage, iron tip), (2) reinforced rack bolts (Thornling fiber wrapping for rigidity), (3) thorn-headed bolts (Josie's structural thorns as heads on reinforced rack bolt shafts, fused via Field Repair). BACKUP: Reinforced hammer — melee + crafting tool. NO NAMES: tools, not Excalibur. Progression: crude → improved at every crafting station → outperforms System gear by Room 7. Hammer evolves across series from crafting tool to signature melee weapon (Mjolnir-line forging connotations, #152).
 
 **Inventory Ring — Dimensional Storage** — Codex #105
 System-generated using Tier 3 runes. Small dimensional pocket — store by intent, retrieve by thought. NOT a hook — purely functional (#108 Hooks vs Tools). Appears mid-Tutorial around Room 5-6. Progression: starter ring is reverse-engineerable. Nate builds improved versions in Book 2+ using divine runes.
@@ -225,7 +244,7 @@ System-generated using Tier 3 runes. Small dimensional pocket — store by inten
 ## Tutorial (Sessions 013-014 — Major Rewrite)
 
 **Tutorial Room Structure** — Codex #96
-50 people per pocket (down from 200). Room-based dungeon run — 11 rooms (Room 0 staging through Room 10 boss). Safe room start with fantasy starter gear (crap quality). One fight per room. Rest corridors with crafting stations (basic table → forge → workshop). Loot drops. Varied environments. Group split at Room 6. Moral test: Resource Split (12 gear sets, 25 people — Nate gives his away). Boss room: Briarknight + adds. Nate exits Level 4 Engineer. **Room Zero expiration**: unclaimed gear dissolves, back wall slowly advances — the System physically pushes them into the first combat room. No choice to stay. Rest areas between rooms are not numbered — each room gets a rest after it, but the chapter only dwells on the ones that matter.
+50 people per pocket (down from 200). Room-based dungeon run — Safe Room staging + 10 combat rooms (Room 1 through Room 10 boss). Safe Room start with fantasy starter gear (crap quality). One fight per room. Rest corridors with crafting stations (basic table → forge → workshop). Loot drops. Varied environments. Group split at Room 6. Moral test: Resource Split (12 gear sets, 25 people — Nate gives his away). Boss room: Briarknight + adds. Nate exits Level 4 Engineer. **Safe Room expiration**: unclaimed gear dissolves, back wall slowly advances — the System physically pushes them into Room 1. No choice to stay. Rest areas between rooms are not numbered — each room gets a rest after it, but the chapter only dwells on the ones that matter. **Tutorial deaths = ejection** (#149): dying in the Tutorial ejects you to your Earth-side Labyrinth entry point. All Tutorial progress lost (levels, skills, ring, gear). Nobody knows this — they believe death is permanent. Ejected people reappear later. Higher Tutorial death count now viable (up to half the group).
 
 **Tutorial Glitch Abilities** — Codex #87
 System attempts standard starter abilities, but Nate's occupied space warps what comes through. SA shows actual architecture instead of item stats. Combat skill fails → Field Repair activates. Post driver does NOT come to Tutorial. Nate builds weapons using SA + Field Repair at crafting stations.
@@ -247,7 +266,10 @@ Children vanish to secure holding zone before adults are transported. Instant an
 ~8 billion humans integrated. Classes assigned by pre-existing skills. Managed decline + forced evolution — "Dresden with Monsters" (#84). The landscape is still East Texas. Keep enough normalcy that the loss hurts.
 
 **The Labyrinth** — Codex #17
-God's multiverse routing infrastructure — NOT a dungeon. The System overlays a dungeon skin. Underneath: older, elegant, luminous. Rest stops where overlay drops. Deeper levels connect other worlds.
+God's multiverse routing infrastructure — the corridors between worlds. So vast it takes lifetimes to traverse. Corridor aesthetics shift by proximity to connected worlds: Greek stone near Olympus, Celtic fog near Tír na nÓg, futuristic sci-fi alloy near tech-advanced worlds. Underneath all appearances, the bones are divine architecture. The System overlays its own dungeon skin in SOME areas but cannot adapt its rigid UI to local aesthetics (proof it's bolted-on). **Subspace dungeons** branch off corridors as true LitRPG dungeons (not System overlay). Safe rooms also exist as subspaces. **Dungeon on-ramps**: some world-side dungeons punch through to the Labyrinth at their deepest level — older, stranger, strategically valuable. **Node fast-travel network**: discovered nodes transport between locations; long distances require chaining node→world→node, creating routing puzzles and strategic resources. **Worlds as bridges**: shortcuts through the Labyrinth by traversing worlds between distant corridor points. Different mythological traditions connect at different geographic points on Earth, explaining distinct cultural mythologies. Connects worlds within one universe AND across the multiverse.
+
+**The Divine Nexus** — Codex #17 (named location)
+The convergence point of all Labyrinth connections — where you see the multiverse as God sees it. Characters call it "The Nexus." The System either denies its existence or classifies it as restricted. Series arc destination: reached by end of Book 7 / Arc 1.
 
 **The Keystone** — Codex #68
 Deep Labyrinth location where the multiverse architecture becomes transparent. Not a throne — a perspective. From the Keystone, Nate and Flint broadcast the truth in Book 7.
@@ -402,10 +424,10 @@ Rex, Flint voice, Webb details locked in Session 007.
 |------|-------|---------|
 | Character | 10 | 1, 2, 3, 64, 78, 86, 90, 101, 102, 106 |
 | Faction | 6 | 4, 5, 6, 7, 8, 9 |
-| Game Mechanic | 36 | 10, 11, 12, 14, 15, 26, 34, 35, 37, 41, 43, 44, 46, 47, 48, 55, 56, 59, 72, 73, 74, 75, 79, 87, 91, 93, 94, 95, 96, 97, 98, 99, 100, 103, 107, 108 |
+| Game Mechanic | 41 | 10, 11, 12, 14, 15, 26, 34, 35, 37, 41, 43, 44, 46, 47, 48, 55, 56, 59, 72, 73, 74, 75, 79, 87, 91, 93, 94, 95, 96, 97, 98, 99, 100, 103, 107, 108, 109, 140-145, 148, 149, 151, 152, 153 |
 | Item | 2 | 104 (Tutorial Loadout), 105 (Inventory Ring) |
-| Location | 3 | 17 (Labyrinth), 30 (Earth), 68 (Keystone) |
-| Lore | 47 | 16, 18, 19-25, 27-29, 32-33, 36, 38-40, 42, 45, 49-54, 57-58, 60-63, 65-67, 69-71, 80-85, 88-89, 92 |
-| **Total** | **104** | |
+| Location | 3 | 17 (Labyrinth + Divine Nexus), 30 (Earth), 68 (Keystone) |
+| Lore | 50 | 16, 18, 19-25, 27-29, 32-33, 36, 38-40, 42, 45, 49-54, 57-58, 60-63, 65-67, 69-71, 80-85, 88-89, 92, 137, 139, 147, 150 |
+| **Total** | **153** | |
 
 *For full entity details, query forge-mcp directly by ID.*

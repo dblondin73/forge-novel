@@ -220,7 +220,7 @@ Nate took the four structural thorns and set them on the workbench. The vise was
 
 **Field Repair** came online when his hands touched the first thorn.
 
-Not dramatically. Not a glow or a special effect. The same quiet shift he'd felt in the starting room — the world becoming legible at a level below conscious thought, materials speaking to his hands in a language that bypassed his brain. The thorn's density mapped itself through his palms. Grain direction. Fracture planes. The **Structural Analysis** wireframe overlay sharpened on the thorn as he focused — cleaner than it had been in Room 0, the green lines steadier, the data resolving faster. Three rooms of use was breaking it in — new boots on day three. Still rough. Still monochrome. But fitting better.
+Not dramatically. Not a glow or a special effect. The same quiet shift he'd felt in the starting room — the world becoming legible at a level below conscious thought, materials speaking to his hands in a language that bypassed his brain. The thorn's density mapped itself through his palms. Grain direction. Fracture planes. The **Structural Analysis** wireframe overlay sharpened on the thorn as he focused — cleaner than it had been in the safe room, the green lines steadier, the data resolving faster. Three rooms of use was breaking it in — new boots on day three. Still rough. Still monochrome. But fitting better.
 
 Eight inches of dense, tapered material that had spent its existence punching through bark. Not long enough for a bolt shaft. But the perfect shape for a head.
 

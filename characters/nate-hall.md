@@ -245,7 +245,7 @@ Nate does NOT pick a weapon from the racks. He picks materials and BUILDS his lo
 
 ## Open Questions
 
-- [ ] Does the stag reappear later? Identity TBD (hybrid Welsh/Celtic Christian/Norse)
-- [ ] Does Congressman survive Integration? System-enhanced livestock?
-- [ ] Physical transformation (Q7) — does body change as spiritual progression deepens?
-- [ ] Nate's crossbow specifics — what exactly does SA show him in Room 0?
+- [x] Does the stag reappear later? — YES. Appears at key decision/turning points, 2-3 times across the series. Does not speak or intervene — it witnesses. (Codex #78)
+- [x] Does Congressman survive Integration? — YES. Ranch fixture, no System enhancement. Just Congressman. (Codex #64)
+- [x] Physical transformation (Q7) — YES. Phase 1: standard LitRPG progression (universal). Phase 2: kingly air, presence, brighter eyes (conduit-specific, late-series). Shown through others' reactions, never self-awareness. (Codex #150)
+- [ ] Nate's crossbow specifics — what exactly does SA show him in the Safe Room?

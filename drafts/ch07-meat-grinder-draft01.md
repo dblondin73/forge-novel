@@ -426,7 +426,7 @@ The Shield Guardian was testing his shield. Nate had fixed it two rooms ago — 
 
 He caught Nate's eye across the rest area.
 
-The nod was slow. Deliberate. Not the dismissive assessment he'd given Nate in Room 0, when a rancher had walked past the weapon racks and started dismantling furniture and the Shield Guardian had given him the look that experienced men reserved for people about to get themselves killed through creativity. That had been eight rooms and a lifetime ago. This nod carried the weight of nine rooms between them — the forge work, the shield repair, the rescue in Room 8, the silent coordination that had kept people alive when the System's acoustics tried to get them killed.
+The nod was slow. Deliberate. Not the dismissive assessment he'd given Nate in the safe room, when a rancher had walked past the weapon racks and started dismantling furniture and the Shield Guardian had given him the look that experienced men reserved for people about to get themselves killed through creativity. That had been eight rooms and a lifetime ago. This nod carried the weight of nine rooms between them — the forge work, the shield repair, the rescue in Room 8, the silent coordination that had kept people alive when the System's acoustics tried to get them killed.
 
 Respect. Earned in the currency that couldn't be counterfeited: competence witnessed under pressure.
 
