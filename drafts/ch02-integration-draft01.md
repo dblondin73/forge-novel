@@ -76,7 +76,7 @@ Not gently. The way a truck hits a concrete pylon: absolute finality, no negotia
 
 The thing that was already there did not move.
 
-It didn't fight. It didn't push back in kind. It simply _was_ — bedrock, aquifer, the land beneath his ranch. It existed whether he thought about it or not. It had been there before the process. Before whatever designed the process had conceived of it. The occupied space wasn't resisting an invasion. It was simply continuing to be what it had always been, in territory it had held since before Nate drew his first breath.
+It didn't fight. It didn't <<you just said it pushed back and here it doesn't >> push back in kind. It simply _was_ — bedrock, aquifer, the land beneath his ranch. It existed whether he thought about it or not. It had been there before the process. Before whatever designed the process had conceived of it. The occupied space wasn't resisting an invasion. It was simply continuing to be what it had always been, in territory it had held since before Nate drew his first breath.
 
 The installer hadn't arrived to find an empty room with a squatter. It had arrived to find the door locked from the inside by the original owner.
 
