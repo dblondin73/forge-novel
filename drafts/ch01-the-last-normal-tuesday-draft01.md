@@ -242,7 +242,7 @@ He recognized the loop. He couldn't stop it.
 
 _Sensors reporting events that aren't there._
 
-Marcus's words, from forty minutes ago. But Nate's sensors weren't wrong. His eyes were reporting exactly what was in front of them. The animal was real. It was just impossible.
+Marcus's words, from <<is this an accurate time frame from phone call?>> forty minutes ago. But Nate's sensors weren't wrong. His eyes were reporting exactly what was in front of them. The animal was real. It was just impossible.
 
 Then it turned its head and looked at him.
 
@@ -290,7 +290,7 @@ Against his right leg, Judge's impression hit different — a flash of bared tee
 
 The stag's eyes held his. Gold and ancient and luminous and utterly, impossibly calm in a world that was coming apart at the seams.
 
-And Nate realized — in the last clear thought he would have for a very long time — that the stag wasn't afraid of what was happening.
+<<this is a repeated phrase from above or very close to it>>And Nate realized — in the last clear thought he would have for a very long time — that the stag wasn't afraid of what was happening.
 
 The stag had been waiting for it.
 

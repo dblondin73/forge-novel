@@ -136,7 +136,7 @@ The **PROCESSING** tag pulsed amber beneath his health bar, and for the first ti
 
 ---
 
-Three crossbows hung on the end of the second rack. Nobody was touching them. In a room full of people grabbing swords because swords looked like what heroes carried, the crossbows were wallflowers at a dance nobody had invited them to.
+Across the room, three crossbows hung on the end of the second rack. Nobody was touching them. In a room full of people grabbing swords because swords looked like what heroes carried, the crossbows were wallflowers at a dance nobody had invited them to.
 
 The wireframe overlay ghosted over them. Two were the same cosmetic trash — decorative prods that would lose tension after twenty shots, generated stocks that looked like walnut but rang hollow. The third sat on the bottom of the rack, partially hidden behind a shield nobody wanted. Ugly. Warped softwood stock that wouldn't hold zero. Sloppy cast trigger mechanism with too much play in the lever. Rail misaligned by two degrees — enough that every bolt would pull left.
 

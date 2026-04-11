@@ -8,7 +8,7 @@ These are the things that survive: the mechanical, the borrowed, and the stubbor
 
 ---
 
-The headache was getting worse.
+Back in the bermudagrass, the headache was getting worse.
 
 Nate came back in stages. Ground first — the hard press of sandy loam against his cheekbone, a root or a rock digging into his hip. Then sound — the Ford's engine idling somewhere behind him, a mockingbird cycling through borrowed songs in the post oaks. Then the green arcs, still there, pulsing faintly at the edges of his vision like a heartbeat he could see but not read.
 
@@ -44,7 +44,7 @@ Nate's companion was not standard-issue. But then, neither was Nate.
 
 ---
 
-Not in his ears. The distinction was immediate and physical, like the difference between hearing thunder through the walls and feeling it through the floor joists. This was _inside_ — behind his eyes, between his thoughts, vibrating in a space that hadn't existed five minutes ago. It felt like pressure first. Like someone had opened a door in a room he didn't know his head contained, and through that door came a current of raw, crackling irritation that wasn't his.
+The voice was not in his ears. The distinction was immediate and physical, like the difference between hearing thunder through the walls and feeling it through the floor joists. This was _inside_ — behind his eyes, between his thoughts, vibrating in a space that hadn't existed five minutes ago. It felt like pressure first. Like someone had opened a door in a room he didn't know his head contained, and through that door came a current of raw, crackling irritation that wasn't his.
 
 Something in a quieter room — a room that had been occupied long before this morning, long before the System, long before the green arcs or the white light or any of it — shifted. Not in alarm. In recognition. A homeowner hearing a new tenant move into the apartment next door — registering, assessing, reserving judgment. A warmth pulsed once through Nate's chest, brief and sourceless, and was gone before he could name it.
 

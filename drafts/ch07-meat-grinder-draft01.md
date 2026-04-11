@@ -126,7 +126,7 @@ Seventeen people stood in the cavern, breathing hard, and the silence after the 
 
 ---
 
-Room 8 was a corridor turned kill box.
+The door at the far end of the cavern opened. Room 8 was a corridor turned kill box.
 
 Narrower than anything since the first stone rooms — twenty feet wide, irregular walls that created blind corners and chokepoints. Thornlings owned this terrain — born in it, shaped by it. Four of them patrolled the corridor in pairs, bark-bodies low and fast in the confined space. A **Thornguard** held the far end — bouncer at a door nobody wanted to enter.
 
@@ -226,7 +226,7 @@ The Healer couldn't reach him in time. She was still working on Nate's back when
 
 *The **System** logged it as a resource allocation failure. Healer capacity divided by patient count, with the remainder expressed in a name that would never appear on someone's interface again. Tidy math. The **System** was always tidy.*
 
-Sixteen people walked into the rest corridor.
+When the fight was done, sixteen people walked into the rest corridor.
 
 ---
 
