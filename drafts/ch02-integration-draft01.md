@@ -72,11 +72,11 @@ Something pressed inward — not physically, but with the unmistakable character
 
 Stopped.
 
-Not gently. Truck into a concrete pylon — absolute finality, no negotiation, and the sudden silence of an engine that would not be running again. The impact resonated through whatever medium he was suspended in, a shuddering discontinuity that made his thoughts stutter. The process pushed. Something pushed back. Not Nate — he was a bystander in his own body, watching two forces contest a piece of territory he hadn't known was valuable.
+Not gently. Truck into a concrete pylon — absolute finality, no negotiation, and the sudden silence of an engine that would not be running again. The impact resonated through whatever medium he was suspended in, a shuddering discontinuity that made his thoughts stutter. The process pushed. Something held. Not Nate — he was a bystander in his own body, watching one force meet a piece of territory he hadn't known was valuable.
 
 The thing that was already there did not move.
 
-It didn't fight. It didn't <<you just said it pushed back and here it doesn't >> push back in kind. It simply _was_ — bedrock, aquifer, the land beneath his ranch. It existed whether he thought about it or not. It had been there before the process. Before whatever designed the process had conceived of it. The occupied space wasn't resisting an invasion. It was simply continuing to be what it had always been, in territory it had held since before Nate drew his first breath.
+It didn't fight. It didn't resist in kind. It simply _was_ — bedrock, aquifer, the land beneath his ranch. It existed whether he thought about it or not. It had been there before the process. Before whatever designed the process had conceived of it. The occupied space wasn't resisting an invasion. It was simply continuing to be what it had always been, in territory it had held since before Nate drew his first breath.
 
 The installer hadn't arrived to find an empty room with a squatter. It had arrived to find the door locked from the inside by the original owner.
 
