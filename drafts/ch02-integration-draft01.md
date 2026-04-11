@@ -100,7 +100,7 @@ Oh, but there it was. The thing no installer accounts for, because no installer 
 
 Back in the quiet at the center of Nate's skull, the errors started.
 
-He couldn't see them — no error console, no status log, no debug window, nothing the installer bothered to render for his benefit. But he could feel them. Each one landed — small shock, sharp snap, a circuit failing under load. Fuse-blowing sounds that weren't sounds, felt through whatever medium connected him to the process that was trying to rewrite him. They came in clusters. Three, then five, then a cascade that blurred together into a sustained rattle of failures. The installer was throwing process after process at the thing it couldn't move and watching each one dissolve on contact.
+He couldn't see them — no interface, no screen, no display of any kind. But he could feel them. Each one landed — small shock, sharp snap, a circuit failing under load. Fuse-blowing sounds that weren't sounds, felt through whatever medium connected him to the process that was trying to rewrite him. They came in clusters. Three, then five, then a cascade that blurred together into a sustained rattle of failures. The installer was throwing process after process at the thing it couldn't move and watching each one dissolve on contact.
 
 The frustration was the part that surprised him. Not his frustration — the installer's. He could feel it — a dog straining against a leash, a stuck bolt refusing to turn. Whatever this was, it had been designed to integrate everything. Every human mind, every consciousness, every identity — all of it was supposed to slide neatly into the framework, receive its classification, accept its parameters, and begin operating within its structure. That was the design. That was the purpose. Eight billion installations, and Nate's was the one throwing error codes.
 
@@ -178,49 +178,33 @@ From the direction of the county road, voices. Not alarmed — excited. Already 
 
 Nate tried to push himself up. His arms had the structural integrity of wet newspaper. He got to one elbow and stayed there, breathing hard, which was embarrassing but probably appropriate for a man who'd just had his brain partially reformatted by something that didn't leave a user manual.
 
-Blue light. Everywhere.
-
-Translucent panels bloomed in his field of view — clean, bright, official. The word **SYSTEM** sat at the top in a font he didn't recognize, and beneath it, text was populating itself with crisp efficiency. A class designation field, still loading. A vertical column of abbreviated stats — **STR**, **CON**, **DEX**, **INT**, **WIS** — with numbers filling in beside them like a spreadsheet auto-calculating. A health bar, green and full. A stamina bar beneath it. A progress wheel spinning in the corner with the words **INTEGRATION COMPLETE — CALIBRATING**.
-
-For about five seconds, Nate saw what eight billion other people were seeing: a full-color interface, welcoming and organized, already sorting him into its architecture. He was already reading the layout, mapping the information hierarchy, noting the data structures — and despite everything that had just happened in the void, some part of him thought: _Huh. That's actually well-designed._
-
-He'd seen this layout before. Every RPG he'd ever played used some version of it — stats on the left, health bar top-center, class field prominent. The UI grammar was identical. Either the System had borrowed its interface from games, or games had been borrowing from something older than anyone realized.
-
-Then a stat flickered.
-
-The number next to **WIS** jumped — 20, then 24, then a string of characters that weren't numbers at all — and snapped back. A hairline crack of static ran across the class designation field, which had been trying to load something and was now just blinking. The health bar turned yellow for no reason, then green again, then yellow.
-
-It got worse. Over the next twenty seconds, the interface came apart piece by piece. Not all at once — a truck dying on the highway, one system after another giving up in sequence. The progress wheel froze, unfroze, spun backward. The stat column scrambled, recovered, scrambled again with different garbage each time. Panels that had been sharp and translucent washed out, the blue bleeding pale, the text losing contrast until it looked like a screen left in the sun too long.
-
-Nate watched it happen with the specific, familiar dread of someone who had seen too many systems fail in exactly this way — the slow cascade, each failure triggering the next, the whole architecture unraveling because one critical component wasn't responding and everything downstream of it was losing its mind. Even the failure mode was thorough. Whatever had built this interface had built it well enough that it came apart in the right order — load-bearing systems last, cosmetic layers first. Disciplined, even in collapse.
-
-The last panel to go was the health bar. It flickered green one final time, then dissolved into static and was gone.
-
-Two faint green arcs remained. Thin curved lines, parentheses of pale monochrome light, shimmering at the edges of his vision. That was all. No text. No panels. No stat columns or progress wheels. Just two stubborn green lines pulsing where an entire interface had been thirty seconds ago. Eight billion people got the full release. Nate got the loading screen that refused to load.
-
-The humor of it was so dry it was practically jerky. A full-scale alien invasion — or whatever this was — and he'd gotten the IT version of "your call is important to us."
-
-He blinked them away. They came back. Blinked again. Stayed.
-
----
-
-A whoop carried from the county road — high, strange, the sound of a man who'd just been handed something impossible. Nate turned his head toward it.
+Blue light. Or — not light. Not exactly. People were staring at things he couldn't see.
 
 A white Chevy Tahoe sat on the county road about forty yards from his fence line, both front doors hanging open, engine idling. Stopped dead in the lane — not pulled over, not angled, just sitting where it had been when the freeze hit. The family was already out.
 
-A man stood in the road — mid-thirties, shirt and tie, leather shoes that had no business on a county road. He had his arms slightly out from his sides and his head tilted back, reading something in front of his face. Whatever it was, Nate couldn't see it from here. Internal. The man's eyes had the unfocused distance of someone whose attention had moved to a place only he could reach, his fingers twitching small deliberate gestures at nothing.
+A man stood in the road — mid-thirties, shirt and tie, leather shoes that had no business on a county road. He had his arms slightly out from his sides and his head tilted back, reading something in front of his face. Whatever it was, Nate couldn't see it from here. Internal. The man's eyes had a faint glint behind them — barely there, easy to miss if you weren't looking. Blue.
 
 A woman sat on the Tahoe's running board, one hand pressed flat against her chest, laughing. Not the polite kind — the kind that came out of your gut when something impossible turned out to be real. She was staring at something only she could see, reading it — a letter she'd been waiting for.
 
 Two kids had scrambled out of the back seat. A boy, maybe ten, was swiping his hands through the air — gesturing at an interface Nate couldn't see, bouncing on his feet with the manic energy of a kid who'd just been handed the world's best video game. A girl, seven or eight, stood very still, turning her hands over slowly, staring at her palms like they held a secret.
 
-Everyone was reading something. Everyone had received something. Whatever the System was showing the rest of the world, they still had it. He'd held it for five seconds and watched it come apart in his face.
+Everyone was reading something. Everyone had received something. The blue glint behind their eyes — faint, barely visible — was the only external evidence that anything was there at all.
+
+Nate searched his own vision. The full-color interface he'd seen for maybe five seconds in the void — the stat sheets, the class assignments, the crisp blue panels — was gone. Whatever it had been, whatever everyone else was still seeing, his version had collapsed during the installation's tantrum.
+
+Two faint green arcs remained. Thin curved lines, parentheses of pale monochrome light, shimmering at the edges of his vision. That was all. No text. No panels. No stat columns or progress wheels. Just two stubborn green lines pulsing where an entire interface had been. Eight billion people got the full release. Nate got the loading screen that refused to load.
+
+The humor of it was so dry it was practically jerky. A full-scale alien invasion — or whatever this was — and he'd gotten the IT version of "your call is important to us."
+
+He blinked the arcs away. They came back. Blinked again. Stayed.
 
 He tried to steady himself and reached for something solid — a memory, a reference point, the mental equivalent of grabbing a fence post in a strong wind. His grandmother's kitchen. The yellow wallpaper. Biscuits at five in the morning.
 
 The wallpaper was gone. The biscuits were gone. He knew they had existed, knew the memory was supposed to be there, but the space was empty — a stripped shelf where something important had been. He reached for another: his mother's voice. Calling him in from the pasture. He could remember _that_ she used to call him in. He could not remember the sound.
 
 Something cold settled in his chest. Not grief — not yet. The inventory was still running.
+
+---
 
 Rex.
 
