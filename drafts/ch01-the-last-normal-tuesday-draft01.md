@@ -284,13 +284,13 @@ _That's not weather._ The last clear thought his brain would offer before the wo
 
 The mockingbird screamed. Every call it knew, all at once — cardinal and blue jay and car horn and hawk and sounds that weren't in any bird's catalog, the four ounces of feathers finally finding the one broadcast worth every voice it had ever borrowed. Then the blue jays. Then the crows. Then silence. All of them, at the same time — mute pressed on every pine tree in East Texas.
 
-Rex pressed harder against his leg. Behind Nate's ribs, something clenched that didn't belong to him — a hot, electric wrongness, the sensation of standing in a room where the walls had just started moving. Not a word. Not a thought. A body-level certainty, animal and absolute, poured through the space between dog and man like voltage through a wire.
+Rex's head pushed harder into Nate's thigh. Behind Nate's ribs, something clenched that didn't belong to him — a hot, electric wrongness, the sensation of standing in a room where the walls had just started moving. Not a word. Not a thought. A body-level certainty, animal and absolute, poured through the space between dog and man like voltage through a wire.
 
 Against his right leg, Judge's impression hit different — a flash of bared teeth, blind furious loyalty, a wall thrown up against the sky itself. Not a thought. Not a feeling. A _refusal_. Forty pounds of _no_ aimed at everything and anchored to the only thing that mattered.
 
 The stag's eyes held his. Gold and ancient and luminous and utterly, impossibly calm in a world that was coming apart at the seams.
 
-<<this is a repeated phrase from above or very close to it>>And Nate realized — in the last clear thought he would have for a very long time — that the stag wasn't afraid of what was happening.
+And Nate realized that the stag wasn't afraid of what was happening.
 
 The stag had been waiting for it.
 

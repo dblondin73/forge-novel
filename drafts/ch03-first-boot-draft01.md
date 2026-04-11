@@ -16,7 +16,7 @@ He didn't know how long he'd been down. His mouth tasted like copper and static,
 
 Rex hadn't left him.
 
-The dog was pressed against his forearm, chin on Nate's wrist, the warm, solid weight of a Border Collie who'd decided his person wasn't getting up without supervision. Not frantic. Not whining. Holding position — warmth, pressure, the steady weight of _not leaving_.
+The dog had his chin laid across Nate's wrist, the warm, solid weight of a Border Collie who'd decided his person wasn't getting up without supervision. Not frantic. Not whining. Holding position — warmth, steady breath, the unmoving weight of _not leaving_.
 
 Judge hadn't left either, but Judge wasn't holding position. Forty pounds of Blue Heeler moved in a tight orbit around the two of them — ten feet out, ears rotating, nails ticking on every exposed root and rock she crossed. Every third pass she'd stop, stare at the tree line where the stag had stood, issue a single sharp exhale through her nose like a judicial opinion, and resume her circuit. Where Rex held ground, Judge held perimeter. She'd been doing it since Nate went down, and she'd keep doing it until something either changed or tried her patience, whichever came first.
 
