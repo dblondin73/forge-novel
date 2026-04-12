@@ -8,11 +8,11 @@ Fifty people, give or take, and one crossbow worth a damn. But they hadn't found
 
 The stone was wrong.
 
-Nate's boots hit solid ground and the wrongness registered before anything else — not dirt, not the sandy give of ranch loam over red clay. Stone. Hard, flat, cold through his boot soles in a way that East Texas ground never was, not even in January. His knees buckled. He caught himself with one hand on the floor and the other reaching for something that wasn't there — the truck's fender, the post driver, anything solid and familiar. His hand found stone and nothing else.
+Nate's boots hit solid ground and the wrongness registered before anything else — not dirt, not the sandy give of dirt he had been standing on. Stone. Hard, flat, cold through his boot soles in a way that East Texas ground never was, not even in January. His knees buckled. He caught himself with one hand on the floor and the other reaching for something that wasn't there — the truck's fender, the post driver, anything solid and familiar. His hand found stone and nothing else.
 
-Rex was against his left leg before his vision cleared. The dog hadn't moved from where he'd been at the moment of transport — pressed to Nate's shin, shoulder to bone, rigid and silent. Not panicking. Holding position, the way he held position when lightning cracked close enough to taste and the cattle broke wrong and everything in the world said *run* except the person who made decisions.
+Rex was still against his left leg. He hadn't moved from where he'd been at the moment of transport — pressed to Nate's shin, rigid and silent. Not panicking. Holding position, the way he held position when lightning cracked close enough to taste and the cattle broke wrong and everything in the world said *run* except the person who made decisions.
 
-The green arcs flickered hard. Two faint parentheses of light at the edges of his vision, still calibrating to an environment that had nothing in common with the pasture where they'd initialized. Health: somewhere below full, a bar he couldn't read numerically. Stamina: lower. The amber tag sat beneath them, label on a broken part:
+The green arcs flickered hard. Two faint curved lines of light at the edges of his vision, still calibrating to an environment that had nothing in common with the pasture where they'd initialized. The one Flint had said was Health: somewhere below full and the other, Stamina: lower still. Beneath them, an amber field — like a warning label on a diagnostic screen:
 
 **[PROCESSING]**
 
@@ -24,11 +24,11 @@ He'd been in this room a hundred times in a hundred games. Tutorial staging area
 
 He'd get to the swords.
 
-Fifty people. Give or take.
+His eyes moved through the room the way they moved through a pasture at first light — taking inventory. Fifty people. Give or take.
 
 A man — bald, thick-necked, veins standing in his forearms — was hammering his fist against the wall beside the sealed door. "OPEN IT. Open this damn door right now. OPEN IT." His voice cracking on the repetition, the sound of someone whose anger was running on fear's fuel and would burn out in minutes. The wall did not respond.
 
-A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. Not anyone Nate knew — wrong accent, probably wrong state — but the sound was the same one he'd heard drifting across the pasture during Integration. A mother's voice that had started calling before this room existed and wasn't going to stop until it got an answer or ran out of air.
+A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. Not anyone Nate knew — wrong accent, probably wrong state — but the sound was the same one he'd heard drifting across the pasture after Integration hit. A mother's voice that had started calling before this room existed and wasn't going to stop until it got an answer or ran out of air.
 
 Fifty people. From everywhere. The woman calling the child's name had an accent from somewhere north — Illinois, maybe, or Michigan. The bald man cursing at the wall sounded like New Jersey. A teenager sat against the far wall with his arms wrapped around his knees, rocking, a University of Oregon hoodie three sizes too big for the body inside it. A man in a suit — or what used to be a suit before the transport had deposited him on a stone floor — stood perfectly still in the middle of the room, eyes unfocused, fingers twitching at his sides — scrolling through a document only he could read. Nate gave him four minutes before he tried to escalate to a supervisor.
 
@@ -40,7 +40,11 @@ A young woman near the third weapon rack suddenly straightened, spread her finge
 
 The System was handing out presents, and every present came wrapped in the same gleaming blue packaging, and every person who unwrapped one wore the same expression — the best thing they'd ever owned.
 
-Hooks. Every last one of them. He'd grown up watching the FFA boys at livestock shows. He knew the look — an animal walking into the pen because the feed bucket was right there and the gate would close behind it later. But these weren't animals, and the bucket wasn't feed, and the gate wasn't just going to close — it was going to lock, and the key was going to be filed under a bureaucratic designation the livestock would learn to call "progression," and by the time they understood the pen they'd be too deep in it to want to leave. But that was a longer game than this room had time for. In this room, the gifts were just gifts, and the faces were just grateful, and the thing watching from behind the blue panels was very, very patient.
+Something about it sat wrong in his chest.
+
+He couldn't say why. The young woman with the blue light in her fingers and the man with the thickening forearms both wore the same expression — wonder, gratitude, the face of someone who had just gotten a gift. It was the right expression. And his chest was still tight.
+
+He let the feeling sit.
 
 "They're reading stat sheets," Flint said. "Class assignments, skill trees, the full starter package. The System's onboarding experience, delivered to fifty people simultaneously. Some of them are already arguing with their companions. Everyone's getting the same pitch — just not the same offer."
 
@@ -54,9 +58,9 @@ Hooks. Every last one of them. He'd grown up watching the FFA boys at livestock 
 
 "It works disturbingly well." A beat. "For what it's worth, several of these people are handling the existential crisis better than the cattle would. Several are handling it worse. I'm keeping a list."
 
-Rex's eyes were moving. Not tracking threats — tracking people. The dog had shifted from braced to scanning, his gaze sweeping the room — movement patterns, clustering, the ones standing still and the ones about to bolt. Unsorted yearlings in a different pen. A Border Collie didn't need a System screen to read a crowd. The crowd was just a herd that walked upright and made more noise.
+Rex's eyes were moving — tracking people, movement patterns, clustering, the ones standing still and the ones about to bolt. Unsorted yearlings in a different pen. A Border Collie didn't need a System screen to read a crowd. The crowd was just a herd that walked upright and made more noise.
 
-Rex's warmth pressed against his shin and a wash of impressions came through — fear-scent thick in the air, too many bodies too close, the bald man by the wall radiating something sharp and unstable. Rex's ears tracked him without his head moving. A hot spike of focus, every ounce of the dog's attention fixed on that one, locked onto that one — a bull about to charge, before the bull itself knew it was going to.
+Rex leaned against his shin and a wash of impressions came through — fear-scent thick in the air, too many bodies too close, the bald man by the wall radiating something sharp and unstable. Rex's ears tracked him without his head moving. A hot spike of focus — every ounce of the dog's attention locked onto that one — a bull about to charge, before the bull itself knew it was going to.
 
 Marcus Webb's voice cut through it.
 
@@ -80,17 +84,13 @@ Eight racks. Maybe a hundred pieces of gear — swords, axes, maces, daggers, st
 
 People were already grabbing. A woman in scrubs pulled a longsword from the rack and held it like she'd never held anything longer than a stethoscope, which she probably hadn't. A teenager took the biggest axe he could find, the weight nearly tipping him forward. Two men argued over a shield with a lion embossed on its face, each gripping an edge, voices rising.
 
-Nate looked at the racks — *really* looked — and the world shifted.
+Nate looked at the racks — *really* looked — and **Structural Analysis** woke up.
 
-Not dramatically. Not a special effect. Like focusing on a reflection in glass and suddenly seeing what was behind it all along. The green arcs pulsed once, and a faint wireframe ghosted over the nearest sword rack — monochrome green lines tracing edges and joints like a blueprint drawn on smoke. Not solid. Flickering. The overlay was rough, unstable, a diagnostic tool still booting up, and it kept cutting out at the edges of his focus before snapping back. But where it held, objects became *legible.*
+Not the tooltip version. Not the flat readout that had told him his own truck was made of steel. Something deeper was happening inside the skill — a pulse, a shift, the sensation of a tool being picked up by hands that knew what it was actually for. The green arcs flared once, and a faint wireframe ghosted over the nearest sword rack — monochrome green lines tracing edges and joints like a blueprint drawn on smoke. Not solid. Flickering. But *architecture*, not labels. The overlay was rough, unstable, still finding its legs, and it kept cutting out at the edges of his focus before snapping back. But where it held, objects became *legible* — not as names and numbers but as structures. Load paths. Stress points. The bones of the thing.
 
-A new element resolved at the bottom of his vision — a slightly curved bar, smaller than the health and stamina arcs, with two words glowing inside it like text on a screen that had just powered on:
+The **Structural Analysis** bar at the bottom of his vision — the same bar that had fed him a three-word tooltip in the pasture — was doing something it hadn't done before. The text inside it was brighter, steadier, and the skill behind it was reaching deeper than material type and durability percentage. It was reading the way a thing was *built.*
 
-**Structural Analysis**
-
-Not **SA**. Not an abbreviation. The full name, spelled out, the system that had generated it being absolutely clear about what it was offering. A diagnostic, not a weapon. An engineer's tool in a room full of swords.
-
-He didn't know what it was supposed to show him. He only knew what it did.
+He didn't know why it had changed. He only knew what it was showing him now.
 
 The swords: Pretty. Polished. Blades catching the torchlight and looking heroic. **Structural Analysis** read them as thin-gauge steel with a decorative finish over a hollow core. The edge was real — sharp enough to cut skin — but the spine was half the thickness it should be for a functional blade. Three solid impacts against anything harder than flesh and the steel would deform. Five and it snapped. The crossguards were cast alloy, not forged — they'd crack at the weld under side-load. The handle wraps were uniform synthetic. No grain. No variation. Not real leather. A rendering of leather that had never been near an animal.
 
@@ -130,9 +130,11 @@ The System had built weapons to look good and infrastructure to *be* good. Which
 
 The wireframe overlay pulsed and steadied, and for the first time, the green lines held without flickering. The table leg's grain structure resolved in his vision — straight, dense, stress lines running clean from end to end. The wall bracket showed forged iron, crystalline, functional. The world had split into two categories, and his eyes were learning to sort them faster than his brain could narrate it.
 
-**Structural Analysis** wasn't supposed to do this. The standard version — the one the System's skill database listed — provided a tooltip. Material type, durability percentage, a quality grade. Clean. Contained. What Nate was seeing was architecture. Load paths. Stress distribution. The grain of wood showing him where it would break and where it would hold, the crystalline structure of iron telling him its thermal history through the pattern of its molecules. An engineer's readout running on a framework the System hadn't built and couldn't quite classify.
+"That's not supposed to do that." Flint's voice was stripped of performance — no joke queued, no flourish. Flat diagnostic. "That skill, specifically, is not supposed to do what it is currently doing. I am looking at the **System**'s skill database and it is telling me, very politely, that **Structural Analysis** Rank 1 provides material type, durability percentage, and a quality grade. A tooltip. That's the spec sheet. That is the entire spec sheet." A beat. "What you are seeing is not on the spec sheet. I am watching it happen anyway, and I would like it noted that my professional opinion is _what the hell._"
 
-The **PROCESSING** tag pulsed amber beneath his health bar, and for the first time, it occurred to him that maybe the tag wasn't a delay. Maybe the System genuinely didn't know what to do with him.
+**Structural Analysis** wasn't supposed to do this. The standard version — the one Flint had read off back in the pasture, the one that had told Nate his truck was made of steel — provided a tooltip. Clean. Contained. What Nate was seeing was architecture. Load paths. Stress distribution. The grain of wood showing him where it would break and where it would hold, the crystalline structure of iron telling him its thermal history through the pattern of its molecules. An engineer's readout running on a framework the System hadn't built and couldn't quite classify.
+
+The **PROCESSING** tag pulsed amber beneath his health bar, and for the first time, it occurred to him that maybe the tag wasn't a delay. Maybe the **System** genuinely didn't know what to do with him.
 
 ---
 
