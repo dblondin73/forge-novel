@@ -74,7 +74,7 @@ And people were listening. Not all of them — the bald man was still hitting th
 
 Nate didn't move toward Marcus. Not yet. Back to the wall, Rex at his feet, where he could see the whole room without being in the middle of it. Same place he'd stand at a sale barn — gate in view, watching the herd sort itself. One dog and a wall. That was enough.
 
-His eye caught a face near the second weapon rack — weathered, sixtyish, the permanent squint of a man who'd spent decades in the sun. He'ed seen him before at the Sale barn in Carthage, maybe, or De Berry. The man was holding a sword by the middle — testing the balance before he trusted the weight, same grip you'd use on a fence post — and Nate filed that away. At least one person in this room knew what tools felt like before today.
+His eye caught a face near the second weapon rack — weathered, sixtyish, the permanent squint of a man who'd spent decades in the sun. He'd seen him before at the sale barn in Carthage, maybe, or De Berry. The man was holding a sword by the middle — testing the balance before he trusted the weight, same grip you'd use on a fence post — and Nate filed that away. At least one person in this room knew what tools felt like before today.
 
 He turned his attention to the weapon racks.
 
@@ -84,13 +84,11 @@ Eight racks. Maybe a hundred pieces of gear — swords, axes, maces, daggers, st
 
 People were already grabbing. A woman in scrubs pulled a longsword from the rack and held it like she'd never held anything longer than a stethoscope, which she probably hadn't. A teenager took the biggest axe he could find, the weight nearly tipping him forward. Two men argued over a shield with a lion embossed on its face, each gripping an edge, voices rising.
 
-Nate looked at the racks — *really* looked — and **Structural Analysis** woke up.
+Nate looked at the racks — *really* looked — and **Structural Analysis** fired.
 
 Not the tooltip version. Not the flat readout that had told him his own truck was made of steel. Something deeper was happening inside the skill — a pulse, a shift, the sensation of a tool being picked up by hands that knew what it was actually for. The green arcs flared once, and a faint wireframe ghosted over the nearest sword rack — monochrome green lines tracing edges and joints like a blueprint drawn on smoke. Not solid. Flickering. But *architecture*, not labels. The overlay was rough, unstable, still finding its legs, and it kept cutting out at the edges of his focus before snapping back. But where it held, objects became *legible* — not as names and numbers but as structures. Load paths. Stress points. The bones of the thing.
 
 The **Structural Analysis** bar at the bottom of his vision — the same bar that had fed him a three-word tooltip in the pasture — was doing something it hadn't done before. The text inside it was brighter, steadier, and the skill behind it was reaching deeper than material type and durability percentage. It was reading the way a thing was *built.*
-
-He didn't know why it had changed. He only knew what it was showing him now.
 
 The swords: Pretty. Polished. Blades catching the torchlight and looking heroic. **Structural Analysis** read them as thin-gauge steel with a decorative finish over a hollow core. The edge was real — sharp enough to cut skin — but the spine was half the thickness it should be for a functional blade. Three solid impacts against anything harder than flesh and the steel would deform. Five and it snapped. The crossguards were cast alloy, not forged — they'd crack at the weld under side-load. The handle wraps were uniform synthetic. No grain. No variation. Not real leather. A rendering of leather that had never been near an animal.
 
@@ -98,7 +96,7 @@ The wireframe flickered, died, came back. Every time it returned, the data was a
 
 The shields: same problem, different shape. Decorated faces, but the wood behind each face was generated composite. Not real wood. Structural filler wearing a wood costume. Two of the shields had bosses — the metal center pieces — that **Structural Analysis** read as genuine forged iron. Denser, heavier, actual crystalline structure. The bosses were real. Everything else was set dressing.
 
-The bows: recurve limbs of generated composite, uniform grain tip to tip, no natural variation. They'd fire arrows. They had no life to them. Manufactured, not grown. The arrows were worse — straight enough but hollow composite shafts that would shatter on impact with anything harder than flesh.
+The bows: recurve limbs of generated composite, uniform grain tip to tip, no natural variation. They'd fire arrows but they had no life to them. The arrows were worse — straight enough, but the shafts were hollow composite and would shatter on impact with anything harder than flesh.
 
 Starter gear. Gray-quality trash with good skins. Every game did this — handed you something that *looked* functional for the first zone and broke by the second. The Tutorial wasn't arming them. It was decorating them.
 
