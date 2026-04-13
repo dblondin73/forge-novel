@@ -30,7 +30,7 @@ A man — bald, thick-necked, veins standing in his forearms — was hammering h
 
 A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. Not anyone Nate knew — wrong accent, probably wrong state — but the sound was the same one he'd heard drifting across the pasture after Integration hit. A mother's voice that had started calling before this room existed and wasn't going to stop until it got an answer or ran out of air.
 
-Fifty people. From everywhere. The woman calling the child's name had an accent from somewhere north — Illinois, maybe, or Michigan. The bald man cursing at the wall sounded like New Jersey. A teenager sat against the far wall with his arms wrapped around his knees, rocking, a University of Oregon hoodie three sizes too big for the body inside it. A man in a suit — or what used to be a suit before the transport had deposited him on a stone floor — stood perfectly still in the middle of the room, eyes unfocused, fingers twitching at his sides — scrolling through a document only he could read. Nate gave him four minutes before he tried to escalate to a supervisor.
+Fifty people. From everywhere. The woman calling the child's name had an accent from somewhere north — Illinois, maybe, or Michigan. The bald man cursing at the wall sounded like New Jersey. A teenager sat against the far wall with his arms wrapped around his knees, rocking, a University of Oregon hoodie three sizes too big for the body inside it. A man in a suit — or what used to be a suit before the transport had dropped him face-first onto medieval flooring — stood perfectly still with his fingers twitching at his sides in the unmistakable rhythm of someone scrolling an email that had stopped existing the moment he did. His lips were moving. *Karen. Karen. KAREN.* Nate gave him four minutes before he started looking for customer service. Six before he demanded a supervisor. Ten before he filed a formal complaint with the wall, which would at least be quiet.
 
 Whatever had happened in that pasture hadn't stopped at Panola County. Hadn't stopped at Texas. The sky had broken everywhere, and the people it had broken for came from everywhere, and fifty was just this room's share of a number that was very, very large.
 
@@ -80,33 +80,43 @@ He turned his attention to the weapon racks.
 
 ---
 
-Eight racks. Maybe a hundred pieces of gear — swords, axes, maces, daggers, staves, bows, crossbows. Armor stands between them: leather chest pieces, chain shirts, robes with embroidered hems. All of it polished, organized, displayed like merchandise in a shop that expected customers to be impressed.
+Eight racks. A hundred pieces of gear. Swords, axes, maces, daggers, staves, bows, crossbows — the entire catalog of fantasy-protagonist starter kit, laid out like a Renaissance faire that had been given a decorating budget and no combat consultant. Armor stands between the racks wore chest pieces and chain shirts and robes with embroidered hems, all of it polished, organized, presented with the quiet confidence of a department store that had never been audited.
 
-People were already grabbing. A woman in scrubs pulled a longsword from the rack and held it like she'd never held anything longer than a stethoscope, which she probably hadn't. A teenager took the biggest axe he could find, the weight nearly tipping him forward. Two men argued over a shield with a lion embossed on its face, each gripping an edge, voices rising.
+People were already grabbing. A woman in hospital scrubs pulled a longsword off the rack and held it exactly like someone who had never held anything longer than a stethoscope and was now negotiating the physics of a thirty-eight-inch steel lever in real time. A teenager found the biggest axe on the wall and took it, and the axe took him — the weight tipped him forward half a step before he remembered he had knees. Two grown men were arguing over a shield with a lion embossed on its face, each gripping one edge, both of them wearing the expression of men who had never negotiated for anything heavier than the last dinner roll and were discovering they had opinions about ownership.
 
 Nate looked at the racks — *really* looked — and **Structural Analysis** fired.
 
-Not the tooltip version. Not the flat readout that had told him his own truck was made of steel. Something deeper was happening inside the skill — a pulse, a shift, the sensation of a tool being picked up by hands that knew what it was actually for. The green arcs flared once, and a faint wireframe ghosted over the nearest sword rack — monochrome green lines tracing edges and joints like a blueprint drawn on smoke. Not solid. Flickering. But *architecture*, not labels. The overlay was rough, unstable, still finding its legs, and it kept cutting out at the edges of his focus before snapping back. But where it held, objects became *legible* — not as names and numbers but as structures. Load paths. Stress points. The bones of the thing.
+Not the tooltip version. Not the flat readout that had spent six seconds in the pasture telling him his F-250 was made of steel. Something deeper was happening inside the skill — the sensation of a tool being picked up by hands that had finally met a user who knew what it was actually for. The green arcs flared once, and a faint wireframe ghosted over the nearest sword rack — monochrome green lines tracing edges and joints like a blueprint drawn on smoke by a drafter who was mostly sober. Not solid. Flickering. But *architecture*, not labels. The overlay was rough, unstable, and kept cutting out at the edges of his focus before snapping back with the embarrassed persistence of software being asked to do something the documentation had not covered. But where it held, objects became *legible* — not as names and numbers but as structures. Load paths. Stress points. The bones of the thing.
+
+"I'm watching a skill that was documented as a tooltip go full architectural CAD on a Tutorial sword rack," Flint said, "and I would like it noted for the record that the **System's** own specification document is currently *lying to me,* which — and I say this with genuine affection — is a hell of a Tuesday."
+
+"Useful."
+
+"I am providing color commentary while your skill violates a design document written by an interdimensional framework older than language. If *useful* is the word, I'll take it."
 
 The **Structural Analysis** bar at the bottom of his vision — the same bar that had fed him a three-word tooltip in the pasture — was doing something it hadn't done before. The text inside it was brighter, steadier, and the skill behind it was reaching deeper than material type and durability percentage. It was reading the way a thing was *built.*
 
-The swords: Pretty. Polished. Blades catching the torchlight and looking heroic. **Structural Analysis** read them as thin-gauge steel with a decorative finish over a hollow core. The edge was real — sharp enough to cut skin — but the spine was half the thickness it should be for a functional blade. Three solid impacts against anything harder than flesh and the steel would deform. Five and it snapped. The crossguards were cast alloy, not forged — they'd crack at the weld under side-load. The handle wraps were uniform synthetic. No grain. No variation. Not real leather. A rendering of leather that had never been near an animal.
+**The swords:** polished. Blades catching the torchlight and looking heroic the way props on a movie set looked heroic — from exactly one camera angle, under exactly the right lighting, held by someone who had been told not to swing. **Structural Analysis** read them as thin-gauge steel over a hollow core. The edge was real enough to cut skin. The spine was half the thickness a functional blade needed. Three solid impacts against anything harder than flesh and the steel would deform; five and it would snap; seven and someone would be holding half a sword and a strong opinion about the manufacturer. The crossguards were cast alloy — they'd crack at the weld under any side-load more aggressive than a firm handshake. The handle wraps were a uniform synthetic rendering of leather that had never been within a thousand miles of an animal, and Nate was almost impressed by the consistency of the failure.
 
-The wireframe flickered, died, came back. Every time it returned, the data was a fraction sharper. Still rough. Still unreliable. But each pulse added detail — stress points appearing as brighter nodes along the green lines, load-bearing joints separating visually from decorative ones. The craft overlay was learning his focus — adapting to where he looked, how long he held. Point, hold, read.
+"You look like a man reviewing a government contract," Flint observed. "Specifically the kind where the deliverable looks great in the executive summary and the footnotes are written in the blood of the integration team."
 
-The shields: same problem, different shape. Decorated faces, but the wood behind each face was generated composite. Not real wood. Structural filler wearing a wood costume. Two of the shields had bosses — the metal center pieces — that **Structural Analysis** read as genuine forged iron. Denser, heavier, actual crystalline structure. The bosses were real. Everything else was set dressing.
+"Seen a few."
 
-The bows: recurve limbs of generated composite, uniform grain tip to tip, no natural variation. They'd fire arrows but they had no life to them. The arrows were worse — straight enough, but the shafts were hollow composite and would shatter on impact with anything harder than flesh.
+"I believe it. You've got *that* face."
 
-Starter gear. Gray-quality trash with good skins. Every game did this — handed you something that *looked* functional for the first zone and broke by the second. The Tutorial wasn't arming them. It was decorating them.
+The wireframe flickered, died, came back a fraction sharper. Each pulse added detail — stress points resolving as brighter nodes, load-bearing joints separating visually from decorative ones, the whole overlay learning his focus like a dog learning what part of the ranch actually needed watching. Point, hold, read.
 
-Cosmetic steel over structural garbage. The System had spent its render budget on appearance, not performance. Same thing that happened on every government contract Nate had ever reviewed — pretty deliverables, hollow data.
+**The shields:** same problem, different shape. Decorated faces over wood that **Structural Analysis** read as generated composite — structural filler wearing a wood costume and hoping nobody checked the tags. Two of the shields had bosses — the metal center pieces — that came back as genuine forged iron. Crystalline structure, real density, actual thermal history. The **System** had spent its honesty budget on the one component nobody was going to notice, which was either an accident or a punchline, and Nate wasn't yet sure which one the **System** was capable of.
 
-"Well," Flint said. "Forty-eight people are selecting weapons based on visual appeal while your **Structural Analysis** catalogs material deficiencies in every piece on that wall. I assume you have opinions."
+**The bows:** recurve limbs of generated composite, uniform grain tip to tip, no natural variation, no life in the wood because there had never been any wood. They'd fire arrows. They'd do it the way a printer fired a page — functionally, without joy, and with roughly the same expected service life. The arrows were worse. Straight enough, but the shafts were hollow composite, and they'd shatter on impact with anything harder than flesh, which — given what was presumably about to come through the sealed door — was a specification decision someone was going to regret.
+
+Starter gear. Gray-quality trash with good skins. Every game did this — handed you something that *looked* functional for the first zone, let you bond with it emotionally for an hour, and then broke it halfway through the second boss so you'd feel grateful for the upgrade. The Tutorial wasn't arming them. It was decorating them. The **System** had spent its entire render budget on appearance and zero on survival, which Nate had seen before on every government contract he'd ever reviewed — pretty deliverables, hollow data, and a team somewhere downstream who was going to find out the hard way that the PowerPoint had lied.
+
+"Forty-eight people are selecting weapons based on visual appeal," Flint said, "while your **Structural Analysis** is cataloging material deficiencies in every piece on that wall. Three of them are about to start arguing over who gets the prettiest sword, and I want to note that the prettiest sword on this rack would lose a structural argument with a well-thrown dinner plate. I assume you have opinions."
 
 "I have opinions."
 
-"Would you like to share them, or just stand here looking disappointed while people arm themselves with theatrical metalwork?"
+"Would you like to share them with the class, or just stand here looking disappointed while forty-eight adults arm themselves with theatrical metalwork and hope?"
 
 Nobody was checking anything. Nobody tapped a blade to hear the ring. Nobody flexed a crossguard to test the weld. They were shopping — by appearance, by size, by the weight of expectation that a sword should *look* like a sword. Something in him wanted to say it — the same instinct that had watched new hands grab the wrong tool at a fencing job because the right one didn't look impressive enough — but fifty terrified strangers weren't going to listen to a man with a **PROCESSING** tag telling them their swords were garbage.
 
@@ -176,7 +186,7 @@ Nate turned to the nearest crafting table. The wireframe overlay showed the tabl
 
 "I'm going to take one leg."
 
-"The table has four legs, King."
+"The table has four legs."
 
 "It'll manage."
 
@@ -214,7 +224,7 @@ The wood grain tightened under his right hand. He felt it through his skin — t
 
 "It's cooperating."
 
-"King, the wood is *rearranging its grain pattern.* I can see it through your HUD feed. That's not repair. That's negotiation."
+"The wood is *rearranging its grain pattern.* I can see it through your HUD feed. That's not repair. That's negotiation."
 
 Nate set the trigger mechanism into a notch he'd carved with the hammer's peen. Threaded the bowstring — tensioned, tested. Click. Reset. Click. Smooth enough.
 
