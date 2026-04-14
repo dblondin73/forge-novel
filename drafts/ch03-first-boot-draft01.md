@@ -118,8 +118,6 @@ Nate turned the acronym over. **Field Logic Interface, Network Tethered**. _Inte
 
 ---
 
-Neither of them would remember this moment as important. Later, when the name had worn smooth as a river stone and the voice was as familiar as his own pulse, Nate would never think back to the running board of a truck in a pasture and say _that's where it started._ But it was. The best partnerships rarely announce themselves. They just begin — one man reaching, the other catching — and by the time either notices, the rope has already held weight.
-
 She could have told them. She could have told them both, right then, what this partnership would cost and what it would carry and the precise, beautiful, terrible ways it would change them. She could have spared them a few surprises along the way — including, in particular, one crossbow-related decision she would always find deeply questionable. But that's not how good stories work. And this one, she was already fairly certain, was going to be a very good story.
 
 ---
@@ -284,12 +282,6 @@ Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was s
 
 _Give a man a hammer, everything looks like a nail. Give a man a pulpit, everything looks like a prophecy._
 
----
-
-He was not wrong to distrust the voice on the radio. He was not wrong about any of it — the contract, the clothes, the gift that wasn't. But he was standing in a pasture making judgments about a machine he'd been inside for less than an hour, and the machine had been running for longer than he could imagine, and the distance between what he suspected and what he would eventually learn was a distance that swallowed men whole. He would cross it. Not quickly. Not cleanly. But he would cross it, because the thing living in his center had been crossing distances like that since before distances existed.
-
----
-
 Nate's hand moved on the radio dial.
 
 "— Chinese government has gone dark. No official statement from Beijing in over forty minutes. European markets went dark mid-session. The President is expected to address the nation within the hour, though the White House has not confirmed —"
@@ -332,7 +324,7 @@ Behind them, the morning opened up wide and gold over the East Texas pastureland
 
 ---
 
-What happened next would happen to every living soul on the planet within the span of a single breath. And when it was done, the world that existed before it — the one with water pumps and fence lines and mornings that smelled like dew and diesel — would be something people told stories about in the dark, — grandchildren telling stories about places they'd never been, half-believing they were imaginary.
+What happened next would happen to every living soul on the planet within the span of a single breath. And when it was done, the world that existed before it — the one with water pumps and fence lines and mornings that smelled like dew and diesel — would be something people told stories about in the dark.
 
 But that hadn't happened yet. For one more minute, the pump was still grinding and the mockingbird was still singing and a man was driving a fence line on a Tuesday morning in East Texas while an unauthorized voice in his head silently cataloged data it didn't understand about a presence it couldn't classify in a mind it was only just learning to share.
 
