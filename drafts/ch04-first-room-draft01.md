@@ -196,7 +196,7 @@ He worked the table leg joint with the hammer until the leg released. Twenty inc
 
 A metal bracket on the wall held a torch in place — forged iron, simple, a U-shaped bracket with bolt holes. He pried it off the wall with the hammer's peen. Filed the bolt holes wider against the rough edge of the table's iron banding. Bent the bracket into a trigger lever using the table edge as a brake.
 
-The hands did the work. That was the truth of it — the part that would matter later, when the builds got bigger and the materials got stranger and the things Nate Hall assembled from other people's garbage started changing the shape of what was possible. The hands did the work. They'd always done the work. Trailer hitches and fence stretchers and the alternator on the '98 Ford he'd rebuilt in the barn at seventeen because the dealer wanted four hundred dollars and his daddy said that was four hundred dollars worth of learning. The crossbow was just the latest entry in a long catalog of things that got built because the right tool didn't exist and the man who needed it had hands and opinions about what "right" looked like.
+The hands did the work. Trailer hitches and fence stretchers and the alternator on the '98 Ford he'd rebuilt in the barn at seventeen because the dealer wanted four hundred dollars and his daddy said that was four hundred dollars worth of learning. The crossbow was just the latest entry in a long catalog of things that got built because the right tool didn't exist and the man who needed it had hands and opinions about what "right" looked like.
 
 The prod seated into the table-leg stock. The green wireframe showed the contact — wood fibers meeting steel at a joint that wasn't tight enough. Not yet. He'd need something to bond it.
 
@@ -232,7 +232,7 @@ Grip wrapped in a strip of leather from the inside of a belt buckle, where the T
 
 Ten minutes. The crossbow looked like someone built it in a barn. The stock was a table leg. The trigger was a wall bracket. The prod was the only honest piece of steel in the room.
 
-It was ugly — honest-ugly, the kind that came from function winning every argument with form — and dangerous with the quiet certainty of something engineered to a purpose. And somewhere in the System's vast catalog of Tutorial outcomes, the entry for "improvised weapon from infrastructure materials" had just been created, because nobody had ever done it before. Not because nobody could. Because nobody had ever looked at the room and seen a parts bin. The System built the room to ask one question, and Nate Hall answered a different one, and the System was not yet sophisticated enough to understand why that mattered. It would learn. They would all learn, eventually. But that morning it was just a man and a crossbow that looked like it had been assembled during a bar fight, and neither of them knew what they were starting.
+It was ugly — honest-ugly, the kind that came from function winning every argument with form — and dangerous with the quiet certainty of something engineered to a purpose. That morning it was just a man and a crossbow that looked like it had been assembled during a bar fight, and neither of them knew what they were starting.
 
 "I have catalogued what you just did," Flint said, "and I want you to know that from a strictly technical standpoint, you just built a ranged weapon from furniture and wall fixtures while forty-eight people with functioning class assignments selected purpose-built armaments designed by a god-tier intelligence." A beat, and his voice shifted from clinical to something that sounded almost like pride, if you didn't know better. "And yours is better. I find that personally offensive on their behalf."
 
@@ -562,9 +562,9 @@ Nate was fifteen feet away. He saw it happen. He couldn't reach it.
 
 The man stopped moving. The Thornlings stayed on him for two more seconds, thorns buried deep, and then pulled away and went for the next target. The body on the stone floor didn't get up.
 
-Around him, the chaos had a texture. Not random — patterned. Cattle stampede had a pattern if you'd seen enough of them to read the motion instead of just feeling the fear. This was the same. The Thornlings targeted isolation. They didn't hit the center of the warrior line, where shields overlapped and swords covered each other. They hit the edges. The gaps. The places where someone had stepped wrong or turned to help a neighbor and opened a seam.
+Around him, the chaos had a texture. Not random — patterned. Cattle stampede had a pattern if you'd seen enough of them to read the motion instead of just feeling the fear. This was the same.
 
-They were herding. Rex knew it. Nate knew it. The Thornlings were running the same playbook as coyotes on calves — separate, isolate, bring down.
+They were herding. Rex knew it. Nate knew it. Same playbook as coyotes on calves — separate, isolate, bring down.
 
 "Flint. The thorns. On that one." Nate pointed at the Thornling corpse at his feet — the one he'd hammered. The thorned fingers, splayed in death, four inches of dense structural material with a point already shaped by biology.
 
