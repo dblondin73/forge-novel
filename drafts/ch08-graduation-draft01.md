@@ -214,7 +214,7 @@ But brittle under massive compression.
 
 Same composite. Different failure mode. You could swing a sword at a piece of bark all day and the bark would win. You could drop a barn on it and the bark would lose. Not because the material was weak — because the material was *stiff.* The interlocking plates that made it brilliant against directional force made it catastrophically vulnerable to omni-directional compression. The same layered structure that distributed a sword's impact across multiple plates had no mechanism for distributing the weight of a ceiling. Compression didn't come from an angle. Compression came from *everywhere.*
 
-Everything fired at once, and for one instant his mind was a single thing instead of four separate ones:
+Everything fired at once, and for one instant his mind was a single thing:
 
 The pillars were load-bearing. The ceiling was heavy. The armor was brittle under compression — same material, different failure mode. Remove the pillar, drop the ceiling, let gravity do what swords couldn't. Environmental kill. Every dungeon crawler had a phase where you stopped using your weapons and started using the room. The dev who designed this fight put four destructible pillars in a boss arena with a heavy ceiling, and that wasn't an accident — that was an intended mechanic. And you didn't fight a two-thousand-pound bull head-on. You didn't even try. You used the chute. You used the fence. You used the terrain. You moved the animal where it needed to be, and you let the infrastructure do what infrastructure does. The bull never knew it was handled.
 
