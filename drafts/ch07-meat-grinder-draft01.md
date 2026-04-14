@@ -90,7 +90,7 @@ The Thornlings hesitated. Not intelligence — something more basic, something c
 
 Rex moved with them. Patient. Relentless. The geometry of a dog herding stock that didn't know it was being herded.
 
-*The **System** had built a room that punished noise. Built it with care, too — the acoustics were deliberate, the angles calculated to multiply and distort, every surface shaped to turn a voice into a weapon aimed at its owner. A room designed to silence the loud ones. It did not account for the creatures that had never needed volume. The dog. The hand signals. The rancher who'd been reading terrain since before he could read words. Some languages predate architecture, and the oldest ones don't make a sound.*
+*The **System** had built a room that punished noise, and never accounted for the creatures that had never needed volume. The dog. The hand signals. The rancher who'd been reading terrain since before he could read words. Some languages predate architecture, and the oldest ones don't make a sound.*
 
 The first Thornling's bark-foot hit the water channel and the current took it. Not dramatically — the flow was shallow, maybe eight inches — but the bark-skin absorbed moisture on contact. **SA** showed it in real time: the bark grain swelling as moisture wicked through, the material expanding unevenly, the joints stiffening as wet wood did what wet wood always did. The creature slowed. Its movements went from predatory to labored, legs fighting waterlogged weight that hadn't been there three seconds ago.
 
@@ -146,7 +146,7 @@ She'd been behind the line — correct position, smart, the same survival math t
 
 Nate saw her through the dust. **SA** painted the collapsed section — structural analysis reading every stone, every gap, every load-bearing piece of rubble and every piece that was just weight. And there, along the left wall where the corridor's original stonework met the collapse: a fracture line. A procedural seam where the System's environment engine had stitched two render sections together and left a structural scar.
 
-Everything fired at once. The gamer math said dead weight — outside heal range, the Healer couldn't reach her, the tank couldn't reach her, and crossing through two Thornlings in a narrow corridor with no cover was a death sentence for whoever tried. **SA** showed a structural weak point in the corridor wall. Break the seam, create a bypass. The fracture line extended eight feet along the left wall. Five solid hits with the hammer and the weak section would drop, opening a path behind the collapse that avoided the Thornlings entirely.
+Everything fired at once. Dead weight — outside heal range, the Healer couldn't reach her, the tank couldn't reach her, and crossing through two Thornlings in a narrow corridor with no cover was a death sentence for whoever tried. **SA** showed a structural weak point in the corridor wall. Break the seam, create a bypass. The fracture line extended eight feet along the left wall. Five solid hits with the hammer and the weak section would drop, opening a path behind the collapse that avoided the Thornlings entirely.
 
 And underneath all of it, the thing that wasn't math at all: you don't leave livestock in the fence. Period. You don't calculate the value of the animal against the cost of the rescue. The animal is in the fence and you go get it.
 
@@ -206,7 +206,7 @@ Nate was breathing through the pain. It had a rhythm, like everything else — a
 
 "That was stupid AND she's alive. Both things are true."
 
-*Nothing needed saying. The stone had fallen. The woman had been alone on the wrong side. And a man who'd spent his life going back for things caught in fences had gone back, because that was what his hands did when his brain wasn't consulted. Some decisions are made before the person making them exists. They live in the blood, in the bone, in the ten thousand small choices that built the man who made the big one without thinking. She was watching. She always watches the ones who go back.*
+*Some decisions are made before the person making them exists. They live in the blood, in the bone, in the ten thousand small choices that built the man who made the big one without thinking. She was watching. She always watches the ones who go back.*
 
 Flint, internally, with the specific tone of an AI that had been running damage calculations in real time and did not appreciate the results: "Your health bar — and I'm using that term loosely for the interpretive green shimmer you call an interface — suggests you should stop doing that."
 
@@ -268,10 +268,6 @@ The dead were behind him. The quiet Warrior who'd turned toward the echo and awa
 
 He didn't think about them. He worked.
 
-*This is how some men pray. Not with words — they've never trusted words the way they trust a handle's grip. They pray with the hammer. With the heat. With the act of making something whole when the world keeps breaking things apart. If you're listening for it, you can hear it in the ring of steel on iron — not a plea, not a request, just the steady communion of a man who builds because building is the truest thing he knows how to offer.*
-
-*The forge is a chapel for the ones who worship with their palms open and calloused. Always has been. Always will be. And the prayer that rises from the anvil is older than any liturgy — older than the words, older than the buildings, as old as the first man who picked up a rock and shaped it into something useful and felt, in the shaping, that he was not alone.*
-
 The crossbow took shape under his hands. Better than it had been. Stronger. The stock reinforced with **Thornguard** composite. The trigger filed to precision. The prod re-tensioned and seated into the stock with a connection that **Field Repair** had deepened at every station since the first room. Not a new weapon — the same weapon, improved at every stop by a man who knew what materials wanted to become.
 
 Josie sat against the wall ten feet away.
@@ -311,8 +307,6 @@ HUD text flashed at his periphery:
 > THORNGUARD-2. FLANKING. PATTERN MATCHES — YOUR OWN TACTICS FROM ROOM 7. THE MOBS ARE LEARNING. THAT'S NOT GREAT, KING.
 
 "The second **Thornguard** is running a flanking pattern," Flint said, voice stripped of comedy. "The combat AI is adapting. The flanking pattern it's running is the same one Marcus used in the cavern. The mobs watched us. The System taught them."
-
-*Adaptive difficulty. The mobs are running our own flanking patterns from two rooms ago. The System watched us fight and taught its creatures our playbook.*
 
 "SECOND THORNGUARD, EAST WALL!" Nate signed and shouted simultaneously — the room's acoustics were clean enough for voice, the chamber's flat walls returning sound without the cavern's distortion. Marcus relayed through his HUD. Two Warriors peeled off to intercept.
 
