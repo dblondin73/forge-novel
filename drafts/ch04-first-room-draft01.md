@@ -8,7 +8,7 @@ Fifty people, give or take, and one crossbow worth a damn. But they hadn't found
 
 The stone was wrong.
 
-Nate's boots hit solid ground and the wrongness registered before anything else — not dirt, not the sandy give of dirt he had been standing on. Stone. Hard, flat, cold through his boot soles in a way that East Texas ground never was, not even in January. His knees buckled. He caught himself with one hand on the floor and the other reaching for something that wasn't there — the truck's fender, the post driver, anything solid and familiar. His hand found stone and nothing else.
+Nate's boots hit solid ground and the wrongness registered before anything else — not dirt, not the sandy give of ground he had been standing on. Stone. His knees buckled. He caught himself with one hand on the floor and the other reaching for something that wasn't there — the truck's fender, the post driver, anything solid and familiar. His palm came down hard and flat, cold through his skin in a way East Texas ground never was, not even in January. Stone and nothing else.
 
 Rex was still against his left leg. He hadn't moved from where he'd been at the moment of transport — pressed to Nate's shin, rigid and silent. Not panicking. Holding position, the way he held position when lightning cracked close enough to taste and the cattle broke wrong and everything in the world said *run* except the person who made decisions.
 
@@ -66,13 +66,13 @@ Marcus Webb's voice cut through it.
 
 "Listen up! Prior military, on me. First responders, medical, anyone with formal training — on me now. Everyone else, back against the walls, give people space. Move."
 
-He'd found position already — center of the room, near the largest crafting table, where his voice carried in every direction. Deep enough to feel in your chest before your ears finished processing it, a rumble that didn't need volume to fill a room. Same voice he'd used to hold a platoon together in places the news didn't cover. The nameplate above his head read:
+He'd found position already — center of the room, near the largest crafting table, where his voice carried in every direction. Deep enough to feel in your chest before your ears finished processing it, a rumble that didn't need volume to fill a room. Same voice he'd used to hold a platoon together in places the news didn't cover. A label resolved in Nate's vision — text floating at the edge of his focus, pinned to the man like a sale tag on a heifer:
 
 **MARCUS WEBB — VANGUARD [RANK F — LOW]**
 
 And people were listening. Not all of them — the bald man was still hitting the wall, the mother on her knees hadn't looked up, the kid in the Oregon hoodie was somewhere else entirely — but enough. Ten, twelve, fifteen people migrating toward Marcus's voice, because in a room full of panic, the man who sounded like he had a plan was worth following even if he didn't have one yet.
 
-Nate didn't move toward Marcus. Not yet. Back to the wall, Rex at his feet, where he could see the whole room without being in the middle of it. Same place he'd stand at a sale barn — gate in view, watching the herd sort itself. One dog and a wall. That was enough.
+Nate didn't move toward Marcus. Not yet. His back to the wall, Rex at his feet, where he could see the whole room without being in the middle of it. Same place he'd stand at a sale barn — gate in view, watching the herd sort itself. One dog and a wall. That was enough.
 
 His eye caught a face near the second weapon rack — weathered, sixtyish, the permanent squint of a man who'd spent decades in the sun. He'd seen him before at the sale barn in Carthage, maybe, or De Berry. The man was holding a sword by the middle — testing the balance before he trusted the weight, same grip you'd use on a fence post — and Nate filed that away. At least one person in this room knew what tools felt like before today.
 
