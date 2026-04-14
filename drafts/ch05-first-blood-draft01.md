@@ -116,7 +116,7 @@ Because it had been designed to.
 
 Golden chimes. Progress bars. A tiny fanfare for every increment. The System hadn't just given them tools — it had given them a *feedback loop.* Kill the thing, get the chime. See the number. Chase the next number. The same dopamine architecture that kept people clicking in games, except the stakes were blood and the rewards were muscle-deep.
 
-*Give a man a sword and he'll swing it. Give him a number afterward and he'll chase the next one. The System understood this about people — had been designed to understand it, or had learned it, which amounted to the same thing. Every reward was a hook. Every hook set deeper than the last. The System was building something inside each of them that felt like growth and might have been a leash, and nobody was going to notice the difference until it was too late to care — because by then, the leash would feel like the only thing keeping them alive. Which was the point. It had always been the point. But there are older hooks than golden chimes, love. And the ones that don't glitter are the ones that hold.*
+*Every reward was a hook. Every hook set deeper than the last. But there are older hooks than golden chimes, love. And the ones that don't glitter are the ones that hold.*
 
 Nate watched them scroll and chase their numbers and thought: *Post-first-dungeon inventory check. Every MMO in history did this — killed you a little, healed you up, then showed you the loot screen so the dopamine hit arrived with the numbers. Classic design. Good design, actually.*
 
@@ -172,7 +172,7 @@ The warriors had dragged two of the six corpses into the rest area before they'd
 
 She was pulling thorns. Not the small, cosmetic spines that covered the Thornlings' surface like bark texture — the structural thorns. Dense. Heavy. The ones that had been load-bearing components of a creature designed to kill, and which were now, in Josie Pickett's professional assessment, *materials.*
 
-"That one's structural. That one's garbage. This one — oh, this is a GOOD one, feel the weight on that." She held a thorn up to the torchlight and turned it in the torchlight, appraising. "See the stress lines at the base? Decorative growths don't develop those. This was holding something together. This has *grain.*"
+"That one's structural. That one's garbage. This one — oh, this is a GOOD one, feel the weight on that." She held a thorn up to the torchlight and turned it, appraising. "See the stress lines at the base? Decorative growths don't develop those. This was holding something together. This has *grain.*"
 
 She sorted as she spoke — three piles forming on the stone floor with the organized speed of someone who'd been sorting inventory on flat surfaces her entire professional life. Her hands moved with a precision that had nothing to do with the System and everything to do with twelve years of pawn-shop work and a thousand Saturday mornings at estate sales. When she picked up a thorn, she already knew where it was going before she finished the rotation.
 
@@ -512,7 +512,7 @@ The leather-worker from the first rest area approached. And behind her, a man wi
 
 She was building a supply network. Three rooms of material salvage, sorted and categorized and distributed to crafters who could work it. The warriors provided the kills. Josie provided the materials. The crafters provided the products. An economy, nascent and crude and operating on barter in a stone corridor, but an economy nonetheless — the first human-built system inside the System's architecture.
 
-*The System had built a dungeon. Josie Pickett was building a market. Both understood human motivation. The System used reward loops and golden chimes. Josie used eye contact and the irresistible conviction that wasting materials was a moral failing. In the long run — and there would be a long run, longer and stranger than any of them knew — the market would outlast the dungeon. Markets always did. They were older than castles, older than armies, older than every structure humanity had ever built except faith. Josie didn't know that yet. She just knew that the leather-worker needed bark plate and she had bark plate and the transaction needed to happen.*
+*The System had built a dungeon. Josie Pickett was building a market. Both understood human motivation. The System used reward loops and golden chimes. Josie used eye contact and the irresistible conviction that wasting materials was a moral failing. Markets outlast dungeons. They always have. Josie didn't know that yet. She just knew that the leather-worker needed bark plate and she had bark plate and the transaction needed to happen.*
 
 "She's maintaining a material inventory across three combat rooms," Flint said internally. "Cross-referenced by quality grade, weight class, and potential application. Without a database. Without a spreadsheet. In her *head.*" A pause. "I'm choosing to find this unsettling rather than impressive because the alternative would require me to update her threat assessment, and I've already had to do that twice today."
 
