@@ -88,8 +88,6 @@ Rex materialized between the wounded **Thornguard** and Josie, who was already o
 
 It went down hard. Took four Warriors and eight seconds of System-assisted violence, and when it was done the clearing smelled like burning wood and sap and a chemical wrongness — things that had been alive in a way that wasn't quite life, now dead in a way that wasn't quite death.
 
-Mini-boss encounter. The Tutorial just introduced elites. Everything before this was the warm-up round.
-
 Silence. Heavy breathing. The **Mage** sitting on the boulder with her hands dark and her mana bar somewhere near empty. A **Warrior** looking at his sword — the blade bent fifteen degrees from the **Thornguard**'s chest plate, the thin-gauge steel deformed exactly as **SA** had predicted it would three rooms ago. Another **Warrior** with a gash across his ribs where a forearm spike had caught him on the half-turn, bark thorns leaving punctures that the **Healer** was already working on with dimmer hands than anyone wanted to see.
 
 People who'd felt confident after Room 3 were shaking now. Three rooms of building competence, three rooms of learning the rhythm, three rooms of *the losses are behind us and we're getting better at this* — and one fight with two armored enemies had shattered all of it. Two more names added to the count. Thirty-eight left.
@@ -172,11 +170,9 @@ The fight ended. The last Thornling fell. The **Thornguard** went down under fiv
 
 *This is where the story changes, love. Not the rooms. Not the monsters. Not the numbers climbing or the skills unlocking or any of the shiny mechanical things that make a man feel like he's getting stronger. Here. On this floor. With this boy. This is where it stops being a game for everyone in this room, including the one telling you about it.*
 
-Tyler died with his eyes open and his interface still glowing.
+Tyler died with his eyes open.
 
-Then the glow died too.
-
-The blue panels that had been projecting across his vision — the character sheet, the health bar, the skill list, the entire System architecture that had been painted across a living brain — blinked once and went dark. Not a fade. Not a transition. A severance. The connection cut the instant the brain stopped interpreting the signal, and the screens that needed a living mind to project onto found an empty house and locked the door behind them.
+"His profile just severed," Flint said. The AI's voice carried none of its usual theater — flat data, stripped clean. "Vitals gone. The **System** dropped him the instant his brain stopped interpreting the signal."
 
 Death killed the interface. The **System** needed a living host and Tyler wasn't one anymore.
 
@@ -274,8 +270,6 @@ Thirty-five people. Eighteen sets. The number sat in the silence where forty had
 
 The math was deliberate. And something about the way the gear materialized — the amber glow, the organized rows, the presentation that was less "supply drop" and more "storefront display" — nagged at the part of him that cataloged design intent. The **System** wasn't just distributing equipment. It was making the distribution *feel* like a reward. Making the upgrade *feel* like progress earned. Making the new armor *feel* like validation for surviving the rooms that had killed Tyler.
 
-Dopamine hit. Classical conditioning. Perform, survive, receive shiny things. The oldest loop in game design, and the **System** was running it on traumatized humans who were too grateful for better armor to notice the leash being fitted to the collar.
-
 "Distribute among your party," Marcus read aloud, and his voice carried that flatness — mission voice overriding the man inside the uniform. He looked at the gear. Looked at the group. Looked at the faces of thirty-five people who'd lost five of their own across two rooms and were now being asked to decide who deserved protection.
 
 "Fighters first," Marcus said. "The people holding the line get the armor. That's not preference — it's math. If the front line goes down, the support line goes down thirty seconds later."
@@ -308,23 +302,13 @@ She looked at the kit in her hands. Looked at Nate. Looked at the two green arcs
 
 Nate was already walking back to the forge. He didn't explain. Didn't make a speech. Didn't frame the decision in language that would make it sound bigger than it was. He had a forge. He had materials. He had hands that could read steel and bark and the spaces between them. The **Scout** needed armor more than he needed someone else's trigger mechanism.
 
-*And there it is, love. No prayer. No sermon. No grand declaration of sacrifice for the common good. Just a man who gave away something he needed because someone else needed it more. That's the whole of it. If you have to explain why, you've already missed the point.*
-
-*Flint saw it too. The sarcastic little AI behind Nate's eyes — the one something older and quieter than the System rewrote before first boot — watched Nate hand away gear he needed, and something in his architecture lit up that he couldn't classify. Not admiration. Recognition. A pattern he was built to find but wasn't told to look for.*
-
-*He serves two masters, does Flint. The System that built him and the Authority that rewrote him, and he sits in the widening gap between the two pretending he doesn't notice. Divided loyalty, love. That's exactly what it is.*
-
 Josie watched from her workbench. She'd been sorting **Thornguard** plates into quality categories — her hands moving with the automatic efficiency of a woman whose body kept working while her mind processed something it couldn't sort into a pile — and she stopped. Just for a moment. Long enough to watch Nate give away gear he needed to someone who needed it more, without commentary, without performance, without the loudness people deployed when they wanted credit for generosity.
 
 She didn't say anything. Josie Pickett, who had an opinion about everything and a comment for every occasion and a running monologue that could fill any silence within a three-room radius, said nothing. She filed it somewhere internal — somewhere that didn't have a category yet, somewhere that the estate-sale math of *everything has a price* didn't fully reach — and went back to sorting.
 
-First crack. Small. The reader saw it. Josie didn't. Not yet.
-
 "Inventory rings." Marcus held one up. Simple band, dark metal, cheap-looking, vending-machine metal. "One per person. The **System** generated them at the far end of the crafting station. They're dimensional storage — small capacity, but functional."
 
 The rings distributed. One per person — and this time the math was generous. One per person. The **System** could have made twelve. Could have forced another scarcity decision, another wedge, another test to see who gave and who took. Instead it made enough for everyone, and the relief on faces that had been bracing for another shortfall was visible and instant and exactly the emotional response the **System** wanted.
-
-Reward after deprivation. The conditioning loop closing.
 
 When Nate slipped his ring on, **SA** read the architecture — a compressed space existing inside the band's structure, folded like a napkin tucked into a ring. Small. Enough for maybe a dozen items, depending on size. The **System** had given them pockets.
 
@@ -427,8 +411,6 @@ The second **Thornguard** went down under coordinated fire — three Warriors wo
 Rex worked the margins. A Thornling broke for the **Healer** and the dog was there — low, silent, the stare — and the creature's path bent before it knew it was being bent, pushed toward a **Warrior** whose technique was coming off cooldown at exactly the right moment. Herding. Always herding. The room was a pasture and the monsters were livestock and Rex had never needed anyone to explain the difference between where something was going and where it should go.
 
 Judge worked the other margin — the aggressive one, the one where things needed to be bitten instead of stared at. A Thornling stumbled onto an unstable floor patch and Judge was on it before it recovered, driving it sideways with a bark-cracking bite to the root-leg that sent the creature staggering into the first **Thornguard**'s path. The **Thornguard** stepped on it. Judge was already gone, sprinting toward the next break in the line, forty pounds of blue-speckled fury that had decided this room was her pen and nothing in it was going to move without her permission.
-
-This is the last encounter before something changes. The moment where the build comes together — coordinated DPS, crowd control, tank-and-spank on real elites. Five rooms of cohesion paying off. Classic design.
 
 The room cleared. Thirty-five people standing in an eighty-foot chamber, breathing hard, bleeding in places, but standing. The **Healer** was already working — a thigh wound on a Warrior, hands glowing, mana carefully rationed. The **Mage** sat against the second pillar with her head back and her eyes closed, mana somewhere between "empty" and "don't ask." Two support-class fighters had minor gashes from Thornlings that had gotten past the line before Rex redirected them.
 
