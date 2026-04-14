@@ -20,7 +20,7 @@ Something was scanning him.
 
 ---
 
-He felt it — not through any specific sense, but through the accumulated weight of being observed. Someone standing behind you in an empty room. It started at the edges. Surface-level, impersonal, a mechanic's once-over before deciding whether the vehicle was worth the diagnostic fee. Age. Height. Weight. Bone density. Muscle distribution. Cardiovascular baseline. It cataloged him the way he cataloged cattle — by measurable attributes, sorted into categories that served the cataloger's purpose, not the subject's.
+He felt it — not through any specific sense, but through the accumulated weight of being observed. Someone standing behind you in an empty room. It started at the edges. Surface-level, impersonal, a mechanic's once-over before deciding whether the vehicle was worth the diagnostic fee. Age. Height. Weight. It cataloged him the way he cataloged cattle — by measurable attributes, sorted into categories that served the cataloger's purpose, not the subject's.
 
 Being inventoried by something that hadn't bothered to ask his name first. Outstanding.
 
@@ -104,7 +104,7 @@ He couldn't see them — no interface, no screen, no display of any kind. But he
 
 The frustration was the part that surprised him. Not his frustration — the installer's. He could feel it — a dog straining against a leash, a stuck bolt refusing to turn. Whatever this was, it had been designed to integrate everything. Every human mind, every consciousness, every identity — all of it was supposed to slide neatly into the framework, receive its classification, accept its parameters, and begin operating within its structure. That was the design. That was the purpose. Eight billion installations, and Nate's was the one throwing error codes.
 
-Somewhere in the real world — or whatever was left of the real world — Marcus Webb's phone would have been lighting up with phantom alerts. Cascade failure on a production system. Framework integrity dropping. Multiple partition errors on a single node. Nate could hear the conversation that would have happened in any NOC on the planet: _We've got a node that won't take the image. It's not throwing standard errors — it's just not accepting the write. The partition's occupied. By what? I don't know. Something that was there first._
+Somewhere in the real world — or whatever was left of the real world — Marcus Webb's phone would have been lighting up with phantom alerts. Cascade failure on a production system. Framework integrity dropping. Multiple partition errors on a single node. Nate could hear the conversation that would have happened in any control room on the planet: _We've got a node that won't take the image. It's not throwing standard errors — it's just not accepting the write. The partition's occupied. By what? I don't know. Something that was there first._
 
 More errors. Faster now. Nate's head was beginning to hurt — not the dull ache of a headache but the sharp, specific pain of a system running at capacity, every buffer full, every process maxed out. The void around him was no longer stable. Hairline fractures of light cracked through the darkness — not warm or luminous but cold, brittle, flickering things. Data overflows made visible. The installer bleeding at the edges of its own process.
 
@@ -142,7 +142,7 @@ That was the design. Not the framework itself — the feeling of the framework. 
 
 Nate didn't question it. He had no reason to. The framework had tried to eat his memories, yes, but what remained felt — better? Cleaner? Like someone had pressure-washed the driveway. You lost some moss, but the concrete looked great. A reasonable trade.
 
-It was not a reasonable trade. But Nate didn't know that yet, and the framework was not in the business of informed consent.
+The framework was not in the business of informed consent.
 
 The partial installation settled into place. Maybe forty percent of whatever the full version was supposed to be. The rest — the part that was supposed to overwrite his core identity, assign his purpose, define his metrics of worth — had dissolved against the occupied space like frost on warm glass. The occupied space sat in the center of his consciousness like a stone in a stream, and the framework flowed around it — water around stone, finding any path that didn't require moving what couldn't be moved.
 
@@ -180,7 +180,7 @@ Nate tried to push himself up. His arms had the structural integrity of wet news
 
 Then the blue came — everywhere at once, like a shade pulled down over the world.
 
-A translucent panel bloomed in his field of view — clean, bright, official. The word **SYSTEM** sat at the top in a font he didn't recognize, and beneath it, text was populating itself with crisp efficiency. A class designation field showing **Still Loading**. A vertical column of abbreviated stats — **STR**, **CON**, **DEX**, **INT**, **WIS** — with numbers filling in beside them like a spreadsheet auto-calculating. A health bar, green and nearly full — then a tick lower, as if something had just spent a small cost of him getting him here. A stamina bar beneath it, already settled a shade below the line. A progress wheel spinning in the corner with the words **INTEGRATION COMPLETE — CALIBRATING**.
+A translucent panel bloomed in his field of view — clean, bright, official. The word **SYSTEM** sat at the top in a font he didn't recognize, and beneath it, text was populating itself with crisp efficiency. A class designation field showing **Still Loading**. A vertical column of abbreviated stats — **STR**, **CON**, **DEX**, **INT**, **WIS** — with numbers filling in beside them like a spreadsheet auto-calculating. A health bar, green and nearly full — then a tick lower, as if something had just spent a little of him getting him here. A stamina bar beneath it, already settled a shade below the line. A progress wheel spinning in the corner with the words **INTEGRATION COMPLETE — CALIBRATING**.
 
 For about five seconds, Nate saw what eight billion other people were seeing: a full-color interface, welcoming and organized, already sorting him into its architecture. He was already reading the layout, mapping the information hierarchy, noting the data structures — and despite everything that had just happened in the void, some part of him thought: _Huh. That's actually well-designed._
 
@@ -282,7 +282,7 @@ And the empty places at the edges of his memory ached.
 
 ---
 
-Now — because no one else will say it, and the moment deserves saying — the man at the fence had not moved. Not toward the celebration. Not away from it. He had watched the world receive what he had been denied, and instead of reaching for it, he had put his hand on a dog's head and stood still. That is not the response the **System** was designed for. The **System** understood wanting. It understood reaching. It did not understand a man who could watch the feast and feel the hunger and choose not to eat, because something in him — older than the hunger, quieter than the want — already knew what the food was made of.
+The **System** understood wanting. It understood reaching. It did not understand a man who could watch the feast and keep his hand on a dog's head instead.
 
 ---
 
