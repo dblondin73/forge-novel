@@ -62,7 +62,7 @@ Two fingers, pointed. *Enemy, that direction.* Flat palm down. *Hold.* Fist pump
 
 Something new happened when he raised the crossbow.
 
-The HUD — his monochrome green interface that still looked like a DOS prompt next to everyone else's polished blue panels — shifted. Concentric arcs appeared at his focal point, faint green geometry that tightened as he aimed, narrowing on the target, pulling focus. Not a full targeting system. The HUD was confirming what he was already looking at, drawing a circle around the place his eyes had chosen and saying *yes, there.*
+The HUD — his monochrome blue interface that still looked like a DOS prompt next to everyone else's polished blue panels — shifted. Concentric arcs appeared at his focal point, faint blue geometry that tightened as he aimed, narrowing on the target, pulling focus. Not a full targeting system. The HUD was confirming what he was already looking at, drawing a circle around the place his eyes had chosen and saying *yes, there.*
 
 Then text appeared at his periphery. Brief. Sharp.
 
@@ -78,7 +78,7 @@ The reticle tightened. The text updated:
 
 > THORNGUARD. 3-LAYER PLATE. ARM JOINT = WINDOW. 0.5 SEC BETWEEN EXTENSION AND RESET.
 
-He sighted the nearest Thornling through the new arcs. The concentric circles contracted to a point, green on green, and when the trigger broke, the bolt followed the geometry like it had been invited.
+He sighted the nearest Thornling through the new arcs. The concentric circles contracted to a point, blue on blue, and when the trigger broke, the bolt followed the geometry like it had been invited.
 
 Marcus ran the relay. **Vanguard's** HUD picked up Nate's signals and translated them into positional data the fighters could read on their combat interfaces. A silent coordination loop. The man with the eyes calling targets. The man with the HUD routing them to the people who could act. Two men running the same operation through different instruments in a room designed to make cooperation impossible.
 
@@ -198,7 +198,7 @@ He hit the corridor floor on the safe side and the pain arrived on delay — ser
 
 The Crafter was sitting against the wall, shaking, alive. The material pouch still clutched in both hands.
 
-Marcus appeared in Nate's field of vision. The **Vanguard's** HUD was doing something behind his eyes — reading Nate's condition, probably, the health data that Marcus could see and Nate couldn't because his interface showed two green arcs and an amber tag and nothing resembling useful medical information.
+Marcus appeared in Nate's field of vision. The **Vanguard's** HUD was doing something behind his eyes — reading Nate's condition, probably, the health data that Marcus could see and Nate couldn't because his interface showed two blue arcs and an amber tag and nothing resembling useful medical information.
 
 "That was stupid."
 
@@ -208,13 +208,13 @@ Nate was breathing through the pain. It had a rhythm, like everything else — a
 
 *Some decisions are made before the person making them exists. They live in the blood, in the bone, in the ten thousand small choices that built the man who made the big one without thinking. She was watching. She always watches the ones who go back.*
 
-Flint, internally, with the specific tone of an AI that had been running damage calculations in real time and did not appreciate the results: "Your health bar — and I'm using that term loosely for the interpretive green shimmer you call an interface — suggests you should stop doing that."
+Flint, internally, with the specific tone of an AI that had been running damage calculations in real time and did not appreciate the results: "Your health bar — and I'm using that term loosely for the interpretive blue shimmer you call an interface — suggests you should stop doing that."
 
 "Noted."
 
 "I have noted it. Along with the previous four times you ignored a note. I'm starting a file. I'm calling it Things Nate Acknowledges And Then Does Anyway. It's growing faster than my storage allocation can comfortably support."
 
-The Healer got to him. Her hands were dimmer than they'd been three rooms ago — mana running low, the reserves draining faster than the rest periods recharged them. The green glow that settled over his back was warm and foreign and worked from the outside in, closing the bark-thorn cuts with the slow persistence of flesh remembering what it was supposed to look like. Not painless. Nothing in the Tutorial was painless. But the bleeding stopped and the deepest part of the cuts sealed and what remained was a two-room reminder that going back for people had a price.
+The Healer got to him. Her hands were dimmer than they'd been three rooms ago — mana running low, the reserves draining faster than the rest periods recharged them. The golden glow that settled over his back was warm and foreign and worked from the outside in, closing the bark-thorn cuts with the slow persistence of flesh remembering what it was supposed to look like. Not painless. Nothing in the Tutorial was painless. But the bleeding stopped and the deepest part of the cuts sealed and what remained was a two-room reminder that going back for people had a price.
 
 He paid it. He'd pay it again.
 
@@ -256,7 +256,7 @@ The trigger assembly was next. The wall-bracket mechanism from the first room ha
 
 He filed the lever's contact surfaces against the anvil's edge. Slow, deliberate, the file removing material in increments that his eyes couldn't see but his hands could feel. **Field Repair** confirmed each stroke — tighter, tighter, the mechanism's tolerance narrowing from sloppy to adequate to something approaching precision. When the lever seated back into the stock, the click was different. Sharper. A mechanical sound that meant *this will fire where you point it.*
 
-The prod got re-tensioned. Seven rooms of firing had stretched the spring steel by fractions — **SA** showed the crystalline structure fatiguing at the bend points, the metal's memory slowly forgetting its resting state. He heated the prod ends in the forge. Carefully. Too much and the temper would break. Enough and the molecular structure would reset, the steel remembering what it was supposed to do. The green arcs pulsed — **Field Repair** knowledge told him the threshold, but the hands on the tongs were his, and the judgment call was his. *There. That's enough. Stop.*
+The prod got re-tensioned. Seven rooms of firing had stretched the spring steel by fractions — **SA** showed the crystalline structure fatiguing at the bend points, the metal's memory slowly forgetting its resting state. He heated the prod ends in the forge. Carefully. Too much and the temper would break. Enough and the molecular structure would reset, the steel remembering what it was supposed to do. The blue arcs pulsed — **Field Repair** knowledge told him the threshold, but the hands on the tongs were his, and the judgment call was his. *There. That's enough. Stop.*
 
 He quenched it. The steel hissed. The prod came out of the water straighter, tighter, the stored energy coiled in the limbs like a spring waiting to prove itself.
 
@@ -350,7 +350,7 @@ The fight ended ugly and quiet — not with a dramatic final blow but with the s
 
 Quiet.
 
-The arena room went still. Nate lowered the crossbow. The reticle faded from his HUD — the concentric arcs loosening, dissolving back into the monochrome green baseline, the targeting system standing down with the same semi-intentional responsiveness that had brought it up. He hadn't dismissed it consciously. He'd stopped aiming, and the HUD had read the intent. Getting better at listening to him. Getting better at knowing when the work was done.
+The arena room went still. Nate lowered the crossbow. The reticle faded from his HUD — the concentric arcs loosening, dissolving back into the monochrome blue baseline, the targeting system standing down with the same semi-intentional responsiveness that had brought it up. He hadn't dismissed it consciously. He'd stopped aiming, and the HUD had read the intent. Getting better at listening to him. Getting better at knowing when the work was done.
 
 One person didn't get up.
 
@@ -360,7 +360,7 @@ The Healer reached her fast. Hands already glowing, already pouring what was lef
 
 *The **System** didn't distinguish between the two. Healer mana depleted, patient health at zero, encounter complete. Clean data. The machine that ran the world had never understood the difference between a death it caused and a death it watched, because the machine had never understood death at all. It understood removal. Subtraction. A number becoming a smaller number. The rest was noise the **System** didn't record and wouldn't have known what to do with if it had.*
 
-Fifteen people standing. The Healer sat on the arena floor beside the woman she hadn't saved, hands still glowing the faint residual green of mana that had nothing left to heal, and didn't move until Marcus touched her shoulder.
+Fifteen people standing. The Healer sat on the arena floor beside the woman she hadn't saved, hands still glowing the faint residual gold of mana that had nothing left to heal, and didn't move until Marcus touched her shoulder.
 
 Flint, internally: "I want you to know I had tactical data on that **Thornguard's** flanking vector — " He stopped. The sentence hung unfinished for two full seconds. "Never mind. The room is clear. Focus forward."
 

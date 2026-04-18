@@ -96,7 +96,7 @@ Reload. Seat. Fire. A flanker trying to circle behind the east Warrior cluster c
 
 "Two o'clock, three fast movers," Flint said, pure data. No jokes. "Healer's angle."
 
-Green arcs at the edge of Nate's vision tightened — concentric rings narrowing on the lead **Thornling** in the trio that had broken from the south wave and was heading for Torres's position. Phase 1D. The targeting reticle wasn't smooth, wasn't polished — not the blue-screen precision the others got. Rough-hewn and jittering, a beta-build aiming assist, cracked-scope optics. But it worked. It pointed where the bolt needed to go.
+Blue arcs at the edge of Nate's vision tightened — concentric rings narrowing on the lead **Thornling** in the trio that had broken from the south wave and was heading for Torres's position. Phase 1D. The targeting reticle wasn't smooth, wasn't polished — not the polished-panel precision the others got. Rough-hewn and jittering, a beta-build aiming assist, cracked-scope optics. But it worked. It pointed where the bolt needed to go.
 
 Rex was already moving — low, fast, cutting an angle on the trio before Nate's reticle settled. The dog didn't bark. Didn't snarl. Just *appeared* in their path the way a good cutting horse appeared in a calf's path — not chasing, positioning. The **Thornlings** stuttered. Changed direction. Ran directly into the Mages' fire arc.
 
@@ -106,7 +106,7 @@ A fourth **Thornling** tried to break east. Rex cut its angle. It reversed — a
 
 The **Thornguards** were a different problem. Four of them anchoring the swarm, soaking damage, keeping the Warriors locked in extended engagements that burned mana and health and time — which was the point. The adds phase wasn't about killing the group. It was about *emptying* them. Every heal Torres pushed was a heal she wouldn't have for the **Briarknight**. Every ability the Mages fired at a **Thornguard's** bark-plate was an ability on cooldown when the real fight started.
 
-Five minutes. That's what the adds phase lasted, measured by the pulse of Nate's green arcs, and in those five minutes the group burned through sixty percent of everything they had left. Mana. Stamina. Health. Torres the Healer pushed healing into a Warrior who took a thorn through his leg and Nate saw her stagger afterward — not from impact, from *emptiness.* Running dry. Pushing power she didn't have into wounds that needed more than she could give.
+Five minutes. That's what the adds phase lasted, measured by the pulse of Nate's blue arcs, and in those five minutes the group burned through sixty percent of everything they had left. Mana. Stamina. Health. Torres the Healer pushed healing into a Warrior who took a thorn through his leg and Nate saw her stagger afterward — not from impact, from *emptiness.* Running dry. Pushing power she didn't have into wounds that needed more than she could give.
 
 Three bolts spent. Two left — one standard, one special. Josie's best, still in the quiver, still waiting.
 
@@ -260,7 +260,7 @@ He didn't aim at the **Briarknight**.
 
 He aimed at the pillar's base.
 
-**SA** overlaid the stress fracture in green-line wireframe — the transition zone where pillar met floor, where compression met shear, the hairline fault that geological patience had opened and procedural shortcuts hadn't closed. The Phase 1D reticle jittered, steadied, locked. Concentric arcs tightening on the one point in the entire arena that mattered.
+**SA** overlaid the stress fracture in blue-line wireframe — the transition zone where pillar met floor, where compression met shear, the hairline fault that geological patience had opened and procedural shortcuts hadn't closed. The Phase 1D reticle jittered, steadied, locked. Concentric arcs tightening on the one point in the entire arena that mattered.
 
 **Field Repair** — reversed. Not *convince the stone to hold.* Instead: *convince the stone to let go.* The same understanding of material integrity, the same intimate knowledge of where structures committed and where they compromised, applied in the opposite direction. An engineer who could feel where a fracture wanted to heal could also feel where it wanted to propagate. The stone at the base of the northeast pillar had been quietly wanting to fail since the arena was built. It just needed permission.
 
@@ -440,11 +440,11 @@ No blue screen. No golden chimes. No character sheet, no achievement notificatio
 
 What he got was this:
 
-The green arcs pulsed. Once. Hard. Brighter than they'd been since Integration — the two faint parentheses of light at the edges of his vision flaring with a clarity that made the arena's ambient glow look dim by comparison. Health. Stamina. Both full, or close to it — not numbers, not percentages, but *feelings.* The sense of a body that had been pushed to its limits and was now settling into a new configuration. Stronger. More certain. Like joints that had been slightly loose for ten rooms were clicking into place, finding their final position, the mechanical precision of components designed to work together finally achieving the tolerance they'd been built for.
+The blue arcs pulsed. Once. Hard. Brighter than they'd been since Integration — the two faint parentheses of light at the edges of his vision flaring with a clarity that made the arena's ambient glow look dim by comparison. Health. Stamina. Both full, or close to it — not numbers, not percentages, but *feelings.* The sense of a body that had been pushed to its limits and was now settling into a new configuration. Stronger. More certain. Like joints that had been slightly loose for ten rooms were clicking into place, finding their final position, the mechanical precision of components designed to work together finally achieving the tolerance they'd been built for.
 
 Level 4 Engineer. He didn't see the words. He *felt* them. The way you felt a tool in your hand shift from unfamiliar to familiar after enough hours of use — not a notification but a recognition. His body knew what it could do. **Structural Analysis** sharpened — not by degree but by kind, the wireframe overlays gaining a precision that made the old readings feel like they'd been drawn with a crayon. **Field Repair** deepened, its range of understanding expanding past the materials he'd already touched into the *idea* of materials — not just what this piece of stone was, but what stone *could* be. Two other skills settled into place beside them — Process Monitor, Infrastructure Sense — not as names on a screen but as capabilities that his hands and eyes already understood and were only now being formally acknowledged by a system that hadn't built them and couldn't claim them.
 
-And at the very edge of his HUD — at the periphery where the green arcs faded into the darkness beyond his focal vision — a flicker. One half-second of *color.* Not green. Not blue. Amber. A warm, golden-brown presence at the edge of threat-indicator territory, the place where danger would eventually live, pulsing once and fading before Nate could turn his attention toward it.
+And at the very edge of his HUD — at the periphery where the blue arcs faded into the darkness beyond his focal vision — a flicker. One half-second of *color.* Not wireframe. Not panel. Amber. A warm, golden-brown presence at the edge of threat-indicator territory, the place where danger would eventually live, pulsing once and fading before Nate could turn his attention toward it.
 
 Phase 2A. Not here yet. Coming. Saying hello and leaving before he could ask its name.
 
@@ -532,7 +532,7 @@ That was all. Just warmth and weight and the steady pressure of a dog who didn't
 
 Judge leaned into his right calf, stub tail twitching once, twice, then still. Done. The way a period ended a sentence.
 
-Two green arcs at the edge of his vision. Brighter now. Steadier. The ghost of amber at the periphery — Phase 2A's calling card, fading as fast as it appeared, a promise of something coming that he couldn't read and couldn't rush and didn't need to.
+Two blue arcs at the edge of his vision. Brighter now. Steadier. The ghost of amber at the periphery — Phase 2A's calling card, fading as fast as it appeared, a promise of something coming that he couldn't read and couldn't rush and didn't need to.
 
 In his pocket, three bark-plate samples that Josie had asked him to hold temporarily, which meant forever, which meant she trusted him with pieces of a collection she valued more than her own comfort.
 
@@ -556,7 +556,7 @@ Rex looked up at him. Ears forward. Waiting for the next thing. The *always* wai
 
 Rex's tail thumped once. Judge's stub tail twitched.
 
-Nate turned toward the barn, and the dogs fell in beside him — Rex left, Judge right, the formation as old as the ranch and as steady as the dirt beneath it. The crossbow over his shoulder. The hammer on his hip. The green arcs bright and certain at the edges of his vision, and the faintest trace of amber at the periphery where something was waking up.
+Nate turned toward the barn, and the dogs fell in beside him — Rex left, Judge right, the formation as old as the ranch and as steady as the dirt beneath it. The crossbow over his shoulder. The hammer on his hip. The blue arcs bright and certain at the edges of his vision, and the faintest trace of amber at the periphery where something was waking up.
 
 *Water first. The man who'd dropped a ceiling on a creature that swords couldn't scratch walked toward his barn to check the stock tanks, because that was what you did. You handled what was in front of you. The Tutorial was behind him. The System's real test — Integration, the world remade, the architecture beneath reality visible now to anyone with the eyes to read it — was ahead. And the fence line where the stag had stood was exactly where his boots had landed, which was either a coincidence or a beginning, and Nate Hall had never much believed in coincidences.*
 

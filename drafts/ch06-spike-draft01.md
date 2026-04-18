@@ -94,7 +94,7 @@ People who'd felt confident after Room 3 were shaking now. Three rooms of buildi
 
 "Casualties?" Marcus said, and the word held the weight of a man who already knew the answer and was asking because asking was what leaders did.
 
-"Two dead." Flint ran the count through Nate's combat HUD — the simplified readout, green arcs and amber tag, nothing like the detailed stat pages the others had. "Four more injured, two moderate. One sword deformed beyond field use. And the **Mage** is at nine percent mana, which I mention because single digits make me philosophically uncomfortable. I've seen vending machines with more reserves."
+"Two dead." Flint ran the count through Nate's combat HUD — the simplified readout, blue arcs and amber tag, nothing like the detailed stat pages the others had. "Four more injured, two moderate. One sword deformed beyond field use. And the **Mage** is at nine percent mana, which I mention because single digits make me philosophically uncomfortable. I've seen vending machines with more reserves."
 
 Josie stood up from the first **Thornguard**'s corpse holding a piece of chest plate the size of a dinner plate. Three-layer laminate bark, intact, still warm from whatever passed for body heat in a creature grown from wood and malice.
 
@@ -296,7 +296,7 @@ Nate walked over and handed her the kit. Not the crossbow parts — the whole se
 
 "Has a good prod. Yours has bad armor."
 
-She looked at the kit in her hands. Looked at Nate. Looked at the two green arcs and the amber PROCESSING tag that still sat where a character sheet should have been — the glitched, unclassified readout that half the group had learned to stop questioning and start trusting.
+She looked at the kit in her hands. Looked at Nate. Looked at the two blue arcs and the amber PROCESSING tag that still sat where a character sheet should have been — the glitched, unclassified readout that half the group had learned to stop questioning and start trusting.
 
 "Thank you," she said.
 

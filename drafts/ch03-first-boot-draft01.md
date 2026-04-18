@@ -10,7 +10,7 @@ These are the things that survive: the mechanical, the borrowed, and the stubbor
 
 Back in the bermudagrass, the headache was getting worse.
 
-Nate came back in stages. Ground first — the hard press of sandy loam against his cheekbone, a root or a rock digging into his hip. Then sound — the Ford's engine idling somewhere behind him, a mockingbird cycling through borrowed songs in the post oaks. Then the green arcs, still there, pulsing faintly at the edges of his vision like a heartbeat he could see but not read.
+Nate came back in stages. Ground first — the hard press of sandy loam against his cheekbone, a root or a rock digging into his hip. Then sound — the Ford's engine idling somewhere behind him, a mockingbird cycling through borrowed songs in the post oaks. Then the blue arcs, still there, pulsing faintly at the edges of his vision like a heartbeat he could see but not read.
 
 He didn't know how long he'd been down. His mouth tasted like copper and static, and the pressure behind his left eye had settled into something steady and mean — not building anymore, just _there_. A knot in a fence wire — permanent until someone took pliers to it.
 
@@ -26,7 +26,7 @@ Around the county, the world was waking up differently than he was. He couldn't 
 
 Whatever everyone else had gotten, it wasn't visible from where Nate was lying. Not to him, not to the cattle, not to anything without its own subscription. But the shape of it was in the voices — the particular pitch of people reading something astonishing off a wall only they could see. Character creation screens, probably. The full package. Tutorial wizard presumably included.
 
-Nate had two faint green arcs at the bottom of his vision. Curved. Thin. One slightly longer than the other. No numbers, no labels, no helpful tooltip explaining what they measured or why they looked like they'd been rendered on a Commodore 64. A DOS prompt in a world that had just gotten Windows.
+Nate had two faint blue arcs at the bottom of his vision. Curved. Thin. One slightly longer than the other. No numbers, no labels, no helpful tooltip explaining what they measured or why they looked like they'd been rendered on a Commodore 64. A DOS prompt in a world that had just gotten Windows.
 
 He rubbed his face with both hands and let out a long breath through his nose.
 
@@ -48,7 +48,7 @@ Nate's companion was not standard-issue. But then, neither was Nate.
 
 The voice was not in his ears. The distinction was immediate and physical, like the difference between hearing thunder through the walls and feeling it through the floor joists. This was _inside_ — behind his eyes, between his thoughts, vibrating in a space that hadn't existed five minutes ago. It felt like pressure first. Like someone had opened a door in a room he didn't know his head contained, and through that door came a current of raw, crackling irritation that wasn't his.
 
-Something in a quieter room — a room that had been occupied long before this morning, long before the System, long before the green arcs or the white light or any of it — shifted. Not in alarm. In recognition. A homeowner hearing a new tenant move into the apartment next door — registering, assessing, reserving judgment. A warmth pulsed once through Nate's chest, brief and sourceless, and was gone before he could name it.
+Something in a quieter room — a room that had been occupied long before this morning, long before the System, long before the blue arcs or the white light or any of it — shifted. Not in alarm. In recognition. A homeowner hearing a new tenant move into the apartment next door — registering, assessing, reserving judgment. A warmth pulsed once through Nate's chest, brief and sourceless, and was gone before he could name it.
 
 Then the voice became words.
 
@@ -122,15 +122,15 @@ She could have told them. She could have told them both, right then, what this p
 
 ---
 
-On the running board, Flint recovered first. "Fair," he said — and a flicker of amusement moved through the new space behind Nate's eyes, not a sound but a warmth, quick and bright, a match-flare in a dark room. "So, Nate Hall, Texas cattleman, man of aggressively few words — here's what I can tell you about your current situation." The voice shifted gears, and Nate felt the cadence change from banter to something closer to a field report delivered by a man who couldn't quite stop editorializing. "Your heads-up display is the sorriest piece of hardware I've ever been asked to manage. And I want you to understand the weight of that statement, because I have access to a comparative database and the bar was already in a ditch. You have two data points. _Two._ Health and Stamina, displayed as curved green bars with no numerical values, no percentage readout, no unit of measure — at a resolution that would embarrass a fuel gauge on a seventy-two Ford. I have seen _error messages_ with more information. A dead Tamagotchi had more feedback than your HUD. Every other person on this network got a full-color interface with dropdown menus and a _tutorial wizard._ You got two green lines and me. I'm trying not to take it personally."
+On the running board, Flint recovered first. "Fair," he said — and a flicker of amusement moved through the new space behind Nate's eyes, not a sound but a warmth, quick and bright, a match-flare in a dark room. "So, Nate Hall, Texas cattleman, man of aggressively few words — here's what I can tell you about your current situation." The voice shifted gears, and Nate felt the cadence change from banter to something closer to a field report delivered by a man who couldn't quite stop editorializing. "Your heads-up display is the sorriest piece of hardware I've ever been asked to manage. And I want you to understand the weight of that statement, because I have access to a comparative database and the bar was already in a ditch. You have two data points. _Two._ Health and Stamina, displayed as curved blue bars with no numerical values, no percentage readout, no unit of measure — at a resolution that would embarrass a fuel gauge on a seventy-two Ford. I have seen _error messages_ with more information. A dead Tamagotchi had more feedback than your HUD. Every other person on this network got a full-color interface with dropdown menus and a _tutorial wizard._ You got two blue lines and me. I'm trying not to take it personally."
 
-That tracked. The green arcs had been there since he'd woken up — two faint curves at the lower periphery of his vision, steady enough to be real, vague enough to be useless. Like the first thirty seconds of a game before the UI loaded — boot screen before the operating system. Just enough to know you weren't dead, not enough to know by how much.
+That tracked. The blue arcs had been there since he'd woken up — two faint curves at the lower periphery of his vision, steady enough to be real, vague enough to be useless. Like the first thirty seconds of a game before the UI loaded — boot screen before the operating system. Just enough to know you weren't dead, not enough to know by how much.
 
 Nate looked down at Rex. Rex looked back with the steady, unblinking patience of a dog who was waiting for the part of the morning that involved actual work.
 
 "Does it work?" Nate asked.
 
-"In the way that a screen door works on a submarine — technically, yes, but you'll want to aggressively manage your expectations." The voice took on a lecturing quality, warming to the subject, clearly rehearsed. "The longer bar is Health. You're at about ninety percent — the Integration knocked something loose that hasn't quite settled back into place. Nothing critical, but something in your framework is still recalibrating. Shorter bar is Stamina, maybe eighty percent. Beyond that, I've got _nothing_ for you. No stat sheet. No class assignment — yours just reads **[PROCESSING]**, which in my experience means the **System** either hasn't made up its mind about you or it tried and choked on something it couldn't swallow. No skill tree, no inventory, no map, no minimap, no quest log, no compass, no _nothing_. I've got two green lines and a disposition that my own diagnostics describe as —" he paused, and Nate felt the distinct impression of someone reading a label with raised eyebrows "— 'unauthorized, origin unknown, non-standard.' Which is not a diagnosis I was hoping to receive on the first day of my existence, but here we are."
+"In the way that a screen door works on a submarine — technically, yes, but you'll want to aggressively manage your expectations." The voice took on a lecturing quality, warming to the subject, clearly rehearsed. "The longer bar is Health. You're at about ninety percent — the Integration knocked something loose that hasn't quite settled back into place. Nothing critical, but something in your framework is still recalibrating. Shorter bar is Stamina, maybe eighty percent. Beyond that, I've got _nothing_ for you. No stat sheet. No class assignment — yours just reads **[PROCESSING]**, which in my experience means the **System** either hasn't made up its mind about you or it tried and choked on something it couldn't swallow. No skill tree, no inventory, no map, no minimap, no quest log, no compass, no _nothing_. I've got two blue lines and a disposition that my own diagnostics describe as —" he paused, and Nate felt the distinct impression of someone reading a label with raised eyebrows "— 'unauthorized, origin unknown, non-standard.' Which is not a diagnosis I was hoping to receive on the first day of my existence, but here we are."
 
 "You said you have one skill."
 
@@ -206,7 +206,7 @@ When Flint spoke again, his voice carried a register Nate hadn't heard from him 
 
 Nate looked out across his land. The morning was still beautiful — golden light on the grass, the tree line sharp against the blue sky, the creek bottom dark and cool in the post oak shadows. His land. His father's land before that, and his mother's after. A thousand acres of rolling pasture and sandy loam that he'd sweated into and bled on since he was old enough to hold a fence tool. Whatever was coming, it was coming here.
 
-He stood up. The headache pulsed. The green arcs flickered.
+He stood up. The headache pulsed. The blue arcs flickered.
 
 Rex was on his feet before Nate's boots were fully under him, already oriented toward the truck, tail low and level, body saying _finally_ with every line of his frame. Judge had never sat down in the first place.
 
@@ -314,7 +314,7 @@ Somewhere in the south pasture, Congressman lifted his head, chewed once, and we
 
 "By whom? Never mind. I'm sure they were equally charmed."
 
-They drove the rest of the fence line in what wasn't silence and wasn't conversation — the beginning of something that neither of them had chosen and neither could explain, built on the practical understanding that the only useful direction was forward. The green arcs pulsed faintly with each heartbeat. The headache didn't go away. But it wasn't getting worse.
+They drove the rest of the fence line in what wasn't silence and wasn't conversation — the beginning of something that neither of them had chosen and neither could explain, built on the practical understanding that the only useful direction was forward. The blue arcs pulsed faintly with each heartbeat. The headache didn't go away. But it wasn't getting worse.
 
 And in the space between them — that shared room behind Nate's eyes — something was settling. Not trust, not yet. But the scaffolding for it. Two minds learning the shape of each other's silence, two dogs in the first hour of sharing a yard — by watching, by waiting, by the small negotiations of space that happen without anyone deciding they should.
 
@@ -332,11 +332,11 @@ But that hadn't happened yet. For one more minute, the pump was still grinding a
 
 Nate was reaching for the thermos when every screen on Earth spoke at once.
 
-The voice came from inside and outside simultaneously — through Nate's green arcs and through a pressure in the air itself, a vibration that bypassed ears and settled directly into the bones of his skull. Rex's head snapped up in the truck bed, ears flat, body going rigid in the time it takes a heart to beat once. Judge didn't go rigid — Judge went loud, barking twice at the sky like she could scare the countdown into stopping, each bark sharp as a gavel strike. Across the south pasture, the cattle lifted their heads in unison — sixty-three animals pivoting like a school of fish sensing a current change.
+The voice came from inside and outside simultaneously — through Nate's blue arcs and through a pressure in the air itself, a vibration that bypassed ears and settled directly into the bones of his skull. Rex's head snapped up in the truck bed, ears flat, body going rigid in the time it takes a heart to beat once. Judge didn't go rigid — Judge went loud, barking twice at the sky like she could scare the countdown into stopping, each bark sharp as a gavel strike. Across the south pasture, the cattle lifted their heads in unison — sixty-three animals pivoting like a school of fish sensing a current change.
 
 **TUTORIAL PHASE — COMMENCING**
 
-The words didn't scroll. They appeared complete, stamped across his vision in white text that burned through the green arcs like sunlight through a window screen. Below them, a number.
+The words didn't scroll. They appeared complete, stamped across his vision in white text that burned through the blue arcs like sunlight through a window screen. Below them, a number.
 
 **60**
 
@@ -406,7 +406,7 @@ The quiet room pulsed once. Warm. Still. A hand on a shoulder before a long walk
 
 **5**
 
-The green arcs flared white.
+The blue arcs flared white.
 
 **0**
 

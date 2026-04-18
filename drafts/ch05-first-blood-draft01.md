@@ -14,7 +14,7 @@ Nate liked the scratching better.
 
 **Structural Analysis** had been tracking displacement patterns under the stone for the last forty seconds. Six points where the floor's load distribution shifted in slow sequence — something pressing upward, testing the stone from below. Load-bearing material bending under internal force, the substrate deforming in concentric stress patterns around each point. Something was coming. The only question was *when.*
 
-The green at the edges of his vision — that faint, persistent shimmer he'd carried since the HUD booted — brightened. Not everywhere. Not evenly. It flared leftward first, where the nearest displacement was strongest, then swept right in a slow wash that matched the sequence of pressure points under the stone. Not targeting. Not information he could read. Just a peripheral glow that said *that direction* — hackle-rise instinct translated into light. The HUD responding to adrenaline, or to threat, or to whatever instinct lived in the gap between conscious thought and the thing that made his hands steady on a rifle when the coyotes came at dusk.
+The blue at the edges of his vision — that faint, persistent shimmer he'd carried since the HUD booted — brightened. Not everywhere. Not evenly. It flared leftward first, where the nearest displacement was strongest, then swept right in a slow wash that matched the sequence of pressure points under the stone. Not targeting. Not information he could read. Just a peripheral glow that said *that direction* — hackle-rise instinct translated into light. The HUD responding to adrenaline, or to threat, or to whatever instinct lived in the gap between conscious thought and the thing that made his hands steady on a rifle when the coyotes came at dusk.
 
 Spawn point three cracked first. Bark-covered fingers pushed through the stone. Then the whole thing erupted upward in a shower of dirt and rock, and the room went from silence to pandemonium in about two seconds.
 
@@ -42,7 +42,7 @@ The bolt was a rack bolt — a basic projectile he'd grabbed from a supply rack 
 
 Movement on the east side. A Thornling broke through the warrior line, closing fast on a **Healer** and two unarmed people backed against the wall.
 
-The peripheral green flared. Not a thought — a direction. Something in his lower-left visual field brightened, pulling his attention — bird flush, left field. *There.* Before the conscious thought formed, the instinct had already delivered the answer: threat, east wall, closing.
+The peripheral blue flared. Not a thought — a direction. Something in his lower-left visual field brightened, pulling his attention — bird flush, left field. *There.* Before the conscious thought formed, the instinct had already delivered the answer: threat, east wall, closing.
 
 Rex hit it from the side. Not a bite — a darting lunge at the Thornling's legs, thirty-five pounds of Border Collie snapping at bark-covered ankles and cutting back before the thorn-arms could swing. The creature stumbled, turned toward the dog, and Rex was already gone — circling left, nipping at the other side, driving it off-balance — stubborn heifer, meet stubborn dog. Making himself the problem the Thornling had to solve before it could reach anyone else.
 
@@ -130,7 +130,7 @@ Marcus's eyes were doing the same left-to-right scroll as everyone else's — re
 
 "Not exactly."
 
-Nate tried to pull up his own interface. The two green arcs pulsed at the edges of his vision — faint, curved, no labels, no numbers. Below them, an amber tag:
+Nate tried to pull up his own interface. The two blue arcs pulsed at the edges of his vision — faint, curved, no labels, no numbers. Below them, an amber tag:
 
 **[PROCESSING]**
 
@@ -144,7 +144,7 @@ Marcus closed his character sheet and turned to look at Nate directly. The blue 
 
 "A warranty card in a language that doesn't exist yet."
 
-And that wasn't quite true either. Something *had* changed during the fight — his body had moved faster than it should have, loaded the crossbow with a fluidity that belonged to years of practice, not minutes. The peripheral green had responded to threats before he'd consciously registered them. But whatever was running under the hood, it came without a manual.
+And that wasn't quite true either. Something *had* changed during the fight — his body had moved faster than it should have, loaded the crossbow with a fluidity that belonged to years of practice, not minutes. The peripheral blue had responded to threats before he'd consciously registered them. But whatever was running under the hood, it came without a manual.
 
 "You got robbed," Marcus said.
 
@@ -152,7 +152,7 @@ And that wasn't quite true either. Something *had* changed during the fight — 
 
 Marcus studied him — sergeant's eyes, calibrated, already folding the new variable into his operational picture. "The System gave the rest of us an instruction manual. Class, skills, progression path, all of it laid out in nice clean text with a progress bar attached. What did it give you?"
 
-Nate looked at the two green arcs. The amber tag. The void where a character sheet should have been.
+Nate looked at the two blue arcs. The amber tag. The void where a character sheet should have been.
 
 "Raw materials."
 
@@ -220,7 +220,7 @@ Nate took the four structural thorns and set them on the workbench. The vise was
 
 **Field Repair** came online when his hands touched the first thorn.
 
-Not dramatically. Not a glow or a special effect. The same quiet shift he'd felt in the starting room — the world becoming legible at a level below conscious thought, materials speaking to his hands in a language that bypassed his brain. The thorn's density mapped itself through his palms. Grain direction. Fracture planes. The **Structural Analysis** wireframe overlay sharpened on the thorn as he focused — cleaner than it had been in the safe room, the green lines steadier, the data resolving faster. Three rooms of use was breaking it in — new boots on day three. Still rough. Still monochrome. But fitting better.
+Not dramatically. Not a glow or a special effect. The same quiet shift he'd felt in the starting room — the world becoming legible at a level below conscious thought, materials speaking to his hands in a language that bypassed his brain. The thorn's density mapped itself through his palms. Grain direction. Fracture planes. The **Structural Analysis** wireframe overlay sharpened on the thorn as he focused — cleaner than it had been in the safe room, the blue lines steadier, the data resolving faster. Three rooms of use was breaking it in — new boots on day three. Still rough. Still monochrome. But fitting better.
 
 Eight inches of dense, tapered material that had spent its existence punching through bark. Not long enough for a bolt shaft. But the perfect shape for a head.
 
@@ -314,7 +314,7 @@ A **Warrior** nearby, mid-swing, paused long enough to give Josie a look of tota
 
 A spike of urgency hit Nate's chest — Rex's impression, not his own. Not words — a spatial flash of the **Mage** from ground level, exposed flank, something closing fast from the direction she wasn't facing. Threat-direction, immediate, a ranch dog's bull-turned-wrong warning.
 
-Nate's head snapped left. The peripheral green was already bright on that side — the HUD confirming what Rex had sent a full second before the conscious thought caught up.
+Nate's head snapped left. The peripheral blue was already bright on that side — the HUD confirming what Rex had sent a full second before the conscious thought caught up.
 
 Rex was already moving.
 
@@ -330,7 +330,7 @@ The **Warrior**'s blade connected. The Thornling went down. Rex broke off with q
 
 The **Mage** never knew she'd been in danger.
 
-Nate loaded a second thorn bolt and put it into a Thornling that was pressing the warrior line from the east. The bolt found the arm joint — the seam **Structural Analysis** had painted in green wireframe while the creature was still ten feet from the line — and the arm went limp, thorn-cluster dragging on the stone, the Thornling stumbling into a warrior's blade at a speed that was no longer dangerous.
+Nate loaded a second thorn bolt and put it into a Thornling that was pressing the warrior line from the east. The bolt found the arm joint — the seam **Structural Analysis** had painted in blue wireframe while the creature was still ten feet from the line — and the arm went limp, thorn-cluster dragging on the stone, the Thornling stumbling into a warrior's blade at a speed that was no longer dangerous.
 
 Two thorn bolts. Two kills that mattered.
 
@@ -448,7 +448,7 @@ He was looking at Nate's elevated position. At the crossbow. At three thorn bolt
 
 He nodded. Once. Short. The nod of a man whose professional assessment was being revised against his preference, and who had enough integrity to acknowledge it without enough flexibility to say it out loud.
 
-Something shifted in Nate's peripheral. Not the green — something else. A warmth at the far edge of his HUD, lower-right, gone before he could focus on it. Not amber, not green. Warmer than either. Gold, maybe, but so brief it could have been a trick of the torchlight reflecting off the dissolving proto-guard's sap.
+Something shifted in Nate's peripheral. Not the blue — something else. A warmth at the far edge of his HUD, lower-right, gone before he could focus on it. Not amber, not blue. Warmer than either. Gold, maybe, but so brief it could have been a trick of the torchlight reflecting off the dissolving proto-guard's sap.
 
 Rex's head snapped toward it.
 
@@ -488,7 +488,7 @@ Nate sat at the workbench and pulled the crossbow apart.
 
 Not apart-apart — the prod stayed seated, the stock was sound, the trigger mechanism had held through three rooms of combat use. But the sight picture was off. Two-degree cant plus the inherent imprecision of a weapon built from furniture in ten minutes. At twenty feet, the drift was manageable. At forty — Room 3's distance — he'd been compensating by feel, and feel was a variable he wanted to reduce.
 
-A metal bracket on the wall held a torch in place. **Structural Analysis** read it: iron, rectangular, with a cross-section that would file into a ring with about eight minutes of work. Nate pried it off the wall. Filed the center open against the grinder wheel — slow, patient work, hands-busy-brain-free work, processing everything else while filing metal. The **Structural Analysis** wireframe overlay held steady on the metal as he worked — cleaner than it had been during crafting in the first rest area. The green lines sharper, the stress-point data resolving with less flicker. Every use refined it.
+A metal bracket on the wall held a torch in place. **Structural Analysis** read it: iron, rectangular, with a cross-section that would file into a ring with about eight minutes of work. Nate pried it off the wall. Filed the center open against the grinder wheel — slow, patient work, hands-busy-brain-free work, processing everything else while filing metal. The **Structural Analysis** wireframe overlay held steady on the metal as he worked — cleaner than it had been during crafting in the first rest area. The blue lines sharper, the stress-point data resolving with less flicker. Every use refined it.
 
 The iron became a ring. The ring became a peep sight — mounted to the crossbow's rail with a friction fit that **Field Repair** bonded at a level deeper than any glue or fastener. Metal and wood holding each other with the quiet permanence of materials that had been properly introduced.
 
@@ -546,7 +546,7 @@ Marcus watched the corridor where forty people were resting, trading, comparing 
 
 "And what do you call what you do?"
 
-Nate looked at the crossbow. The peep sight. The thorn bolts. The two green arcs at the edge of his vision and the amber tag that had been PROCESSING since the moment the HUD booted and showed no sign of resolving into anything useful.
+Nate looked at the crossbow. The peep sight. The thorn bolts. The two blue arcs at the edge of his vision and the amber tag that had been PROCESSING since the moment the HUD booted and showed no sign of resolving into anything useful.
 
 "Improvise."
 

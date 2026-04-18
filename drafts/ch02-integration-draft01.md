@@ -196,7 +196,7 @@ Nate watched it happen with the specific, familiar dread of someone who had seen
 
 The last part to go was the health bar. It flickered green one final time, then dissolved into static and was gone.
 
-Two faint green arcs remained. Thin curved lines, parentheses of pale monochrome light, shimmering at the edges of his vision. That was all. No text. No panels. No stat columns or progress wheels. Just two stubborn green lines pulsing where an entire interface had been thirty seconds ago. Eight billion people got the full release. Nate got the loading screen that refused to load.
+Two faint blue arcs remained. Thin curved lines, parentheses of pale monochrome light, shimmering at the edges of his vision. That was all. No text. No panels. No stat columns or progress wheels. Just two stubborn blue lines pulsing where an entire interface had been thirty seconds ago. Eight billion people got the full release. Nate got the loading screen that refused to load.
 
 The humor of it was so dry it was practically jerky. A full-scale alien invasion — or whatever this was — and he'd gotten the IT version of "your call is important to us."
 
@@ -240,11 +240,11 @@ He got to his knees. Then his feet. The world tilted, steadied, tilted again. He
 
 ---
 
-The man by the Tahoe lifted his attention from whatever he was reading and saw Nate standing at the fence line. They locked eyes for a moment across forty yards of East Texas morning — two men on either side of a fence, one lost in whatever the rest of the world was seeing and the other still swaying on his feet with nothing but two green lines he couldn't read.
+The man by the Tahoe lifted his attention from whatever he was reading and saw Nate standing at the fence line. They locked eyes for a moment across forty yards of East Texas morning — two men on either side of a fence, one lost in whatever the rest of the world was seeing and the other still swaying on his feet with nothing but two blue lines he couldn't read.
 
 "You seeing this?" the man called out, his voice cracking with something between joy and terror. "You getting the — the screen? The class thing?"
 
-Nate looked down at his own hands. Nothing. He searched his vision for the blue panels, the stat sheets, the class assignments. Nothing. Just the two faint green arcs, monochrome and stubborn, pulsing at the edges of his vision like a heartbeat he could see but not read.
+Nate looked down at his own hands. Nothing. He searched his vision for the blue panels, the stat sheets, the class assignments. Nothing. Just the two faint blue arcs, monochrome and stubborn, pulsing at the edges of his vision like a heartbeat he could see but not read.
 
 "No," Nate said. "I'm not getting that."
 
@@ -266,7 +266,7 @@ Judge barked — one sharp syllable aimed at the tree line, at something ambient
 
 They looked happy. They looked like people who had been given exactly what they wanted.
 
-Nate wondered — in the quiet, practical part of his brain that never fully shut down — whether anyone else had gotten nothing. Whether there were other known issues standing in other pastures, watching other families celebrate, holding two green lines and a head full of empty shelves.
+Nate wondered — in the quiet, practical part of his brain that never fully shut down — whether anyone else had gotten nothing. Whether there were other known issues standing in other pastures, watching other families celebrate, holding two blue lines and a head full of empty shelves.
 
 ---
 
@@ -286,9 +286,9 @@ The **System** understood wanting. It understood reaching. It did not understand
 
 ---
 
-He was still standing there, hand on Rex's head, when the green arcs flickered. Both of them, simultaneously — a stutter in the pale light, catching, resetting, catching again. Then they steadied, brightened a fraction, and held. Something new appeared at the bottom center of his sight, floating between the brackets — a subtitle on a screen only he could see.
+He was still standing there, hand on Rex's head, when the blue arcs flickered. Both of them, simultaneously — a stutter in the pale light, catching, resetting, catching again. Then they steadied, brightened a fraction, and held. Something new appeared at the bottom center of his sight, floating between the brackets — a subtitle on a screen only he could see.
 
-Two words, rendered in monochrome green:
+Two words, rendered in monochrome blue:
 
 **BOOT SEQUENCE PENDING**
 
@@ -324,12 +324,12 @@ Judge dropped low a half-second later. She didn't check on him — Rex had that 
 
 His cheek came to rest against the sandy loam. The ground was warm. It held him — without opinion, without urgency, without asking what had just happened. The land never did. Two dogs were on him — one at his arm, one at his back — and the weight of them was the most real thing left.
 
-The green arcs pulsed once, steady, and held.
+The blue arcs pulsed once, steady, and held.
 
 He let his eyes close.
 
 ---
 
-The green arcs held steady under closed eyes, patient as the land beneath him. Two dogs held their posts — one watching him, one watching everything else. In the north pasture, the pump kept running — bearings and all.
+The blue arcs held steady under closed eyes, patient as the land beneath him. Two dogs held their posts — one watching him, one watching everything else. In the north pasture, the pump kept running — bearings and all.
 
 And in the space where the framework met the thing it couldn't move, the hooks settled deeper into the forty percent they'd claimed. Quietly. Helpfully. Good tools always do — right up until the moment you realize you can't put them down.
