@@ -2,7 +2,7 @@
 
 ---
 
-The arena was the size of a county rodeo grounds, and the System wanted them to know it.
+The arena was the size of a county rodeo grounds.
 
 Nate's boots hit packed earth — real dirt, compacted by something heavier than feet, loading-dock ground, livestock-scale ground, tonnage-rated. The room opened around them — cathedral proportions, video-game aesthetics: vaulted ceiling forty feet up, rough-cut stone arches sweeping overhead, warm amber light from no visible source bathing the entire space in a glow that said *this is important* — stadium lighting without the stadium. The walls curved outward in a rough oval, two hundred feet at the long axis, maybe one-forty across. Rock formations jutted from the floor at irregular intervals — waist-high, chest-high, one cluster near the south wall tall enough to crouch behind. Limited cover. Deliberate.
 
@@ -34,7 +34,7 @@ The crossbow hung from Nate's right hand. Fully upgraded — **Thornguard** comp
 
 Forging hammer on his belt. Same hammer. Same weight. Same purpose.
 
-The arena was quiet for three seconds. Long enough for Marcus to read the room. Long enough for Nate's **SA** to finish its sweep of the ceiling — heavy, tons of it, a manufactured sky held up by four honest pillars. Long enough for the warm ambient light to register as calculated kindness — the System making what came next feel worse by contrast.
+The arena was quiet for three seconds. Long enough for Marcus to read the room. Long enough for Nate's **SA** to finish its sweep of the ceiling — heavy, tons of it, a manufactured sky held up by four honest pillars. Long enough for the warm ambient light to register against the contrast of what was about to start.
 
 Then the spawn points lit up.
 
@@ -84,7 +84,7 @@ Nate found his position. A rock formation near the northeast pillar, chest-high,
 
 Judge vibrated at his right boot. Waiting. Every fiber of Blue Heeler muscle and instinct telling her to go, to drive, to *heel* — but the discipline of ten rooms holding her in check. She'd learned. Not patience, exactly. More like timing. The difference between a dog that charged at everything and a dog that charged at the right thing.
 
-*The Tutorial's apex predator stood between four honest pillars and watched its examination subjects take the placement test. Whether it was impressed by what it saw is a question only the creature could answer. Whether the creature was capable of answering it is a question the System preferred not to ask.*
+*The Tutorial's apex predator stood between four honest pillars and watched its examination subjects take the placement test. Whether it registered what it saw is a question only the creature could answer. Whether the creature was capable of answering it is a question no one was asking.*
 
 The **Thornlings** hit the formation from three sides.
 
@@ -128,7 +128,7 @@ Confidence AI. It knew it was the apex predator in the room. Didn't need to rush
 
 "It's targeting Torres," Flint said, sharp and urgent — tactical register, no editorializing. "Watch the eyes. It feinted toward the east Warriors but its head tracking hasn't left the Healer's position. It's going for the backline first."
 
-Smart. Nine rooms of combat data fed into the **Briarknight's** AI, and the first thing it did with that data was target the Healer. The thing every experienced raid leader knew and every inexperienced raid group learned the hard way: kill the healer, kill the group. The System had watched them for nine rooms, had catalogued every heal Torres cast and every formation Marcus called, and had built a boss that opened the fight by going straight for the weakest link in the chain. Not brute force. Strategy.
+Smart. Nine rooms of combat data had taught the combat AI what the group did. The first thing it did with that data was target the Healer. The thing every experienced raid leader knew and every inexperienced raid group learned the hard way: kill the healer, kill the group. The **System** had classification space for every heal Torres cast and every formation Marcus called, and the boss opened the fight by going straight for the weakest link in the chain. Not brute force. Pattern-matched play.
 
 Marcus saw it a half-second after Flint called it. "GUARDIAN — INTERCEPT! PROTECT THE HEALER!"
 
@@ -142,7 +142,7 @@ The impression from Rex hit sharp — not words, never words. *Pack member down.
 
 Torres stumbled forward. Hands up, the blue glow of healing magic flickering at her palms — weak, guttering, a candle in a hurricane. She reached the Guardian and the glow transferred, and Nate saw her knees buckle. Not dead. Not yet. But she'd just poured the last of her mana into a man who needed three times what she had left to give.
 
-"It predicted the intercept," Flint said. "The System fed it nine rooms of combat data. It *knew* the Guardian would move to protect the Healer. It used the Guardian's shield to create the opening to the backline. Nate — this thing isn't fighting us. It's reading our playbook."
+"It predicted the intercept," Flint said. "If the pattern match is any guide, the **System** fed it nine rooms of combat data. It read the Guardian's likely move to protect the Healer and used the shield impact to open the backline. Nate — this thing isn't fighting us. It's running our playbook."
 
 The east Warrior — a man named Dawson who'd been solid through every room, reliable, steady, reliable — corner post in a fence line — stepped into the gap the Guardian had left. His sword hit the **Briarknight's** flank. Edge on bark-plate.
 
@@ -326,7 +326,7 @@ The warm amber light flickered once. The spawn points along the walls went dark 
 
 The **Briarknight's** crown of thorns hit the stone floor last. A small sound, after all the large ones. The Tutorial's apex predator undone by an engineer who'd read the room instead of fighting the monster.
 
-*The System had built a test with one intended answer — be stronger, hit harder, level higher, overcome. The man with the amber tag and the table-leg crossbow had found a second answer the System hadn't written on the exam. Infrastructure. The ceiling was always there. The System just never imagined someone would use it. Whether that delighted the System's designers or unsettled them — a question for later. Whether they even knew to ask it — a question that mattered more.*
+*The Tutorial had a rubric with one intended answer — be stronger, hit harder, level higher, overcome. The man with the amber tag and the table-leg crossbow had found a second answer the rubric hadn't written down. Infrastructure. The ceiling was always there. The rubric just had no column for it. Whether that delighted or unsettled the rubric's authors — a question for later. Whether anyone would ever ask it — a question that mattered more.*
 
 ---
 
@@ -424,7 +424,7 @@ Eleven people went still at once. Eyes widening, breath catching, hands rising t
 
 Faces that had been gray with exhaustion lit up from the inside. A Warrior's mouth opened and closed without sound. A Mage's fingers traced patterns in the air, reading text only she could see. Achievement notifications bloomed behind every pair of eyes in the room, and the dopamine hit was *perfect* — calibrated, precise, the neurochemical reward of a system that understood exactly how to make victory hit neurochemically and make the hit feel earned.
 
-*Oh, but the System knew how to wrap a gift. Gold foil and clean numbers and the warm hum of validation delivered on a schedule. Every chime tuned to the frequency that said* you belong here. *Every stat a handshake. Every rank-up a promise. This was how Systems earned trust — not through coercion, not through threat, but through the simple, devastating generosity of telling people what they wanted to hear at the exact moment they were too grateful to question the mouth it came from. The golden light was real. The chimes were real. The feeling of being known and valued and measured and found worthy — that was real too. And the hook that set deeper with every line of golden text was the most real thing of all, because the best hooks don't hurt going in. They feel like coming home.*
+*Oh, the gift arrived well. Gold foil and clean numbers and the warm hum of validation on a schedule. Every chime landed at the frequency that felt like belonging. Every stat a handshake. Every rank-up a promise. This was how the feedback loop worked — not through coercion, not through threat, but through the simple, devastating effect of arriving with exactly what the moment wanted to hear. The golden light was real. The chimes were real. The feeling of being known and valued and measured and found worthy — that was real too. And the pull that ran deeper with every line of golden text was the most real thing of all, because the gentlest pulls don't feel like pulling at all. They feel like coming home.*
 
 The Shield Guardian — broken arm, no shield, sword still bloody — saw his screen and his face did something Nate had never seen a face do: grief and pride simultaneously, the man reading his rewards through tears he wasn't trying to hide. Class: Shield Guardian — Rank F-High. The System had named what he'd become. Had measured nine rooms of standing between danger and the people behind him and had found the measurement worthy. The golden text glowed against his face, and for one moment the man who'd charged a boss with a broken arm and nothing left was being told by a formal authority that the charge had counted.
 
@@ -462,7 +462,7 @@ Nate said nothing. The WIS score settled into him — not as information but as 
 
 The extra four points felt like something that had always been there — not added, not boosted, just finally counted by a system that hadn't built the measuring stick for what it was measuring.
 
-*Twenty-one. The number meant nothing to the man standing in the dust. Numbers hadn't kept him alive in there — patience had, and stubbornness, and the quiet refusal to see a ceiling as anything other than a tool. The System would worry about the four missing data points later. Would build theories. Would run models. Would never quite arrive at an answer it could fit inside a spreadsheet, because some things predated spreadsheets by a considerable margin.*
+*Twenty-one. The number meant nothing to the man standing in the dust. Numbers hadn't kept him alive in there — patience had, and stubbornness, and the quiet refusal to see a ceiling as anything other than a tool. The **System** would register the four missing data points later. Would file them. Would never quite produce a value for the surplus it couldn't measure, because some things predated the measuring stick by a considerable margin.*
 
 The arena continued to soften. Stone becoming translucent. The walls thinning toward nothing, the rough-cut architecture dissolving into light with a gentleness that felt intentional — the System winding down its first production, striking the set with care, making sure the last impression was warmth instead of stone.
 
@@ -558,6 +558,6 @@ Rex's tail thumped once. Judge's stub tail twitched.
 
 Nate turned toward the barn, and the dogs fell in beside him — Rex left, Judge right, the formation as old as the ranch and as steady as the dirt beneath it. The crossbow over his shoulder. The hammer on his hip. The blue arcs bright and certain at the edges of his vision, and the faintest trace of amber at the periphery where something was waking up.
 
-*Water first. The man who'd dropped a ceiling on a creature that swords couldn't scratch walked toward his barn to check the stock tanks, because that was what you did. You handled what was in front of you. The Tutorial was behind him. The System's real test — Integration, the world remade, the architecture beneath reality visible now to anyone with the eyes to read it — was ahead. And the fence line where the stag had stood was exactly where his boots had landed, which was either a coincidence or a beginning, and Nate Hall had never much believed in coincidences.*
+*Water first. The man who'd dropped a ceiling on a creature that swords couldn't scratch walked toward his barn to check the stock tanks, because that was what you did. You handled what was in front of you. The Tutorial was behind him. The real test — Integration, the world remade, the architecture beneath reality visible now to anyone with the eyes to read it — was ahead. And the fence line where the stag had stood was exactly where his boots had landed, which was either a coincidence or a beginning, and Nate Hall had never much believed in coincidences.*
 
 East Texas held its breath.
