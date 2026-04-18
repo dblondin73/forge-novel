@@ -66,7 +66,7 @@ The scanning presence paused.
 
 In fifteen years of systems work, he'd seen that pause a thousand times — the half-second delay when an installation routine encountered a partition it didn't recognize. Not an error. Not yet. Just the system taking a beat to figure out what it was looking at before deciding what to do about it.
 
-The presence decided to proceed.
+The presence proceeded.
 
 Something pressed inward — not physically, but with the unmistakable character of a process attempting to write to a drive. The framework that had been assembling itself around the edges of his consciousness pushed toward the center, toward the occupied space, and—
 
@@ -102,7 +102,7 @@ Back in the quiet at the center of Nate's skull, the errors started.
 
 He couldn't see them — no interface, no screen, no display of any kind. But he could feel them. Each one landed — small shock, sharp snap, a circuit failing under load. Fuse-blowing sounds that weren't sounds, felt through whatever medium connected him to the process that was trying to rewrite him. They came in clusters. Three, then five, then a cascade that blurred together into a sustained rattle of failures. The installer was throwing process after process at the thing it couldn't move and watching each one dissolve on contact.
 
-The frustration was the part that surprised him. Not his frustration — the installer's. He could feel it — a dog straining against a leash, a stuck bolt refusing to turn. Whatever this was, it had been designed to integrate everything. Every human mind, every consciousness, every identity — all of it was supposed to slide neatly into the framework, receive its classification, accept its parameters, and begin operating within its structure. That was the design. That was the purpose. Eight billion installations, and Nate's was the one throwing error codes.
+The frustration was the part that surprised him. Not his frustration — the installer's. He could feel it — a dog straining against a leash, a stuck bolt refusing to turn. Whatever this was, it ran one procedure. Every human mind, every consciousness, every identity — all of it slid neatly into the framework, received its classification, accepted its parameters, and began operating within its structure. That was what the process did. That was what it did everywhere. Eight billion installations, and Nate's was the one throwing error codes.
 
 Somewhere in the real world — or whatever was left of the real world — Marcus Webb's phone would have been lighting up with phantom alerts. Cascade failure on a production system. Framework integrity dropping. Multiple partition errors on a single node. Nate could hear the conversation that would have happened in any control room on the planet: _We've got a node that won't take the image. It's not throwing standard errors — it's just not accepting the write. The partition's occupied. By what? I don't know. Something that was there first._
 
@@ -120,11 +120,11 @@ Silence. Not the absence of sound — the absence of process. Every error stoppe
 
 For three seconds — Nate counted, because counting was what his brain did when everything else failed — the void was perfectly still.
 
-Then the installer made a decision.
+Then the installer changed course.
 
 ---
 
-It gave up on the territory it couldn't claim.
+It stopped reaching for the territory it couldn't claim.
 
 Not gracefully — a machine running out of options, its error log a novel nobody wanted to read. It sectioned off the occupied space, drew a boundary around it, labeled it with something Nate couldn't read, and routed everything else around it. A workaround. A patch job. The engineering equivalent of admitting the bolt was stripped and drilling a new hole next to it.
 
@@ -134,17 +134,17 @@ He was a known issue now. The **System** had put a Post-it note on his soul and 
 
 The framework installed itself in the remaining space. He felt it — a cold scaffolding assembling itself around the warm territory it couldn't touch. Structures. Categories. Containers for things that hadn't been categorized before. The shelving went up around the immovable thing in the center of the room, and the installer populated those shelves with whatever it could manage: baseline physical stats, a placeholder where a class designation should be, the barest skeleton of an interface.
 
-And the hooks went in with the shelving.
+And the connections ran in with the shelving.
 
-Nate didn't feel them — not as hooks. They felt like features. Helpful ones. A new OS organizing your files into folders you hadn't asked for but couldn't argue with. A health indicator. A stamina tracker. A faint sense of where his body's limits were, more precise than any intuition he'd had before. Useful. Practical. Quality-of-life improvements that made you wonder how you'd managed without them.
+Nate felt them arrive as features. Helpful ones. A new OS organizing your files into folders you hadn't asked for but couldn't argue with. A health indicator. A stamina tracker. A faint sense of where his body's limits were, more precise than any intuition he'd had before. Useful. Practical. Quality-of-life improvements that made you wonder how you'd managed without them.
 
-That was the design. Not the framework itself — the feeling of the framework. The gratitude it generated. The subtle, almost subliminal message that said: _This is a gift. You're welcome. Let me do more._
+And something that sat next to the feeling of them — lighter than thought, steadier than gratitude — the soft certainty that he was welcome, that he was home, that more was available if he wanted it.
 
 Nate didn't question it. He had no reason to. The framework had tried to eat his memories, yes, but what remained felt — better? Cleaner? Like someone had pressure-washed the driveway. You lost some moss, but the concrete looked great. A reasonable trade.
 
-The framework was not in the business of informed consent.
+The framework worked without asking.
 
-The partial installation settled into place. Maybe forty percent of whatever the full version was supposed to be. The rest — the part that was supposed to overwrite his core identity, assign his purpose, define his metrics of worth — had dissolved against the occupied space like frost on warm glass. The occupied space sat in the center of his consciousness like a stone in a stream, and the framework flowed around it — water around stone, finding any path that didn't require moving what couldn't be moved.
+The partial installation settled into place. Maybe forty percent of whatever a full version would have been. The rest — whatever else it had come for — had dissolved against the occupied space like frost on warm glass. The occupied space sat in the center of his consciousness like a stone in a stream, and the framework flowed around it — water around stone, finding any path that didn't require moving what couldn't be moved.
 
 And the memories it had already converted — the ones that had been outside the occupied space's protection when the conversion started — were gone. His grandmother's kitchen. His mother's voice across the pasture. Surface memories, fringe memories, the edges of a life. But they were his edges, and they were gone, and the empty places where they'd been ached like phantom limbs.
 
@@ -152,7 +152,7 @@ And then — far off, the way weather gathers before you notice you've been hear
 
 ---
 
-Every person on earth went through it. Eight billion integrations, eight billion frameworks installed, eight billion sets of shelves erected in eight billion minds. Most went cleanly — the seamless migration from what they had been to what the **System** wanted them to become. They woke up grateful. They woke up classified. They woke up with blue screens and starter kits and the warm certainty that the thing that had just happened to them was a gift.
+Every person on earth went through it. Eight billion integrations, eight billion frameworks installed, eight billion sets of shelves erected in eight billion minds. Most went cleanly — the seamless migration from what they had been to whatever came out the other side of the process. They woke up grateful. They woke up classified. They woke up with blue screens and starter kits and the warm certainty that the thing that had just happened to them was a gift.
 
 Most took. A few did not. And this one — the man lying in the bermudagrass — was the kind of _did not_ that had no entry in the **System**'s documentation. The difference — small as a single partition error on a single node — would ripple outward in ways neither the **System** nor the man could yet imagine.
 
@@ -192,7 +192,7 @@ The number next to **WIS** jumped — **20**, then **24**, then a string of char
 
 It got worse. Over the next twenty seconds, the interface came apart piece by piece. Not all at once — a breaker panel tripping one circuit at a time, each failure pulling the next one down with it, one system after another giving up in sequence. The progress wheel froze, unfroze, spun backward. The stat column scrambled, recovered, scrambled again with different garbage each time. Panels that had been sharp and translucent washed out, the blue bleeding pale, the text losing contrast until it looked like a screen left in the sun too long.
 
-Nate watched it happen with the specific, familiar dread of someone who had seen too many systems fail in exactly this way — the slow cascade, each failure triggering the next, the whole architecture unraveling because one critical component wasn't responding and everything downstream of it was losing its mind. Even the failure mode was thorough. Whatever had built this interface had built it well enough that it came apart in the right order — load-bearing systems last, cosmetic layers first. Disciplined, even in collapse.
+Nate watched it happen with the specific, familiar dread of someone who had seen too many systems fail in exactly this way — the slow cascade, each failure triggering the next, the whole architecture unraveling because one critical component wasn't responding and everything downstream of it was losing its mind. Even the failure mode was thorough. The interface had been well-assembled — it came apart in the right order, load-bearing systems last, cosmetic layers first. Disciplined, even in collapse.
 
 The last part to go was the health bar. It flickered green one final time, then dissolved into static and was gone.
 
@@ -260,7 +260,7 @@ The man by the Tahoe was laughing now — bewildered, delighted — and half-tur
 
 "Read it to me." He was looking at her now, not at his own interface. "I can't see yours. Read it — what does it say?"
 
-Husband and wife, three feet apart on the shoulder of a county road, each of them staring at something the other could not see. Each of them reading the only copy of their own personal letter. Whatever the **System** had given them, it had given it to them one at a time. And whatever it was showing these people, it knew exactly how to make it feel like a gift.
+Husband and wife, three feet apart on the shoulder of a county road, each of them staring at something the other could not see. Each of them reading the only copy of their own personal letter. Whatever the **System** had given them, it had given it to them one at a time. And whatever it was showing these people, it was landing like a gift.
 
 Judge barked — one sharp syllable aimed at the tree line, at something ambient only a dog could read. She had strong opinions about mornings that sounded wrong, and the morning had been sounding wrong ever since the freeze broke.
 
@@ -282,7 +282,7 @@ And the empty places at the edges of his memory ached.
 
 ---
 
-The **System** understood wanting. It understood reaching. It did not understand a man who could watch the feast and keep his hand on a dog's head instead.
+The **System**'s architecture registered wanting. Registered reaching. Had no column for a man who could watch the feast and keep his hand on a dog's head instead.
 
 ---
 
@@ -296,7 +296,7 @@ Then the text dissolved, and the arcs dimmed back to their faint pulse — still
 
 _Pending._ Not failed. Not denied. Pending. The most noncommittal word in the English language, and his entire situation had just been summarized by it. Technically accurate. Emotionally bankrupt.
 
-Two words that meant nothing to the man reading them and everything to the **System** that wrote them. A process, deferred. Not cancelled — deferred. Every system Nate had ever worked with treated _deferred_ the same way — not forgotten, scheduled. Waiting its turn in a queue nobody was going to flush. And the framework that had installed itself around the occupied space — the helpful, practical, gift-wrapped framework — wasn't finished with him. Whatever it had hooks in, it wasn't letting go.
+Two words that meant nothing to the man reading them and everything to the **System** that wrote them. A process, deferred. Not cancelled — deferred. Every system Nate had ever worked with treated _deferred_ the same way — not forgotten, scheduled. Waiting its turn in a queue nobody was going to flush. And the framework that had installed itself around the occupied space — the helpful, practical, gift-wrapped framework — still had live connections to the places it had claimed.
 
 ---
 
@@ -332,4 +332,4 @@ He let his eyes close.
 
 The blue arcs held steady under closed eyes, patient as the land beneath him. Two dogs held their posts — one watching him, one watching everything else. In the north pasture, the pump kept running — bearings and all.
 
-And in the space where the framework met the thing it couldn't move, the hooks settled deeper into the forty percent they'd claimed. Quietly. Helpfully. Good tools always do — right up until the moment you realize you can't put them down.
+And in the space where the framework met the thing it couldn't move, the installation settled deeper into the forty percent it had claimed. Quietly. Helpfully. The kind of helpfulness that was easy to stop noticing.
