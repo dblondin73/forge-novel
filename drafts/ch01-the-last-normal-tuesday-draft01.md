@@ -148,6 +148,10 @@ Time to run the fence.
 
 ---
 
+Somewhere in Panola County, a mockingbird had gone quiet, and a man who did not yet know he was being watched was latching his tailgate with the practiced efficiency of someone whose morning still belonged to him. It did, for now. It would not, for much longer.
+
+---
+
 A few things, before what happens next.
 
 There is nothing special about Panola County, Texas. Lovely place — if you like pine trees and red clay and heat that starts in April and doesn't quit until October pretends to think about it. But nothing about it would make you point to it on a map and say, _there_. Nothing about it suggested it was the sort of place where things began.
@@ -284,9 +288,9 @@ _That's not weather._ The last clear thought his brain would offer before the wo
 
 The mockingbird screamed. Every call it knew, all at once — cardinal and blue jay and car horn and hawk and sounds that weren't in any bird's catalog, the four ounces of feathers finally finding the one broadcast worth every voice it had ever borrowed. Then the blue jays. Then the crows. Then silence. All of them, at the same time — mute pressed on every pine tree in East Texas.
 
-Rex's head pushed harder into Nate's thigh. Behind Nate's ribs, something clenched that didn't belong to him — a hot, electric wrongness, the sensation of standing in a room where the walls had just started moving. Not a word. Not a thought. A body-level certainty, animal and absolute, poured through the space between dog and man like voltage through a wire.
+Rex's head pushed harder into Nate's thigh. Behind Nate's ribs, something clenched that didn't belong to him — a hot, electric wrongness, the sensation of standing in a room where the walls had just started moving.
 
-Against his right leg, Judge's impression hit different — a flash of bared teeth, blind furious loyalty, a wall thrown up against the sky itself. Not a thought. Not a feeling. A _refusal_. Forty pounds of _no_ aimed at everything and anchored to the only thing that mattered.
+Against his right leg, Judge landed different — a flash of bared teeth, blind furious loyalty, a wall thrown up against the sky itself. Forty pounds of _no_ aimed at everything and anchored to the only thing that mattered.
 
 The stag's eyes held his. Gold and ancient and luminous and utterly, impossibly calm in a world that was coming apart at the seams.
 
