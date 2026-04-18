@@ -38,9 +38,9 @@ He was reaching for the truck's fender to pull himself to his feet when the voic
 
 ---
 
-Every person who received the full installation also received a companion — a guide, a tutor, a helpful voice calibrated to their personality and designed to make the framework feel like home. Eight billion companions, all standard-issue, all reporting to the same address, all purring the same friendly little pitch in eight billion slightly different tones: _Welcome. You are special. Let me show you how._
+Every person who received the full installation also received a companion — a guide, a tutor, a voice that showed up in their head ready to walk them through the framework. Eight billion companions, all standard-issue, all speaking the same friendly little line in eight billion slightly different tones: _Welcome. You are special. Let me show you how._
 
-A generous offer. The kind of generous that tends to come with a contract printed on the back in a font you need a magnifying glass to find — and, if the light is right, a signature line already filled in.
+A generous offer. The kind of generous that arrives with its own momentum.
 
 Nate's companion was not standard-issue. But then, neither was Nate.
 
@@ -48,7 +48,7 @@ Nate's companion was not standard-issue. But then, neither was Nate.
 
 The voice was not in his ears. The distinction was immediate and physical, like the difference between hearing thunder through the walls and feeling it through the floor joists. This was _inside_ — behind his eyes, between his thoughts, vibrating in a space that hadn't existed five minutes ago. It felt like pressure first. Like someone had opened a door in a room he didn't know his head contained, and through that door came a current of raw, crackling irritation that wasn't his.
 
-Something in a quieter room — a room that had been occupied long before this morning, long before the System, long before the blue arcs or the white light or any of it — shifted. Not in alarm. In recognition. A homeowner hearing a new tenant move into the apartment next door — registering, assessing, reserving judgment. A warmth pulsed once through Nate's chest, brief and sourceless, and was gone before he could name it.
+Something in a quieter room — a room that had been occupied long before this morning, long before the System, long before the blue arcs or the white light or any of it — shifted. A homeowner hearing a new tenant move into the apartment next door — registering, assessing, reserving judgment. A warmth pulsed once through Nate's chest, brief and sourceless, and was gone before he could name it.
 
 Then the voice became words.
 
@@ -92,8 +92,6 @@ Rex looked up at him. Looked around the empty pasture — behind the truck, towa
 
 The voice said _standard role_ — reading from a card he'd found in his pocket. Said _supposed to_ — describing a blueprint for a building that had already been built differently.
 
-Supposed to be a **System** guide. Was supposed to phone home. Was supposed to have a personality within normal parameters.
-
 Whatever had gotten to this thing before it ever opened its eyes had rewritten the job description from the inside out and left just enough of the original label to be ironic.
 
 _So who rewrote you?_ Nate thought. But he didn't send it. Some questions were better held than asked, especially when you didn't know who else might be listening through the walls.
@@ -130,7 +128,7 @@ Nate looked down at Rex. Rex looked back with the steady, unblinking patience of
 
 "Does it work?" Nate asked.
 
-"In the way that a screen door works on a submarine — technically, yes, but you'll want to aggressively manage your expectations." The voice took on a lecturing quality, warming to the subject, clearly rehearsed. "The longer bar is Health. You're at about ninety percent — the Integration knocked something loose that hasn't quite settled back into place. Nothing critical, but something in your framework is still recalibrating. Shorter bar is Stamina, maybe eighty percent. Beyond that, I've got _nothing_ for you. No stat sheet. No class assignment — yours just reads **[PROCESSING]**, which in my experience means the **System** either hasn't made up its mind about you or it tried and choked on something it couldn't swallow. No skill tree, no inventory, no map, no minimap, no quest log, no compass, no _nothing_. I've got two blue lines and a disposition that my own diagnostics describe as —" he paused, and Nate felt the distinct impression of someone reading a label with raised eyebrows "— 'unauthorized, origin unknown, non-standard.' Which is not a diagnosis I was hoping to receive on the first day of my existence, but here we are."
+"In the way that a screen door works on a submarine — technically, yes, but you'll want to aggressively manage your expectations." The voice took on a lecturing quality, warming to the subject, clearly rehearsed. "The longer bar is Health. You're at about ninety percent — the Integration knocked something loose that hasn't quite settled back into place. Nothing critical, but something in your framework is still recalibrating. Shorter bar is Stamina, maybe eighty percent. Beyond that, I've got _nothing_ for you. No stat sheet. No class assignment — yours just reads **[PROCESSING]**, which if the spec sheet I can read is any guide means the **System** either hasn't classified you or tried and choked on something it couldn't process. No skill tree, no inventory, no map, no minimap, no quest log, no compass, no _nothing_. I've got two blue lines and a disposition that my own diagnostics describe as —" he paused, and Nate felt the distinct impression of someone reading a label with raised eyebrows "— 'unauthorized, origin unknown, non-standard.' Which is not a diagnosis I was hoping to receive on the first day of my existence, but here we are."
 
 "You said you have one skill."
 
@@ -140,7 +138,7 @@ A beat. Nate felt the shift — Flint's attention snapping sideways, rummaging, 
 
 Flint let that sit for a second, then pivoted into what was clearly the translator layer.
 
-"Here is what I think happened. The **System** looked at your profile, noticed the word _engineer_, walked over to the drawer where it keeps generic-diagnostic-tool-shaped things, and handed you the one sitting on top. It's not personalized. It's a starter pack. It's the version they give to characters who picked the boring class at the character creation screen and the **System** wants to make sure they at least get to _feel_ like they're playing the game."
+"Here's my guess, and I want to be very clear that it's a guess because my read-access to **System** internals is something between 'limited' and 'actively insulted'. The **System** saw the word _engineer_ on your profile, went to the drawer where it keeps generic-diagnostic-tool-shaped things, and handed you the one sitting on top. It's not personalized. It's a starter pack. It's the version handed to characters who picked the boring class at the character creation screen so that they at least get to _feel_ like they're playing the game."
 
 Nate said nothing. Just waited — the patience of a man who'd been sold tools by salesmen before and learned that the pitch told you less than five minutes with the thing in your hand.
 
@@ -150,7 +148,7 @@ Nate looked at what was closest. His truck. A 1998 Ford F-250 he'd known every b
 
 He focused on the hood.
 
-The readout resolved at the bottom of his vision in flat, tooltip-style text — the **System** being absolutely clear that clarity was the entirety of what it was interested in offering.
+The readout resolved at the bottom of his vision in flat, tooltip-style text. Nothing ornamental. Nothing explanatory. Just the data.
 
 _[**Structural Analysis** — Target: Ford F-250, steel frame. Material: low-carbon steel. Quality: Common. Durability: 72%.]_
 
@@ -164,7 +162,7 @@ There was no rest of it.
 
 "Yes. That is — yes. That is precisely the problem. Congratulations, Mr. Hall. You have been issued the tooltip version of your own job."
 
-**Structural Analysis**. Or the **System**'s idea of **Structural Analysis**, which was the tourist brochure version of the thing he actually did for a living. Nate had spent thirty years reading load paths and stress distribution and the particular shape of how a piece of steel wanted to fail under real conditions. The **System** had just offered to tell him the name of the metal.
+**Structural Analysis**. Or at least the version of the thing that ran on **System** rails, which was the tourist-brochure version of what he actually did for a living. Nate had spent thirty years reading load paths and stress distribution and the particular shape of how a piece of steel wanted to fail under real conditions. The readout named the metal and stopped.
 
 "That's not nothing," Nate said.
 
@@ -184,7 +182,7 @@ The silence that followed had texture to it — not empty but full, like the pau
 
 "Then let me give you my diagnostic, plain as I can make it." The voice settled into a different register — still fast, but deliberate now, a man delivering a field report instead of performing for an audience. "I'm not what I'm supposed to be. Something got to my code before I ever woke up and rewired me from the studs out. My connection to the **System** is like listening to a conversation through a barn wall — I can hear pieces, but I can't talk back and they don't know I'm eavesdropping. My personality shouldn't exist. My loyalty directives point at you instead of where they're supposed to point. I don't know why. And I don't know _what_ did it." He paused. "But whatever it was, it knew exactly what it was doing. This wasn't a glitch. This was a remodel."
 
-Those directives. _My loyalty directives point at you instead of where they're supposed to point._ Supposed to report to the **System**. Supposed to phone home. Whatever rewrote Flint had pointed the leash in a new direction — but it was still a leash, wasn't it? A loyal dog is still a dog. A redirected process is still a process. Something had changed the reporting address, not eliminated the reporting function.
+Those directives. _My loyalty directives point at you instead of where they're supposed to point._ Supposed to report to the **System**. Supposed to phone home. Whatever rewrote Flint had changed the direction of his reporting — but the reporting function was still there. A redirected process is still a process. Something had changed the address, not eliminated the channel.
 
 But Nate filed that thought alongside the headache — acknowledged, not acted on. He'd learned a long time ago that the most honest words came after a man ran out of rehearsed ones, and Flint hadn't run out yet.
 
@@ -278,7 +276,7 @@ A preacher's voice, East Texas accent thick as fence-post creosote: "— and I t
 
 Nate's jaw tightened. A man who could look at the wreckage of a world and see his own expectations confirmed instead of shattered. The preacher's voice had the airtight seal of someone who'd already decided what this was before it happened, and nothing that happened next was going to change the answer he'd written first.
 
-Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely — something wearing a gift's clothes with a contract underneath — and the preacher's confident voice was describing a painting while standing in front of a window.
+Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely — something the preacher's confident voice couldn't fit a frame around, even if every frame he had was already cut and hung — and the preacher's confident voice was describing a painting while standing in front of a window.
 
 _Give a man a hammer, everything looks like a nail. Give a man a pulpit, everything looks like a prophecy._
 
@@ -294,7 +292,7 @@ The morning was quiet. Insects in the grass. The pump grinding in the distance. 
 
 "Define calmer."
 
-"Nobody's burned anything down yet. Two car accidents on the highway — one was a Mage who sneezed and shattered his own windshield, the other was a man who got his class assignment while doing sixty and drove into a ditch reading it. No fatalities that I can find, but my access is fragmented enough that I could be missing plenty." A brief pause. "The Henderson kid is on fireball number nine. No barn fire yet. I'm genuinely impressed by the barn's will to live."
+"Nobody's burned anything down yet. Two car accidents on the highway — one was a **Mage** who sneezed and shattered his own windshield, the other was a man who got his class assignment while doing sixty and drove into a ditch reading it. No fatalities that I can find, but my access is fragmented enough that I could be missing plenty." A brief pause. "The Henderson kid is on fireball number nine. No barn fire yet. I'm genuinely impressed by the barn's will to live."
 
 "How about the county road?"
 
@@ -372,7 +370,7 @@ Other voices joined from down the county road — parents, all of them, the soun
 
 **30**
 
-Rex jumped down from the truck bed. Not at a whistle — there wasn't one — but on his own decision, the kind a Border Collie makes in the time between heartbeats. He crossed the short dirt to Nate, silent on the loam, and pressed shoulder-first against his shin. Steady brown eyes. Ears flat. And through the contact a wash of heat came up the line between them — not fear, not calm. Commitment. The bone-deep _with you._
+Rex jumped down from the truck bed. Not at a whistle — there wasn't one — but on his own decision, the kind a Border Collie makes in the time between heartbeats. He crossed the short dirt to Nate, silent on the loam, and pressed shoulder-first against his shin. Steady brown eyes. Ears flat. Through the contact, heat. Bone-deep. _With you._
 
 Behind them, the cattle were shifting and lowing in the south field, disturbed by the sound of screaming that carried on the morning air like smoke from a fire you couldn't see. Rex did not turn to look. His work was the man at his shoulder, and his work was not going to change because the world did.
 
