@@ -8,7 +8,7 @@ Not a room — a cavern. The corridor dumped them through a narrow choke point a
 
 The sound was wrong. Not the wrong that stone rooms had been — generated torchlight, procedural tile. This was architectural wrong. The cavern's shape bent sound — warped it, multiplied it, sent it back wrong. Marcus said "Hold" and the word came back from three directions, each echo arriving at a different delay, and four people turned to look at four different walls because every one of them heard the order from a different origin point.
 
-Concave surfaces, irregular angles, standing wave interference. The acoustics weren't accidental. The System had designed a room where directional hearing was useless.
+Concave surfaces, irregular angles, standing wave interference. The acoustics weren't accidental. The acoustics in here made directional hearing useless.
 
 Rex didn't care.
 
@@ -90,7 +90,7 @@ The Thornlings hesitated. Not intelligence — something more basic, something c
 
 Rex moved with them. Patient. Relentless. The geometry of a dog herding stock that didn't know it was being herded.
 
-*The **System** had built a room that punished noise, and never accounted for the creatures that had never needed volume. The dog. The hand signals. The rancher who'd been reading terrain since before he could read words. Some languages predate architecture, and the oldest ones don't make a sound.*
+*The room punished noise. The creatures that had never needed volume were the ones that thrived in it. The dog. The hand signals. The rancher who'd been reading terrain since before he could read words. Some languages predate architecture, and the oldest ones don't make a sound.*
 
 The first Thornling's bark-foot hit the water channel and the current took it. Not dramatically — the flow was shallow, maybe eight inches — but the bark-skin absorbed moisture on contact. **SA** showed it in real time: the bark grain swelling as moisture wicked through, the material expanding unevenly, the joints stiffening as wet wood did what wet wood always did. The creature slowed. Its movements went from predatory to labored, legs fighting waterlogged weight that hadn't been there three seconds ago.
 
@@ -300,13 +300,13 @@ The second **Thornguard** didn't charge.
 
 It flanked.
 
-Wide. Moving along the chamber's eastern wall with a speed that **Thornguards** hadn't shown before, using the stone columns as cover, its bark-plate body staying low and mobile in a pattern that **SA** flagged with something Nate had never seen from the System's creatures: tactical intent.
+Wide. Moving along the chamber's eastern wall with a speed that **Thornguards** hadn't shown before, using the stone columns as cover, its bark-plate body staying low and mobile in a pattern that **SA** flagged with something Nate had never seen from the System's creatures: coordinated movement.
 
 HUD text flashed at his periphery:
 
 > THORNGUARD-2. FLANKING. PATTERN MATCHES — YOUR OWN TACTICS FROM ROOM 7. THE MOBS ARE LEARNING. THAT'S NOT GREAT, KING.
 
-"The second **Thornguard** is running a flanking pattern," Flint said, voice stripped of comedy. "The combat AI is adapting. The flanking pattern it's running is the same one Marcus used in the cavern. The mobs watched us. The System taught them."
+"The second **Thornguard** is running a flanking pattern," Flint said, voice stripped of comedy. "The combat AI is adapting. The flanking pattern it's running is the same one Marcus used in the cavern. If my read of the behavior layer is any guide, the mobs watched us."
 
 "SECOND THORNGUARD, EAST WALL!" Nate signed and shouted simultaneously — the room's acoustics were clean enough for voice, the chamber's flat walls returning sound without the cavern's distortion. Marcus relayed through his HUD. Two Warriors peeled off to intercept.
 
@@ -358,7 +358,7 @@ A Warrior — she'd been in the front rotation since Room 5, broad-shouldered, q
 
 The Healer reached her fast. Hands already glowing, already pouring what was left of her mana into the wound. But the glow flickered. Dimmed. The reserves that had been thin after Room 8 were thinner now, and the puncture had hit the femoral, and there was a math to blood loss that didn't care how skilled the hands were when the tank was dry. The Healer's face went through three stages in four seconds — urgency, desperation, and the stillness of a medical professional recognizing when treatment became attendance.
 
-*The **System** didn't distinguish between the two. Healer mana depleted, patient health at zero, encounter complete. Clean data. The machine that ran the world had never understood the difference between a death it caused and a death it watched, because the machine had never understood death at all. It understood removal. Subtraction. A number becoming a smaller number. The rest was noise the **System** didn't record and wouldn't have known what to do with if it had.*
+*The **System** didn't distinguish between the two. Healer mana depleted, patient health at zero, encounter complete. Clean data. The architecture that ran the world didn't register the difference between a death it caused and a death it watched. It registered removal. Subtraction. A number becoming a smaller number. The rest was noise the architecture didn't record and had no column for.*
 
 Fifteen people standing. The Healer sat on the arena floor beside the woman she hadn't saved, hands still glowing the faint residual gold of mana that had nothing left to heal, and didn't move until Marcus touched her shoulder.
 
