@@ -38,7 +38,7 @@ Half of them had that look — eyes distant, lips moving, fingers making small g
 
 A young woman near the third weapon rack suddenly straightened, spread her fingers, and gasped as pale blue light crackled between them. Her face — pure wonder. A man beside her flexed his hands and watched as his forearms thickened, muscles swelling visibly under his skin, and his expression was the same. Wonder. Awe. Gratitude. The look of someone being handed a gift they hadn't dared to hope for.
 
-The **System** was handing out presents, and every present came wrapped in the same gleaming blue packaging, and every person who unwrapped one wore the same expression — the best thing they'd ever owned.
+The **System** was distributing power, and every face around the room that received it wore the same expression — the best thing they'd ever owned.
 
 Something about it sat wrong in his chest.
 
@@ -104,7 +104,7 @@ The swords: polished. Blades catching the torchlight and looking heroic the way 
 
 The wireframe flickered, died, came back a fraction sharper. Each pulse added detail — stress points resolving as brighter nodes, load-bearing joints separating visually from decorative ones, the whole overlay learning his focus like a dog learning what part of the ranch actually needed watching. Point, hold, read.
 
-The shields: same problem, different shape. Decorated faces over wood that **Structural Analysis** read as generated composite — structural filler wearing a wood costume and hoping nobody checked the tags. Two of the shields had bosses — the metal center pieces — that came back as genuine forged iron. Crystalline structure, real density, actual thermal history. The **System** had spent its honesty budget on the one component nobody was going to notice, which was either an accident or a punchline, and Nate wasn't yet sure which one the **System** was capable of.
+The shields: same problem, different shape. Decorated faces over wood that **Structural Analysis** read as generated composite — structural filler wearing a wood costume and hoping nobody checked the tags. Two of the shields had bosses — the metal center pieces — that came back as genuine forged iron. Crystalline structure, real density, actual thermal history. The one structural-honest component on the shields was the one nobody was going to notice, which struck Nate as either an accident or a punchline he didn't have the data to judge.
 
 The bows: recurve limbs of generated composite, uniform grain tip to tip, no natural variation, no life in the wood because there had never been any wood. They'd fire arrows. They'd do it the way a printer fired a page — functionally, without joy, and with roughly the same expected service life. The arrows were worse. Straight enough, but the shafts were hollow composite, and they'd shatter on impact with anything harder than flesh, which — given what was presumably about to come through the sealed door — was a specification decision someone was going to regret.
 
@@ -198,7 +198,7 @@ The prod seated into the table-leg stock. The blue wireframe showed the contact 
 
 Mid-assembly — hands on both the prod and the stock — the skill grant arrived. A pressure behind his eyes, sharp and targeted, the **System** writing an update onto his framework — patch pushing mid-session. Around the room, warriors straightened as something new poured into their limbs. A **Mage** gasped. Sparks jumped between her fingers — blue-white, electrical, a current where no circuit should have been. A **Healer** touched the kneeling mother's shoulder and a soft golden glow spread from her palm. Class abilities were landing. Combat starters. The first tools — the ones that would make the first fight survivable.
 
-More gifts. More gleaming blue packages. And this time, the looks on the faces weren't just wonder — they were *belonging.* The **System** had classified them. Named them. Given them power and told them the power was theirs. Fifty strangers becoming Mages, Warriors, Healers, Guardians, and feeling — for the first time since the sky broke — like they understood what was happening. Like they had a place in it.
+More power, distributed in the same blue bloom. And this time, the looks on the faces weren't just wonder — they were *belonging.* The **System** had classified them. Named them. Handed them power. Fifty strangers becoming mages, warriors, healers, guardians, and feeling — for the first time since the sky broke — like they understood what was happening. Like they had a place in it.
 
 When the skill grant hit Nate's framework, it crashed.
 
@@ -282,7 +282,7 @@ Nate almost smiled.
 
 She crouched. Not reaching for Rex, just lowering herself to his level, — someone who understood animals, making herself smaller before making contact. Rex's tail moved once. Not a wag. A data point. She passed.
 
-"I'm Josie," she said, straightening. "Josie Pickett." She held up a hand before he could ask. "Yes, like the fence. I've heard it. My screen says **Appraiser**, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them." She kept talking — momentum as armor, because stopping meant thinking, and thinking meant feeling, and this was not the room for that. "The chain shirts are the best armor in here — actual metal rings, not composites — but they're sized for someone about six inches taller than me, which is a recurring theme in my life."
+"I'm Josie," she said, straightening. "Josie Pickett." She held up a hand before he could ask. "Yes, like the fence. I've heard it. My screen says **Appraiser**, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them. The chain shirts are the best armor in here — actual metal rings, not composites — but they're sized for someone about six inches taller than me, which is a recurring theme in my life."
 
 "She just identified those chain shirts as genuine metal rings," Flint said. "Her **Appraiser** class sees material *value*. Your **Structural Analysis** sees material *structure*. She prices the steak. You read the grain of the cow." A pause. "I am now deeply curious what happens when both of you look at the same object."
 
@@ -334,7 +334,7 @@ Nobody asked why the man with the **PROCESSING** tag was handing out water while
 
 ---
 
-A man crouching beside a grieving mother and saying *drink something* while the rest of the room chased power. The **System** was counting fifty people choosing weapons. It was not counting the one who chose water.
+A man crouching beside a grieving mother and saying *drink something* while the rest of the room chased power. The **System** had columns for fifty people choosing weapons. It had no column for the one who chose water.
 
 ---
 
@@ -468,7 +468,7 @@ Nate stood behind the line with an ugly crossbow, no ammunition, a forging hamme
 
 The crossbow was a promise. The hammer was a purpose. The dog was the only one in the room who'd never needed a **System** to know what he was.
 
-Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth. Through the contact, warmth and certainty — not fear, not aggression, the coiled-spring readiness of a dog who knew his job and was waiting to do it. Rex pinned forward, every line of his body pointing into the darkness — compass needle, true north.
+Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth. Through the contact, warmth and certainty — the coiled-spring readiness of a dog who knew his job and was waiting to do it. Rex pinned forward, every line of his body pointing into the darkness — compass needle, true north.
 
 "Here we go," Flint said. Very quietly.
 
@@ -478,7 +478,7 @@ Fifty people moved forward. Not because they were ready. Because the room they w
 
 ---
 
-The **System** counted them through. Fifty warm bodies, one unclassified framework, and a dog that kept growling at the floor.
+The **System** logged them through. Fifty warm bodies, one unclassified framework, and a dog that kept growling at the floor.
 
 ---
 
@@ -498,7 +498,7 @@ Not cracked — split. Bark peeling off a log. A section of stone three feet acr
 
 More. Five, eight, twelve — the floor opening in a cascade of stone-bark panels, creatures pulling themselves up and into the torchlight — saplings growing in fast-forward. They moved in a pack. No formation, but a pattern — spreading outward from the center, filling gaps, covering angles. Herding behavior. Rex saw it the same instant Nate did. A snarl ripped from the dog's chest, low and sustained, the sound he made when coyotes pushed too close to the calves and the line had to hold.
 
-Thornlings. He didn't know the name yet. The **System** hadn't labeled them. But **Structural Analysis** read their bodies — bark over woody fiber, structural density concentrated in the limbs and skull, sap channels running through the core — circulatory system built from tree biology. Living architecture. Counterfeit life built from counterfeit materials by a **System** that could generate stone and steel and apparently something that bled amber and wanted to kill you.
+Thornlings. He didn't know the name yet. The **System** hadn't labeled them. But **Structural Analysis** read their bodies — bark over woody fiber, structural density concentrated in the limbs and skull, sap channels running through the core — circulatory system built from tree biology. Living architecture. Generated life built from generated materials by a **System** that could produce stone and steel and apparently something that bled amber and wanted to kill you.
 
 "Organic constructs," Flint confirmed. "System-generated. Pack hunters. The thorns are structural — load-bearing, not decorative. And the limbs have tensile strength well beyond their size. Do not let the height fool you. These are not small."
 
