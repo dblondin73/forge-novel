@@ -42,7 +42,7 @@ Slow. Deliberate. Six feet of bark-plate armor pushing up through the forest flo
 
 The first **Thornguard** straightened to its full height and the clearing went predator-quiet — every prey animal in range deciding simultaneously that stillness was better than speed.
 
-*New room, new wallpaper, and the Interior Decorator from Hell just introduced armored variants. Pretty enough to fool you into thinking you weren't about to lose something. The **System** had the aesthetic sensibility of a dentist's waiting room — but darling, the drills were real.*
+*New room, new wallpaper, and the armored variants introduced themselves. Pretty. The drills underneath the pretty were real.*
 
 A **Warrior** — the man with the lion-embossed shield, the one who'd been reliable through three rooms of competent, System-assisted fighting — charged. His sword technique fired clean, the blade finding the gap between shoulder and torso that had worked on every Thornling since Room 1. The edge hit bark-plate.
 
@@ -56,7 +56,7 @@ A support-class man — the one who'd been steady through three rooms, never fla
 
 Two dead in under a minute. The forest clearing that had felt manageable thirty seconds ago now felt like what it was — the **System**'s announcement that the warm-up was over.
 
-F-rank weapons hitting their ceiling. The **System** scaled the weapons to handle basic Thornlings and then introduced an enemy that made those weapons irrelevant. Same thing that happened in procurement when the spec changed mid-contract and the hardware that passed last month's test couldn't pass this month's.
+Every F-rank weapon in the group was hitting its ceiling. The blades that had handled basic Thornlings didn't have the spec for what the Tutorial had just put in front of them. Same thing that happened in procurement when the spec changed mid-contract and the hardware that passed last month's test couldn't pass this month's.
 
 Judge hit the nearest Thornling from behind before the Warriors had fully engaged — forty pounds of Blue Heeler driving into its root-legs at a dead sprint, teeth finding the joint where bark met ground and *pulling*. The creature staggered. A **Warrior**'s blade found its chest while it was off-balance. Judge was already gone, wheeling toward the next one, driving it sideways into the kill zone that Rex's stare was herding it toward. Header and heeler. Rex positioned; Judge punished. The pair worked the Thornling pack like livestock that didn't know it was livestock yet — Rex holding the eye, applying pressure from the front, and Judge charging from behind to bite and drive anything that didn't move fast enough.
 
@@ -108,7 +108,7 @@ He was standing next to her now, holding his bent sword, waiting for her to fini
 
 Room 5 was a cave, and the cave was a kill box.
 
-**Structural Analysis** read the architecture as they entered and Nate's stomach dropped before the first spawn point fired. The chamber was smaller than the forest clearing — forty feet across, irregular walls, water dripping from a ceiling that threw echoes in every direction. Sound bounced wrong in here. Footsteps multiplied. Voices came from everywhere and nowhere. The **System** had built an acoustic nightmare on purpose.
+**Structural Analysis** read the architecture as they entered and Nate's stomach dropped before the first spawn point fired. The chamber was smaller than the forest clearing — forty feet across, irregular walls, water dripping from a ceiling that threw echoes in every direction. Sound bounced wrong in here. Footsteps multiplied. Voices came from everywhere and nowhere. The acoustics in here were a nightmare.
 
 The spawn point placement was wrong. Not random wrong — deliberately wrong. Five spawn points clustered near the entrance, creating a wall of immediate combat that would pin the group at the choke point. Three more staggered along the sides. And two in the back — the same dense, slow-cycling signature that Flint had flagged in Room 4.
 
@@ -190,7 +190,7 @@ It wasn't going to make sense again. Judge kept pacing anyway.
 
 Permadeath. No respawn. No save point, no resurrection mechanic, no "release spirit and run back to your corpse." The Tutorial had permanent consequences. Five dead across two rooms — two in the forest, three in the cave — and every room from this point forward carried a price tag denominated in something that couldn't be ground back. Thirty-five people left.
 
-**Structural Analysis** read the room's architecture — the spawn point placement, the entrance clustering, the delayed **Thornguard** deployment. The kill zone wasn't an accident. The **System** had built this death into the encounter the way an engineer built tolerances into a design. Calculated. Deliberate. The room's geometry was optimized to produce exactly what it had produced — a situation where someone who was strong but not fast enough, brave but not experienced enough, *young* but not experienced enough in the ways that kept you alive.
+**Structural Analysis** read the room's architecture — the spawn point placement, the entrance clustering, the delayed **Thornguard** deployment. The kill zone wasn't accidental. The room's geometry had produced exactly what it had produced — a situation where someone strong but not fast enough, brave but not experienced enough, *young* but not experienced enough in the ways that kept you alive.
 
 You bury your dead and keep working. That was the law of it. The law of calving season when you lost one, the law of drought years when the count came up short, the law of every ranching family that had ever stood over something that should have lived and didn't and then turned around and fed the ones that did. You bury your dead. You keep working. The grief has a place and the place is later.
 
@@ -200,7 +200,7 @@ Damn it.
 
 A pause. The kind of pause that Flint filled with data when data was available and filled with nothing when it wasn't.
 
-"He died because his cooldown timer lasted three seconds longer than the encounter allowed. The **System** built a room where that gap would be exploited. Not might be. Would be."
+"He died because his cooldown timer lasted three seconds longer than the encounter allowed. If my read-access to the **System**'s encounter design is any guide, that gap was going to get exploited. Not might. Would."
 
 Nobody else could hear Flint. Nobody needed to. The AI told Nate because Nate was the only one who could listen, and because Flint was learning that some information mattered not because it was tactically useful but because the alternative was a silence that felt like complicity.
 
@@ -268,7 +268,7 @@ Marcus counted heads. His **Vanguard** HUD doing the math that his face was alre
 
 Thirty-five people. Eighteen sets. The number sat in the silence where forty had been.
 
-The math was deliberate. And something about the way the gear materialized — the amber glow, the organized rows, the presentation that was less "supply drop" and more "storefront display" — nagged at the part of him that cataloged design intent. The **System** wasn't just distributing equipment. It was making the distribution *feel* like a reward. Making the upgrade *feel* like progress earned. Making the new armor *feel* like validation for surviving the rooms that had killed Tyler.
+The math was deliberate. And something about the way the gear materialized — the amber glow, the organized rows, the presentation that was less "supply drop" and more "storefront display" — nagged at the part of him that cataloged design patterns. The **System** wasn't just distributing equipment. The distribution landed like a reward. The upgrade landed like progress earned. The new armor landed like validation for surviving the rooms that had killed Tyler.
 
 "Distribute among your party," Marcus read aloud, and his voice carried that flatness — mission voice overriding the man inside the uniform. He looked at the gear. Looked at the group. Looked at the faces of thirty-five people who'd lost five of their own across two rooms and were now being asked to decide who deserved protection.
 
@@ -280,7 +280,7 @@ The sets distributed. Warriors grabbed upgraded weapons with the urgency of peop
 
 And the gratitude was immediate. Visible. The **Warrior** with the lion shield tested his new blade and his face opened into something that looked uncomfortably like joy. A woman who'd been fighting in starter leather ran her hands over the new chest piece and her eyes went bright. The room filled with gift-day energy — not supplies, not necessities, *gifts* — and nobody was thinking about the distribution math or the scarcity equation or the very deliberate way the **System** had made eighteen sets for thirty-five people so that receiving gear felt like winning and not receiving it felt like losing.
 
-The **System** just trained thirty-five people to want what it gives. That's not a loot drop. That's a leash.
+The **System** had just given thirty-five people something they'd chase harder next room. That wasn't a loot drop. That was a current that pulled one direction.
 
 A crossbow improvement kit sat in the lineup. Better limbs, reinforced rail, a proper trigger mechanism. Nate picked it up. **SA** read the components — honest materials, real engineering, the **System**'s first actual investment in crossbow infrastructure. The limbs alone would double his effective range.
 
@@ -308,7 +308,7 @@ She didn't say anything. Josie Pickett, who had an opinion about everything and 
 
 "Inventory rings." Marcus held one up. Simple band, dark metal, cheap-looking, vending-machine metal. "One per person. The **System** generated them at the far end of the crafting station. They're dimensional storage — small capacity, but functional."
 
-The rings distributed. One per person — and this time the math was generous. One per person. The **System** could have made twelve. Could have forced another scarcity decision, another wedge, another test to see who gave and who took. Instead it made enough for everyone, and the relief on faces that had been bracing for another shortfall was visible and instant and exactly the emotional response the **System** wanted.
+The rings distributed. One per person — and this time the math was generous. One per person. The **System** could have made twelve. Could have forced another scarcity decision, another wedge. Instead it made enough for everyone, and the relief on faces that had been bracing for another shortfall was visible and instant and exactly the emotional response the moment produced.
 
 When Nate slipped his ring on, **SA** read the architecture — a compressed space existing inside the band's structure, folded like a napkin tucked into a ring. Small. Enough for maybe a dozen items, depending on size. The **System** had given them pockets.
 
@@ -346,7 +346,7 @@ The chamber spread wide — eighty feet across, sixty deep, the ceiling arched h
 
 "The unstable sections form a pattern. They're not random — they're channels. The **System** placed them to funnel movement."
 
-Environmental hazard. The room was a maze disguised as an open space. The stable floor formed paths, and the paths led to choke points, and the choke points were where the spawn points clustered. Walk where the **System** wanted you to walk and you walked into the kill zone. Walk where **SA** told you to walk and you didn't.
+Environmental hazard. The room was a maze disguised as an open space. The stable floor formed paths, and the paths led to choke points, and the choke points were where the spawn points clustered. Walk where the terrain funneled movement and you walked into the kill zone. Walk where **SA** told you to walk and you didn't.
 
 "Marcus." Nate pointed to the floor. "The stone's not uniform. Some of it won't hold weight. I can see the safe paths — follow my lead, keep the group on the dark stone. The lighter patches are thin."
 
@@ -434,7 +434,7 @@ The sorting was visible and it was ruthless.
 
 Strong fighters went left. The Warriors who'd held the line in Room 6, the ones whose combat performance had generated the most data across five rooms of escalating difficulty — left. Support classes, lower performers, the people whose contributions had been essential but quiet — right.
 
-The **System** just split the herd. Sorted which animals it wants to keep watching.
+The sorting just halved the herd. Flagged the ones the harder road had been built for.
 
 A mother calling her child's name. Routed right. The child — a girl, maybe ten, who had survived five rooms of combat by being small enough to hide behind Warriors and lucky enough to be near a **Healer** when luck ran out — routed left. The gap opened. The girl walked through. The barrier sealed. And the mother's voice hit the transparent wall with the same physics as every other sound in this corridor but landed with a weight that physics couldn't measure.
 
@@ -442,7 +442,7 @@ A mother calling her child's name. Routed right. The child — a girl, maybe ten
 
 The girl pressed her palms against the barrier. The mother pressed hers against the other side. Three inches of **System** architecture between them, and **SA** read the barrier as having no mass, no material, no structural properties — energy and purpose and nothing else — which meant there was nothing to break and nothing to fight and nothing to do except watch a mother and child separated by a wall that wasn't a wall by a system that didn't care.
 
-*And just like that, the herd got halved. Not because anyone died this time — just because a wall appeared where a hallway used to be, and the **System** decided who was worth the harder road. Half and half. Nearly even. As if that makes it better. I won't tell you it gets easier. I'm not in the habit of lying to you, love. Not about this.*
+*And just like that, the herd got halved. Not because anyone died this time — just because a wall appeared where a hallway used to be, and the sorting routed them accordingly. Half and half. Nearly even. As if that makes it better. I won't tell you it gets easier. I'm not in the habit of lying to you, love. Not about this.*
 
 A man and his wife reached the barrier together and the gap opened on different sides and the sound she made when they separated was the sound of something breaking that wasn't physical.
 
@@ -462,7 +462,7 @@ Rex's head pressed against Nate's hand. The dog was still facing forward, always
 
 The left path narrowed and the narrowing was a corridor of its own — a gauntlet stocked with Thornlings that hit harder than anything in Rooms 1 through 6. The **System** had sorted the stronger fighters onto the harder road and then immediately proved why the sorting existed.
 
-The left path delivered them to a rest area — smaller, tighter, the walls closer together in a way that made the reduced group feel like a reduction instead of just a number. Eighteen people out of thirty-five. The barrier had sorted the strongest fighters and the people the **System** wanted to keep watching onto the harder road, and left seventeen others on the easier path with no say in the matter. Nearly even. The **System** hadn't skimmed the best off the top — it had split the group down the middle, and the even divide made the sorting feel less like selection and more like amputation.
+The left path delivered them to a rest area — smaller, tighter, the walls closer together in a way that made the reduced group feel like a reduction instead of just a number. Eighteen people out of thirty-five. The barrier had sorted the strongest fighters and the ones the **System** flagged onto the harder road, and left seventeen others on the easier path with no say in the matter. Nearly even. The **System** hadn't skimmed the best off the top — it had split the group down the middle, and the even divide made the sorting feel less like selection and more like amputation.
 
 Marcus did the headcount — standing, moving through the group, making eye contact, counting bodies with the systematic care of a man who refused to let people become numbers even when the numbers were all he had left.
 
