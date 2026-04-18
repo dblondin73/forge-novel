@@ -78,7 +78,7 @@ The fight was ending. Warriors mobbing the last two Thornlings with more aggress
 
 Nobody had noticed what the dogs did. Forty-five people fighting for their lives, and not a single one had seen a Border Collie and a Blue Heeler work a monster — header and heeler, splitting cattle since Judge was old enough to bite.
 
-*The System had no classification for what they'd done. No rank, no class, no skill tree. Two animals operating below the threshold of everything the System measured — and executing a combat maneuver that three Warriors with full class kits hadn't thought to try. The System noted their existence the way a ledger notes a rounding error. It would learn, eventually, that rounding errors compound. She was watching the dogs before the System thought to. She's always been fond of the ones who work without being asked.*
+*The **System** had no classification for what they'd done. No rank, no class, no skill tree. Two animals operating below the threshold of everything the **System** measured — and executing a combat maneuver that three warriors with full class kits hadn't thought to try. Their contribution logged, in the **System**'s architecture, as a rounding error. Rounding errors compound. She was watching the dogs. She's always been fond of the ones who work without being asked.*
 
 Nate's hand found Rex's head and got a flash — the Thornling's legs from six inches off the ground, the angle of its stumble, the exact moment Rex had broken off because the threat was past. A thirty-second combat engagement compressed into a single image, delivered through warm fur under Nate's palm. Urgency fading to pack-satisfaction. The job was done.
 
@@ -98,7 +98,7 @@ Judge sat at Nate's other side, panting hard, her stub tail vibrating at a frequ
 
 The rest area opened into something breathable.
 
-Wider corridor, warmer light, the torches burning with a steady amber glow instead of the combat room's flickering. The ceiling was higher here. The stone walls had shifted from rough-cut to something almost smooth, and **Structural Analysis** read the difference: functional architecture versus combat architecture. Load-bearing walls with dressed stone faces — finished, not raw. The System built its rest areas to feel safe. Casino psychology — neither the house nor the dungeon cared about your comfort. Both wanted you to stay long enough to spend something.
+Wider corridor, warmer light, the torches burning with a steady amber glow instead of the combat room's flickering. The ceiling was higher here. The stone walls had shifted from rough-cut to something almost smooth, and **Structural Analysis** read the difference: functional architecture versus combat architecture. Load-bearing walls with dressed stone faces — finished, not raw. The rest areas felt safe in a way the combat rooms hadn't, which was either a kindness or a pattern Nate didn't yet have the data to call either way.
 
 People were sitting. Leaning against walls. Breathing hard, ragged, the post-survival version — first-beer-after-fencing breathing, the same substance doing entirely different work.
 
@@ -112,15 +112,13 @@ A woman laughed at something her screen showed her. Not a nervous laugh — a *d
 
 A man read his stat page with the focused intensity of someone reviewing a performance evaluation that actually mattered. He pumped his fist — small, private, the gesture of a man who'd just watched a number go up and felt the dopamine hit land like it had been designed to.
 
-Because it had been designed to.
+Golden chimes. Progress bars. A tiny fanfare for every increment. The **System** gave them tools and the tools came with a feedback loop attached — kill the thing, get the chime. See the number. Chase the next number. The same loop shape Nate had seen in every game he'd ever played, except the stakes were blood and the rewards were muscle-deep.
 
-Golden chimes. Progress bars. A tiny fanfare for every increment. The System hadn't just given them tools — it had given them a *feedback loop.* Kill the thing, get the chime. See the number. Chase the next number. The same dopamine architecture that kept people clicking in games, except the stakes were blood and the rewards were muscle-deep.
-
-*Every reward was a hook. Every hook set deeper than the last. But there are older hooks than golden chimes, love. And the ones that don't glitter are the ones that hold.*
+*Every reward pulled the same way. Pulled a little harder each time. But there are older pulls than golden chimes, love. And the ones that don't glitter are the ones that hold.*
 
 Nate watched them scroll and chase their numbers and thought: *Post-first-dungeon inventory check. Every MMO in history did this — killed you a little, healed you up, then showed you the loot screen so the dopamine hit arrived with the numbers. Classic design. Good design, actually.*
 
-The warriors who'd earned their first chimes — that golden pulse and musical note when a skill ticked from one sub-tier to the next — they were already talking about the next room. Not with dread. With anticipation. The System had turned survival into a progress bar, and progress bars pointed forward. Always forward. Never back toward the question of whether forward was where you wanted to go.
+The warriors who'd earned their first chimes — that golden pulse and musical note when a skill ticked from one sub-tier to the next — they were already talking about the next room. Not with dread. With anticipation. Survival had a progress bar now, and progress bars pointed forward. Always forward. Never back toward the question of whether forward was where you wanted to go.
 
 Marcus sat down next to Nate against the corridor wall, settling with the controlled exhale of a man whose body was fifty but whose **Vanguard** class had apparently filed a formal disagreement with that number. He opened his character sheet.
 
@@ -254,9 +252,9 @@ From that space behind his eyes, Flint murmured: "I'm archiving that sentence. N
 
 ## Room 2 — Mana Management
 
-The second room was bigger, and the System had been taking notes.
+The second room was bigger, and the spawn patterns had shifted.
 
-Eight Thornlings this time and they were faster, too. The spawn points fired in a staggered pattern that **Structural Analysis** read as deliberate: two up front, a pause, three from the sides, another pause, then three more from the rear corners. Bracketing. The System had watched forty-six people beat six Thornlings in a straight line and thought, *yeah, let's fix that.*
+Eight Thornlings this time and they were faster, too. The spawn points fired in a staggered pattern that **Structural Analysis** read as patterned: two up front, a pause, three from the sides, another pause, then three more from the rear corners. Bracketing. Whatever adjusted the difficulty between rooms had seen the first fight and written a response.
 
 Adaptive difficulty. The term surfaced from a hundred games he'd played — Diablo's monster density scaling with party size, Destiny's nightfall modifiers, the AI director in Left 4 Dead reading player performance and adjusting spawn rates in real time. Same principle. Different stakes. The difficulty was *watching* them and responding, which meant every room they aced was a room the next one would try to correct for. Not a curriculum. A conversation. The Tutorial was talking back.
 
@@ -294,7 +292,7 @@ Tyler stumbled back, breathing hard, eyes wide with the specific terror of someo
 
 Nate raised the crossbow. First thorn bolt seated in the groove. The weight was different from the rack bolts — denser, the center of mass shifted forward by the natural taper. His hands adjusted without conscious input, micro-corrections built from twenty years of switching between tools that all balanced differently.
 
-**Structural Analysis** painted the target: a Thornling at thirty feet, its bark-plate chest armor showing the same seam patterns as Room 1 but tighter. Denser growth. The System was upgrading its monsters between rooms. Because of course it was. Why wouldn't the thing that kidnapped forty-six people and put them in a dungeon also be petty enough to adjust the difficulty when they started winning.
+**Structural Analysis** painted the target: a Thornling at thirty feet, its bark-plate chest armor showing the same seam patterns as Room 1 but tighter. Denser growth. The **System** was upgrading its monsters between rooms. Of course it was. Every adaptive-difficulty system Nate had ever played with did exactly this when the players started winning.
 
 He squeezed.
 
@@ -354,9 +352,9 @@ Forty-three. The number landed heavier than the math suggested.
 
 In Room 1, four people had died and the group had fractured — screaming, weeping, the raw shock of mortality arriving without warning. Now the shock was thinner. Not gone. Spread across a surface that had already cracked. People looked at the bodies and looked away. A woman crossed herself. A man sat down hard against the wall and stared at nothing. But nobody screamed. The Tutorial was teaching them that too — not just how to fight, but how to keep moving after someone didn't.
 
-The **Mage** was leaning against the wall, hands dark, breathing hard. She'd thrown four **Fire Bolts** total. The first two had been full-power dumps — bright, dramatic, effective, expensive. The third had been half-power, a sign she was starting to feel the drain. The fourth had been a flicker. She'd gone dark mid-fight, standing useless while the warriors covered her position, and the look on her face said she'd learned the lesson the System intended. Mana was a resource. Resources had limits. And limits didn't care about adrenaline.
+The **Mage** was leaning against the wall, hands dark, breathing hard. She'd thrown four **Fire Bolts** total. The first two had been full-power dumps — bright, dramatic, effective, expensive. The third had been half-power, a sign she was starting to feel the drain. The fourth had been a flicker. She'd gone dark mid-fight, standing useless while the warriors covered her position, and the look on her face said she'd learned what the drain felt like. Mana was a resource. Resources had limits. And limits didn't care about adrenaline.
 
-*The System was teaching. And the class was learning. Three fewer students in the seats than when the lesson started. Which would have been heartwarming if their teacher wasn't a kidnapper and the classroom wasn't a dungeon. But she's seen classrooms before, love — real ones, the kind where the lesson costs more than tuition. The best teachers are never kind. They're precise. And the ones who don't come home from the lesson — well. The silence where their laughter was is the loudest thing in the corridor now.*
+*Three fewer students in the seats than when the room opened. She's seen classrooms before, love — real ones, the kind where the lesson costs more than tuition. The hardest lessons are never kind. They're precise. And the ones who don't come home from the lesson — well. The silence where their laughter was is the loudest thing in the corridor now.*
 
 ---
 
@@ -366,7 +364,7 @@ Room 3 was where the Tutorial stopped asking and started telling.
 
 Nate had used the brief rest between rooms to restock — three more rack bolts reinforced with salvaged Thornling fiber from Josie's supply pile, not as good as the thorn-headed ones but a sight better than bare iron. Seven bolts total. Three thorn-tipped, four reinforced rack. Enough to matter if he made them count.
 
-Wider chamber — sixty feet across, natural rock formations breaking the floor into corridors and cover positions that **Structural Analysis** read as deliberately placed. Not generated rock. Real stone, quarried and set, construction that required engineering intent. The System hadn't just built a room. It had built a *position.* Cover here. Choke point there. Elevated ground along the east wall with clear sight lines to the center. The Tutorial was teaching positioning now, and the classroom was the architecture itself.
+Wider chamber — sixty feet across, natural rock formations breaking the floor into corridors and cover positions. **Structural Analysis** read the geometry: not generated rock. Real stone, quarried and set. Cover here. Choke point there. Elevated ground along the east wall with clear sight lines to the center. The room worked as a positioning teacher whether its designer had meant that or not.
 
 Eight Thornlings. And something else.
 
@@ -512,7 +510,7 @@ The leather-worker from the first rest area approached. And behind her, a man wi
 
 She was building a supply network. Three rooms of material salvage, sorted and categorized and distributed to crafters who could work it. The warriors provided the kills. Josie provided the materials. The crafters provided the products. An economy, nascent and crude and operating on barter in a stone corridor, but an economy nonetheless — the first human-built system inside the System's architecture.
 
-*The System had built a dungeon. Josie Pickett was building a market. Both understood human motivation. The System used reward loops and golden chimes. Josie used eye contact and the irresistible conviction that wasting materials was a moral failing. Markets outlast dungeons. They always have. Josie didn't know that yet. She just knew that the leather-worker needed bark plate and she had bark plate and the transaction needed to happen.*
+*The **System** had built a dungeon. Josie Pickett was building a market. Both shapes fit the same human motion. The dungeon ran on reward loops and golden chimes. Josie ran on eye contact and the irresistible conviction that wasting materials was a moral failing. Markets outlast dungeons. They always have. Josie didn't know that yet. She just knew that the leather-worker needed bark plate and she had bark plate and the transaction needed to happen.*
 
 "She's maintaining a material inventory across three combat rooms," Flint said internally. "Cross-referenced by quality grade, weight class, and potential application. Without a database. Without a spreadsheet. In her *head.*" A pause. "I'm choosing to find this unsettling rather than impressive because the alternative would require me to update her threat assessment, and I've already had to do that twice today."
 
@@ -534,7 +532,7 @@ Room 1: Combat exists. Here's how it works. Here's what dies and how. Room 2: Re
 
 Each room escalated. Each room taught one lesson and tested the last. The difficulty curve was textbook — he'd played enough games to recognize it, and he'd managed enough engineering projects to respect it. Adaptive difficulty meant the ramp adjusted to what they could handle, which meant the ramp never flattened. It calibrated. And calibrated ramps led to a place where the calibration reached the limit of what calibration could account for.
 
-*The ramp was not a kindness. It had never been a kindness. But it was, in its own brutal arithmetic, a mercy — because the thing waiting past the Tutorial's last door would not grade on a curve, and every room between here and there was a chance to become something harder to kill. The System was not generous. But it was, occasionally, practical. The distinction kept more people alive than generosity ever had. She could see the shape of what was coming. She always could. And if she held her tongue, it was not because she didn't care — it was because some lessons only land when the student walks into them with both eyes open.*
+*The ramp was brutal arithmetic. Every room between here and whatever waited at the end was a chance to become harder to kill. More people lived because of that than because of anything kinder. She could see the shape of what was coming. She always could. And if she held her tongue, it was not because she didn't care — it was because some lessons only land when the student walks into them with both eyes open.*
 
 "It's a difficulty ramp," Nate said. Marcus had drifted over during the crafting work, standing nearby with the quiet attention of a man who was always listening even when he appeared to be doing something else. "Rooms 1 through 3 were the tutorial within the Tutorial. Combat, resources, positioning. The training wheels come off next."
 
@@ -558,9 +556,9 @@ Nate looked at the corridor. At the forty people who were resting, healing, comp
 
 They were getting stronger. All of them. Every room, every fight, every chime and milestone and unlocked option. The System was making them better — faster, tougher, more capable than they'd been an hour ago.
 
-And more dependent. Every golden chime was a thread. Every unlock a deeper hook. The warriors who'd earned **Power Strike** were already swinging differently — not just harder, but with an unconscious *deference* to the System's guidance, letting it steer their arms instead of learning the technique themselves. The **Mage** wasn't learning mana discipline — she was learning to *obey the mana gauge,* to check the internal meter the System provided and trust its numbers instead of developing her own sense of reserve. They were getting stronger the way a vine got stronger — by wrapping tighter around the thing that held it up.
+And more dependent. Every golden chime was a thread. The warriors who'd earned **Power Strike** were already swinging differently — not just harder, but deferring to the **System**'s guidance, letting it carry the arm through the motion instead of learning the technique themselves. The **Mage** wasn't learning mana discipline — she was learning to check the internal meter and trust its numbers instead of developing her own sense of reserve. They were getting stronger the way a vine got stronger — by wrapping tighter around the thing that held it up.
 
-Nobody noticed. Nobody would notice. The strength felt real because it was real. The dependence felt like partnership because partnership was what the System had designed it to feel like.
+Nobody noticed. Nobody would notice. The strength felt real because it was real. The dependence felt like partnership. Whether that was design or accident was not a question the partnership was built to ask.
 
 Rex was already facing the next corridor.
 
@@ -582,4 +580,4 @@ Judge didn't wait for a tail sweep. She was already walking into the dark.
 
 ---
 
-Seven rooms remained. The Tutorial was patient. It had been designed that way — and patience, in a place like this, was just another word for hunger.
+Seven rooms remained. The Tutorial was patient. And patience, in a place like this, was a longer form of the same pressure.
