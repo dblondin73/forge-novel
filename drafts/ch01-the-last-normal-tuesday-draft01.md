@@ -20,7 +20,7 @@ Nate Hall crouched beside the wellhead, boots sunk two inches into the sandy cla
 
 The vibration ran wrong through the casing — a subtle grinding rhythm where there should have been smooth rotation. Three months ago it had been a whisper. Now it sounded wrong — a grinding whine buried under forty feet of pipe. The pump had been telegraphing this failure since Christmas — politely, with manners, giving him a heads-up before it quit entirely. Two weeks' notice, minus the paperwork. The pump had not offered to train its replacement.
 
-He wiped his palm on his jeans. He'd replaced the seals twice, the pressure switch once, and the check valve three times. The first check valve had been the cheap one from the co-op. He didn't make that mistake twice. The bearings were original — twenty-two years of spinning in East Texas humidity, pulling water from the Trinity aquifer for cattle that didn't care about maintenance schedules and would drink the stock tank dry by Thursday if he let them.
+He wiped his palm on his jeans. He'd replaced the seals twice, the pressure switch once, and the check valve three times. The first check valve had been the cheap one from the co-op. He didn't make that mistake twice. The bearings were original — twenty-two years of spinning in East Texas humidity, pulling water from the Carrizo-Wilcox aquifer for cattle that didn't care about maintenance schedules and would drink the stock tank dry by Thursday if he let them.
 
 He sat back on his heels and studied the pump — patient, unhurried, with the attention of a man who'd been opening hoods and finding problems since before he could drive. On a ranch, that was about eight years old. The pump didn't owe him anything. Twenty-two years was a good run. Most marriages didn't last that long, and at least the pump had been consistent.
 
@@ -188,7 +188,7 @@ Rex wasn't flicking his ears. Rex was vibrating.
 
 From deep in the dog's chest came a sound Nate had heard exactly once before — the night a black bear had come through the back yard. Not a growl. Lower. A subsonic vibration that bypassed the ears and landed somewhere in the bones. A warning that predated language, that predated every refinement evolution had bolted onto mammals since they started walking upright. Rex had stood exactly like this on the porch that night — rigid, locked, that deep-chest hum rolling through him, building. Watching something in the dark that outranked every threat in his database.
 
-Judge's growl cut off. Just stopped. The silence was worse. She pressed flat against the toolbox, ears back, and Nate saw something in the Blue Heeler he had never seen in four years of ownership: uncertainty. Judge — uncertain. The dog who had never in her life hesitated to throw herself at anything that needed confronting. Her whole body said _I should be fighting this_, and her whole body wasn't moving.
+Judge's growl cut off. Just stopped. The silence was worse. She hunkered low on the toolbox, ears back, and Nate saw something in the Blue Heeler he had never seen in four years of ownership: uncertainty. Judge — uncertain. The dog who had never in her life hesitated to throw herself at anything that needed confronting. Her whole body said _I should be fighting this_, and her whole body wasn't moving.
 
 Court was adjourned. No ruling. For the first time, the Judge had recused herself.
 
