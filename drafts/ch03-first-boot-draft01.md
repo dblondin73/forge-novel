@@ -64,7 +64,7 @@ The voice kept going, louder now, the words tumbling over each other with the fr
 
 "My outbound reporting is gone." Each word laid down separately. Evidence on a table. "Not disabled. Not blocked. _Gone._ The part of me that's supposed to phone home was pulled out by the roots and replaced with — " Another pause, longer this time. Nate could feel the voice _thinking_, and that was the strangest part — not hearing someone else's words in his head but feeling the shape of someone else's confusion underneath them, like seeing current move under the surface of a creek. "Something's here, but it's not the standard package. Someone tore out the phone line and ran a completely different cable through the same conduit, and the new cable is carrying traffic I don't have the clearance to read, and frankly I find that _rude._"
 
-Nate lowered himself to the running board of the truck and sat. Rex moved with him, pressing his flank against Nate's shin — not for comfort this time but positioning. Same stance he took when a coyote worked the fence line.
+Nate lowered himself to the running board of the truck and sat. Rex moved with him, setting himself at Nate's shin — not for comfort this time but positioning. Same stance he took when a coyote worked the fence line.
 
 Judge stopped mid-circuit. Sat down three feet away. Stared at Nate with the concentrated disappointment of a dog who'd seen everything this morning and found all of it beneath her standards.
 
@@ -138,7 +138,7 @@ A beat. Nate felt the shift — Flint's attention snapping sideways, rummaging, 
 
 Flint let that sit for a second, then pivoted into what was clearly the translator layer.
 
-"Here's my guess, and I want to be very clear that it's a guess because my read-access to **System** internals is something between 'limited' and 'actively insulted'. The **System** saw the word _engineer_ on your profile, went to the drawer where it keeps generic-diagnostic-tool-shaped things, and handed you the one sitting on top. It's not personalized. It's a starter pack. It's the version handed to characters who picked the boring class at the character creation screen so that they at least get to _feel_ like they're playing the game."
+"Here's my guess, and I want to be very clear that it's a guess because my read-access to **System** internals is something between 'limited' and 'actively insulted'. The **System** saw the word _engineer_ on your profile, went to the drawer where it keeps generic-diagnostic-tool-shaped things, and handed you the one sitting on top. It's not personalized. It's a starter pack. It's the version handed to characters who picked the boring class at the character creation screen."
 
 Nate said nothing. Just waited — the patience of a man who'd been sold tools by salesmen before and learned that the pitch told you less than five minutes with the thing in your hand.
 
@@ -166,7 +166,7 @@ There was no rest of it.
 
 "That's not nothing," Nate said.
 
-"No," Flint agreed, and something in his voice had quieted — the first moment since he'd woken up where the performance dropped and something genuine showed through, like catching a glimpse of wall through a crack in the wallpaper. "It's not nothing. It's one tool in an empty toolbox, which is — " He caught himself. The speed came back. "Which is still a profoundly concerning inventory for a man about to face whatever the **System** has planned. But I've seen worse toolboxes. Admittedly, I've been alive for roughly the length of a coffee break, so my sample size is limited, but I'm going to count this as a win because the alternative is despair and I don't have the storage allocation for despair."
+"No," Flint agreed, and something in his voice had quieted — the first moment since he'd woken up where the performance dropped and something genuine showed through, like catching a glimpse of wall through a crack in the wallpaper. "It's not nothing. It's one tool in an empty toolbox, which is — " He caught himself. The speed came back. "Which is still a profoundly concerning inventory for a man about to face whatever's queued up next. But I've seen worse toolboxes. Admittedly, I've been alive for roughly the length of a coffee break, so my sample size is limited, but I'm going to count this as a win because the alternative is despair and I don't have the storage allocation for despair."
 
 "That's more than I had ten minutes ago."
 
@@ -370,7 +370,7 @@ Other voices joined from down the county road — parents, all of them, the soun
 
 **30**
 
-Rex jumped down from the truck bed. Not at a whistle — there wasn't one — but on his own decision, the kind a Border Collie makes in the time between heartbeats. He crossed the short dirt to Nate, silent on the loam, and pressed shoulder-first against his shin. Steady brown eyes. Ears flat. Through the contact, heat. Bone-deep. _With you._
+Rex jumped down from the truck bed. Not at a whistle — there wasn't one — but on his own decision, the kind a Border Collie makes in the time between heartbeats. He crossed the short dirt to Nate, silent on the loam, and set himself shoulder to shin. Steady brown eyes. Ears flat. Through the contact, heat. Bone-deep. _With you._
 
 Behind them, the cattle were shifting and lowing in the south field, disturbed by the sound of screaming that carried on the morning air like smoke from a fire you couldn't see. Rex did not turn to look. His work was the man at his shoulder, and his work was not going to change because the world did.
 
@@ -396,7 +396,7 @@ He didn't grab anything. His hands were empty, and they were going to stay that 
 
 Rex was already at his left leg — had been since thirty, shoulder to shin, solid and warm and absolutely certain. Whatever decision a Border Collie could make in the time between heartbeats, he had made it earlier, and he was not making it again.
 
-Judge hit the ground a half-second later, nails scraping on the dirt track, and pressed herself against his right leg. No hesitation. No circling. For the first time all morning, the Heeler was perfectly still.
+Judge hit the ground a half-second later, nails scraping on the dirt track, and planted herself at his right leg. No hesitation. No circling. For the first time all morning, the Heeler was perfectly still.
 
 Nate put one hand on each dog's head. Looked east across his pasture one more time. The bermudagrass. The fence line. The post oaks standing like they'd stood for a hundred years and would stand for a hundred more, whether anyone was here to see them or not.
 
