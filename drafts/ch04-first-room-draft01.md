@@ -74,7 +74,7 @@ And people were listening. Not all of them — the bald man was still hitting th
 
 Nate didn't move toward Marcus. Not yet. His back to the wall, Rex at his feet, where he could see the whole room without being in the middle of it. Same place he'd stand at a sale barn — gate in view, watching the herd sort itself. One dog and a wall. That was enough.
 
-His eye caught a face near the second weapon rack — weathered, sixtyish, the permanent squint of a man who'd spent decades in the sun. He'd seen him before at the sale barn in Carthage, maybe, or De Berry. The man was holding a sword by the middle — testing the balance before he trusted the weight, same grip you'd use on a fence post — and Nate filed that away. At least one person in this room knew what tools felt like before today.
+His eye caught a face near the second weapon rack — weathered, sixtyish, the permanent squint of a man who'd spent decades in the sun. He'd seen him before at the sale barn in Carthage, maybe, or De Berry. The man was holding a sword by the middle — testing the balance before he trusted the weight, same grip you'd use on a fence post — and Nate filed that away. The nameplate above him resolved in clean white: **WALT KEANE — SMITH [RANK F — LOW]**. At least one person in this room knew what tools felt like before today.
 
 He turned his attention to the weapon racks.
 
@@ -196,7 +196,7 @@ The hands did the work. Trailer hitches and fence stretchers and the alternator 
 
 The prod seated into the table-leg stock. The blue wireframe showed the contact — wood fibers meeting steel at a joint that wasn't tight enough. Not yet. He'd need something to bond it. He was turning to look for that something when the **System** pushed new gifts to everyone. Nate's world split for the second time that morning.
 
-Mid-assembly — hands on both the prod and the stock — the skill grant arrived. A pressure behind his eyes, sharp and targeted, the **System** writing an update onto his framework — patch pushing mid-session. Around the room, warriors straightened as something new poured into their limbs. A **Mage** gasped. Sparks jumped between her fingers — blue-white, electrical, a current where no circuit should have been. A **Healer** touched the kneeling mother's shoulder and a soft golden glow spread from her palm. Class abilities were landing. Combat starters. The first tools — the ones that would make the first fight survivable.
+Mid-assembly — hands on both the prod and the stock — the skill grant arrived. A pressure behind his eyes, sharp and targeted, the **System** writing an update onto his framework — patch pushing mid-session. Around the room, warriors straightened as something new poured into their limbs. A **Mage** gasped. Sparks jumped between her fingers — blue-white, electrical, a current where no circuit should have been. A **Healer** — nameplate settling into **ANA TORRES — HEALER [RANK F — LOW]** — touched the kneeling mother's shoulder and a soft golden glow spread from her palm. Class abilities were landing. Combat starters. The first tools — the ones that would make the first fight survivable.
 
 More power, distributed in the same blue bloom. And this time, the looks on the faces weren't just wonder — they were *belonging.* The **System** had classified them. Named them. Handed them power. Fifty strangers becoming mages, warriors, healers, guardians, and feeling — for the first time since the sky broke — like they understood what was happening. Like they had a place in it.
 
@@ -220,7 +220,7 @@ The wood grain tightened under his right hand. He felt it through his skin — t
 
 Nate set the trigger mechanism into a notch he'd carved. Threaded the bowstring — tensioned, tested. Click. Reset. Click. Smooth enough.
 
-Grip wrapped in a strip of leather from the inside of a belt buckle, where the Tutorial had generated actual material to hold the buckle in place and nobody would think to check. **Structural Analysis** had found it. **Field Repair** bonded it.
+Grip wrapped in a strip of leather from the inside of a belt buckle, where the **Tutorial** had generated actual material to hold the buckle in place and nobody would think to check. **Structural Analysis** had found it. **Field Repair** bonded it.
 
 Ten minutes. The crossbow looked like someone built it in a barn. The stock was a table leg. The trigger was a wall bracket. The prod was the only piece in the whole room that someone had bothered to *temper*.
 
@@ -320,7 +320,7 @@ Nate picked it up. Walked to the woman. Crouched.
 
 "Ma'am."
 
-She looked up. Mid-forties. Red-eyed, face wet, raw grief that didn't care about audience or dignity.
+She looked up. Mid-forties. Red-eyed, face wet, raw grief that didn't care about audience or dignity. The nameplate above her had settled into something she hadn't been when she'd hit her knees: **HEATHER KIM — WARD MAGE [RANK F — LOW]**. She didn't seem to have noticed.
 
 "I don't know where my daughter is." Her voice was flat. Emptied.
 
@@ -328,7 +328,7 @@ She looked up. Mid-forties. Red-eyed, face wet, raw grief that didn't care about
 
 She took it. Drank. Handed it back. "Thank you."
 
-He stood. Walked to the supply table. Picked up the other three water skins and the small stack of dried rations the **System** had included — functional, not decorative, the same principle as the infrastructure. He distributed them. The older woman from Illinois. The teenager in the Oregon hoodie, who took the water without looking up. The bald man, who had stopped hitting the wall and was standing with his back against it, breathing hard, staring at nothing. Nate handed him water. The man took it.
+He stood. Walked to the supply table. Picked up the other three water skins and the small stack of dried rations the **System** had included — functional, not decorative, the same principle as the infrastructure. He distributed them. The older woman from Illinois. The teenager in the Oregon hoodie — **PETE BOWMAN — PATHFINDER [RANK F — LOW]** unread above his head — who took the water without looking up. The bald man — **KYLE GREENE — BERSERKER [RANK F — LOW]** floating above him — who had stopped hitting the wall and was standing with his back against it, breathing hard, staring at nothing. Nate handed him water. Kyle took it.
 
 Nobody asked why the man with the **PROCESSING** tag was handing out water while everyone else was grabbing weapons. Nobody noticed. That was fine. That was the point.
 
@@ -366,7 +366,7 @@ Marcus went quiet. Three seconds. The same three seconds he always took when som
 
 "That's a pair." Marcus looked toward the sealed door. "Don't lose her."
 
-A man walked past — big, broad-shouldered, a build earned on construction sites or daily labor. His nameplate read **SHIELD GUARDIAN [RANK F — LOW]** in the clean white text of a properly classified **System** citizen. He glanced at Nate's crossbow — the table-leg stock, the wall-bracket trigger, the whole barn-built assembly that looked like it had been put together during a tornado warning. He glanced at the amber **PROCESSING** tag. His face performed the exact calculation that every middle manager and military officer had performed since the invention of rank: *unclassified, unconventional, not worth the investment.* He walked on without a word.
+A man walked past — big, broad-shouldered, a build earned on construction sites or daily labor. His nameplate read **SAM HARGROVE — GUARDIAN [RANK F — LOW]** in the clean white text of a properly classified **System** citizen. He glanced at Nate's crossbow — the table-leg stock, the wall-bracket trigger, the whole barn-built assembly that looked like it had been put together during a tornado warning. He glanced at the amber **PROCESSING** tag. His face performed the exact calculation that every middle manager and military officer had performed since the invention of rank: *unclassified, unconventional, not worth the investment.* He walked on without a word.
 
 "The big ones always pick last," Flint said internally. "Adding him to the list of people who'll want to be your friend when their swords snap. The list has subsections now. He's in the subsection labeled 'ironic.'"
 
@@ -408,7 +408,7 @@ Numbers appeared between Nate's blue arcs — not because he'd asked, but becaus
 
 Two minutes.
 
-The room erupted. People who'd been stunned into silence found their voices. People who'd found their voices found their fear. The bald man backed away from the wall with his hands up, expecting the stone itself to attack him. A woman grabbed the nearest weapon — a mace she could barely lift — and pressed herself against the far wall. The **Shield Guardian** stepped forward with both swords drawn, and for all his dismissal of Nate's **PROCESSING** tag, his face had gone the color of old ash.
+The room erupted. People who'd been stunned into silence found their voices. People who'd found their voices found their fear. The bald man backed away from the wall with his hands up, expecting the stone itself to attack him. A woman grabbed the nearest weapon — a mace she could barely lift — and pressed herself against the far wall. The **Guardian** stepped forward with both swords drawn, and for all his dismissal of Nate's **PROCESSING** tag, his face had gone the color of old ash.
 
 **105**
 
@@ -420,7 +420,7 @@ People moved. Not because they wanted to. Because moving was better than standin
 
 Nate checked the crossbow. Click. Reset. The prod's tension held — spring steel doing what spring steel did, storing energy, waiting to release it. Good.
 
-He had no bolts. None on the racks, none in the room. A crossbow without ammunition was a club with aspirations. He'd spent ten minutes engineering the finest ranged weapon in the Tutorial and had nothing to shoot out of it.
+He had no bolts. None on the racks, none in the room. A crossbow without ammunition was a club with aspirations. He'd spent ten minutes engineering the finest ranged weapon in the **Tutorial** and had nothing to shoot out of it.
 
 "The corridor," Flint said, reading the thought before Nate finished forming it. "Whatever comes out of those spawn points — if it's biological, if it drops structural material, if any part of it has density and a straight grain —"
 
@@ -622,7 +622,7 @@ Marcus stood in the center of the room, chest heaving, blood from someone else's
 
 "Check the wounded. Pair up. Nobody alone." His voice was steady. His hands were not.
 
-A **Healer** — the same woman who'd touched the grieving mother's shoulder in the safe room — was on her knees beside the young warrior Nate had pulled from under the first Thornling. Golden light spilled from her palms and the puncture wounds were closing, slowly, the flesh knitting in a way that was beautiful and grotesque in equal measure. She was crying while she worked. Healing a stranger and grieving for four more she'd never reached.
+Ana Torres — the same **Healer** who'd touched the grieving mother's shoulder in the safe room — was on her knees beside the young warrior Nate had pulled from under the first Thornling. Golden light spilled from her palms and the puncture wounds were closing, slowly, the flesh knitting in a way that was beautiful and grotesque in equal measure. She was crying while she worked. Healing a stranger and grieving for four more she'd never reached.
 
 The bald man from New Jersey was sitting against a pillar with his arms wrapped around his knees, rocking, the same motion as the kid in the Oregon hoodie from the safe room. Different man, same frequency. The kid in the Oregon hoodie was standing, though. Standing, holding a sword someone had pressed into his hands at some point, the blade streaked with amber sap. He was staring at the sword like he wasn't sure how it had gotten there, and his expression held something worse than fear — the discovery that he was capable of violence, and no verdict yet on whether that was salvation or damnation.
 
