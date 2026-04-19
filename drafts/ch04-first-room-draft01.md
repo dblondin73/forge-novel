@@ -420,13 +420,19 @@ People moved. Not because they wanted to. Because moving was better than standin
 
 Nate checked the crossbow. Click. Reset. The prod's tension held — spring steel doing what spring steel did, storing energy, waiting to release it. Good.
 
-He had no bolts. None on the racks, none in the room. A crossbow without ammunition was a club with aspirations. He'd spent ten minutes engineering the finest ranged weapon in the **Tutorial** and had nothing to shoot out of it.
+He had ten bolts. A small wooden box on the supply shelf near the south wall, untouched because nobody else had grabbed a crossbow. Ten mass-produced starter shafts with loose-fitted iron heads — **Structural Analysis** read them in one sweep: soft iron, inconsistent weights, fletching glued instead of seated, the kind of factory run that would mushroom on impact and drift a degree left. Starter garbage. But starter garbage that flew in a straight-enough line and fit the groove, which put them a universe ahead of *no bolts at all.*
 
-"The corridor," Flint said, reading the thought before Nate finished forming it. "Whatever comes out of those spawn points — if it's biological, if it drops structural material, if any part of it has density and a straight grain —"
+He stuffed the ten into his belt pouch. Ten crappy shafts against whatever was about to climb out of the floor. Not a plan. A start.
 
-"I can make bolts."
+"Ten factory rejects," Flint said, reading the tally as the bolts dropped into the pouch. "Which is nine more than you had a minute ago and roughly ten fewer than the situation is going to call for. But it's a number instead of a zero, and that's the category of improvement I refuse to complain about."
 
-"From the things trying to kill you." A pause. "I want to call that ironic, but it's actually just sound engineering."
+"And when I run out?"
+
+"The corridor," Flint said. "Whatever comes out of those spawn points — if it's biological, if it drops structural material, if any part of it has density and a straight grain —"
+
+"I can make more bolts."
+
+"From the things trying to kill you. Which is either ironic or efficient. Personally I'm voting efficient."
 
 **60**
 
@@ -528,7 +534,7 @@ But the left flank was gone.
 
 The young warrior who'd dropped his sword was on the ground. A Thornling crouched on his chest, thorned fingers buried in his shoulders, pinning him. He was screaming — thrashing, kicking, trying to get it off — and two more were coming. The nearest warrior turned to help him, and the Thornling she'd been holding at the line lunged through her opened guard.
 
-Nate raised the crossbow. No bolt. He lowered it.
+Nate raised the crossbow. Starter bolt in the rail. But the Thornling was chest-to-chest with the warrior on the ground, and any miss — any pass-through — would bury itself in the pinned man beneath it. Too tight. He lowered it.
 
 The hammer came off his belt. Not a ranged weapon. Not an ideal choice. But a pound and a half of forged steel on a hardwood handle, and the Thornling pinning the young man had a skull that **Structural Analysis** read as bark over woody fiber over a dense core node — the structural keystone that held the rest of the creature's framework together.
 

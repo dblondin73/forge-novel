@@ -38,7 +38,7 @@ Nate raised the crossbow.
 
 His hands were steady. That surprised him less than it should have — the crossbow was a tool, and tools in his hands had always been steady, whether it was a fencing plier at three in the morning or a rifle on a coyote that had gotten into the chicken pen. The fundamentals transferred: sight picture, breath control, squeeze. The trigger had two degrees of play and he'd already memorized both.
 
-The bolt was a rack bolt — a basic projectile he'd grabbed from a supply rack near the corridor entrance, one of a dozen sitting in a wooden box that nobody had touched because nobody else had grabbed a crossbow. Plain wooden shaft with an iron tip, basic mass-produced starter garbage. But it was straight, and it fit the groove, and the prod's spring steel didn't care what it threw as long as it had something to throw.
+The bolt was a rack bolt — one of the ten mass-produced starter shafts he'd pulled from the wooden box on Room 0's supply shelf, the ones nobody else had touched because nobody else had grabbed a crossbow. Plain wooden shaft with a soft-iron tip, basic factory garbage. Ten had come with him out of the starting room, and a handful fewer were riding in the belt pouch now. What remained was still garbage. But it was straight, it fit the groove, and the prod's spring steel didn't care what it threw as long as it had something to throw.
 
 Movement on the east side. A Thornling broke through the warrior line, closing fast on a **Healer** and two unarmed people backed against the wall.
 
@@ -222,7 +222,7 @@ Not dramatically. Not a glow or a special effect. The same quiet shift he'd felt
 
 Eight inches of dense, tapered material that had spent its existence punching through bark. Not long enough for a bolt shaft. But the perfect shape for a head.
 
-He grabbed three rack bolts from the supply box — the same plain wooden shafts with iron tips he'd been shooting. **Structural Analysis** read them: soft iron heads, loosely fitted, mass-produced garbage that would mushroom on impact and lose penetration after a few hits. But the shafts were straight and the length was right.
+He pulled three rack bolts from his belt pouch — three of the starter shafts that had survived Room 0 and Room 1 with him. **Structural Analysis** read them: soft iron heads, loosely fitted, mass-produced garbage that would mushroom on impact and lose penetration after a few hits. But the shafts were straight and the length was right.
 
 He set the first thorn in the vise. Filed the base into a socket with a rough file from the tool rack — the material responding differently than wood or metal, denser, more resistant, but with a grain that guided the cut instead of fighting it. Popped the iron head off the rack bolt. Seated the thorn head onto the shaft and felt **Field Repair** do its work — not gluing, not fastening, but *fusing.* The thorn's fibrous base threads wove into the wood grain of the shaft at a level below what any tool could achieve. Two materials becoming one because **Field Repair** understood how they wanted to hold each other.
 
@@ -274,7 +274,7 @@ But the second bolt was weaker. The first had been a bonfire. The second was a m
 
 The math was straightforward: the System downloaded the knowledge but she wasn't learning from it — she was dumping mana and hoping. The technique was in her head. The control wasn't. And mana didn't care about enthusiasm. When the tank ran dry, she'd be a twenty-five-year-old with no combat training standing in a room full of bark-covered killing machines.
 
-The teenager who'd grabbed the biggest axe in the starting room swung at a Thornling. The downloaded knowledge was in there somewhere — the System had given him the stance, the grip, where to aim. His first swing used it. The blow connected, the axe biting into bark, and for one second the kid looked like someone who knew what he was doing.
+The teenager who'd grabbed the biggest axe in the starting room — **JOSH MILLER — WARRIOR [RANK F — LOW]** in plain white text above his head — swung at a Thornling. The downloaded knowledge was in there somewhere — the **System** had given him the stance, the grip, where to aim. His first swing used it. The blow connected, the axe biting into bark, and for one second the kid looked like someone who knew what he was doing.
 
 Then the Thornling screamed and surged forward, and the technique evaporated. The knowledge was still in his head but panic had taken the wheel — his next swing was all fear and no form, the axe too heavy, the arc too wide, the edge glancing off bark-plate. A downloaded manual didn't help when your hands were shaking and your body had decided that *running* was the correct response.
 
@@ -288,7 +288,7 @@ She was already looking for the next target with the hungry focus of someone who
 
 It worked in games. It was working here too. And the difference between a game reward loop and this — this was the difference between a slot machine and a surgery. Both modified behavior. Only one of them cut.
 
-Tyler stumbled back, breathing hard, eyes wide with the specific terror of someone who'd just watched another fighter unlock something he couldn't reach. No golden light for him. No enhanced option. His axe technique was crawling through Rank 1 Low while hers had jumped to Mid — the System rewarded confident use, and scared swings counted for less.
+Josh stumbled back, breathing hard, eyes wide with the specific terror of someone who'd just watched another fighter unlock something he couldn't reach. No golden light for him. No enhanced option. His axe technique was crawling through Rank 1 Low while hers had jumped to Mid — the **System** rewarded confident use, and scared swings counted for less.
 
 Nate raised the crossbow. First thorn bolt seated in the groove. The weight was different from the rack bolts — denser, the center of mass shifted forward by the natural taper. His hands adjusted without conscious input, micro-corrections built from twenty years of switching between tools that all balanced differently.
 
@@ -518,11 +518,11 @@ She was building a supply network. Three rooms of material salvage, sorted and c
 
 Nate watched from the workbench, the upgraded crossbow across his knees. The peep sight caught the torchlight, a small ring of iron that represented the difference between compensating by feel and compensating by measurement. Small upgrade. Meaningful one.
 
-Rex was pressed against Nate's leg, finally off the clock. The working-dog tension had drained out of him in stages — first the coiled readiness, then the scanning, then the constant subtle adjustments of a dog tracking every moving thing in the room. What remained was just a dog who wanted to be near his person. He put his chin on Nate's boot. Eyes half-closed. Tail slow. Through the contact came something warm and uncomplicated — a flash of the porch at dusk, the creak of the swing, Nate's boot propped on the rail. Rex's version of *home.* Not a memory Nate had sent. One Rex had shared.
+Rex was set against Nate's leg, finally off the clock. The working-dog tension had drained out of him in stages — first the coiled readiness, then the scanning, then the constant subtle adjustments of a dog tracking every moving thing in the room. What remained was just a dog who wanted to be near his person. He put his chin on Nate's boot. Eyes half-closed. Tail slow. Through the contact came something warm and uncomplicated — a flash of the porch at dusk, the creak of the swing, Nate's boot propped on the rail. Rex's version of *home.* Not a memory Nate had sent. One Rex had shared.
 
 "We'll get back there," Nate said quietly. Rex's tail moved once. Slow. Certain.
 
-Judge flopped down on Nate's other side with the dramatic finality of a dog collapsing onto a fainting couch. She rolled onto her back, all four legs in the air, and stared at the ceiling with an expression that managed to communicate both utter exhaustion and the firm belief that she had personally won every fight in the Tutorial so far. After three seconds of performative collapse, she rolled back over, pressed her head against Nate's thigh, and fixed Rex with a look across Nate's lap — the look of a dog who wanted it known that she was *also* here, and *also* tired, and *at least* as important.
+Judge flopped down on Nate's other side with the dramatic finality of a dog collapsing onto a fainting couch. She rolled onto her back, all four legs in the air, and stared at the ceiling with an expression that managed to communicate both utter exhaustion and the firm belief that she had personally won every fight in the Tutorial so far. After three seconds of performative collapse, she rolled back over, set her head against Nate's thigh, and fixed Rex with a look across Nate's lap — the look of a dog who wanted it known that she was *also* here, and *also* tired, and *at least* as important.
 
 Rex ignored her completely. Judge sighed.
 
