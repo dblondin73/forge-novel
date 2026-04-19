@@ -18,6 +18,8 @@ The blue at the edges of his vision — that faint, persistent shimmer he'd carr
 
 Spawn point three cracked first. Bark-covered fingers pushed through the stone. Then the whole thing erupted upward in a shower of dirt and rock, and the room went from silence to pandemonium in about two seconds.
 
+The other five spawn points opened in a staggered rip — gravel and stone-dust hazing the air, the smell sharp and mineral, like a freshly broken concrete floor. Someone screamed — not a name, not words, just the high animal sound of a person whose nervous system had outpaced their thinking by half a second. Another screamed back. A man in the support line dropped his unfamiliar weapon and reached for it twice on the way to the floor before he picked it up. Forty-six people, six monsters, two seconds — the math arrived the way bad math always did, all at once and without permission.
+
 "Thornling," Flint said. Quick, clipped, reading from somewhere Nate couldn't see. "System-generated combatant. Bark-plated, thorn-studded, approximately three and a half feet tall. Think 'angry topiary' and you're most of the way there."
 
 The chamber was forty feet across. Stone walls, arched ceiling, dim torchlight that made everything the color of bad coffee. Flint tagged the compass in Nate's peripheral — entrance behind them as north, spawn points ahead as south. Standard callout grid. Five more spawn points ripped open within three seconds of the first. Six Thornlings total — pulling themselves out of the stone with the jerky, root-finding motion of saplings in a time-lapse, if saplings had bark-plate armor and thorn-studded arms and the blind hunger of things grown to kill.
@@ -25,6 +27,8 @@ The chamber was forty feet across. Stone walls, arched ceiling, dim torchlight t
 Marcus's voice cut through first — "Hold formation! **Warriors** engage, **Mages** second rank, HOLD!" — but the warriors were already charging before the words landed. The System had spent the last hour downloading one basic technique per weapon into their muscles — one swing, one stance, one way to hold the blade — and even that single skill wanted to be used — new truck, open road, foot itching for the gas. A big man with a longsword swung at the nearest Thornling with the jerky confidence of a man whose muscles had received instructions his body hadn't fully learned yet. The blade found the general area between shoulder and torso — not clean, not precise, but hard enough to bite into the bark-skin, and the Thornling screamed — the cracking sound of branches in an ice storm, high and wrong and not quite alive enough to feel sorry for.
 
 Amber sap wept from the wound. Thick, viscous, the color of pine resin on a hot day. **Structural Analysis** read the wound site automatically — bark-plate compromised, fibrous interior exposed, stress fracture radiating from the point of impact. The longsword had done its job — not pretty, but the post was in the ground.
+
+Two more **Warriors** closed on the Thornling beside it — a stocky woman with a mace and a teenager with a shield-and-shortsword combo who looked like he'd spent more time on a video game controller than a real grip. The mace woman's swing was textbook for the half-second the System steered it — wide arc, rotation through the hip, weight transfer perfect — and then her body lost the thread, the follow-through collapsed, and the head clipped the Thornling instead of crushing it. The kid did better. The shortsword was small enough that the downloaded technique didn't fight him as hard, and his thrust landed in the bark-plate flush. Not deep. But seated. He yanked it free with both hands and didn't fall over, which was Rank 1 Low at its current best showing.
 
 "Every combat skill in this room is Rank 1 Low," Flint said internally. Tactical register — fast, no jokes, pure data. "Novice tier. The System downloaded aim, timing, technique — the knowledge is there, but their bodies are still arguing with the instructions. Think of it as a GPS in a car that doesn't have power steering."
 
@@ -258,6 +262,8 @@ Eight Thornlings this time and they were faster, too. The spawn points fired in 
 
 Adaptive difficulty. The term surfaced from a hundred games he'd played — Diablo's monster density scaling with party size, Destiny's nightfall modifiers, the AI director in Left 4 Dead reading player performance and adjusting spawn rates in real time. Same principle. Different stakes. The difficulty was *watching* them and responding, which meant every room they aced was a room the next one would try to correct for. Not a curriculum. A conversation. The Tutorial was talking back.
 
+And the Thornlings themselves moved differently. The Room 1 spawns had pulled themselves out of stone with single-purpose root-finding — head down, target acquired, walk forward, hit the closest thing. These ones lifted their knothole eyes first and *looked.* Brief — half a second per spawn — but they swept the room before they advanced. Reading the warrior line, the **Mage** on the second rank, the unarmed knot in the back. The System had watched the Room 1 fight and updated the spawn behavior — added a target-priority pass that the basic Thornlings hadn't had. Same monsters. New software.
+
 Marcus read it first. "They're flanking! **Warriors** hold center, watch the sides — SIDES!"
 
 The front-line warriors engaged the first two — and this time they listened. Marcus's call held them in a loose line instead of the Room 1 scramble, blades still rough but swinging in the same direction. Not coordination. Not yet. But the first draft of it — people who'd survived one fight together starting to move like they might survive the next one too.
@@ -289,6 +295,8 @@ She was already looking for the next target with the hungry focus of someone who
 It worked in games. It was working here too. And the difference between a game reward loop and this — this was the difference between a slot machine and a surgery. Both modified behavior. Only one of them cut.
 
 Josh stumbled back, breathing hard, eyes wide with the specific terror of someone who'd just watched another fighter unlock something he couldn't reach. No golden light for him. No enhanced option. His axe technique was crawling through Rank 1 Low while hers had jumped to Mid — the **System** rewarded confident use, and scared swings counted for less.
+
+Across the room, Judge had stationed herself at the south corridor mouth — not ranked, not formed-up, just at the spot where a working dog had decided the back door needed a sentry. Ears pinned, weight forward on her front legs, every line of her body angled at the dark. She didn't move when the warriors shifted. She didn't move when the **Mage** flared. She watched the south wall the way she watched a coyote line at dusk — patient, planted, and absolutely not negotiating about what was about to come through it.
 
 Nate raised the crossbow. First thorn bolt seated in the groove. The weight was different from the rack bolts — denser, the center of mass shifted forward by the natural taper. His hands adjusted without conscious input, micro-corrections built from twenty years of switching between tools that all balanced differently.
 
@@ -337,6 +345,8 @@ Two thorn bolts. Two kills that mattered.
 "She's not my girlfriend."
 
 "I said 'your girlfriend's material salvage.' The possessive was grammatical, not romantic. The fact that you immediately corrected the romantic interpretation tells me things I'm filing under a category you don't want to know about."
+
+The fight was finding its noise. Bark-on-stone footfalls layered with the wet crack of thorn-arms hitting raised shields. Sword work on the front line — heavy, repetitive, the rhythm of men chopping wood faster than wood was meant to be chopped. The smell had thickened: scorched sap from the **Mage**'s first bolts, iron from a **Warrior**'s shoulder gash, sweat and adrenaline and the mineral dust still settling out of the air. Marcus's voice cut through the layers in flat, even calls — a man air-traffic-controlling a fight by ear because there were too many vectors to track by sight.
 
 But the rear spawns had found the gaps.
 
@@ -390,6 +400,8 @@ Nate recognized the pattern and respected the execution. *Every other fighter in
 
 The warriors took the choke. Two men, shoulder to shoulder, the rock formations funneling the basic Thornlings into a two-wide corridor where even rough technique could hold. Their swings were still rough — but two rooms of use had worn the worst edges off. Both had earned at least one milestone chime, their basic sword technique creeping from Low toward Mid within Rank 1, and the difference showed: shorter arcs, less wasted motion, the downloaded knowledge settling into muscle memory instead of fighting it. One swung his base technique while the other fired his **Power Strike** — the System-guided blow hitting harder and landing cleaner, a faint glow along the blade's edge. Then they swapped. Rotation. Not because they were good at it, but because Marcus had told them to and two rooms of surviving had taught them that listening to Marcus was cheaper than learning the hard way.
 
+A Thornling clipped one warrior's shin — bark-thorn raking across the calf, a hot line of blood through torn pants. He grunted, didn't drop. The blade kept coming on the upswing because the System had carried his arm through the motion and the System didn't care that he'd just been hit. Behind him, the second warrior took the lead with his **Power Strike** ready, and the first man stumbled back into rotation breathing hard, hand pressed to the cut, eyes already counting the seconds until cooldown made him useful again. The choke held because two rough men were swapping the lead beat with the metronome rhythm of dancers who had no idea they were dancing.
+
 The **Mage** scrambled to the elevation — a rock shelf four feet up, wide enough to stand, sight lines clear to the center where the proto-guard was advancing. She threw a **Fire Bolt**. Controlled this time — less mana in the cast, tighter beam, the bolt traveling in a focused line instead of a flare. The lesson from Room 2 applied. The bolt hit a basic Thornling and it dropped. Progress. Real, visible, earned progress.
 
 Then she waited. Hands dimming, mana regenerating, the discipline of a woman who'd burned too hot twice and had learned what dry felt like.
@@ -418,6 +430,8 @@ A Thornling circled toward the **Mage**'s elevated position. Rex materialized on
 
 Judge held the south wall. Rex ghosted through — a thought with teeth. Judge held ground — a statement with jaws — forty pounds of Blue Heeler planted between the rear-spawn corridor and the support line, barking at anything that came through with the authority of a dog who had decided that this was her fence line and she would die on it before she'd let something past.
 
+A Thornling tested her. It came around the south corridor's elbow at a low half-run, root-legs scrabbling for traction on the smooth stone, and Judge launched off her hindquarters like she'd been waiting for an invitation since Room 1. Her bite found the trailing root-ankle and she set her weight backwards — forty pounds of compact muscle anchored against the creature's forward momentum. The Thornling pitched, recovered, swung a thorn-arm at her and missed by a foot because she'd already let go and circled. By the time it had its balance, a **Warrior** had crossed the gap. Judge barked once at the kill — sharp, possessive — and reset her stance at the corridor mouth. The fence line held.
+
 Second thorn bolt into the proto-guard's right arm joint. **Structural Analysis** had mapped the seam while the creature was staggering from the first hit — the armor plates shifting, new gaps opening as structural integrity on the left side compromised the right. The bolt punched through bark and the proto-guard's right arm locked at the elbow.
 
 Third bolt. The curved one — Josie's vindicated thorn, the one Flint had called decorative and Josie had proved structural. Nate compensated for the rightward pull, aimed for the shoulder gap that had widened as the creature's damaged arms pulled the chest plates apart. The bolt flew true — the compensating flat he'd filed into the base correcting the drift — and buried itself in the shoulder-to-torso gap. Amber sap sprayed in a thick arc.
@@ -425,6 +439,8 @@ Third bolt. The curved one — Josie's vindicated thorn, the one Flint had calle
 The proto-guard seized. Both arms locked. Its advance stopped completely, seven feet of bark-armored proto-monster standing in the center of the room — rooted, locked, a dead tree still vertical.
 
 The warriors finished it. Two men converging on the immobilized creature, hacking into the joints Nate had already cracked open. Not surgical. Not pretty. But they attacked the same target at the same time from two angles without getting in each other's way, and three rooms ago that would have been impossible. Eight seconds of ugly, coordinated violence, and the proto-guard collapsed in a sound of splitting bark and tearing root-fiber that echoed off the stone walls. Amber sap pooled beneath the carcass, thick and dark.
+
+The room exhaled. For two seconds — maybe three — there was no sound but heavy breathing and the soft *tock-tock* of amber sap beading off the proto-guard's carcass onto the stone. The **Mage** was hunched on her ledge, hands at her knees, mana faintly visible at her fingertips like coals banked under ash. The smell was overwhelming: scorched sap, iron, dust, and the green-wood reek of split bark concentrated into the lowest fifty feet of breathing room they had. Two of the warriors were laughing — a short, ugly sound that had nothing to do with humor and everything to do with adrenaline that had nowhere to go.
 
 But the room had done what the room was designed to do.
 
