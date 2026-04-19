@@ -102,7 +102,7 @@ Wider corridor, warmer light, the torches burning with a steady amber glow inste
 
 People were sitting. Leaning against walls. Breathing hard, ragged, the post-survival version — first-beer-after-fencing breathing, the same substance doing entirely different work.
 
-Healing was accelerating. The healers — three of them, all glowing with the soft white light of System-granted restoration — moved between the injured with the tentative authority of people who'd had their abilities for less than two hours and were still surprised when they worked. A **Warrior** with a gash across his forearm sat still while a woman pressed her palm to the wound and the flesh knitted like time-lapse footage of a cut healing in reverse. The **Warrior** watched it happen with wide eyes. The **Healer** watched it happen with wider ones.
+Healing was accelerating. The healers — three of them, all glowing with the soft white light of System-granted restoration — moved between the injured with the tentative authority of people who'd had their abilities for less than two hours and were still surprised when they worked. A **Warrior** with a gash across his forearm sat still while Ana Torres pressed her palm to the wound and the flesh knitted like time-lapse footage of a cut healing in reverse. The **Warrior** watched it happen with wide eyes. Ana watched it happen with wider ones.
 
 Then came the moment that told Nate everything he needed to know about where this was heading.
 
@@ -497,6 +497,8 @@ Sight picture through the ring: clean. The two-degree cant was still there — t
 "You keep a ledger of favors?"
 
 "I keep a ledger of *everything.* Favors are just the column with the most interesting audit trail."
+
+At the next bench, **WALT KEANE — SMITH [RANK F — LOW]** was working a piece of bark-plate with the sale-barn squint of a man who'd spent thirty years sizing up other people's livestock and hadn't lost the habit. He glanced at Nate's peep sight. Grunted once. Approving, the way an auctioneer's *fair enough* settled a price.
 
 Josie was trading.
 
