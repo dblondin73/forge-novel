@@ -108,13 +108,13 @@ Two down. Eight Thornlings and three **Thornguards** still moving.
 
 The **Thornguards** were the problem. They'd spread across the cavern in a formation that **SA** flagged as intentional — not clustering, not charging, but positioning. One at the center, drawing attention from the Warrior line. Two flanking wide, using the stalactite clusters as cover, moving through the acoustic chaos like they understood the terrain better than the people fighting in it.
 
-The center **Thornguard** hit the Shield Guardian's position like a freight train. The big man braced — shield up, feet planted, the full-body commitment of a man who'd learned in six rooms that standing your ground was the difference between a bruise and a burial. The impact drove him back three feet through stone dust. His shield held. His arm did not like it.
+The center **Thornguard** hit Sam Hargrove's position like a freight train. The big man braced — shield up, feet planted, the full-body commitment of a man who'd learned in six rooms that standing your ground was the difference between a bruise and a burial. The impact drove him back three feet through stone dust. His shield held. His arm did not like it.
 
 Nate signed the flankers. Two fingers, wide spread. *Two contacts, splitting.* Point, point. *That one. Then that one.* Marcus relayed. Two Warriors peeled from the main engagement and intercepted.
 
 The fight lasted eight minutes. Felt like forty.
 
-By the time the last **Thornguard** went down — three Warriors and the Shield Guardian working its exposed lower back while Nate put a thorn bolt through the arm joint that Rex had herded it into exposing — the cavern floor was littered with bark and thorn and wet-wood decay — Thornling death mixed with underground water.
+By the time the last **Thornguard** went down — three Warriors and Sam working its exposed lower back while Nate put a thorn bolt through the arm joint that Rex had herded it into exposing — the cavern floor was littered with bark and thorn and wet-wood decay — Thornling death mixed with underground water.
 
 One person didn't get up when the fighting stopped.
 
@@ -130,7 +130,7 @@ The door at the far end of the cavern opened. Room 8 was a corridor turned kill 
 
 Narrower than anything since the first stone rooms — twenty feet wide, irregular walls that created blind corners and chokepoints. Thornlings owned this terrain — born in it, shaped by it. Four of them patrolled the corridor in pairs, bark-bodies low and fast in the confined space. A **Thornguard** held the far end — bouncer at a door nobody wanted to enter.
 
-Marcus ran the advance from the front. Tight formation. Shield Guardian first, then Warriors in pairs, then ranged support. The corridor didn't allow flanking or creative positioning. Just forward. Through.
+Marcus ran the advance from the front. Tight formation. Sam first, then Warriors in pairs, then ranged support. The corridor didn't allow flanking or creative positioning. Just forward. Through.
 
 The first pair of Thornlings went down fast — confined space meant confined dodge options, and the Warrior line had learned to work in paired rotations. The second pair was harder. They'd positioned behind a collapsed section of corridor wall — rubble and loose stone creating a barricade that the creatures used as cover, darting out for thorn-rakes and retreating before counterattacks could land.
 
@@ -192,7 +192,7 @@ The second Thornling was three feet behind the first.
 
 Rex hit it from the side. Not a snap — a committed lunge, jaws closing on the bark-skin forearm, fifty pounds of Border Collie wrenching sideways with the full-body torque of a dog who had decided that this particular creature was not going to reach his person. The Thornling stumbled. One second of delay. Enough.
 
-Nate went through the gap backward, hammer-first, and cleared the rubble. Rex released and followed, bark splinters in his teeth, and the Shield Guardian's hands — vise grips, those hands — hauled them both through the last three feet.
+Nate went through the gap backward, hammer-first, and cleared the rubble. Rex released and followed, bark splinters in his teeth, and Sam's hands — vise grips, those hands — hauled them both through the last three feet.
 
 He hit the corridor floor on the safe side and the pain arrived on delay — serious injuries always waited for the adrenaline to thin before making an entrance. Two lines of wet heat across his back, left shoulder to right hip. Not deep enough to reach anything critical. Deep enough to cost.
 
@@ -294,7 +294,7 @@ Twelve spawn points. Ten standard. Two **Thornguard**.
 
 But when the spawn points fired and the **Thornguards** rose, the combat behavior was different.
 
-The first **Thornguard** drew aggro immediately — advancing on the Shield Guardian's position with the direct, aggressive charge that six rooms of **Thornguard** behavior had established. The Warrior line braced. The Shield Guardian set his feet. The formation held.
+The first **Thornguard** drew aggro immediately — advancing on Sam's position with the direct, aggressive charge that six rooms of **Thornguard** behavior had established. The Warrior line braced. Sam set his feet. The formation held.
 
 The second **Thornguard** didn't charge.
 
@@ -338,13 +338,13 @@ The reticle tightened on the flanking **Thornguard's** arm joint. Concentric arc
 
 His bolt hit the joint at forty feet — denser than earlier ammunition, Josie's material selection giving it mass that System-standard projectiles didn't have. The **Thornguard** plate tip punched through bark armor that would have deflected anything from the racks. The arm dropped.
 
-His second bolt went into the center **Thornguard's** lower back while the Shield Guardian held its attention from the front. Single-layer bark. The bolt sank to the base and the creature screamed the deep-timber sound and went to one knee.
+His second bolt went into the center **Thornguard's** lower back while Sam held its attention from the front. Single-layer bark. The bolt sank to the base and the creature screamed the deep-timber sound and went to one knee.
 
 Rex and Nate operated as a single unit now. The dog's empathic sense identified pressure — where the Thornlings were clustering, where the formation was weakest, where the next strike would come before it came. That information flowed through the bond as impression, not data, and Nate's hands translated impression into targeting. Rex read the herd. Nate culled it. No words. No commands. A rancher and his dog working stock they'd never seen before with a fluency that predated every System on the planet.
 
 The flanking **Thornguard** adjusted. The one-armed creature shifted its approach — favoring the damaged side, using the stone columns as cover on its open flank, compensating with a tactical awareness that no creature in the first six rooms had demonstrated. It was learning in real time. Not just running recorded patterns from earlier rooms — actively adapting to its own injury, — wounded animal behavior, adjusting to new rules mid-fight.
 
-The Warrior line closed on it from three sides. Four fighters who'd learned that **Thornguard** bark was weakest where the armor had already been damaged, working the exposed joint where Nate's bolt had taken the arm. Swords found the gaps. The creature went to one knee. Went to both. The deep-timber scream cut short when the Shield Guardian put his full weight behind a downward strike that split the bark-plate across the spine.
+The Warrior line closed on it from three sides. Four fighters who'd learned that **Thornguard** bark was weakest where the armor had already been damaged, working the exposed joint where Nate's bolt had taken the arm. Swords found the gaps. The creature went to one knee. Went to both. The deep-timber scream cut short when Sam put his full weight behind a downward strike that split the bark-plate across the spine.
 
 The fight ended ugly and quiet — not with a dramatic final blow but with the slow, grinding realization that the room had run out of things to fight. The last three Thornlings went down in overlapping seconds, surrounded, outnumbered, the coordinated pairs broken into isolated targets that the surviving fighters put down with the mechanical efficiency of people who had been doing this for nine rooms and had stopped feeling anything about it except tired.
 
@@ -422,7 +422,7 @@ Flint, internally: "Seventeen materials the System's loot tables don't account f
 
 She knew the boss room was next. Everyone knew. The knowledge filled the rest area — not visible, not audible, but taking up space. Dread with nowhere else to go. Josie's hands moved faster when she was scared. The sorting accelerated, each piece placed with a precision that was either mastery or white-knuckle control over the small things because the big things were beyond anyone's grip.
 
-The Shield Guardian was testing his shield. Nate had fixed it two rooms ago — a **Field Repair** job on a crack that had run from boss to rim after the Room 7 **Thornguard** collision. The repair held. The big man tested the shield: hit it, check the ring, hit it again.
+Sam was testing his shield. Nate had fixed it two rooms ago — a **Field Repair** job on a crack that had run from boss to rim after the Room 7 **Thornguard** collision. The repair held. The big man tested the shield: hit it, check the ring, hit it again.
 
 He caught Nate's eye across the rest area.
 

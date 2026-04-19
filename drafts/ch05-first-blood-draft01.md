@@ -440,7 +440,7 @@ Three more dead. Forty. The number had stopped being arithmetic and started bein
 
 Nobody said the names. That was the part that stayed with Nate — nobody said the names because almost nobody knew them. Forty-three had walked into this room and forty had walked out, and even the three who hadn't were becoming abstractions faster than felt decent. The young **Warrior** who'd chased too deep. The man who'd held his shield until it broke. The woman behind him. They'd be remembered by what they did at the end, not who they'd been before it. The Tutorial was stripping identity down to function, and the dead were the first to lose theirs.
 
-The **Shield Guardian** was standing near the east wall. The same man who'd glanced at Nate's **PROCESSING** tag in the starting room and walked away with the calculation of rank and classification behind his eyes — *unclassified, unconventional, not worth the investment.*
+Sam Hargrove was standing near the east wall. The same man who'd glanced at Nate's **PROCESSING** tag in the starting room and walked away with the calculation of rank and classification behind his eyes — *unclassified, unconventional, not worth the investment.*
 
 He was looking at Nate's elevated position. At the crossbow. At three thorn bolts buried in a proto-guard's joints from forty feet.
 

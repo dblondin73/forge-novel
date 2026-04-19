@@ -70,7 +70,7 @@ The joint seams were decorative. **SA** laid out the architecture in clinical wi
 
 "Lower back, single-layer. Arm joints — the seams are fake. No structural backing behind the plate edges." Nate called it from the boulder line, loud enough for the Warrior line to hear. "The armor's decorative at every joint."
 
-The **Shield Guardian** was the first to move. The big man pivoted without hesitation — no longer the dismissive assessment of the first room, no longer the grudging nod of Room 3. Three rooms of watching Nate call every weakness from elevation had done what argument never could. He drove his shield into the **Thornguard**'s front, pinning it, turning it, and the two Warriors who'd learned to listen to the man with the barn-crossbow circled to the exposed back.
+Sam Hargrove was the first to move. The big man pivoted without hesitation — no longer the dismissive assessment of the first room, no longer the grudging nod of Room 3. Three rooms of watching Nate call every weakness from elevation had done what argument never could. He drove his shield into the **Thornguard**'s front, pinning it, turning it, and the two Warriors who'd learned to listen to the man with the barn-crossbow circled to the exposed back.
 
 Their swords found single-layer bark. The blades sank.
 
@@ -276,7 +276,7 @@ The math was deliberate. And something about the way the gear materialized — t
 
 He was right. Nate knew he was right. Everyone in the corridor knew he was right, and some of them hated him for it anyway, because being right about who gets armor meant being right about who doesn't, and the people who didn't were standing right there listening.
 
-The sets distributed. Warriors grabbed upgraded weapons with the urgency of people who'd watched their blades bend against **Thornguard** plate. The **Shield Guardian** took a reinforced shield that **SA** read as genuinely improved — actual metal facing over a layered composite core. Better. Not good. Better.
+The sets distributed. Warriors grabbed upgraded weapons with the urgency of people who'd watched their blades bend against **Thornguard** plate. Sam took a reinforced shield that **SA** read as genuinely improved — actual metal facing over a layered composite core. Better. Not good. Better.
 
 And the gratitude was immediate. Visible. The **Warrior** with the lion shield tested his new blade and his face opened into something that looked uncomfortably like joy. A woman who'd been fighting in starter leather ran her hands over the new chest piece and her eyes went bright. The room filled with gift-day energy — not supplies, not necessities, *gifts* — and nobody was thinking about the distribution math or the scarcity equation or the very deliberate way the **System** had made eighteen sets for thirty-five people so that receiving gear felt like winning and not receiving it felt like losing.
 

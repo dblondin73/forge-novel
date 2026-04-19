@@ -110,7 +110,7 @@ Five minutes. That's what the adds phase lasted, measured by the pulse of Nate's
 
 Three bolts spent. Two left — one standard, one special. Josie's best, still in the quiver, still waiting.
 
-The floor cleared. Spawn points dimmed. **Thornling** remains scattered across packed earth — brush clearing gone wrong — bark and thorn and generated material returning to the ground it came from. The last **Thornguard** went down under three Warriors and the Shield Guardian working together, a coordinated takedown that would have been impressive if anyone had the energy to notice.
+The floor cleared. Spawn points dimmed. **Thornling** remains scattered across packed earth — brush clearing gone wrong — bark and thorn and generated material returning to the ground it came from. The last **Thornguard** went down under three Warriors and Sam Hargrove working together, a coordinated takedown that would have been impressive if anyone had the energy to notice.
 
 And the **Briarknight** moved.
 
@@ -140,7 +140,7 @@ The monocrystalline edge hit the shield, and the shield didn't crack. It *detona
 
 The impression from Rex hit sharp — not words, never words. *Pack member down. Formation breaking. Danger close.*
 
-Torres stumbled forward. Hands up, the blue glow of healing magic flickering at her palms — weak, guttering, a candle in a hurricane. She reached the Guardian and the glow transferred, and Nate saw her knees buckle. Not dead. Not yet. But she'd just poured the last of her mana into a man who needed three times what she had left to give.
+Torres stumbled forward. Hands up, the blue glow of healing magic flickering at her palms — weak, guttering, a candle in a hurricane. She reached Sam and the glow transferred, and Nate saw her knees buckle. Not dead. Not yet. But she'd just poured the last of her mana into a man who needed three times what she had left to give.
 
 "It predicted the intercept," Flint said. "If the pattern match is any guide, the **System** fed it nine rooms of combat data. It read the Guardian's likely move to protect the Healer and used the shield impact to open the backline. Nate — this thing isn't fighting us. It's running our playbook."
 
@@ -302,13 +302,13 @@ The Warriors didn't need Marcus to tell them.
 
 Nine rooms of trust. Nine rooms of following the **Vanguard's** calls, learning that coordination was the difference between a group and a unit, building the muscle memory that turned "move together" from a concept into a reflex. They saw the cracked armor. They saw the exposed joints — gaps that hadn't existed thirty seconds ago, opened by compression that had done what ten rooms of edged weapons couldn't. They moved.
 
-The Shield Guardian led the charge.
+Sam Hargrove led the charge.
 
 Nate saw it happen and felt something tighten in his chest that had nothing to do with combat.
 
 The big man. Broken arm — the one the **Briarknight's** shield-shattering blow had wrecked, hanging at an angle that said *done* in the universal language of joints that didn't bend that way. Running on adrenaline and something deeper than adrenaline, something that lived in the place where a man decided what he was willing to pay for the chance to matter. He carried no shield. His shield was scattered across the arena floor in pieces that still showed Nate's **Field Repair** seams, the darker material that had held longer than the original construction. He carried a sword in his good hand and nothing else, and he ran toward the pinned **Briarknight** with the full-body commitment of a man who was buying back something he'd spent nine rooms trying to afford.
 
-The first room. The Shield Guardian walking past Nate's PROCESSING tag without a word. The calculation on his face: *unclassified, unconventional, not worth the investment.* The man who'd looked at Nate's glitched interface and homemade crossbow and decided that whatever was broken in that framework wasn't his problem.
+The first room. Sam Hargrove walking past Nate's PROCESSING tag without a word. The calculation on his face: *unclassified, unconventional, not worth the investment.* The man who'd looked at Nate's glitched interface and homemade crossbow and decided that whatever was broken in that framework wasn't his problem.
 
 Nine rooms later, the man with the broken arm was charging a boss that an engineer with a broken framework had made killable.
 
@@ -338,7 +338,7 @@ Nobody spoke for ten seconds. The kind of ten seconds that contained funerals an
 
 Marcus stood in the center of the surviving group, breathing. Just breathing. His **Vanguard** HUD was probably running assessment feeds and status updates, but his eyes were human and his eyes were counting the people who were still vertical. Twelve. He mouthed it. Nate could see his lips move.
 
-Torres had collapsed. The Healer lay where her last mana push had taken her — on her knees beside the Shield Guardian, hands still raised, palms still faintly glowing with the ghost of healing magic that had been spent seven minutes ago. Mana depletion. Not wounded. Empty. The difference was academic to her body, which had decided it was done.
+Torres had collapsed. The Healer lay where her last mana push had taken her — on her knees beside Sam Hargrove, hands still raised, palms still faintly glowing with the ghost of healing magic that had been spent seven minutes ago. Mana depletion. Not wounded. Empty. The difference was academic to her body, which had decided it was done.
 
 The loot chest materialized in the center of the arena with a clean metallic click — a chest of dark wood banded with iron, appearing where the **Briarknight** had first stood, between the four pillars (three standing, one a pile of structural rubble). Classic boss drop. The System's reward protocol engaging with the same punctuality as a vending machine dispensing product after exact change.
 
@@ -430,7 +430,7 @@ The Shield Guardian — broken arm, no shield, sword still bloody — saw his sc
 
 People cried. Not all of them — some laughed, some stared, some sat on the arena floor and read their screens with the glazed focus of people processing too much data through too little bandwidth. But the ones who cried weren't crying from sadness. They were crying from relief. From overwhelm. From the specific emotional payload of surviving something impossible and being told by a formal authority that the survival counted.
 
-Torres sat up. The restoration potion had done its work — her color was back, her hands were steady, and her blue screen was scrolling through Healer upgrades that made her stare with the wide-eyed attention of a med student on the first day of residency. She looked at her hands. Looked at the Guardian she'd spent her last mana on. Looked at her screen. Cried.
+Torres sat up. The restoration potion had done its work — her color was back, her hands were steady, and her blue screen was scrolling through Healer upgrades that made her stare with the wide-eyed attention of a med student on the first day of residency. She looked at her hands. Looked at Sam — the man she'd spent her last mana on. Looked at her screen. Cried.
 
 Marcus read his screen standing up. Of course he did. His **Vanguard** interface was more complex than anyone else's — layers of tactical data, leadership metrics, unit performance analytics that the System had been tracking since the first room. He read it all. His jaw tightened twice. When he finished, he closed his screen and looked at his twelve survivors, and his face said everything his mouth didn't: *We should have been fifteen. We should have been fifty.*
 
@@ -488,7 +488,7 @@ Marcus noticed first. His edges — the hard lines of his shoulders, his boots, 
 
 The Mage was next. Her form softened at the edges, the blue screen still glowing in front of her face as the Tutorial pulled her away from it. She didn't fight it. Just read her screen harder, trying to absorb every stat before the numbers faded with the stone.
 
-Torres faded. The Shield Guardian faded. One by one, the twelve survivors — eleven System citizens and one glitched Engineer — dissolved from the arena the way fog dissolved from a pasture at sunrise. Not violently. Gently. The System depositing its graduates back where it had found them, because the Tutorial was a temporary space and temporary spaces close when their purpose is served.
+Torres faded. Sam Hargrove faded. One by one, the twelve survivors — eleven System citizens and one glitched Engineer — dissolved from the arena the way fog dissolved from a pasture at sunrise. Not violently. Gently. The System depositing its graduates back where it had found them, because the Tutorial was a temporary space and temporary spaces close when their purpose is served.
 
 Josie clutched her ring hand to her chest as her edges went soft. "If this transition damages the lattice structure, I am going to — " The rest of the sentence went with her.
 
@@ -536,7 +536,7 @@ Two blue arcs at the edge of his vision. Brighter now. Steadier. The ghost of am
 
 In his pocket, three bark-plate samples that Josie had asked him to hold temporarily, which meant forever, which meant she trusted him with pieces of a collection she valued more than her own comfort.
 
-His HUD populated something new — a contact list, twelve names long. Marcus Webb. Josie Pickett. Torres. The Shield Guardian. The survivors. Receive-only. The System's version of a Rolodex where you could see who was out there but couldn't pick up the phone. Twelve people, scattered back to wherever Integration had found them, alive and reachable in the loosest possible definition of the word.
+His HUD populated something new — a contact list, twelve names long. Marcus Webb. Josie Pickett. Ana Torres. Sam Hargrove. The survivors. Receive-only. The System's version of a Rolodex where you could see who was out there but couldn't pick up the phone. Twelve people, scattered back to wherever Integration had found them, alive and reachable in the loosest possible definition of the word.
 
 The crossbow hung from his right hand. Table leg stock, refined and upgraded across ten rooms of combat until the original hardwood was layered with **Thornguard** composite and the trigger mechanism operated with a precision that would have been impossible to manufacture without **Field Repair's** understanding. Ugly. Functional. His.
 

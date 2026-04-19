@@ -280,11 +280,11 @@ Nate almost smiled.
 
 "Same thing." She pointed at him with the leather strip. "The difference matters."
 
-She crouched. Not reaching for Rex, just lowering herself to his level, — someone who understood animals, making herself smaller before making contact. Rex's tail moved once. Not a wag. A data point. She passed.
+She crouched. Not reaching for Rex, just lowering herself to his level — someone who understood animals, making herself smaller before making contact. Rex's tail moved once. She passed.
 
-"I'm Josie," she said, straightening. "Josie Pickett." She held up a hand before he could ask. "Yes, like the fence. I've heard it. My screen says **Appraiser**, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them. The chain shirts are the best armor in here — actual metal rings, not composites — but they're sized for someone about six inches taller than me, which is a recurring theme in my life."
+"I'm Josie," she said, straightening. "Josie Pickett." She held up a hand before he could ask. "Yes, like the fence. I've heard it. My screen says **Appraiser**, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them. The chain shirts are the best armor in here — actual metal rings — but they're sized for someone about six inches taller than me, which is a recurring theme in my life."
 
-"She just identified those chain shirts as genuine metal rings," Flint said. "Her **Appraiser** class sees material *value*. Your **Structural Analysis** sees material *structure*. She prices the steak. You read the grain of the cow." A pause. "I am now deeply curious what happens when both of you look at the same object."
+"She just identified those chain shirts as genuine metal rings," Flint said. "Her **Appraiser** class sees material *value*. Your **Structural Analysis** sees material *structure*. She prices the horse. You read its conformation." A pause. "I am now deeply curious what happens when both of you look at the same object."
 
 "And the robes are —" Josie made a face that conveyed her complete professional assessment of the robes without needing a single word. "Are we going to die in here?"
 
@@ -370,7 +370,7 @@ A man walked past — big, broad-shouldered, a build earned on construction site
 
 "The big ones always pick last," Flint said internally. "Adding him to the list of people who'll want to be your friend when their swords snap. The list has subsections now. He's in the subsection labeled 'ironic.'"
 
-Marcus had caught the **Shield Guardian's** dismissal. His jaw tightened half a degree. Sergeants read their people like engineers read stress fractures — not by looking for problems, but by being unable to stop.
+Marcus had caught Sam Hargrove's dismissal. His jaw tightened half a degree. Sergeants read their people like engineers read stress fractures — not by looking for problems, but by being unable to stop.
 
 "The **System** tried to give me a combat skill," Nate said. "Standard melee opener. It didn't take."
 
@@ -378,7 +378,7 @@ Marcus had caught the **Shield Guardian's** dismissal. His jaw tightened half a 
 
 Nate ran his hand along the crossbow stock. Felt the wood respond under his palm — grain alive through **Field Repair's** lens, the molecular structure humming at a frequency his hands already knew. "The **System** tried to give me a sword. I got a workshop."
 
-Marcus studied him for a long moment. Not assessing rank or status — not like the **Shield Guardian**. Marcus was reading capability. A staff sergeant sizing up a new boot: not what the paperwork said, but what the man could actually do when the paperwork stopped mattering.
+Marcus studied him for a long moment. Not assessing rank or status — not like Sam. Marcus was reading capability. A staff sergeant sizing up a new boot: not what the paperwork said, but what the man could actually do when the paperwork stopped mattering.
 
 "Stay behind the line. Whatever that door opens into, you're not point. You're building whatever we need to survive the next room." He turned to go, then stopped. "And stay close to Pickett. She's already got more salvage than anyone with a combat class."
 
