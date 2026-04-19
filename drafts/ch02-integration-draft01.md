@@ -90,7 +90,7 @@ The occupied space didn't acknowledge the attempt. The framework's structures to
 
 _That's a permission level I've never seen,_ Nate thought, and the thought felt small against the thing it was trying to describe. _Whatever's in there has root access to something the installer doesn't even know exists._
 
-And the install kept failing.
+And the installer, for its part, was beginning to agree.
 
 ---
 
@@ -154,7 +154,7 @@ And then — far off, the way weather gathers before you notice you've been hear
 
 Every person on earth went through it. Eight billion integrations, eight billion frameworks installed, eight billion sets of shelves erected in eight billion minds. Most went cleanly — the seamless migration from what they had been to whatever came out the other side of the process. They woke up grateful. They woke up classified. They woke up with blue screens and starter kits and the warm certainty that the thing that had just happened to them was a gift.
 
-Most took. A few did not. And this one — the man lying in the bermudagrass — was the kind of _did not_ that had no entry in the **System**'s documentation. The difference — small as a single partition error on a single node — would ripple outward in ways no one could yet imagine.
+Most took. A few did not. And this one — the man lying in the bermudagrass — was the kind of _did not_ that had no entry in the **System**'s documentation. The difference — small as a single partition error on a single node — would ripple outward in ways neither the **System** nor the man could yet predict.
 
 ---
 

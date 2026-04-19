@@ -138,7 +138,7 @@ A beat. Nate felt the shift — Flint's attention snapping sideways, rummaging, 
 
 Flint let that sit for a second, then pivoted into what was clearly the translator layer.
 
-"Here's my guess, and I want to be very clear that it's a guess because my read-access to **System** internals is something between 'limited' and 'actively insulted'. The **System** saw the word _engineer_ on your profile, went to the drawer where it keeps generic-diagnostic-tool-shaped things, and handed you the one sitting on top. It's not personalized. It's a starter pack. It's the version handed to characters who picked the boring class at the character creation screen."
+"Here's my guess, and I want to be very clear that it's a guess because my read-access to **System** internals is something between 'limited' and 'actively insulted'. The **System** saw the word _engineer_ on your profile, went to the drawer where it keeps generic-diagnostic-tool-shaped things, and handed you the one sitting on top. It's not personalized. It's a starter pack. It's the version handed to characters who picked the boring class at the character creation screen so that they at least get to _feel_ like they're playing the game."
 
 Nate said nothing. Just waited — the patience of a man who'd been sold tools by salesmen before and learned that the pitch told you less than five minutes with the thing in your hand.
 
