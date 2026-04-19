@@ -630,7 +630,11 @@ A woman — fortysomething, scrubs, the one who'd grabbed the longsword with a s
 
 Nate stood by the far wall, hammer on his belt, crossbow in his hands, Rex pressed against his shin, and didn't speak. Five thorn-bolts left in a pile at his feet, Josie's work, sorted and graded and ready. The crossbow's prod still held tension. **Structural Analysis** still flickered at the edges of his vision, reading the dead Thornlings, reading the walls, reading the room's architecture with the same detached precision it had read the weapon racks.
 
+---
+
 Four people. Their names would be learned later, at a rest stop, spoken aloud by people who'd stood near them or talked to them or watched them fall. Their faces would stay with the people who'd seen them die — not in the clean, categorized way that the **System** recorded data, but in the rough, unsorted way that human memory preserved things that mattered. They would be the first entries in a ledger that would grow, and the ledger would never be balanced, and nobody in the room knew yet that this room had a budget and the budget had been met.
+
+---
 
 Josie sat down beside him. Not talking. Not looting. Sitting with the sack clutched to her chest and her eyes fixed on the jacket draped over the man in khakis, and for the first time since she'd started talking in the safe room, she had nothing to say.
 
