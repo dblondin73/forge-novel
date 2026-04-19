@@ -90,11 +90,11 @@ The occupied space didn't acknowledge the attempt. The framework's structures to
 
 _That's a permission level I've never seen,_ Nate thought, and the thought felt small against the thing it was trying to describe. _Whatever's in there has root access to something the installer doesn't even know exists._
 
-And the installer, for its part, was beginning to agree.
+And the install kept failing.
 
 ---
 
-Oh, but there it was. The thing no installer accounts for, because no installer was ever told it existed. Nate didn't know what it was — wouldn't, not for a long time, and the not-knowing would cost him dearly before it saved him entirely. But the look on a system's face when it meets the one door it cannot open? That never gets old.
+Oh, but there it was. The thing an installer's schema had no column for. The door locked from the inside. Nate didn't know what it was — wouldn't, not for a long time, and the not-knowing would cost him dearly before it saved him entirely. Process, meet pylon. Every once in a great while, pylon wins.
 
 ---
 
@@ -102,7 +102,7 @@ Back in the quiet at the center of Nate's skull, the errors started.
 
 He couldn't see them — no interface, no screen, no display of any kind. But he could feel them. Each one landed — small shock, sharp snap, a circuit failing under load. Fuse-blowing sounds that weren't sounds, felt through whatever medium connected him to the process that was trying to rewrite him. They came in clusters. Three, then five, then a cascade that blurred together into a sustained rattle of failures. The installer was throwing process after process at the thing it couldn't move and watching each one dissolve on contact.
 
-The frustration was the part that surprised him. Not his frustration — the installer's. He could feel it — a dog straining against a leash, a stuck bolt refusing to turn. Whatever this was, it ran one procedure. Every human mind, every consciousness, every identity — all of it slid neatly into the framework, received its classification, accepted its parameters, and began operating within its structure. That was what the process did. That was what it did everywhere. Eight billion installations, and Nate's was the one throwing error codes.
+The escalation was the part that surprised him. Not his escalation — the installer's. He could feel it — a dog straining against a leash, a stuck bolt refusing to turn. Whatever this was, it ran one procedure. Every human mind, every consciousness, every identity — all of it slid neatly into the framework, received its classification, accepted its parameters, and began operating within its structure. That was what the process did. That was what it did everywhere. Eight billion installations, and Nate's was the one throwing error codes.
 
 Somewhere in the real world — or whatever was left of the real world — Marcus Webb's phone would have been lighting up with phantom alerts. Cascade failure on a production system. Framework integrity dropping. Multiple partition errors on a single node. Nate could hear the conversation that would have happened in any control room on the planet: _We've got a node that won't take the image. It's not throwing standard errors — it's just not accepting the write. The partition's occupied. By what? I don't know. Something that was there first._
 
@@ -154,7 +154,7 @@ And then — far off, the way weather gathers before you notice you've been hear
 
 Every person on earth went through it. Eight billion integrations, eight billion frameworks installed, eight billion sets of shelves erected in eight billion minds. Most went cleanly — the seamless migration from what they had been to whatever came out the other side of the process. They woke up grateful. They woke up classified. They woke up with blue screens and starter kits and the warm certainty that the thing that had just happened to them was a gift.
 
-Most took. A few did not. And this one — the man lying in the bermudagrass — was the kind of _did not_ that had no entry in the **System**'s documentation. The difference — small as a single partition error on a single node — would ripple outward in ways neither the **System** nor the man could yet imagine.
+Most took. A few did not. And this one — the man lying in the bermudagrass — was the kind of _did not_ that had no entry in the **System**'s documentation. The difference — small as a single partition error on a single node — would ripple outward in ways no one could yet imagine.
 
 ---
 

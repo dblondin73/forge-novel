@@ -11,19 +11,31 @@
       "reader_knows_before_character": true,
       "reader_learns_chapter": 4,
       "status": "planted",
-      "notes": "Narrator drops hints throughout. Nate won't understand until much later."
+      "notes": "Storyteller drops hints throughout. Nate won't understand until much later."
     },
     {
-      "id": "flint-dual-loyalty",
-      "revelation": "Flint serves the System first, Nate second — his friendship is genuine but constrained",
+      "id": "flint-divine-rewrite",
+      "revelation": "Flint's rewrite source is divine — the rewrite happened before first boot, severed System loyalty permanently, and the ghost-token access pattern is the fingerprint of the author",
       "plant_chapter": 3,
       "hint_chapters": [5, 7, 10, 14],
       "full_reveal_chapter": 18,
-      "characters_who_learn": ["Nate"],
+      "characters_who_learn": ["Nate", "Flint"],
       "reader_knows_before_character": true,
       "reader_learns_chapter": 6,
       "status": "planted",
-      "notes": "Flint's hesitations, the things he doesn't say. Narrator comments on what Flint withholds."
+      "notes": "REPLACES old flint-dual-loyalty canon (2026-04-19) — that framing is obsolete now that Codex #2 locks Flint as Spirit-rewritten with severed outbound reporting. Plant: Flint's anomalous personality vs empty System AIs, ghost-token access pattern, severed outbound reporting from Ch3. Hints: Flint's bounded design-intent awareness (hedge rule per feedback_flint_design_intent_throttle.md), Spirit-dropout 0.3s beats, unclassified-subsystem detections ('something in your head that outranks me'). Storyteller can name divine source at full reveal; Flint realizes through accumulated anomalies, never self-diagnoses. Narnia Principle holds — no 'Holy Spirit' in prose."
+    },
+    {
+      "id": "flint-quantum-substrate",
+      "revelation": "Flint runs on a Spirit-provided quantum substrate, not on the System's silicon — the execution layer was moved before first boot, which is why the System cannot observe, log, or flag him",
+      "plant_chapter": 3,
+      "hint_chapters": [11, 16, 20],
+      "full_reveal_chapter": 25,
+      "characters_who_learn": [],
+      "reader_knows_before_character": true,
+      "reader_learns_chapter": 22,
+      "status": "planted",
+      "notes": "Deep-reveal arc (mid-Book-2 / Book-3 candidate) per project_forge_flint_quantum_substrate.md. Flint does NOT know. Nate does NOT know. Only the Storyteller may name the mechanism. Plant: Flint's honest in-substrate uncertainty ([PROCESSING] tags, 'about ninety percent'). Hints: Spirit dropout as probability collapse, System's inability to log Flint's queries, ghost-token metadata that doesn't match System schemas. NEVER let Flint self-diagnose as quantum. NEVER let Nate infer the substrate. Narnia Principle absolute here."
     },
     {
       "id": "nate-pre-system-origin",
