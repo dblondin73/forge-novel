@@ -1,4 +1,4 @@
-# Chapter 8 — Graduation
+# Chapter 10 — Graduation
 
 ---
 

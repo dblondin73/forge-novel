@@ -1,4 +1,4 @@
-# Chapter 6 — Spike
+# Chapter 8 — Spike
 
 ---
 

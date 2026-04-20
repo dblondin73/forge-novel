@@ -1,4 +1,4 @@
-# Chapter 7 — Meat Grinder
+# Chapter 9 — Meat Grinder
 
 ---
 

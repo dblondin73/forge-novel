@@ -1,4 +1,4 @@
-# Chapter 4 — First Room
+# Chapter 4 — Safe Room
 
 ---
 
@@ -503,6 +503,3 @@ Fifty people moved forward. Not because they were ready. Because the room they w
 ---
 
 The **System** logged them through. Fifty warm bodies, one unclassified framework, one dog growling at the floor, and one who had already decided she was going to bite it.
-
----
-
