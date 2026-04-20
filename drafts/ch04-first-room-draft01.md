@@ -506,7 +506,7 @@ The **System** logged them through. Fifty warm bodies, one unclassified framewor
 
 ---
 
-The corridor opened into Room 1 — throat widening into stomach.
+The corridor opened into Room 1 — the throat widening into the stomach.
 
 Sixty feet across. Eighty deep. Ceiling lost in shadow above the torchlight. Same stone, same iron sconces, same architecture — but the light was wrong. Dimmer. Warmer. The torches here burned amber instead of orange, and the shadows between them were thicker, deeper, dark that moved when you looked away from it.
 
@@ -522,7 +522,7 @@ Not cracked — split. Bark peeling off a log. A section of stone three feet acr
 
 More. Five, eight, twelve — the floor opening in a cascade of stone-bark panels, creatures pulling themselves up and into the torchlight — saplings growing in fast-forward. They moved in a pack. No formation, but a pattern — spreading outward from the center, filling gaps, covering angles. Herding behavior. Rex saw it the same instant Nate did. A snarl ripped from the dog's chest, low and sustained, the sound he made when coyotes pushed too close to the calves and the line had to hold.
 
-Thornlings. He didn't know the name yet. The **System** hadn't labeled them. But **Structural Analysis** read their bodies — bark over woody fiber, structural density concentrated in the limbs and skull, sap channels running through the core — circulatory system built from tree biology. Living architecture. Generated life built from generated materials by a **System** that could produce stone and steel and apparently something that bled amber and wanted to kill you.
+<<at this point just describe them. don't give them a name until flint pulls it from the network.>> Thornlings. He didn't know the name yet. The **System** hadn't labeled them. But **Structural Analysis** read their bodies — bark over woody fiber, structural density concentrated in the limbs and skull, sap channels running through the core — circulatory system built from tree biology. Living architecture. Generated life built from generated materials by a **System** that could produce stone and steel and apparently something that bled amber and wanted to kill you.
 
 "Organic constructs," Flint confirmed. "System-generated. Pack hunters. The thorns are structural — load-bearing, not decorative. And the limbs have tensile strength well beyond their size. Do not let the height fool you. These are not small."
 
