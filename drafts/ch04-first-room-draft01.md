@@ -314,9 +314,7 @@ Nate found the mother before he found Marcus.
 
 She was still on her knees near the center of the room, hands pressed to her face, no longer calling the name but the silence where the name had been was worse. Her shoulders shook. Nobody had stopped. The warriors were comparing swords, the Mages were testing their new lights, Marcus was organizing, and the woman was on the floor and the crowd flowed around her like water around a stone.
 
-There was a water skin on the supply table. One of the ones the **System** had provided — generated, not real, but it held actual water. Hydration was *used* property. It had come out of the infrastructure batch.
-
-Nate picked it up. Walked to the woman. Crouched.
+There was a water skin on the supply table. One of the ones the **System** had provided — generated but it held actual water. Nate picked it up. Walked to the woman and crouched.
 
 "Ma'am."
 
@@ -328,21 +326,17 @@ She looked up. Mid-forties. Red-eyed, face wet, raw grief that didn't care about
 
 She took it. Drank. Handed it back. "Thank you."
 
-He stood. Walked to the supply table. Picked up the other three water skins and the small stack of dried rations the **System** had included — functional, not decorative, the same principle as the infrastructure. He distributed them. The older woman from Illinois. The teenager in the Oregon hoodie — **PETE BOWMAN — PATHFINDER [RANK F — LOW]** unread above his head — who took the water without looking up. The bald man — **KYLE GREENE — BERSERKER [RANK F — LOW]** floating above him — who had stopped hitting the wall and was standing with his back against it, breathing hard, staring at nothing. Nate handed him water. Kyle took it.
+He stood. Walked to the supply table. Picked up the other three water skins and the small stack of dried rations the **System** had included. He distributed them. The older woman he though was from Illinois. The teenager in the Oregon hoodie — **PETE BOWMAN — PATHFINDER [RANK F — LOW]** above his head — who took the water without looking up. The bald man — **KYLE GREENE — BERSERKER [RANK F — LOW]** floating above him — who had stopped hitting the wall and was standing with his back against it, breathing hard, staring at nothing. Nate handed him water. Kyle took it.
 
-Nobody asked why the man with the **PROCESSING** tag was handing out water while everyone else was grabbing weapons. Nobody noticed. That was fine. That was the point.
+Nobody asked why the man with the **PROCESSING** tag was handing out water while everyone else was grabbing weapons. Nobody noticed. That was fine.
 
----
-
-A man crouching beside a grieving mother and saying *drink something* while the rest of the room chased power. The **System** had columns for fifty people choosing weapons. It had no column for the one who chose water.
-
----
+*A man crouching beside a grieving mother and saying drink something while the rest of the room chased power. The System had columns for fifty people choosing weapons. It had no column for the one who chose water.*
 
 Marcus appeared without preamble — already moving, already assessing, — running his own recon of the room, Nate's corner the next objective.
 
 His eyes swept the crossbow, the three-legged table, the missing wall bracket, the pile of discarded crossbow parts, and processed all of it in the time it took most people to notice Nate's nameplate. They lingered on the amber **[PROCESSING]** tag for exactly one second.
 
-"Hell of a morning."
+"Hell of a morning," Marcus said.
 
 "That's one word for it."
 
@@ -350,7 +344,9 @@ His eyes swept the crossbow, the three-legged table, the missing wall bracket, t
 
 "Still processing."
 
-"Same damn thing in a room that's about to open a door." He looked at the crossbow in Nate's hands. "You built that."
+"Same damn thing in a room that's about to open a door." He looked at the crossbow in Nate's hands.
+
+"You built that."
 
 "From parts."
 
