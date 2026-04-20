@@ -56,7 +56,7 @@ A woman beside her — another **Mage**, or maybe a **Sorcerer**, Nate couldn't 
 
 The *him* sat heavy. Nobody corrected it. Ana Torres, crouched near the wall rolling the last of her white-light work into a Warrior's shoulder, didn't look up — but her hands slowed for half a second and then kept going.
 
-Across the room Josh Miller — seventeen, big-shouldered, the teenager who'd grabbed the biggest axe in Room 0 because nobody else had reached it first — was reading his sheet with the expression of a kid who had just been handed a tool he wasn't sure he could pick up. His eyes moved slower than the adults'. He was subvocalizing — reading the entries one at a time, the way a boy might read a manual for a truck he didn't yet have a license for.
+Across the room Josh Miller — seventeen, big-shouldered, the teenager who'd grabbed the biggest axe in the Safe Room because nobody else had reached it first — was reading his sheet with the expression of a kid who had just been handed a tool he wasn't sure he could pick up. His eyes moved slower than the adults'. He was subvocalizing — reading the entries one at a time, the way a boy might read a manual for a truck he didn't yet have a license for.
 
 "**Warrior — Rank One — Low,**" Josh said out loud. He didn't mean to. The reading had spilled out of his mouth. A couple of warriors glanced over, then away. "Basic Swing. Basic Block. **Power Strike** is locked. It says I need — it says it's behind a confidence gate." He blinked. "What's a confidence gate?"
 
@@ -200,7 +200,7 @@ Not dramatically. No glow, no special effect. The same quiet shift he'd felt in 
 
 Eight inches of dense, tapered material that had spent its existence punching through bark. Not long enough for a bolt shaft. But the perfect shape for a head.
 
-He pulled three rack bolts from his belt pouch — three of the starter shafts that had survived Room 0 and Room 1 with him. **Structural Analysis** read them: soft iron heads, loosely fitted, mass-produced garbage that would mushroom on impact and lose penetration after a few hits. But the shafts were straight and the length was right.
+He pulled three rack bolts from his belt pouch — three of the starter shafts that had survived the Safe Room and Room 1 with him. **Structural Analysis** read them: soft iron heads, loosely fitted, mass-produced garbage that would mushroom on impact and lose penetration after a few hits. But the shafts were straight and the length was right.
 
 He set the first thorn in the vise. Filed the base into a socket with a rough file from the tool rack — the material responding differently than wood or metal, denser, more resistant, but with a grain that guided the cut instead of fighting it. Popped the iron head off the rack bolt. Seated the thorn head onto the shaft and felt **Field Repair** do its work — not gluing, not fastening, but *fusing.* The thorn's fibrous base threads wove into the wood grain of the shaft at a level below what any tool could achieve. Two materials becoming one because **Field Repair** understood how they wanted to hold each other.
 
