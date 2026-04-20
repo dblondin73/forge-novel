@@ -362,7 +362,7 @@ Marcus went quiet. Three seconds. The same three seconds he always took when som
 
 "That's a pair." Marcus looked toward the sealed door. "Don't lose her."
 
-A man walked past — big, broad-shouldered, a build earned on construction sites or daily labor. His nameplate read **SAM HARGROVE — GUARDIAN [RANK F — LOW]** in the clean white text of a properly classified **System** <<I think it may be a little early to classify someone as a citizen.>>citizen. He glanced at Nate's crossbow — the table-leg stock, the wall-bracket trigger, the whole barn-built assembly that looked like it had been put together during a tornado warning. He glanced at the amber **PROCESSING** tag. His face performed the exact calculation that every middle manager and military officer had performed since the invention of rank: *unclassified, unconventional, not worth the investment.* He walked on without a word.
+A man walked past — big, broad-shouldered, a build earned on construction sites or daily labor. His nameplate read **SAM HARGROVE — GUARDIAN [RANK F — LOW]** in clean white text — classified, rank-stamped, no amber anywhere. He glanced at Nate's crossbow — the table-leg stock, the wall-bracket trigger, the whole barn-built assembly that looked like it had been put together during a tornado warning. He glanced at the amber **PROCESSING** tag. His face performed the exact calculation that every middle manager and military officer had performed since the invention of rank: *unclassified, unconventional, not worth the investment.* He walked on without a word.
 
 "The big ones always pick last," Flint said internally. "Adding him to the list of people who'll want to be your friend when their swords snap. The list has subsections now. He's in the subsection labeled 'ironic.'"
 
@@ -394,9 +394,9 @@ Lines of amber light traced the doorframe, following seams that **Structural Ana
 
 **Structural Analysis** fired hard. The wireframe overlay flared, steadier than it had been all morning — still flickery at the edges, still rough, but the core data was clean and it unfolded the corridor's architecture in his vision — blueprint reading itself. Stone walls, twelve-foot ceiling, repeating tile patterns every forty feet. And in the floor, starting thirty yards down the corridor, points of light pulsed beneath the surface. Dim. Rhythmic. Dormant heartbeats buried under six inches of generated stone.
 
-Rex's growl started before Nate's brain finished processing what he was seeing. Low, mechanical, the sound of a working dog who'd found the problem and was telling the boss where it was. <<at the distance descripted here I don't think it is realistic to tell where his nose was pointing. Is this needed? if so then we need to make it a realistic beat or a mental communication.>> His nose pointed at the floor of the corridor — not the walls, not the ceiling, the *floor* — exactly where the pulses were brightest. He could feel it. Whatever was down there, it had a heartbeat, and Rex's herding instinct had classified it as livestock that hadn't been sorted yet and was about to move.
+Rex's growl started before Nate's brain finished processing what he was seeing. Low, mechanical, the sound of a working dog who'd found the problem and was telling the boss where it was. His head angled toward the corridor, and through the contact at Nate's shin came the shape of it — not the walls, not the ceiling, the *floor.* Not a picture. A direction. Whatever was down there had a heartbeat, and Rex's herding instinct had classified it as livestock that hadn't been sorted yet and was about to move.
 
-"Spawn points," Flint said. Combat mode — rapid, precise, stripped of everything that wasn't immediately useful. "Fifteen down the first visible stretch. More beyond range. Dormant but fireing up — I'm reading activation timers through the ambient **System** broadcast. Whatever they are, they go live when the first person crosses the threshold." A beat, and the showmanship crept back in despite itself. "The **Tutorial** handed out the party favors. Now it's about to introduce the pinata. Except the pinata hits back."
+"Spawn points," Flint said. Combat mode — rapid, precise, stripped of everything that wasn't immediately useful. "Fifteen down the first visible stretch. More beyond range. Dormant but warming up — I'm reading activation timers through the ambient **System** broadcast. Whatever they are, they go live when the first person crosses the threshold." A beat, and the showmanship crept back in despite itself. "The **Tutorial** handed out the party favors. Now it's about to introduce the pinata. Except the pinata hits back."
 
 Numbers appeared between Nate's blue arcs — not because he'd asked, but because the HUD had decided he needed them.
 
@@ -408,7 +408,7 @@ The room erupted. People who'd been stunned into silence found their voices. Peo
 
 **105**
 
-"LISTEN UP!" Marcus's voice cut through it like a blade <<check the facts on this. in my experiance wet rope does not cut easily.>> through wet rope. Not louder — *aimed.* "Combat classes — front line at the door. **Mages**, second rank, ranged support. Medical and support, behind the line. Nobody goes through alone and nobody gets left behind. MOVE IT."
+"LISTEN UP!" Marcus's voice cut through it like an auctioneer's gavel through a full barn. Not louder — *aimed.* "Combat classes — front line at the door. **Mages**, second rank, ranged support. Medical and support, behind the line. Nobody goes through alone and nobody gets left behind. MOVE IT."
 
 People moved. Not because they wanted to. Because moving was better than standing still, and the man giving directions sounded like he knew what he was doing even if nobody in the room could prove it.
 
