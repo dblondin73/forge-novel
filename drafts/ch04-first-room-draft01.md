@@ -466,7 +466,7 @@ Warriors at the corridor mouth. Mages behind them, hands glowing with unsteady l
 
 Josie was still stuffing materials into her sack. A loose bolt. A strip of iron banding that hadn't dissolved yet. Two more leather scraps from the floor. She moved through the evacuation — technically leaving, but not without checking one more box first.
 
-Nate stood behind the line with an ugly crossbow, no ammunition, a forging hammer on his belt, and a Border Collie who'd already decided that whatever waited down the corridor was just livestock that hadn't been sorted yet.
+Nate stood behind the line with an ugly crossbow, ten starter bolts, a forging hammer on his belt, and a Border Collie who'd already decided that whatever waited down the corridor was just livestock that hadn't been sorted yet.
 
 The crossbow was a promise. The hammer was a purpose. The dog was the only one in the room who'd never needed a **System** to know what he was.
 
