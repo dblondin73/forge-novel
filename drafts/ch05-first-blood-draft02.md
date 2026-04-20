@@ -214,6 +214,10 @@ People started to move. Slow at first. Then faster. A Healer and two Warriors ca
 
 Nate waited. He wanted to be last through. He didn't have a good reason. It was just what he did when the herd was moving through a gate — you didn't go until the stragglers went, because the stragglers were the ones who decided at the last second that they weren't going at all.
 
+Rex had positioned himself six feet off Nate's hip, facing the gap, reading the people going through it like they were cattle he was personally responsible for. He wasn't leaving until the last person cleared the threshold. That was not a decision he'd put up for a vote.
+
+Judge had found a thorn on the floor — an unsorted one Josie hadn't gotten to yet — and was considering whether it now belonged to her. She was losing the argument. The thorn was oozing amber sap, and Judge's nose had just discovered what amber sap smelled like up close. Her face worked through three distinct stages of dog-disappointment in about two seconds. She left the thorn. She gave it a look on the way past that suggested she and the thorn would be revisiting the conversation at a later date.
+
 Josie Pickett — who had spent the combat with her back against the north wall and her eyes open, processing everything and running toward none of it — was already at the Thornling remains, crouched, examining. Not a Warrior, not a Mage, not a Healer. An **Appraiser**, if her Room 0 roll had held, and she was appraising. Nate filed that for the rest area. Josie would not be sitting anything out.
 
 He stepped toward the gap.

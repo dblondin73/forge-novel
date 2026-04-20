@@ -78,6 +78,8 @@ And in the corner, Josie Pickett — who had spent Room 1 with her back against 
 
 Nate watched her read. The **Mage** with her wonder. The **Healer** with her reverence. The kid with his gut-check. Marcus with his clean tactical recitation. And Josie, treating her System-granted character sheet the way she'd treat a list of items coming in off a truck. No awe. No fear. Just inventory.
 
+Rex had decided, at some point in the last five minutes, that Josie was a person he now knew. He'd walked over and parked himself beside her — not touching, just present. Josie's free hand had dropped onto his head without her looking up from the sheet. Rex's tail swept once across the stone. Josie scrolled. Her hand stayed. The arrangement was satisfactory to all parties who had been consulted.
+
 Five people. Five reactions. The **System** had given them all the same interface, and every one of them was reading a different book.
 
 ---
@@ -85,6 +87,8 @@ Five people. Five reactions. The **System** had given them all the same interfac
 ## III. PROCESSING
 
 "So," Marcus said. Still quiet. The rest-area bustle ten feet away, and the two of them held inside a smaller bubble of attention. "Don't you have one."
+
+Rex had moved back to Nate's other side — the position he took when he decided a conversation mattered. Judge, who had not graduated that course, remained across the corridor attempting to convince the younger **Healer** to share her water bottle. Judge was losing. The **Healer** did not know she was losing, because the **Healer** did not know the negotiation was happening.
 
 "Not exactly," Nate said again.
 
@@ -234,7 +238,11 @@ From the space behind Nate's eyes, Flint murmured: "I'm archiving that sentence.
 
 "Too late. Archived. Cross-referenced under 'Human Mating Rituals' and 'Ballistics.' The overlap between those two categories has increased seventeen percent since I met you, and I find that statistically uncomfortable."
 
-Rex had drifted over during the filing. He set at the end of the workbench, chin on the planking, watching Josie's hands the way he watched a gate latch he hadn't decided whether to respect yet. Judge was six feet behind — planted, ears half-pinned, keeping one eye on the corridor mouth and one eye on the woman handling the sharp objects. Nothing was wrong. Nothing was right. The dogs were simply on duty, and on duty was the spot Rex and Judge preferred to be.
+Rex had drifted over during the filing. He set at the end of the workbench, chin on the planking, watching Josie's hands the way he watched a gate latch he hadn't decided whether to respect yet. One ear tracked Josie's thorns. The other ear tracked the corridor. Border Collies used their ears independently, and Rex had never been told this was unusual and had no interest in finding out.
+
+Judge was six feet behind — planted, ears half-pinned, keeping one eye on the corridor mouth and one eye on the woman handling the sharp objects. Every time a thorn shaving hit the floor, Judge's head came up. Every time Nate didn't give her the shaving, her head went back down. The cycle had repeated thirty-one times. Nate had started counting around the sixth one and now couldn't stop.
+
+Nothing was wrong. Nothing was right. The dogs were simply on duty, and on duty was the spot Rex and Judge preferred to be.
 
 Then the south wall groaned.
 
