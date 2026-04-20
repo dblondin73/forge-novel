@@ -240,6 +240,10 @@ It was ugly — honest-ugly, the kind that came from function winning every argu
 
 Nate picked the hammer back up, wrapped the handle with cordage from the crafting station, and felt the steel seat deeper into the wood as the connection went from adequate to permanent. Added a loop of cord so it hung from his belt. Flat face for striking. Cross peen for shaping. A blacksmith's tool that would follow him to every crafting station between here and whatever waited at the end of this place. Two minutes, start to finish. Nobody in the room noticed — they were watching warriors compare swords.
 
+Rex nosed his free hand. Not alerting — checking. The dog version of *you still in there?* after ten minutes of a man who hadn't spoken out loud. Nate scratched behind his ears once. Rex's tail swept low, satisfied, and he went back to scanning the room.
+
+Judge had appropriated a scrap of hide from the discard pile and was carrying it around like a trophy. It was the size of a playing card. She was behaving as though she had hunted it down and killed it personally. When she passed Rex, she adjusted her route by a degree so he could see her prize. Rex declined to comment. Judge took that for the professional jealousy it clearly was.
+
 ---
 
 She'd been three feet to his left the whole time.
@@ -287,6 +291,12 @@ Nate almost smiled.
 She crouched. Not reaching for Rex, just lowering herself to his level — someone who understood animals, making herself smaller before making contact. Rex's tail moved once. She passed.
 
 Judge didn't bother with Rex's protocol. She shouldered in, planted her weight against Josie's boot, and looked up with the unmixed certainty of a dog whose vote had been cast before anyone called for one. Rex was still reading. Judge had decided.
+
+Then Judge noticed the leather pile. Her nose worked once, twice, and her head swiveled toward a strip hanging off the corner of the table with the slow, inevitable pivot of a dog doing mental arithmetic on *is this mine now.*
+
+"Don't," Josie said, without looking.
+
+Judge's ears dropped half a millimeter. She did not take the leather. She did, however, sigh with the full chest-heave of a dog who had been prevented from committing what she considered a victimless crime.
 
 "I'm Josie," she said, straightening. "Josie Pickett." She held up a hand before he could ask. "Yes, like the fence. I've heard it. My screen says **Appraiser**, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them. The chain shirts are the best armor in here — actual metal rings — but they're sized for someone about six inches taller than me, which is a recurring theme in my life."
 
@@ -653,6 +663,8 @@ Four people. Their names would be learned later, at a rest stop, spoken aloud by
 Josie sat down beside him. Not talking. Not looting. Sitting with the sack clutched to her chest and her eyes fixed on the jacket draped over the man in khakis, and for the first time since she'd started talking in the safe room, she had nothing to say.
 
 Rex's warmth at his leg, and a wash of impression came through — grief-scent in the air, the pack diminished, something missing that couldn't be retrieved. Rex understood loss. Not abstractly. The scent that was there and then wasn't. The space in the herd that didn't fill back in.
+
+Judge padded over to Josie and set her head on Josie's knee without ceremony. Not a request. An assignment. Judge had decided the small loud one needed a dog, and Judge did not consult Josie before making the call. Josie's hand found Judge's ears and stayed there. Her other hand kept its grip on the sack, because Josie was Josie, but her fingers loosened by increments, and Judge felt them loosen, and she closed her eyes.
 
 Nate closed his eyes. Three seconds. Just the pause. Just the breath. The occupied space inside him — the part the **System** couldn't classify and Flint couldn't fully read — settled like water finding its level. In a room full of death and amber sap and the sound of a woman crying while she healed a stranger, something held.
 
