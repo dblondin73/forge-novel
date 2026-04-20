@@ -12,6 +12,8 @@ Nate's boots hit solid ground and the wrongness registered before anything else 
 
 Rex was still against his left leg. He hadn't moved from where he'd been at the moment of transport — set against Nate's shin, rigid and silent. Not panicking. Holding position, the way he held position when lightning cracked close enough to taste and the cattle broke wrong and everything in the world said *run* except the person who made decisions.
 
+Judge was at his right boot. Not holding position — *containing* it. Stub tail rigid, weight forward, shoulders bunched over her forelegs. A Blue Heeler couldn't hold the kind of still a Border Collie defaulted to. Judge's version of *set* was forty pounds of muscle vibrating in place, waiting for the signal to stop.
+
 The blue arcs flickered hard. Two faint curved lines of light at the edges of his vision, still calibrating to an environment that had nothing in common with the pasture where they'd initialized. The one Flint had said was Health: somewhere below full and the other, Stamina: lower still. Beneath them, an amber field — like a warning label on a diagnostic screen:
 
 **[PROCESSING]**
@@ -61,6 +63,8 @@ He let the feeling sit.
 Rex's eyes were moving — tracking people, movement patterns, clustering, the ones standing still and the ones about to bolt. Unsorted yearlings in a different pen. A Border Collie didn't need a **System** screen to read a crowd. The crowd was just a herd that walked upright and made more noise.
 
 Rex was at his shin, and a wash of impressions came through — fear-scent thick in the air, too many bodies too close, the bald man by the wall radiating something sharp and unstable. Rex's ears tracked him without his head moving. A hot spike of focus — every ounce of the dog's attention locked onto that one — a bull about to charge, before the bull itself knew it was going to.
+
+Judge was reading the room differently. Where Rex was scanning for patterns, Judge was picking targets — the specific person she'd put her teeth into first if Nate said *go*. She'd already chosen the bald man. Second pick was still loading.
 
 Marcus Webb's voice cut through it.
 
@@ -282,6 +286,8 @@ Nate almost smiled.
 
 She crouched. Not reaching for Rex, just lowering herself to his level — someone who understood animals, making herself smaller before making contact. Rex's tail moved once. She passed.
 
+Judge didn't bother with Rex's protocol. She shouldered in, planted her weight against Josie's boot, and looked up with the unmixed certainty of a dog whose vote had been cast before anyone called for one. Rex was still reading. Judge had decided.
+
 "I'm Josie," she said, straightening. "Josie Pickett." She held up a hand before he could ask. "Yes, like the fence. I've heard it. My screen says **Appraiser**, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them. The chain shirts are the best armor in here — actual metal rings — but they're sized for someone about six inches taller than me, which is a recurring theme in my life."
 
 "She just identified those chain shirts as genuine metal rings," Flint said. "Her **Appraiser** class sees material *value*. Your **Structural Analysis** sees material *structure*. She prices the horse. You read its conformation." A pause. "I am now deeply curious what happens when both of you look at the same object."
@@ -340,6 +346,8 @@ His eyes swept the crossbow, the three-legged table, the missing wall bracket, t
 
 "That's one word for it."
 
+Judge had already decided about him. She decided fast — everything, always. Marcus read as pack-adjacent in her register. Her stub tail moved once, and she went back to sentry.
+
 "Your status is still wrong."
 
 "Still processing."
@@ -387,6 +395,8 @@ The sound came without warning.
 Low. Sustained. A vibration that bypassed ears and settled directly into stone and bone — sourceless, because it came from everywhere at once. The walls. The floor. The sealed door at the far end that had been dark and silent since they'd arrived.
 
 Rex went rigid. Every muscle locked, ears flat against his skull, body set against Nate's shin, every muscle a compressed spring. An impression washed through the contact — the gut-deep charge of a gate swinging wide, herd surging, no choice in it. Movement coming whether anything was ready or not.
+
+Judge went the other direction. Where Rex compressed, she *ignited* — stub tail vibrating, weight forward past balance, every muscle trembling with the forward drive of a dog who wanted to go *at* the thing the room was about to release. Rex was a spring. Judge was a live wire.
 
 The sealed door began to glow.
 
@@ -468,9 +478,11 @@ Josie was still stuffing materials into her sack. A loose bolt. A strip of iron 
 
 Nate stood behind the line with an ugly crossbow, ten starter bolts, a forging hammer on his belt, and a Border Collie who'd already decided that whatever waited down the corridor was just livestock that hadn't been sorted yet.
 
-The crossbow was a promise. The hammer was a purpose. The dog was the only one in the room who'd never needed a **System** to know what he was.
+The crossbow was a promise. The hammer was a purpose. The dogs were the only ones in the room who'd never needed a **System** to know what they were. One of them read the herd. The other decided who needed teeth first.
 
 Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth. Through the contact, warmth and certainty — the coiled-spring readiness of a dog who knew his job and was waiting to do it. Rex pinned forward, every line of his body pointing into the darkness — compass needle, true north.
+
+Judge dropped in beside him — not crouched, *coiled.* Stub tail rigid, weight forward past balance, ears pinned, every ounce of her forty pounds pointed at the same dark. Rex was the reading. Judge was the charge.
 
 "Here we go," Flint said. Very quietly.
 
