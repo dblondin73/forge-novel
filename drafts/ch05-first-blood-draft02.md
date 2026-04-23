@@ -2,13 +2,13 @@
 
 ---
 
-The Tutorial had a curriculum. Nobody had asked the forty-six people walking through the dark whether they'd signed up.
+The Tutorial had lessons. Nobody had asked the fifty people walking through the dark whether they'd signed up.
 
 ---
 
 ## I. Corridor Approach
 
-The passage funneled them forward — forty-six people moving through a dim stone corridor with nothing but the sound of their own breathing and something scratching beneath the floor ahead.
+The passage funneled them forward — fifty people moving through a dim stone corridor with nothing but the sound of their own breathing and something scratching beneath the floor ahead.
 
 Then the walls fell away and they were in a chamber, and the scratching stopped.
 
@@ -16,17 +16,15 @@ Nate liked the scratching better.
 
 **Structural Analysis** had been tracking displacement patterns under the stone for the last forty seconds. Six points where the floor's load distribution shifted in slow sequence — something pressing upward, testing the stone from below. Load-bearing material bending under internal force, the substrate deforming in concentric stress patterns around each point. Something was coming. The only question was *when.*
 
-The blue at the edges of his vision — that faint, persistent shimmer he'd carried since the HUD booted — brightened. Not everywhere. Not evenly. It flared leftward first, where the nearest displacement was strongest, then swept right in a slow wash that matched the sequence of pressure points under the stone. Not targeting. Not information he could read. Just a peripheral glow that said *that direction* — hackle-rise instinct translated into light. The HUD responding to adrenaline, or to threat, or to whatever instinct lived in the gap between conscious thought and the thing that made his hands steady on a rifle when the coyotes came at dusk.
+The blue arcs at the edges of his vision — the two parenthesis curves he'd carried since the HUD booted — brightened. Then a chip of light resolved just outside the left arc, high up: front-left. A second bloomed past the arc's midpoint: directly left. A third below that. The chips lit in sequence around him, tracing the same slow rhythm as the pressure points under the stone. Not targeting. Not information he could read. Just peripheral glows that said *there, and there, and there.* The HUD responding to adrenaline, or to threat, or to whatever instinct lived in the gap between conscious thought and the thing that made his hands steady on a rifle when the coyotes came out at dusk.
 
-The chamber was forty feet across. Stone walls, arched ceiling, dim torchlight that made everything the color of bad coffee. Flint tagged the compass in Nate's peripheral — entrance behind them as north, spawn points ahead as south. Standard callout grid.
+The chamber was forty feet across. Stone walls, arched ceiling, dim torchlight that made everything the color of rust. Flint tagged the compass in Nate's peripheral — entrance behind them as north, spawn points ahead as south. Standard callout grid.
 
-Rex set at Nate's left knee. Judge set at his right — stub tail vibrating at a frequency that suggested opinions were already forming about everything in the room. Both dogs watching the south wall with the flat, unblinking focus Nate had seen a thousand times on the ranch. The kind of focus that arrived when the cattle knew something was out there before the humans did.
+Rex set at Nate's left knee. Judge set at his right — stub tail vibrating at a frequency that suggested opinions were already forming about everything in the room. Both dogs watching the south wall with the unblinking focus Nate had seen a thousand times on the ranch. The kind of focus that arrived when the cattle knew something was out there before the humans did.
 
 Marcus Webb moved into the front of the group, Vanguard class and twenty years of leadership putting him exactly where he was supposed to be. His voice came low and even. "Warriors forward. Mages second rank. Supports and unarmed behind the warrior line — hug the north wall. Nobody panics."
 
-Forty-six. That was the number Nate was walking in with. He'd counted in the Safe Room because counting was what his father had taught him to do when the herd was about to move through a gate that didn't want to open. Count going in. Count coming out. Difference mattered.
-
-*The Tutorial had a curriculum, all right. She watched the forty-six file in and she did what a good teacher does when the lesson is about to get expensive — she set the clock and she let the clock do the work.*
+Fifty. That was the number Nate was walking in with. He'd counted in the Safe Room — old habit, his father's teaching.
 
 Spawn point three cracked first. Bark-covered fingers pushed through the stone. Then the whole thing erupted upward in a shower of dirt and rock, and the room went from silence to pandemonium in about two seconds.
 
@@ -34,8 +32,7 @@ Spawn point three cracked first. Bark-covered fingers pushed through the stone. 
 
 ## II. First Wave
 
-The other five spawn points opened in a staggered rip — gravel and stone-dust hazing the air, the smell sharp and mineral, like a freshly broken concrete floor. Someone screamed — not a name, not words, just the high animal sound of a person whose nervous system had outpaced their thinking by half a second. Another screamed back. A man in the support line dropped his unfamiliar weapon and reached for it twice on the way to the floor before he picked it up. Forty-six people, six monsters, two seconds — the math arrived the way bad math always did, all at once and without permission.
-
+The other five spawn points opened in a staggered rip — gravel and stone-dust hazing the air, the smell sharp and mineral, like a freshly broken concrete floor. Someone screamed — the high animal sound of a person whose nervous system had outpaced their thinking by half a second. Another screamed back. A man in the support line dropped his unfamiliar weapon and reached for it twice on the way to the floor before he picked it up.
 "Thornling," Flint said. Quick, clipped, reading from somewhere Nate couldn't see. "System-generated combatant. Bark-plated, thorn-studded, approximately three and a half feet tall. Think 'angry topiary' and you're most of the way there."
 
 Six of them. Pulling themselves out of the stone with the jerky, root-finding motion of saplings in a time-lapse, if saplings had bark-plate armor and thorn-studded arms and the blind hunger of things grown to kill.
@@ -176,7 +173,7 @@ Four dead on the cohort side. Nate counted them because counting was what he did
 
 The jacket man, the unarmed woman at the west wall, the Support slumped against the stone at the rear. And a fourth Nate hadn't seen drop — a woman near the east corner, a thorn through the side below the ribs, already gone by the time anyone reached her. She was tall and her hair was gray at the temples and Nate hadn't learned her name.
 
-Nobody had. That was what he registered last, and hardest. He'd been in the corridor with these forty-six people for less than two hours. They hadn't had time to trade names. The Tutorial had ensured that most of the introductions were posthumous.
+Nobody had. That was what he registered last, and hardest. He'd been in the corridor with them less than two hours ago. They hadn't had time to trade names. The Tutorial had ensured that most of the introductions were posthumous.
 
 *Four names the Tutorial will not be assigning homework to. The Storyteller's list grows — it grew before you came in here, love, and it will grow after. But the ones in this chamber just went on it newly, and the room knows.*
 
@@ -224,9 +221,9 @@ He stepped toward the gap.
 
 Judge went first, because Judge went first wherever there was a door. Rex paced Nate on his left. At the threshold, Nate paused and looked back once — one slow sweep across the chamber. The amber pools where the Thornlings had been, now darkening. The four patches where the cohort dead had been, now empty stone. The torches dim. The south wall wide open and bleeding warm light into a dark room.
 
-The Tutorial had a curriculum. The curriculum had just charged tuition.
+The Tutorial had lessons. This one had cost four.
 
-*Forty-six walked into this room. Four of them did not walk out. She watches them go through the gap one by one, and she says nothing — because there is nothing useful to say to forty-two people who do not yet know that the number they are leaving in this chamber is smaller than the number waiting in the next one.*
+*Fifty walked into this room. Four of them did not walk out. The Tutorial watches them go through the gap one by one, and says nothing — because there is nothing useful to say to forty-six people who do not yet know that the number they are leaving in this chamber is smaller than the number waiting in the next one.*
 
 "Forty-six," Nate said, soft enough that only Flint heard it.
 
