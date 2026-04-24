@@ -94,7 +94,7 @@ The book is cast like an audiobook. Every voice is a named performer, not a regi
 - **Narnia Principle** (Codex #52) — Show, never state. "Occupied space" (Holy Spirit) never named. Faith is skeleton, not flesh. No preaching. No altar calls.
 - **Christianity = actions only**, never internal thoughts. Narnia model, not sermon.
 - **Prayer = constant conversational communion** — show through stillness, never state it.
-- **Fantasy register, not religious register.** Banned from prose: "repent," "Eden," "Lucifer," "Imago Dei." Use generic references. Target = Dresden / Narnia / Stargate.
+- **Fantasy register, not religious register.** Banned from prose: "repent," "Eden," "Lucifer," "Imago Dei." 2026-04-23 expanded: also "substrate," "clean channel," "skewed channel," "amplification overlay," "Conduit Gift" (as category), "Labyrinth pipeline," biblical Gift names as proper nouns. Use generic references and in-universe language. Target = Dresden / Narnia / Stargate.
 - **No meta-labeling the Tutorial's design structure** in prose: no curriculum, syllabus, lesson plan, pedagogy. Show teaching through events.
 
 ### POV & Narrator Discipline
@@ -140,21 +140,33 @@ The book is cast like an audiobook. Every voice is a named performer, not a regi
 
 ---
 
-## Power Systems (Session 013 — LOCKED)
+## Power Systems (Session 013 — LOCKED, with 2026-04-23 architecture refinement)
 
 **The Barrier** (Codex #94): Humans were always superhuman (original-image design). Fall = barrier. System artificially bypasses and claims credit. Spirit actually removes it for Anomalies — no easy button. *(Don't name Imago Dei in prose.)*
 
 **Power Hierarchy** (Codex #91): Tier 1 System Magic (A-tier cap), Tier 2 Elder Magic (fragment), Tier 3 Conduit (uncapped, conditional). God acts only through the conduit.
 
-**System Magic** (Codex #97): Mana pools + cooldowns, skill ranks F→S, class affinities, patron bonds. Light crunch.
+**System Magic** (Codex #97): Mana pools + cooldowns, skill ranks F→S, class affinities, patron bonds. Light crunch. **Mana pools are clean substrate** (Creator-sourced; System can only route its use, not corrupt the energy).
 
-**System Binding** (Codex #100): Gift → Hooks → Chains → Replacement. No moral cost, severe binding cost.
+**System Binding** (Codex #100): Gift → Hooks → Chains → Replacement. No moral cost, severe binding cost. Stages = increasing channel-depth on skill-use routing, NOT substrate corruption.
 
-**Conduit Consequences** (Codex #93): **Doubt ≠ power loss** — doubt plateaus, only active opposition to God's will causes fade/shutoff. Minor drift = gradual fade. Major violation = hard shutoff. Restoration = relationship repair.
+**Conduit Consequences** (Codex #93 + #178 refinement): **Doubt ≠ power loss** — doubt plateaus, only active opposition causes overflow to stop. Refined as amplification overlay (Aligned / Doubt / Opposition). Opposition = stasis not decay; return is instant on realignment. Layered alignment (per-action AND state-of-being).
 
 **Unified Source:** God is sole power source. System = corrupted fork of pre-Integration original framework. **MSG / Morningstar Group** = System's in-world corporate face (M+star-tail logo; Isaiah-14 reveal hidden as brand). Don't name the reveal in early Book 1 prose.
 
 **Two-Faculty Model** (2026-04-19): Humans have analytical + relational faculties. System is counterfeit across **every** faculty. Beast Master class = relational-faculty counterfeit sold to the uncalled. Nate's pack-bond is the real thing.
+
+### 2026-04-23 Cosmology Architecture (Codex #177, #178, #179)
+
+- **Creator → Labyrinth (pipeline) → all skills.** The Labyrinth is the Creator's spatial-bridge-for-children AND skill-distribution-channel. Not a source itself; the pipeline
+- **Creator → Spirit (direct, bypasses Labyrinth) → Conduit Gifts.** To Conduits specifically (Nate)
+- **Deceiver → System (counterfeit overlay).** Skews allegiance-routing on Labyrinth-delivered skills; produces inferior knockoffs of Conduit Gifts
+
+**Three protection guarantees:** (1) Conduit Gifts protected from skewing; (2) Labyrinth is not a source; (3) substrate (energy) is always clean — only skill-**use** carries channel routing.
+
+**Channel model:** every skill is Creator-sourced; routing is clean (→ Creator) or skewed (→ deceiver) per Codex #100 depth.
+
+**Skill system** (Codex #177): Domain → Skill → Ability. Ten domains (nine martial/craft + Life Skills). Nate's Conduit Gifts: Gift of Tongues, Word of Knowledge, Discernment of Spirits, Bezalel-pattern SA amplification. Full design: [research/skill-system-design.md](../research/skill-system-design.md).
 
 ---
 
@@ -225,17 +237,20 @@ Note: Judge — Blue Heeler — has no Codex ID yet; defined in `REFERENCE.md`.
 
 | ID | Name |
 |----|------|
-| 91 | Power Hierarchy |
-| 93 | Conduit Consequences |
-| 94 | The Barrier |
+| 91 | Power Hierarchy (2026-04-23 append) |
+| 93 | Conduit Consequences (2026-04-23 pointer to #178) |
+| 94 | The Barrier (2026-04-23 expanded protected vocabulary) |
 | 95 | System Dual Interface |
 | 96 | Tutorial Structure |
-| 97 | System Magic Rules |
+| 97 | System Magic Rules (2026-04-23 append) |
 | 98 | Engineer Class (Nate) |
 | 99 | Vanguard Class (Marcus) |
-| 100 | System Binding Progression |
+| 100 | System Binding Progression (2026-04-23 append) |
 | 103 | Appraiser Class (Josie) |
 | 104 | Nate's Tutorial Loadout |
+| **177** | **Skill System Architecture — Three-Tier + Ten Domains (NEW 2026-04-23)** |
+| **178** | **Conduit Amplification Overlay — Three-State Model (NEW 2026-04-23)** |
+| **179** | **Substrate-Clean Principle (NEW 2026-04-23)** |
 
 ### Lore
 
