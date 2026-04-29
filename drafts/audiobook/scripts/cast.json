@@ -1,0 +1,153 @@
+{
+  "_meta": {
+    "description": "Voice cast for forge-novel audiobook draft. v1 picks from ElevenLabs library, Apr 24 2026.",
+    "notes": [
+      "Storyteller and Nate are locked canonical voices per project_narrator_voice.md.",
+      "Other voices are LIBRARY PICKS from ElevenLabs — chosen on character-brief fit. Swap freely.",
+      "Rex/Judge translations ride in Nate's channel for Book 1 (no library Scots/Aussie-female voice available).",
+      "unknown_male / unknown_female are fallbacks for un-cast minor speakers."
+    ],
+    "model": "eleven_v3",
+    "output_format": "mp3_44100_128"
+  },
+  "voices": {
+    "storyteller_omniscient": {
+      "voice_id": "6962rZHcjwkuvYx439zm",
+      "library_name": "Brigid",
+      "role": "Brigid, slow/literary register — wry omniscient, opens/closes, retrospective wisdom, interludes, dramatic irony",
+      "prefix": "... ",
+      "settings": {"stability": 0.50, "style": 0.15, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 0.85},
+      "locked": true
+    },
+    "storyteller_narrator": {
+      "voice_id": "6962rZHcjwkuvYx439zm",
+      "library_name": "Brigid",
+      "role": "Brigid, dynamic/close register — in-scene narration, physical zoom into Nate, action rendering, description; wider dynamic range via lower stability",
+      "prefix": "... ",
+      "settings": {"stability": 0.30, "style": 0.35, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 1.05},
+      "locked": true
+    },
+    "storyteller": {
+      "_alias_of": "storyteller_narrator",
+      "voice_id": "6962rZHcjwkuvYx439zm",
+      "library_name": "Brigid",
+      "role": "Back-compat alias — defaults to the narrator register if router doesn't pick omniscient explicitly",
+      "prefix": "... ",
+      "settings": {"stability": 0.30, "style": 0.35, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 1.05},
+      "locked": true
+    },
+    "nate": {
+      "voice_id": "10KeNBezdmUZLupy2IWN",
+      "library_name": "Nate",
+      "role": "Nate Hall — all dialogue, internal monologue, Rex/Judge pack-bond translations",
+      "timed_profanity": true,
+      "settings": {"stability": 0.50, "style": 0.10, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 0.90},
+      "locked": true
+    },
+    "flint": {
+      "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+      "library_name": "Callum - Husky Trickster",
+      "role": "F.L.I.N.T. anomaly AI — HUD readouts, theatrical comic relief, Bob-the-Skull register",
+      "settings": {"stability": 0.40, "style": 0.35, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 1.0},
+      "locked": false
+    },
+    "marcus_webb": {
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "library_name": "Brian - Deep, Resonant and Comforting",
+      "role": "Marine sergeant, deep rumble, aimed not projected",
+      "settings": {"stability": 0.55, "style": 0.15, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 0.92},
+      "locked": false
+    },
+    "josie_pickett": {
+      "voice_id": "XrExE9yKIg1WjnnlVkGX",
+      "library_name": "Matilda - Knowledgable, Professional",
+      "role": "Fast, cataloging, professional enthusiasm",
+      "settings": {"stability": 0.45, "style": 0.25, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 1.05},
+      "locked": false
+    },
+    "sam_hargrove": {
+      "voice_id": "HIGUfNOdjuWQwwapnTRW",
+      "library_name": "Chuck Miller - Deep, Raspy, American",
+      "role": "Guardian — big man, construction worker register",
+      "settings": {"stability": 0.55, "style": 0.15, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 0.95},
+      "locked": false
+    },
+    "ana_torres": {
+      "voice_id": "EXAVITQu4vr4xnSDxMaL",
+      "library_name": "Sarah - Mature, Reassuring, Confident",
+      "role": "Triage/medical register",
+      "settings": {"stability": 0.55, "style": 0.15, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 0.98},
+      "locked": false
+    },
+    "walt_keane": {
+      "voice_id": "o3VpiaQ9JcGIFpOrkHHf",
+      "library_name": "Cowboy Chris - Deep and Supportive",
+      "role": "Smith — rural trades, patient",
+      "settings": {"stability": 0.55, "style": 0.15, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 0.90},
+      "locked": false
+    },
+    "pete_bowman": {
+      "voice_id": "bIHbv24MWmeRgasZH58o",
+      "library_name": "Will - Relaxed Optimist",
+      "role": "Pathfinder — Oregon outdoorsy young register",
+      "settings": {"stability": 0.45, "style": 0.20, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 1.0},
+      "locked": false
+    },
+    "kyle_greene": {
+      "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
+      "library_name": "Liam - Energetic, Social Media Creator",
+      "role": "Berserker / MSG-foil — contract-signer too-confident register",
+      "settings": {"stability": 0.40, "style": 0.30, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 1.0},
+      "locked": false
+    },
+    "mack_turner": {
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "library_name": "Chris - Charming, Down-to-Earth",
+      "role": "Ranger/Scout — Floor-4 branch anchor",
+      "settings": {"stability": 0.50, "style": 0.15, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 0.98},
+      "locked": false
+    },
+    "heather_kim": {
+      "voice_id": "hpp4J3VqNfWAUOO0d1Us",
+      "library_name": "Bella - Professional, Bright, Warm",
+      "role": "Ward Mage — mother-on-knees register",
+      "settings": {"stability": 0.55, "style": 0.20, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 0.95},
+      "locked": false
+    },
+    "isabel_wu": {
+      "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+      "library_name": "Laura - Enthusiast, Quirky Attitude",
+      "role": "Alchemist — rest-area 2 alchemy register",
+      "settings": {"stability": 0.40, "style": 0.30, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 1.02},
+      "locked": false
+    },
+    "martin_voss": {
+      "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+      "library_name": "George - Warm, Captivating Storyteller",
+      "role": "Mage/Scholar — Floor-6 graduation witness",
+      "settings": {"stability": 0.55, "style": 0.15, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 0.90},
+      "locked": false
+    },
+    "tyler_sorensen": {
+      "voice_id": "SOYHLrjzK2X1ezoPC6cr",
+      "library_name": "Harry - Fierce Warrior",
+      "role": "Archer, 17yo, Ch6 casualty",
+      "settings": {"stability": 0.45, "style": 0.20, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 1.0},
+      "locked": false
+    },
+    "unknown_male": {
+      "voice_id": "pNInz6obpgDQGcFmaJgB",
+      "library_name": "Adam - Dominant, Firm",
+      "role": "Fallback for unnamed male speakers",
+      "settings": {"stability": 0.50, "style": 0.15, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 1.0},
+      "locked": false
+    },
+    "unknown_female": {
+      "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+      "library_name": "Alice - Clear, Engaging Educator",
+      "role": "Fallback for unnamed female speakers",
+      "settings": {"stability": 0.50, "style": 0.15, "similarity_boost": 0.75, "use_speaker_boost": true, "speed": 1.0},
+      "locked": false
+    }
+  }
+}

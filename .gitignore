@@ -3,3 +3,11 @@
 .vscode/
 __pycache__/
 *.pyc
+.ruff_cache/
+
+# Copyrighted style-reference material — keep local only
+Book Samples/
+
+# Audio test artifacts and reference images — too large / not for repo
+drafts/audio-test/
+drafts/images/

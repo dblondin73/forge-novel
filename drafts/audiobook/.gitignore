@@ -1,0 +1,4 @@
+# Audio output & cache — do NOT commit.
+chapters/
+voice-samples/
+.cache/
