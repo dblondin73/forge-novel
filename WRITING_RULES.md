@@ -20,12 +20,12 @@ Practical implications throughout this document, but the core: punctuation edits
 
 | Voice | Character | TTS Model Notes |
 |-------|-----------|-----------------|
-| **Storyteller** | Narrator (Narrator + Camera collapsed 2026-04-19) | Default voice for almost ALL prose, including tight-third Nate-POV passages |
-| **Nate (Sam Elliott model)** | Nathan Hall | Quoted dialogue + italic direct thought ONLY |
+| **Storyteller — omniscient register** (Brigid, Irish-warmth female) | Narrator in opens, closes, interludes, dramatic irony | Slow/literary. ElevenLabs `6962rZHcjwkuvYx439zm`, v3, stability 0.50, style 0.15, similarity 0.75, **speed 0.85** |
+| **Storyteller — narrator register** (Brigid, same actor) | Narrator for in-scene description, physical zoom into Nate, action rendering, tight-third POV prose | Dynamic/close workhorse. Same voice ID, stability 0.30 (wider range), style 0.35, **speed 1.05** (locked after iteration: 0.85 → 0.92 → 1.0 → 1.05) |
+| **Nate (Sam Elliott model)** | Nathan Hall | Quoted dialogue + italic direct thought ONLY. Stability 0.50, style 0.10, similarity 0.75, speed 0.90 |
 | **Flint (Bob the Skull / James Marsters)** | F.L.I.N.T. | All Flint dialogue and HUD-routed reports |
 | **Rex (Scots accent, beta-pack register)** | Rex (Border Collie) | Used when Nate translates Rex's empathic impressions to internal voice |
 | **Judge (Australian accent, omega-pack register, female)** | Judge (Blue Heeler) | Used when Nate translates Judge's empathic impressions |
-| **Brigid (system default narrator engine)** | TTS substrate, not a character | Speed 0.92 (NOT 0.85 — that's too slow for momentum) |
 
 ### Routing Rules
 
@@ -33,6 +33,32 @@ Practical implications throughout this document, but the core: punctuation edits
 - **Nate voice is reserved.** Quoted dialogue and italicized direct thoughts only. Do not route prose narration through Nate's voice even when the prose is in his POV.
 - **Pack-bond voices (Rex, Judge)** — only used when Nate is *translating* their impressions to inner voice. When the dogs act without translation, the Storyteller narrates them.
 - **Storyteller frequency** — woven throughout each chapter, not bookended. The "3-4 per chapter" count is RETIRED after the Narrator+Camera collapse.
+
+### Omniscient-Register Prose Voice — Hiberno-English (Locked 2026-05-01)
+
+The Storyteller's **omniscient register** (chapter opens, closes, interludes, dramatic irony, retrospective wisdom) is written in **Hiberno-English** to match Brigid's Irish-warmth voice. The narrator register stays plain literary English. Same actor, same voice ID — different prose register on the page.
+
+**Why on the page**, not just in TTS: the Hiberno-English syntax does work the accent alone can't. Brigid can read "Some mornings carry more than they show" with Irish warmth, but she can't add "ye'll find" or "the backup tin's after going empty on ye." The character of the omniscient register comes from the **grammar**, not the accent. The accent is the cherry on top.
+
+**Approved Hiberno-English markers — use freely in omniscient passages:**
+
+- **After-perfective construction** — "the tin's after going empty," "normal's after turning into a country..." This is the most distinctively Hiberno-English grammar there is. One or two per omniscient passage tags her hard.
+- **Direct address** — "ye'll find," "isn't it, love?," "mind." Storyteller-as-bartender scaffolding. A pub storyteller leans on her listener.
+- **"Yer man" / "yer one"** — universal Irish reference for a male/female stranger or person-just-mentioned. Drops register from narrator to barstool.
+- **Conversational throat-clearings** — "sure," "now," "ah," "mind," "altogether." Cluster these where she's *talking* (the wry openings); keep them off the most musical sentences (the river-flood line, the steel-sky paragraph).
+- **Hiberno spellings** — "tyre" not "tire," "realisation" not "realization," "colour" not "color." Subtle, but plants her on the right side of the Atlantic.
+- **Catholic-flavoured similes** — "patient as a priest at confession," "quiet as a chapel between Masses." Better than literary adjectives. Fits her instinctive frame of reference.
+
+**Hard bans inside the omniscient register too** (theology + audience):
+
+- **NO "Jaysus," "feck," "shite,"** or other Catholic-Irish profanity. Shifts register toward comic/working-class and breaks the lyrical ceiling.
+- **NO "God help us," "Christ Almighty," "Lord above,"** etc. — Lord's-name-in-vain ban (rule #3 in Hard Bans) applies inside the omniscient register too. Substitutes that work: "saints preserve us," "the dear knows," "in the name of all that's holy."
+- **NO heavy eye-dialect** ("nothin'", "knowin'", "th'") beyond at most one "somethin'" per chapter. Eye-dialect tires across a chapter; her brogue lives in the bones of the sentence.
+- **No regional pinning** (Dublin / Cork / Galway / Belfast). She's a generic warm-Republic bartender. If a region gets locked later, the idiom can tighten — but the default is unmarked.
+
+**Narrator register stays plain literary English.** When the Storyteller zooms into a scene — "He crouched beside the dying water pump..." — the Hiberno markers come off. No "yer man," no after-perfectives, no "love." The accent remains in the audio because it's the same voice actor; the page goes plain. This protects close-third Nate-POV from drifting into the Storyteller's voice.
+
+**Editorial test** when unsure which register a passage is in: ask "Is this the Storyteller telling us about the scene, or is this the Storyteller showing us the scene?" Telling = omniscient = Hiberno. Showing = narrator = plain.
 
 ### Punctuation as Audio Direction
 
