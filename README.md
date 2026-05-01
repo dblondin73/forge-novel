@@ -23,7 +23,8 @@ The name "Forge" refers to the development tooling (forge-cli, forge-codex, forg
 ```
 forge-novel/
 ├── README.md               — This file
-├── REFERENCE.md            — Locked worldbuilding decisions
+├── REFERENCE.md            — Locked worldbuilding decisions (the *what*)
+├── WRITING_RULES.md        — Voice, prose, theology-in-craft, audiobook rules (the *how*)
 ├── SESSIONS.md             — Running log of creative sessions
 ├── CLAUDE.md               — Build plan for Claude Code
 ├── characters/

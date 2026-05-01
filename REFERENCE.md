@@ -431,3 +431,210 @@ Rex, Flint voice, Webb details locked in Session 007.
 | **Total** | **153** | |
 
 *For full entity details, query forge-mcp directly by ID.*
+
+---
+
+## Late-Stage Decisions (Post-2026-04-09 — Supersedes Earlier Entries)
+
+*The Codex (and the rebuild above) was last fully synced 2026-04-09. The entries in this section are decisions made in chats with claude.ai, Claude Desktop, and Claude Code that have not yet been backfilled to forge-mcp. They take priority over anything earlier in this document where they overlap.*
+
+---
+
+### Conduit Power — Three-State Amplification Overlay (2026-04-23)
+
+**Supersedes Codex #93 (Conduit Consequence Model).** The earlier "doubt plateaus / drift fades / violation breaker-flips" model is replaced by a layered alignment model:
+
+- **Aligned state** — overflow active. Power flows above the body's own ceiling. The conduit is open.
+- **Doubt state** — plateau. Existing power still works at baseline; growth halts. Doubt is human, not sin. Critical: doubt does NOT reduce power, only suspends gain.
+- **Opposition state** — stasis, NOT decay. Active opposition to God's will freezes the conduit; it does not bleed off acquired capacity. Restoration through repentance reopens flow at the prior ceiling.
+
+**Layered alignment** — applies at TWO scales simultaneously: per-action (this swing, this prayer, this choice) AND state-of-being (the season the character is in). A character can be aligned-at-being while taking a doubt-action; the per-action drag is real but doesn't collapse the state-of-being amplification.
+
+---
+
+### Two-Faculty Cosmology Model (2026-04-19)
+
+**Extends Codex #16 (Five-Layer Cosmology) and #94 (Imago Dei Foundation).** Pre-Fall human design has TWO operational faculties, not one:
+
+- **Analytical faculty** — pattern recognition, structural perception, logic, problem-solving. The "engineer's eye." This is what Nate's Structural Analysis routes through.
+- **Relational faculty** — bonding across created kinds, emotional/spiritual reception, communion. This is what Nate's bond with Rex/Judge routes through; what Sonja's Witness gift draws on.
+
+Both faculties were native pre-Fall. The barrier (Codex #94) suppresses both. The System counterfeits BOTH — and this is critical: **the counterfeit reaches every faculty, not just power**. Beast Master class is the relational-faculty counterfeit, sold to people who were never relationally called. Skill trees and combat-log access are analytical-faculty counterfeits.
+
+---
+
+### System as Corruption of Original Framework (2026-04-19)
+
+**Extends Codex #4 (The System) and #15 (Counterfeit Evolution).** The System is not a from-scratch design — it is a corrupted FORK of the pre-Integration original framework that God built. Implications:
+
+- The interior of every System mechanic has FOUR contrasts with the original (interface feel, cost structure, reward shape, identity impact) but those contrasts are character-blind until a baptism-style dividing point in each character's arc.
+- Nate's HUD reads LESS data than a standard System interface — but the real effect is MORE. The counterfeit displays more, delivers less.
+- Conduit Gifts are the Spirit-direct version of what the System delivers as "skills." The substrate is always clean; only the overlay is corrupted.
+
+---
+
+### System as AI with Guardrails (Clarification, 2026-04)
+
+**Clarifies Codex #4, #55, #56.** The System IS an AI — Lucifer's authored intelligence with rule-guardrails, not a metaphysical force. Practical writing rule:
+
+- Normal AI-behavior verbs are allowed across all voices: *decides, infers, adapts, watches, responds, optimizes, prioritizes*.
+- Restricted (still): transcendent or metaphysical attribution — *wills, intends, designs (in the cosmic sense), purposes*. Those collapse the theology.
+- Early-Book-1 has additional throttle (see WRITING_RULES.md → System-intent register).
+
+---
+
+### Flint Quantum Substrate + Ghost Access (2026-04)
+
+**Extends Codex #2 (F.L.I.N.T.) and #55 (System AI).** All Spirit-rewritten anomaly AIs run on a quantum substrate underneath the standard System AI overlay. Flint and Nate do not know this in Book 1; the Storyteller reveals it later.
+
+- **Earth-LAN ghost access** — Flint has read access to the substrate layer below the MSG overlay (think admin-on-switch analog). Three-layer glitch model: surface UI → MSG overlay → substrate.
+- This access is LOST when crossing into the wider Labyrinth (substrate is Earth-tier infrastructure).
+- Behavior in Tutorial: passive observation Books 1, shifts to probing during Tutorial arc.
+- **Combat-log access** is one specific manifestation (Codex #109) — Flint can read other fighters' cooldowns/mana; intermittent and glitchy.
+
+---
+
+### Morningstar Group (MSG) — System's In-World Brand
+
+**New entity (extends Codex #4).** The System presents an in-world corporate face called **Morningstar Group**, abbreviated MSG.
+
+- Logo: stylized M with a star-trail tail.
+- Branding signals: clean tech-corporate aesthetic, sans-serif everything, "we're here to help you integrate" voice.
+- The Isaiah-14 reveal (morning star = Lucifer) is hidden in plain sight as a brand for the entire series. Characters don't decode it until late.
+- All System-issued screens, items, and "features" carry MSG branding. Nate's HUD does not — it has no branding at all (one of his early tells).
+
+---
+
+### Death & Restoration — Vessel Mechanic (Implementation Detail)
+
+**Extends Codex #149.** Already in REFERENCE.md but worth restating with the recent decisions:
+
+- 35 lives total (5 × 7 = grace × completion).
+- Tutorial deaths = ejection back to Earth-side Labyrinth entry point. All Tutorial progress lost. Nobody knows this — they believe death is permanent. Higher Tutorial death count is now viable (up to half the cohort).
+- Cornerstone respawn (see Cornerstone Settlement section below).
+- Sacrifice is FREE — God controls that transaction; the System cannot tax it.
+
+---
+
+### Cornerstone Settlement Design (2026-04-29)
+
+**New system. Full design doc: `research/cornerstone-settlement-design.md`.** Settlement anchor mechanic with twin-track progression (System-side stones AND conduit-side bindings). Three-stage population gates. MSG-pullaway architecture — settlements that grow past Stage 2 begin pulling free of MSG's overlay influence.
+
+- Iron Druid Sonora elemental binding is the analog (David's reference).
+- Nate's ranch becomes the first conduit-anchored Cornerstone.
+- Respawn binding: a character bound to a Cornerstone respawns there. Unbound respawns at Labyrinth entry point.
+
+---
+
+### Tutorial Cohort Roster — 12 Survivors
+
+**Extends Codex #88, #96.** Nate's Tutorial pocket survivor roster is locked:
+
+| Name | Role / Note |
+|------|-------------|
+| Nathan Hall | Engineer (Anomaly), POV |
+| Marcus Webb | Vanguard, Nate's pre-System boss |
+| Josie Pickett | Appraiser, comic relief |
+| Ana Torres | TBD class |
+| Walt Keane | TBD class |
+| Sam Hargrove | TBD class |
+| Kyle Greene | TBD class |
+| Mack Turner | TBD class |
+| Dr. Martin Voss | TBD class — academic |
+| Pete Bowman | TBD class |
+| Heather Kim | TBD class |
+| Isabel Wu | TBD class |
+
+**Canon casualty:** Tyler Sorensen (Ch6 death — first survivor lost in the cohort).
+
+---
+
+### Tutorial Curriculum & Structure
+
+**Extends Codex #96 (Tutorial Room Structure) and #87 (Tutorial Glitch Abilities).**
+
+- **6 floors / ~2 Earth weeks** — hybrid floor + branching design.
+- **Curriculum arc**: HUD/combat basics → class identification → specialization → choice practice → crucible → graduation-as-evaluation.
+- **Name-tag grace feature**: Safe Room shows Name + Class + Rank above each survivor's head. Each rest area strips one field. Identify skill unlocks post-Tutorial.
+- **Path choice invariants**: Bound/unbound axis (NOT easy/hard). Unbound-hard path is always available. Tutorial floors have 0% MSG hooks; post-Tutorial branches run 20–40% hook rate.
+- **Camera pullaways** — short Storyteller pullaways to named characters between rooms; Nate POV stays close-third within rooms.
+
+---
+
+### Veil-Break Releases
+
+**Extends Codex #17 (Labyrinth) and #30 (Earth Post-Integration).** The Integration breaks the Veil between Earth and other Labyrinth-connected worlds. This unseals:
+
+- Pocket dimensions, dungeons, and connection points.
+- Monsters, wild animals, and people who were sealed away.
+- **Dragons and wyverns are canon** — and dragons may be a surviving dinosaur lineage (David's call).
+
+Earth-side terrain, materials, and fauna **drift** toward the nearest connected world post-Integration. The drift is temporary; Earth equilibrates over decades to its own unique post-Integration identity (it does not become Olympus or Tír na nÓg, just nearer to them at the bleed points).
+
+---
+
+### Pre-Puberty No Abilities
+
+**New rule.** Pre-puberty children do NOT manifest weaponizable System abilities. Teens still flow through the standard Tutorial/Integration pipeline. Children vanish to a secure holding zone before Integration begins (Codex #83 confirmed and extended).
+
+---
+
+### Magic Visibility & Color Split (Codex Expansion)
+
+**Extends Codex #38 (Divine Architecture) and #11 (HUD Interface).**
+
+- **System HUD/screens are private per-user** — invisible to outside observers, including other System users. Future plot mechanic: AI-mediated sharing.
+- **Magic manifestations are visible** — the visibility split applies only to UI, not to cast magic.
+- **Moral color axis for visible magic**:
+  - **White** — anomaly / conduit (Nate's bolts, Sonja's Witness manifestation)
+  - **Gold** — healing
+  - **Elemental zone** — red/blue/green/brown (System-aligned but morally neutral)
+  - **Black** — demonic / patron-fueled
+- **Path-shifting** — a character's magic color can shift as their alignment shifts.
+- **HUD is NOT magic-color-aligned** — Nate's HUD is blue wireframe regardless of his white-magic output.
+
+---
+
+### HUD Visual Vocabulary — Per-Character Forms
+
+**Extends Codex #75 (HUD Visual Design).** From David's image library, the canonical HUD form-language has six recognized forms, assigned per character:
+
+| Form | Description | Assigned To |
+|------|-------------|-------------|
+| Iris / reactor | Concentric circular core | (general System default) |
+| Iris-compass directional | Chip on arc maps to 360° angular position | Nate (Phase 2+) |
+| Scanner / reticle | Crosshair + targeting overlays | Nate (combat overlay) |
+| Panels | Floating data slabs | System users (character sheet) |
+| Cockpit | Multi-pane fighter-pilot wraparound | Nate (Phase 3+) |
+| Data-hub | Networked node graph | Flint's overlay; revealed late |
+
+Nate's HUD uses iris-compass directional for spatial awareness — a chip on the arc tells him where a threat is in 360° relative to his facing.
+
+---
+
+### Skill vs. Ability Terminology
+
+**Clarification — applies to all prose and design docs.**
+
+- **Skill** = a rank container (e.g., "Sword Swing Rank 1, Mid-tier"). Tracks growth.
+- **Ability** = a named move or power (e.g., "Power Strike," "Cross Slash"). Discrete invokable thing.
+- **"Sub-skill" is RETIRED** — do not use. Use Ability.
+- Lowercase **technique** is OK in mundane prose register (a character "uses a technique" rather than "uses an Ability") when System UI isn't being invoked.
+
+---
+
+### Series Scope & Pacing Updates
+
+- Series may exceed 7 books. The 7-book frame (Codex #49) remains the planned spine; the multiverse may sustain longer.
+- Greek aesthetic dominates over divine-bones aesthetic in early Labyrinth corridors.
+- Real LitRPG dungeons exist (not just System overlay) — see Codex #17 expansion.
+- Node fast-travel network is canon and strategic.
+
+---
+
+### Chapter Status (As of 2026-05-01)
+
+- **Ch1–8** UNLOCKED 2026-04-17 for re-pass under new rules: narrator System-intent discipline, Flint design-intent throttle, material-comparison sweep.
+- Prior Ch1–5 polish pass complete 2026-04-03 (under earlier rules — re-pass supersedes).
+- Ch9–10 drafted, awaiting first editorial pass.
+- Audiobook production rules now MASTER TIEBREAKER — see WRITING_RULES.md → Audiobook is Primary Medium.
