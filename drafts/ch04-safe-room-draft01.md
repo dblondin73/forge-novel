@@ -2,7 +2,7 @@
 
 ---
 
-Fifty people, give or take, and one crossbow worth a damn. But they hadn't found the crossbow yet. They hadn't found the man who'd build it, either — not properly, not in the way that mattered. They would. The room surfaced things, one way or another, and the things it surfaced and the things the people in it had come ready to find would turn out to be two very different lists.
+Fifty people, give or take, and one crossbow worth a damn. But they hadn't found the crossbow yet. They hadn't found the man who'd build it, either — not properly, not in the way that mattered. They would. The room surfaced things, one way or another, and the things it surfaced and the things the people in it had come ready to find would turn out to be two very different lists, ye'll find.
 
 ---
 
@@ -228,7 +228,7 @@ Grip wrapped in a strip of leather from the inside of a belt buckle, where the *
 
 Ten minutes. The crossbow looked like someone built it in a barn. The stock was a table leg. The trigger was a wall bracket. The prod was the only piece in the whole room that someone had bothered to *temper*.
 
-It was ugly — honest-ugly, the kind that came from function winning every argument with form — and dangerous with the quiet certainty of something engineered to a purpose. That morning it was just a man and a crossbow that looked like it had been assembled during a bar fight, and neither of them knew what they were starting.
+It was ugly — honest-ugly, the kind that came from function winning every argument with form — and dangerous with the quiet certainty of something engineered to a purpose. That morning it was just a man and a crossbow that looked like it had been assembled during a bar fight, and neither of them knew what they were starting, mind.
 
 "I have catalogued what you just did," Flint said, "and I want you to know that from a strictly technical standpoint, you just built a ranged weapon from furniture and wall fixtures while forty-something people with functioning class assignments selected purpose-built armaments designed by a god-tier intelligence." A beat, and his voice shifted from clinical to something that sounded almost like pride, if you didn't know better. "And yours is better. I find that personally offensive on their behalf."
 
@@ -246,7 +246,7 @@ Judge had appropriated a scrap of hide from the discard pile and was carrying it
 
 ---
 
-She'd been three feet to his left the whole time.
+She'd been three feet to his left the whole time altogether.
 
 Short. Compact. Dark ponytail that had been practical before the world ended and was practical after. Brown eyes that didn't rest on anything — they *scanned*, moving across surfaces and objects with the relentless sweep of someone who'd been inventorying the world since before she knew there was a word for it. She'd been sorting through a pile of leather armor pieces on the neighboring table, and based on the organized chaos of her work surface — rejects in one stack, possibles in another, and a third pile of items she appeared to be conducting a personal intervention with — she'd been at it since before Nate started building.
 
@@ -346,7 +346,7 @@ He stood. Walked to the supply table. Picked up the other three water skins and 
 
 Nobody asked why the man with the **PROCESSING** tag was handing out water while everyone else was grabbing weapons. Nobody noticed. That was fine.
 
-*A man crouching beside a grieving mother and saying drink something while the rest of the room chased power. The System had columns for fifty people choosing weapons. It had no column for the one who chose water.*
+*Sure, a man crouching beside a grieving mother and saying drink something while the rest of the room chased power. The System had columns for fifty people choosing weapons. It had no column for the one who chose water.*
 
 Marcus appeared without preamble — already moving, already assessing, — running his own recon of the room, Nate's corner the next objective.
 

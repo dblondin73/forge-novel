@@ -84,7 +84,7 @@ Nate found his position. A rock formation near the northeast pillar, chest-high,
 
 Judge vibrated at his right boot. Waiting. Every fiber of Blue Heeler muscle and instinct telling her to go, to drive, to *heel* — but the discipline of ten rooms holding her in check. She'd learned. Not patience, exactly. More like timing. The difference between a dog that charged at everything and a dog that charged at the right thing.
 
-*The Tutorial's apex predator stood between four honest pillars and watched its examination subjects take the placement test. Whether it registered what it saw is a question only the creature could answer. Whether the creature was capable of answering it is a question no one was asking.*
+*The Tutorial's apex predator stood between four honest pillars and watched its examination subjects take the placement test, mind. Whether it registered what it saw is a question only the creature could answer. Whether the creature was capable of answering it is a question no one was asking.*
 
 The **Thornlings** hit the formation from three sides.
 
@@ -326,7 +326,7 @@ The warm amber light flickered once. The spawn points along the walls went dark 
 
 The **Briarknight's** crown of thorns hit the stone floor last. A small sound, after all the large ones. The Tutorial's apex predator undone by an engineer who'd read the room instead of fighting the monster.
 
-*The Tutorial had a rubric with one intended answer — be stronger, hit harder, level higher, overcome. The man with the amber tag and the table-leg crossbow had found a second answer the rubric hadn't written down. Infrastructure. The ceiling was always there. The rubric just had no column for it. Whether that delighted or unsettled the rubric's authors — a question for later. Whether anyone would ever ask it — a question that mattered more.*
+*Sure, the Tutorial had a rubric with one intended answer — be stronger, hit harder, level higher, overcome. The man with the amber tag and the table-leg crossbow had found a second answer the rubric hadn't written down. Infrastructure. The ceiling was always there, mind. The rubric just had no column for it. Whether that delighted or unsettled the rubric's authors — a question for later. Whether anyone would ever ask it — a question that mattered more.*
 
 ---
 
@@ -424,7 +424,7 @@ Eleven people went still at once. Eyes widening, breath catching, hands rising t
 
 Faces that had been gray with exhaustion lit up from the inside. A Warrior's mouth opened and closed without sound. A Mage's fingers traced patterns in the air, reading text only she could see. Achievement notifications bloomed behind every pair of eyes in the room, and the dopamine hit was *perfect* — calibrated, precise, the neurochemical reward of a system that understood exactly how to make victory hit neurochemically and make the hit feel earned.
 
-*Oh, the gift arrived well. Gold foil and clean numbers and the warm hum of validation on a schedule. Every chime landed at the frequency that felt like belonging. Every stat a handshake. Every rank-up a promise. This was how the feedback loop worked — not through coercion, not through threat, but through the simple, devastating effect of arriving with exactly what the moment wanted to hear. The golden light was real. The chimes were real. The feeling of being known and valued and measured and found worthy — that was real too. And the pull that ran deeper with every line of golden text was the most real thing of all, because the gentlest pulls don't feel like pulling at all. They feel like coming home.*
+*Oh, the gift arrived well, ye'll find. Gold foil and clean numbers and the warm hum of validation on a schedule. Every chime landed at the frequency that felt like belonging. Every stat a handshake. Every rank-up a promise. This was how the feedback loop worked — not through coercion, not through threat, but through the simple, devastating effect of arriving with exactly what the moment wanted to hear. The golden light was real. The chimes were real. The feeling of being known and valued and measured and found worthy — that was real too. And the pull that ran deeper with every line of golden text was the most real thing of all, because the gentlest pulls don't feel like pulling at all. They feel like coming home.*
 
 The Shield Guardian — broken arm, no shield, sword still bloody — saw his screen and his face did something Nate had never seen a face do: grief and pride simultaneously, the man reading his rewards through tears he wasn't trying to hide. Class: Shield Guardian — Rank F-High. The System had named what he'd become. Had measured nine rooms of standing between danger and the people behind him and had found the measurement worthy. The golden text glowed against his face, and for one moment the man who'd charged a boss with a broken arm and nothing left was being told by a formal authority that the charge had counted.
 
@@ -558,6 +558,6 @@ Rex's tail thumped once. Judge's stub tail twitched.
 
 Nate turned toward the barn, and the dogs fell in beside him — Rex left, Judge right, the formation as old as the ranch and as steady as the dirt beneath it. The crossbow over his shoulder. The hammer on his hip. The blue arcs bright and certain at the edges of his vision, and the faintest trace of amber at the periphery where something was waking up.
 
-*Water first. The man who'd dropped a ceiling on a creature that swords couldn't scratch walked toward his barn to check the stock tanks, because that was what you did. You handled what was in front of you. The Tutorial was behind him. The real test — Integration, the world remade, the architecture beneath reality visible now to anyone with the eyes to read it — was ahead. And the fence line where the stag had stood was exactly where his boots had landed, which was either a coincidence or a beginning, and Nate Hall had never much believed in coincidences.*
+*Water first, mind. The man who'd dropped a ceiling on a creature that swords couldn't scratch walked toward his barn to check the stock tanks, because that was what you did. You handled what was in front of you. The Tutorial was behind him. The real test — Integration, the world remade, the architecture beneath reality visible now to anyone with the eyes to read it — was ahead. And the fence line where the stag had stood was exactly where his boots had landed, which was either a coincidence or a beginning altogether, and Nate Hall had never much believed in coincidences.*
 
 East Texas held its breath.

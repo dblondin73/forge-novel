@@ -2,7 +2,7 @@
 
 ---
 
-What happened next happened to everyone. But it happened to Nate Hall differently, and the difference would matter more than anyone — including Nate — would understand for a very long time.
+What happened next happened to everyone, mind. But it happened to Nate Hall differently, and the difference would matter more than anyone — including Nate — would understand for a very long time.
 
 ---
 
@@ -94,7 +94,7 @@ And the installer, for its part, was beginning to agree.
 
 ---
 
-Oh, but there it was. The thing an installer's schema had no column for. The door locked from the inside. Nate didn't know what it was — wouldn't, not for a long time, and the not-knowing would cost him dearly before it saved him entirely. Process, meet pylon. Every once in a great while, pylon wins.
+Oh, but there it was. The thing an installer's schema had no column for. The door locked from the inside. Nate didn't know what it was — wouldn't, not for a long time, and the not-knowing would cost him dearly before it saved him entirely. Process, meet pylon. Sure, every once in a great while, pylon wins.
 
 ---
 
@@ -152,9 +152,9 @@ And then — far off, the way weather gathers before you notice you've been hear
 
 ---
 
-Every person on earth went through it. Eight billion integrations, eight billion frameworks installed, eight billion sets of shelves erected in eight billion minds. Most went cleanly — the seamless migration from what they had been to whatever came out the other side of the process. They woke up grateful. They woke up classified. They woke up with blue screens and starter kits and the warm certainty that the thing that had just happened to them was a gift.
+Every person on earth went through it. Eight billion integrations, eight billion frameworks installed, eight billion sets of shelves erected in eight billion minds. Most went cleanly enough, ye'll find — the seamless migration from what they had been to whatever came out the other side of the process. They woke up grateful. They woke up classified. They woke up with blue screens and starter kits and the warm certainty that the thing that had just happened to them was a gift.
 
-Most took. A few did not. And this one — the man lying in the bermudagrass — was the kind of _did not_ that had no entry in the **System**'s documentation. The difference — small as a single partition error on a single node — would ripple outward in ways neither the **System** nor the man could yet predict.
+Most took. A few did not, mind. And this one — yer man lying in the bermudagrass — was the kind of _did not_ that had no entry in the **System**'s documentation. The difference — small as a single partition error on a single node — would ripple outward in ways neither the **System** nor the man could yet predict.
 
 ---
 
@@ -166,7 +166,7 @@ He gasped. Air — real air — flooded his lungs. It tasted like East Texas in 
 
 He kept his eyes shut. Not ready yet.
 
-But the world was not waiting for him. It had never been particularly patient with Nate Hall, and it was not about to start now.
+But the world was not waiting for him. It had never been particularly patient with Nate Hall altogether, and it was not about to start now.
 
 ---
 
@@ -282,7 +282,7 @@ And the empty places at the edges of his memory ached.
 
 ---
 
-The **System**'s architecture registered wanting. Registered reaching. Had no column for a man who could watch the feast and keep his hand on a dog's head instead.
+Sure, the **System**'s architecture registered wanting. Registered reaching. Had no column for a man who could watch the feast and keep his hand on a dog's head instead.
 
 ---
 
@@ -302,7 +302,7 @@ Two words that meant nothing to the man reading them and everything to the **Sys
 
 The man by the Tahoe glanced back at him one more time — that brief, uncertain look of a man who'd found something that didn't fit the pattern and decided it wasn't his problem. Then his daughter tugged his sleeve and pulled him back toward the family, and Nate was forgotten. The woman had gone quiet on the running board, her eyes moving across her own private document. The boy was bouncing now, stabbing his finger at empty air, chattering a mile a minute at his sister about whatever he was seeing. Ten years old with a screen only he could read, and the world had just gotten extremely simple.
 
-They didn't say goodbye. People receiving gifts don't tend to look over their shoulder at the man who didn't get one.
+They didn't say goodbye. People receiving gifts don't tend to look over their shoulder at yer man who didn't get one, mind.
 
 The Tahoe doors closed. The engine settled into gear. The white Chevy rolled forward on the county road and kept going, and then it was just Nate and Rex and Judge and the sound of the Henderson place hollering a quarter mile away.
 
@@ -330,6 +330,6 @@ He let his eyes close.
 
 ---
 
-The blue arcs held steady under closed eyes, patient as the land beneath him. Two dogs held their posts — one watching him, one watching everything else. In the north pasture, the pump kept running — bearings and all.
+The blue arcs held steady under closed eyes, patient as the land beneath him. Two dogs held their posts — one watching him, one watching everything else. In the north pasture, the pump kept running — bearings and all, mind.
 
 And in the space where the framework met the thing it couldn't move, the installation settled deeper into the forty percent it had claimed. Quietly. Helpfully. The kind of helpfulness that was easy to stop noticing.

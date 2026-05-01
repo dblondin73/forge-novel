@@ -2,7 +2,7 @@
 
 ---
 
-The Tutorial had a curriculum. It also, as of the last ninety seconds, had a reward counter.
+Sure, the Tutorial had a curriculum. It also, as of the last ninety seconds, had a reward counter.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-Room 3 was where the Tutorial stopped asking and started telling.
+Room 3 was where the Tutorial stopped asking and started telling, mind.
 
 But first the corridor widened.
 
@@ -174,7 +174,7 @@ Sam Hargrove and Mack Turner, shoulder-to-shoulder in the four-foot pinch betwee
 
 A Thornling clipped Sam's shin. Bark-thorn across the calf, hot line of blood through torn pants. Sam grunted. Didn't drop. His blade kept coming on the upswing because the System was carrying his arm through the motion and the System did not care that he had just been hit. Behind him, Mack stepped up with his **Power Strike** primed, and Sam rotated back breathing hard, hand pressed to the cut, eyes counting the cooldown seconds.
 
-*Two rough men swapping the lead beat with the metronome rhythm of dancers who have no idea they are dancing. They will never use the word. But their feet know it. And in the room's acoustics, for those eight seconds, the choke sounds like music.*
+*Sure, two rough men swapping the lead beat with the metronome rhythm of dancers who have no idea they are dancing. They will never use the word. But their feet know it, mind. And in the room's acoustics, for those eight seconds, the choke sounds like music.*
 
 Heather cast her first **Fire Bolt**.
 
@@ -276,7 +276,7 @@ The number had stopped being arithmetic.
 
 Nobody said the names. That was the part that stayed with Nate — nobody said the names because almost nobody knew them. Thirty-nine had walked into the room and thirty-six had walked out, and even the three who had not were becoming abstractions faster than felt decent. The young **Warrior** who had chased too deep. The man who had held his shield until it broke. The woman behind him. They would be remembered by what they had done at the end, not who they had been before it.
 
-*The names were there. She kept them. That was part of the work. The young Warrior was twenty-four and had a sister in Lincoln, Nebraska, who would not know for a long time what he had become at the end — only that he had been loved by a family and was gone. The man with the shield was a middle-school shop teacher from Bartlesville who had fixed his neighbors' lawnmowers for free and never let the favor be mentioned. The woman behind him was his wife of thirty-two years — three grandchildren, a garden that would not be weeded this spring. The cohort did not know. The cohort did not need to know. But the names were kept. The names were always kept.*
+*The names were there. She kept them. That was part of the work. The young Warrior was twenty-four and had a sister in Lincoln, Nebraska, who would not know for a long time what he had become at the end — only that he had been loved by a family and was gone. The man with the shield was a middle-school shop teacher from Bartlesville who had fixed his neighbors' lawnmowers for free and never let the favor be mentioned. The woman behind him was his wife of thirty-two years — three grandchildren, a garden that would not be weeded this spring. The cohort did not know. The cohort did not need to know. But the names were kept, mind. The names were always kept.*
 
 Sam Hargrove was standing near the east wall.
 

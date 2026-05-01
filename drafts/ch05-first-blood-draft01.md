@@ -2,7 +2,7 @@
 
 ---
 
-The Tutorial had lessons. Nobody had asked the fifty people walking through the dark whether they'd signed up.
+The Tutorial had lessons, mind. Nobody had asked the fifty people walking through the dark whether they'd signed up.
 
 ---
 
@@ -175,7 +175,7 @@ The jacket man, the unarmed woman at the west wall, the Support slumped against 
 
 Nobody had. That was what he registered last, and hardest. He'd been in the corridor with them less than two hours ago. They hadn't had time to trade names. The Tutorial had ensured that most of the introductions were posthumous.
 
-*Four names the Tutorial will not be assigning homework to. The Storyteller's list grows — it grew before you came in here, love, and it will grow after. But the ones in this chamber just went on it newly, and the room knows.*
+*Four names the Tutorial will not be assigning homework to. The Storyteller's list grows — sure, it grew before you came in here, love, and it will grow after. But the ones in this chamber just went on it newly, and the room knows.*
 
 Ana Torres moved between the bodies with the careful hands of a woman whose white light was working and whose white light could not work on this. She closed the jacket man's eyes. The other Healer — younger, shaking — was trying to close the unarmed woman's and couldn't find the shape to do it. Ana reached over and did that too. Nobody told them to do it. The dead had been dying for less than three minutes and the living had already decided on a ceremony.
 
@@ -223,7 +223,7 @@ Judge went first, because Judge went first wherever there was a door. Rex paced 
 
 The Tutorial had lessons. This one had cost four.
 
-*Fifty walked into this room. Four of them did not walk out. The Tutorial watches them go through the gap one by one, and says nothing — because there is nothing useful to say to forty-six people who do not yet know that the number they are leaving in this chamber is smaller than the number waiting in the next one.*
+*Fifty walked into this room. Four of them did not walk out, mind. The Tutorial watches them go through the gap one by one, and says nothing — because there is nothing useful to say to forty-six people who do not yet know that the number they are leaving in this chamber is smaller than the number waiting in the next one.*
 
 "Forty-six," Nate said, soft enough that only Flint heard it.
 

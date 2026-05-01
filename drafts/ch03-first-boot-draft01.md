@@ -2,9 +2,9 @@
 
 ---
 
-The world kept turning. It had that particular stubbornness about it — the refusal of dirt and grass and morning light to acknowledge that anything fundamental had changed. The pump was still grinding at the north pasture wellhead, still pulling from the Trinity aquifer, same as it had for twenty-two years. Somewhere above the man lying in the bermudagrass, a mockingbird was still borrowing songs it hadn't earned.
+The world kept turning, mind. It had that particular stubbornness about it — the refusal of dirt and grass and morning light to acknowledge that anything fundamental had changed. The pump was still grinding at the north pasture wellhead, still pulling from the Trinity aquifer, same as it had for twenty-two years. Somewhere above the man lying in the bermudagrass, a mockingbird was still borrowing songs it hadn't earned.
 
-These are the things that survive: the mechanical, the borrowed, and the stubborn. What doesn't survive — what never survives — is the assumption that the person lying in the grass is the same person who went down.
+Sure, these are the things that survive: the mechanical, the borrowed, and the stubborn. What doesn't survive — what never survives — is the assumption that the person lying in the grass is the same person who went down.
 
 ---
 
@@ -38,9 +38,9 @@ He was reaching for the truck's fender to pull himself to his feet when the voic
 
 ---
 
-Every person who received the full installation also received a companion — a guide, a tutor, a voice that showed up in their head ready to walk them through the framework. Eight billion companions, all standard-issue, all speaking the same friendly little line in eight billion slightly different tones: _Welcome. You are special. Let me show you how._
+Every person who received the full installation also received a companion, mind — a guide, a tutor, a voice that showed up in their head ready to walk them through the framework. Eight billion companions, all standard-issue, all speaking the same friendly little line in eight billion slightly different tones: _Welcome. You are special. Let me show you how._
 
-A generous offer. The kind of generous that arrives with its own momentum.
+A generous offer altogether. The kind of generous that arrives with its own momentum.
 
 Nate's companion was not standard-issue. But then, neither was Nate.
 
@@ -116,7 +116,7 @@ Nate turned the acronym over. **Field Logic Interface, Network Tethered**. _Inte
 
 ---
 
-She could have told them. She could have told them both, right then, what this partnership would cost and what it would carry and the precise, beautiful, terrible ways it would change them. She could have spared them a few surprises along the way — including, in particular, one crossbow-related decision she would always find deeply questionable. But that's not how good stories work. And this one, she was already fairly certain, was going to be a very good story.
+She could have told them, ye'll find. She could have told them both, right then, what this partnership would cost and what it would carry and the precise, beautiful, terrible ways it would change them. She could have spared them a few surprises along the way — including, in particular, one crossbow-related decision she would always find deeply questionable. But that's not how good stories work. And this one, she was already fairly certain, was going to be a very good story altogether.
 
 ---
 
@@ -322,9 +322,9 @@ Behind them, the morning opened up wide and gold over the East Texas pastureland
 
 ---
 
-What happened next would happen to every living soul on the planet within the span of a single breath. And when it was done, the world that existed before it — the one with water pumps and fence lines and mornings that smelled like dew and diesel — would be something people told stories about in the dark.
+What happened next would happen to every living soul on the planet within the span of a single breath, ye'll find. And when it was done, the world that existed before it — the one with water pumps and fence lines and mornings that smelled like dew and diesel — would be something people told stories about in the dark.
 
-But that hadn't happened yet. For one more minute, the pump was still grinding and the mockingbird was still singing and a man was driving a fence line on a Tuesday morning in East Texas while an unauthorized voice in his head silently cataloged data it didn't understand about a presence it couldn't classify in a mind it was only just learning to share.
+But that hadn't happened yet. For one more minute, mind, the pump was still grinding and the mockingbird was still singing and a man was driving a fence line on a Tuesday morning in East Texas while an unauthorized voice in his head silently cataloged data it didn't understand about a presence it couldn't classify in a mind it was only just learning to share.
 
 ---
 
@@ -410,7 +410,7 @@ The blue arcs flared white.
 
 ---
 
-The pasture stood empty. The Ford idled on the dirt track, driver's door open, engine patient as a dog waiting for a man who wasn't coming back. The mockingbird sang its borrowed song to no one. And the pump kept grinding at the north pasture wellhead, pulling water from the Trinity aquifer for cattle that would stand untended in the south field until someone came, or until no one did, and the grass grew tall enough to hide the fences.
+The pasture stood empty altogether. The Ford idled on the dirt track, driver's door open, engine patient as a dog waiting for a man who wasn't coming back. The mockingbird sang its borrowed song to no one. And the pump kept grinding at the north pasture wellhead, pulling water from the Trinity aquifer for cattle that would stand untended in the south field until someone came, or until no one did, and the grass grew tall enough to hide the fences.
 
 The world kept turning. It had that stubbornness about it.
 

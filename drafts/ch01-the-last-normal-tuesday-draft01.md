@@ -2,7 +2,7 @@
 
 ---
 
-Some mornings arrive carrying more than they show. This is not, strictly speaking, unusual — most mornings are hiding something. A phone call. A flat tire. The slow realization that you've been out of coffee for two days and the backup tin is also empty. But there are mornings, rare ones, that arrive carrying the weight of what comes after them the way a river carries a flood — quietly, from a long way off, with no particular interest in whether you're ready.
+Some mornings arrive carrying more than they show. This is not, strictly speaking, unusual — most mornings are hiding something, mind. A phone call. A flat tire. The slow realisation that you've been out of coffee for two days and the backup tin's after going empty on you. But there are mornings, rare ones, that arrive carrying the weight of what comes after them the way a river carries a flood — quietly, from a long way off, with no particular interest in whether you're ready or not.
 
 This was one of those.
 
@@ -28,11 +28,11 @@ He just needed it to hold until the weekend. Pull it Saturday, swap the bearings
 
 Six-fifteen, maybe six-twenty. The sun hadn't cleared the tree line — just a glow along the eastern horizon, the sky shifting from steel to pale gold, the pasture flattened in that pre-dawn light where everything went the same color and the dew caught what little there was and held it — a thousand tiny lenses, sharp and cold. A mockingbird was running through its catalog somewhere in the pines behind the wellhead. Cardinal. Blue jay. Car horn. Cardinal again.
 
-Nate had been listening to that particular bird for two years and was fairly certain it had learned the car horn from the UPS truck that came down the county road every Thursday. Ambition: ten out of ten. Accuracy: generous four. Four ounces of feathers convinced it could be every bird in East Texas if it just kept cycling through the playlist fast enough. The bird was basically a DJ at a wedding nobody had booked, playing requests from an audience that did not exist, for tips that were never going to arrive, in a venue the bride had not signed the contract on, using a sound system it had built from the songs of birds who had never asked to be sampled. No license. No set list. Never been paid and never going to be paid, and the only review it had ever received was from a red-tailed hawk who had flown past once, considered the performance, and declined to comment. Pure commitment to a bit. Nate respected it in principle and mostly wished it would shut up.
+Nate had been listening to that particular bird for two years and was fairly certain it had learned the car horn from the UPS truck that came down the county road every Thursday. Its ambition: ten out of ten. Its accuracy: a generous four. It was four ounces of feathers convinced it could be every bird in East Texas if it just kept cycling through the playlist fast enough. The bird was basically a DJ at a wedding nobody had booked, playing requests from an audience that did not exist, for tips that were never going to arrive, using a sound system it had built from the songs of birds who had never asked to be sampled. No license. No set list, and the only review it had ever received was from a red-tailed hawk who had flown past once, considered the performance, and declined to comment. Pure commitment to a bit. Nate respected it in principle and mostly wished it would shut up.
 
-He stood, one knee popping — a souvenir from jumping off too many horses and trusting the landing — and walked back to his truck. The Ford sat on the dirt track along the fence line, tailgate down, a bucket of T-post clips next to a post driver and a coil of barbed wire. Rex watched him from the truck bed, chin on the side rail. The Border Collie's black-and-white face wore the expression it always wore when Nate was doing something that didn't involve moving cattle: patient disapproval. Four years of partnership, and the dog had developed a very clear opinion about what constituted real work and what was a waste of everyone's morning.
+He stood, one knee popping — a souvenir from jumping off too many horses — and walked back to his truck. The Ford sat on the dirt track along the fence line, tailgate down, a bucket of T-post clips next to a post driver and a coil of barbed wire. Rex watched him from the truck bed, chin on the side rail. The Border Collie's black-and-white face wore the expression it always wore when Nate was doing something that didn't involve moving cattle: patient disapproval. Four years of partnership, and the dog had developed a very clear opinion about what constituted real work and what was a waste of everyone's morning.
 
-Judge was watching too, perched atop the toolbox — four-legged gargoyle with opinions and a docket. The Blue Heeler's speckled coat caught the early light, and she was staring at Nate with the intensity of a creature who had weighed his pump work against her internal standards, held a brief deliberation, and returned a unanimous guilty verdict on all counts, pending sentencing. Judge had opinions about everything. How he drove. How he poured coffee. How slowly he opened the refrigerator, which she considered a personal insult. The speed at which things moved, the sounds they made while moving, the *attitude* with which they moved — none of it was ever fast enough or quiet enough or properly contrite about the inconvenience. Her name wasn't ironic. It was a clinical diagnosis, delivered under oath, and she had never once been impeached.
+Judge was watching too, perched atop the toolbox — four-legged gargoyle with opinions and a docket. The Blue Heeler's speckled coat caught the early light, and she was staring at Nate with the intensity of a creature who had weighed his pump work against her internal standards, held a brief deliberation, and returned a unanimous guilty verdict on all counts, pending sentencing. Judge had opinions about everything. How he drove. How he poured coffee. How slowly he opened the refrigerator, which she considered a personal insult. The speed at which things moved, the sounds they made while moving, the *attitude* with which they moved — none of it was ever fast enough or quiet enough or properly contrite about the inconvenience. Her name wasn't ironic. It was a clinical diagnosis, delivered under oath, and she had never once been overruled.
 
 "Pump bearings," Nate told them both. "Not everything is about cattle."
 
@@ -40,7 +40,7 @@ Rex's ears twitched forward and back. Unconvinced. The dog had a whole vocabular
 
 Judge barked. Once. Sharp. A gavel coming down on a bench. The court had rendered its opinion. He should stop wasting time on the pump and get to work. Real work. She communicated in pointed stares, dramatic sighs, and barks that were sentences being handed down. Rex tolerated Judge's volume the way a librarian tolerated a fire alarm — with the weary patience of someone who had long ago accepted that silence was a thing that happened to other people.
 
-"Noted," Nate said. "Motion denied."
+"Noted," Nate said. "Denied."
 
 Judge barked again. Appeal filed.
 
@@ -66,7 +66,7 @@ Congressman's commitment to projecting authority while accomplishing zero was ge
 
 ---
 
-Not every eye on a ranch sees the same thing. Most look for what's there. A few — the ones that matter — look for what's missing. Nate Hall had both kinds, and the ranch had spent twenty years sharpening them. The cattle didn't know that. They didn't need to. That's rather the point of good stewardship — the herd never has to understand the man counting them. Only that someone does.
+Not every eye on a ranch sees the same thing, ye'll find. Most look for what's there. A few — the ones that matter — look for what's missing. Nate Hall had both kinds, and the ranch had spent twenty years sharpening them. The cattle didn't know that. They didn't need to. Sure, that's the point of good stewardship — the herd never has to understand the man counting them. Only that someone does.
 
 ---
 
@@ -148,21 +148,21 @@ Time to run the fence.
 
 ---
 
-Somewhere in Panola County, a mockingbird had gone quiet, and a man who did not yet know he was being watched was latching his tailgate with the practiced efficiency of someone whose morning still belonged to him. It did, for now. It would not, for much longer.
+Somewhere in Panola County, a mockingbird had gone quiet, and yer man — who did not yet know he was being watched — was latching his tailgate with the practiced efficiency of someone whose morning still belonged to him. It did, for now. It would not, for much longer.
 
 ---
 
 A few things, before what happens next.
 
-There is nothing special about Panola County, Texas. Lovely place — if you like pine trees and red clay and heat that starts in April and doesn't quit until October pretends to think about it. But nothing about it would make you point to it on a map and say, _there_. Nothing about it suggested it was the sort of place where things began.
+There is nothing special about Panola County, Texas. Lovely place altogether — if you like pine trees and red clay and heat that starts in April and doesn't quit until October pretends to think about it. But nothing about it would make you point to it on a map and say, _there_. Nothing about it suggested it was the sort of place where things began.
 
-Then again, nothing about Bethlehem suggested that either, and look how that turned out.
+Sure, nothing about Bethlehem suggested that either, and look how that turned out.
 
 The point is this: what was coming was not coming for Nate Hall specifically, and it was not coming for Panola County specifically, and it was not coming for East Texas or the American South or even the Western Hemisphere specifically. It was coming for all of it. Every acre. Every continent. Every person standing in a pasture or sitting in an office or sleeping in a bed they'd wake up in and never see again.
 
 But it had to start somewhere. And the somewhere it started — or one of the somewheres, because it started in a great many places at once — was a fence line at the northeast corner of a cattle ranch, where a man with dirt on his jeans and a dog at his side was about to see something his twenty-five years of experience had no category for.
 
-He was handling it better than most would have. But then, most people hadn't spent their whole lives learning to look at what was actually there instead of what they expected to see.
+He was handling it better than most would have, ye'll find. But then, most people hadn't spent their whole lives learning to look at what was actually there instead of what they expected to see.
 
 ---
 
@@ -308,6 +308,6 @@ The pump kept running. Congressman stood facing east, still chewing nothing, ent
 
 The ranch would keep. It always had. And somewhere — in cities and forests and deserts and oceans, in places that had never heard of Panola County and never would — other mornings were ending the same way. Other skies fracturing. Other lights going white. Other last-normal-Tuesdays finishing the job of being normal, one world at a time.
 
-But that's a larger story, and it starts — as the best ones do — very small. A man. A dog on each side. A stag that watched from the tree line with ancient eyes, and a morning that carried more than it showed.
+But that's a larger story, and it starts — as the best ones do — very small. A man. A dog on each side. A stag that watched from the tree line with ancient eyes, and a morning that was after carrying more than it showed.
 
 The ranch would keep.

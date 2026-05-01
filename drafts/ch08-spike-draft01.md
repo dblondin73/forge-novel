@@ -42,7 +42,7 @@ Slow. Deliberate. Six feet of bark-plate armor pushing up through the forest flo
 
 The first **Thornguard** straightened to its full height and the clearing went predator-quiet — every prey animal in range deciding simultaneously that stillness was better than speed.
 
-*New room, new wallpaper, and the armored variants introduced themselves. Pretty. The drills underneath the pretty were real.*
+*New room, new wallpaper, and the armored variants introduced themselves, mind. Pretty. The drills underneath the pretty were real.*
 
 A **Warrior** — the man with the lion-embossed shield, the one who'd been reliable through three rooms of competent, System-assisted fighting — charged. His sword technique fired clean, the blade finding the gap between shoulder and torso that had worked on every Thornling since Room 1. The edge hit bark-plate.
 
@@ -256,7 +256,7 @@ The hammer's face got the same treatment. A cap of **Thornguard** plate over the
 
 Upgraded crossbow. Upgraded hammer. Twenty minutes of forge work that felt like five, because time moved differently when your hands were building and your brain was processing and the two spoke a language that didn't require conversation.
 
-*Watch his hands. Not the crossbow, not the hammer — his hands. That's where you see it, if you know what to look for. The way a man who can't read his own character sheet reads everything else. Steel. Bark. The grain of wood under his palms. He doesn't know what he is yet. But his hands do.*
+*Watch his hands. Not the crossbow, not the hammer — his hands. That's where you see it, if you know what to look for, ye'll find. The way a man who can't read his own character sheet reads everything else. Steel. Bark. The grain of wood under his palms. He doesn't know what he is yet. But his hands do.*
 
 "TUTORIAL ADVANCEMENT REWARD — DISTRIBUTE AMONG YOUR PARTY."
 

@@ -90,7 +90,7 @@ The Thornlings hesitated. Not intelligence — something more basic, something c
 
 Rex moved with them. Patient. Relentless. The geometry of a dog herding stock that didn't know it was being herded.
 
-*The room punished noise. The creatures that had never needed volume were the ones that thrived in it. The dog. The hand signals. The rancher who'd been reading terrain since before he could read words. Some languages predate architecture, and the oldest ones don't make a sound.*
+*Sure, the room punished noise. The creatures that had never needed volume were the ones that thrived in it. The dog. The hand signals. The rancher who'd been reading terrain since before he could read words. Some languages predate architecture, and the oldest ones don't make a sound, mind.*
 
 The first Thornling's bark-foot hit the water channel and the current took it. Not dramatically — the flow was shallow, maybe eight inches — but the bark-skin absorbed moisture on contact. **SA** showed it in real time: the bark grain swelling as moisture wicked through, the material expanding unevenly, the joints stiffening as wet wood did what wet wood always did. The creature slowed. Its movements went from predatory to labored, legs fighting waterlogged weight that hadn't been there three seconds ago.
 
@@ -122,7 +122,7 @@ A Warrior — mid-thirties, stocky, quiet. The kind of fighter who never shouted
 
 Seventeen people stood in the cavern, breathing hard, and the silence after the echoes died was worse than the noise had been.
 
-*He didn't know the man's name yet. He would. In the quiet hours between the fighting and the sleeping, when the surviving sat with the space where the dead had been, the names would find him. They always found the people who bothered to carry them.*
+*He didn't know the man's name yet. He would, mind. In the quiet hours between the fighting and the sleeping, when the surviving sat with the space where the dead had been, the names would find him. They always found the people who bothered to carry them, ye'll find.*
 
 ---
 
@@ -224,7 +224,7 @@ One more person didn't make it through Room 8. A Warrior — one of the paired r
 
 The Healer couldn't reach him in time. She was still working on Nate's back when it happened, and the look on her face when she realized — when Marcus's **Vanguard** HUD showed her a health bar going dark while her hands were on the wrong patient — was something Nate filed in the place where he kept things he'd carry for a long time.
 
-*The **System** logged it as a resource allocation failure. Healer capacity divided by patient count, with the remainder expressed in a name that would never appear on someone's interface again. Tidy math. The **System** was always tidy.*
+*Sure, the **System** logged it as a resource allocation failure. Healer capacity divided by patient count, with the remainder expressed in a name that would never appear on someone's interface again. Tidy math altogether. The **System** was always tidy.*
 
 When the fight was done, sixteen people walked into the rest corridor.
 
@@ -358,7 +358,7 @@ A Warrior — she'd been in the front rotation since Room 5, broad-shouldered, q
 
 The Healer reached her fast. Hands already glowing, already pouring what was left of her mana into the wound. But the glow flickered. Dimmed. The reserves that had been thin after Room 8 were thinner now, and the puncture had hit the femoral, and there was a math to blood loss that didn't care how skilled the hands were when the tank was dry. The Healer's face went through three stages in four seconds — urgency, desperation, and the stillness of a medical professional recognizing when treatment became attendance.
 
-*The **System** didn't distinguish between the two. Healer mana depleted, patient health at zero, encounter complete. Clean data. The architecture that ran the world didn't register the difference between a death it caused and a death it watched. It registered removal. Subtraction. A number becoming a smaller number. The rest was noise the architecture didn't record and had no column for.*
+*The **System** didn't distinguish between the two. Healer mana depleted, patient health at zero, encounter complete. Clean data, mind. The architecture that ran the world didn't register the difference between a death it caused and a death it watched. It registered removal. Subtraction. A number becoming a smaller number. The rest was noise the architecture didn't record and had no column for.*
 
 Fifteen people standing. The Healer sat on the arena floor beside the woman she hadn't saved, hands still glowing the faint residual gold of mana that had nothing left to heal, and didn't move until Marcus touched her shoulder.
 
