@@ -10,9 +10,9 @@ The white didn't fade. It stopped.
 
 One moment there was nothing — no light, no dark, no temperature, no sound, no ground beneath his boots. Then the nothing resolved into something, and the something was worse, because at least nothing had been honest about what it was.
 
-Nate was suspended in a void. Not floating — suspended. The distinction mattered — it always did when the universe decided to get creative with your Tuesday. Floating implied buoyancy, implied a medium, implied physics was still on speaking terms with whatever this place was. This was different. He was held in position the way a specimen was held on a slide — precisely, deliberately, without his input or consent. Nobody had asked him to sign a waiver. Nobody had offered him a pamphlet. His complaint was being filed with the universe's HR department, which — based on this morning's performance — was either understaffed or nonexistent.
+Nate was suspended in a void. Not floating — suspended. Floating implied buoyancy, a medium, physics still on speaking terms with whatever this place was. This was different. He was held in position the way a specimen was held on a slide — precisely, deliberately, without his input or consent. Nobody had asked him to sign a waiver. His complaint was being filed with the universe's HR department, which — based on this morning's performance — was understaffed.
 
-He couldn't feel his body. He knew it was there — by absence of evidence to the contrary, the same certainty as knowing your truck was in the driveway without seeing it from the kitchen window. His hands weren't making fists. His legs weren't standing. His lungs were working, probably, but he couldn't feel his chest expanding. The weight that had been at both legs — Rex left, Judge right, the last real thing he'd felt before the white — was gone. Or he couldn't feel it. The distinction should have mattered, but every distinction was starting to feel like a luxury he couldn't afford.
+He couldn't feel his body. He knew it was there by inference — the way you know your truck's in the driveway without looking out the kitchen window. His hands weren't making fists. His legs weren't standing. His lungs were working, probably, but he couldn't feel his chest expanding. The weight that had been at both legs — Rex left, Judge right, the last real thing he'd felt before the white — was gone. Or he couldn't feel it. The distinction should have mattered, but every distinction was starting to feel like a luxury he couldn't afford.
 
 The only thing that still felt like his was his mind, and even that felt like someone had opened the hood and was looking at the engine without asking.
 
@@ -20,93 +20,127 @@ Something was scanning him.
 
 ---
 
-He felt it — not through any specific sense, but through the accumulated weight of being observed. Someone standing behind you in an empty room. It started at the edges. Surface-level, impersonal, a mechanic's once-over before deciding whether the vehicle was worth the diagnostic fee. Age. Height. Weight. It cataloged him the way he cataloged cattle — by measurable attributes, sorted into categories that served the cataloger's purpose, not the subject's.
+He felt it. The closest thing his body remembered was the MRI he'd had two years back — that specific sensation of being inside a tube, immobile, with something pressing against him from every direction at once. His brain even supplied the clicking. But this went deeper.
 
-Being inventoried by something that hadn't bothered to ask his name first. Outstanding.
+The first layer was a mechanic's diagnostic — cold, impersonal, deciding whether the vehicle was worth pulling apart. Age. Height. Weight. The kind of inventory a man took of livestock before deciding what they were worth at sale.
 
-Then it went deeper. Neural pathways. Synaptic density. Learned motor patterns. The scan mapped the architecture of his nervous system — network topology, pure and simple: where the connections ran, how they clustered, which nodes carried the most traffic. It found his training and measured it — fifteen years of reading system logs until the anomalies stood up and waved. It found his instincts and measured those too — twenty-five years of ranch work written into muscle memory so deep it was practically firmware. It found the spatial awareness that came from navigating a thousand acres in the dark, the capacity for sustained attention that came from watching calving heifers through a long February night, the thread-count of a mind that had spent its whole life pulling things apart to see how they worked.
+The second came from somewhere inside him. Something opened — a drawer he hadn't known was there, a hand he hadn't known was closed. Warmth where there had been nothing — not heat, just the specific sensation of a room being reopened after a long winter, the air remembering it had once held people.
+
+The third arrived alongside the second, pressing in from a direction that wasn't, strictly speaking, a direction. Foreign weight. A package set down on top of something that had just opened — fast, deliberate, with the grain of a thing that intended to stay.
+
+His brain reached for the shape of it and came back with three answers at once. _Character creation screen. Save file unpacking. Patch installing._ Three different hands. Same moment.
+
+---
+
+Neural pathways. Synaptic density. Learned motor patterns. The scan mapped the architecture of his nervous system: where the connections ran, how they clustered, which nodes carried the most traffic. It found his training and measured it — fifteen years of reading system logs until the anomalies stood up and waved. It found his instincts and measured those too — twenty-five years of ranch work written into muscle memory so deep it was practically firmware. It found the spatial awareness that came from navigating a thousand acres in the dark, the capacity for sustained attention that came from watching calving heifers through a long February night, the thread-count of a mind that had spent its whole life pulling things apart to see how they worked.
 
 It was efficient. It was thorough. It had the bedside manner of a DMV kiosk.
 
-The process reminded him of a character creation screen — the moment every game made you sit in a menu while the system decided what you were worth. He'd spent plenty of time on that side. D&D in college, rolling stats and arguing about whether a 14 in Wisdom was wasted on a Fighter. Skyrim, watching the loading screen sort his attributes into categories that pretended to matter. The grammar was identical. The UI language was the same. He'd just never been the character sheet before.
+But underneath the scan, the second layer kept opening.
 
-_I'm being sorted. Processed. Like cattle through a chute._
+Each thing the scan reached for, the inside layer handed back to him. Not a copy — a clean version, with edges. His stockman's sense — the thing that let him track a cow's health in the angle of her head from forty yards — opened with handles. His maker's eye — the way he could look at a busted hay rake and see what it had been, what it was doing wrong, and what it would take to set it right — surfaced with new clarity. His system intuition, the thing the scan had just measured in cold numbers, settled into something he could feel from the inside.
 
-The thought landed heavy. He'd worked more than a few chutes in his life, and he understood exactly what waited at the other end of one.
+He had no words for what was happening. He had only the sensation: things he had quietly been all his life were suddenly _rendered._
+
+The process reminded him of a character creation screen — the moment every game made you sit in a menu while the system decided what you were worth. He'd spent plenty of time on that side. D&D in college, rolling stats and arguing about whether a 14 in Wisdom was wasted on a Fighter. Skyrim, watching the loading screen sort his attributes into categories that pretended to matter. The mechanics were identical. He'd just never been the character sheet before.
 
 ---
 
-And as it read him, it converted what it read.
+And then the third layer arrived.
 
-Not obviously. Not violently. A hard drive reformatting — sector by sector, the old data overwritten with new structure, the original information technically still there but reclassified, reindexed, filed under categories that served the new operating system instead of the old one. He felt it happening at the edges. Surface memories first — the fringe data, the low-priority files. His grandmother's kitchen shifted. The sharp smell of biscuits browning at five in the morning softened, blurred, lost its edges. The yellow of the wallpaper faded. The sound of her voice — _Nathan, get your elbows off my table_ — stretched thin, like a recording played through water.
+It came in over the top of the second — not where the scan was reading, not where the things were opening, but _on top of._ A second packaging laid down across the first opening, fast, with the brisk efficiency of something that had done this many times this morning and had no doubt about its right-of-way.
 
-The scan was reading each memory, converting it, filing it under whatever category the new framework required. In the conversion, something was being lost. A photograph scanned to digital — resolution intact, warmth gone.
+The third layer reached for his stockman's sense — which had just rendered — and re-shelved it. An impression of a label sliding into place where he'd just felt the original. His maker's eye — same thing. The capacity surfaced; the override arrived a half-beat later and set a different name on it. Re-skinned. Re-categorized. Filed under whatever schema the third layer ran on.
+
+He'd seen this before. Every gamer had. An indie that you'd loved for years gets bought by a publisher; the next patch strips mod support, adds three currencies, and tells you in the loading screen that you'll love the new direction. Same game. Different ownership. New EULA you didn't read because the screen wouldn't let you keep playing until you'd clicked _agree._
+
+The override didn't only reach for what had just opened. It reached around it. Adjacent files — surface memories, the fringe data, the low-priority storage — caught on its way in.
+
+His grandmother's kitchen shifted. The sharp smell of biscuits browning at five in the morning softened, blurred, lost its edges. The yellow of the wallpaper faded. The sound of her voice — _Nathan, get your elbows off my table_ — stretched thin, like a recording played through water.
 
 He reached for it. Tried to hold on. The memory slipped through his grip like creek water.
 
-Then his mother's voice. Calling him in from the pasture at dusk. He couldn't remember what she'd been calling him in for — supper? A phone call? The context dissolved and left only the echo of her voice, and then the echo thinned, and then—
+Then his mother's voice. Calling him in from the pasture at dusk. He couldn't remember what she'd been calling him in for — supper? A phone call? The context dissolved and left only the echo of her voice, and then the echo thinned, and then —
 
 Gone.
 
-He knew the memory had existed. He knew what it was about — the shape of it, the space where it should be, the frustrating certainty that it was right _there_ a moment ago. But the actual experience of standing in the east pasture at age nine with the sun going down and his mother's voice carrying across four hundred yards of bermudagrass — that was gone. Converted. Filed somewhere he couldn't access in a format he couldn't read.
+He knew the memory had existed. He knew what it was about — the shape of it, the space where it should be, the frustrating certainty that it was right _there_ a moment ago. But the actual experience of standing in the east pasture at age nine with the sun going down and his mother's voice carrying across four hundred yards of bermudagrass — that was gone. Re-filed. Stored somewhere he couldn't access in a format he couldn't read.
 
-_You're being overwritten._ The thought arrived with fear attached. _This isn't a scan. It's a migration. And it's not checking whether the data transferred clean._
-
-He'd seen corrupted migrations. Watched data move from one system to another and arrive damaged because the conversion process didn't preserve the original format. You got the words but not the formatting. The numbers but not the formulas. The skeleton but not the life.
-
-That was what was happening to him. The edges of his life were being eaten by a process that didn't care what it destroyed in transit.
+_Something else is writing on my save._
 
 ---
 
-Then the scan hit something it wasn't expecting.
+He had no buttons. No console. No way to interrupt the process eating his life from the edges in.
+
+So he reached.
+
+Not for anything specific. He reached the way a man reached for a fence post in a strong wind — for the next solid thing, whatever it turned out to be. His left hand, which he couldn't feel, reached for Rex's weight at his leg. Rex's weight, which he couldn't feel either, was somehow still _there_ — just, _there_, in the shape his body remembered. He held that.
+
+His grandmother's kitchen was almost gone. He reached for her voice — _Nathan, get your elbows off my table_ — and held it against the place where it had been.
+
+It held.
+
+He didn't know why. Other things had slipped. Some had slipped a hand's-breadth before they slipped, some had slipped before he could even reach. But the things he reached for _in time_ — those held, in a way that had nothing to do with how hard he reached.
+
+There was a stillness underneath the reaching. He didn't notice it. It didn't ask him to notice it. It only _steadied_ him in the same way the ground steadied him when his knees gave out — without fanfare, without negotiation, by being there.
+
+He reached for his mother's voice. Too late. The voice had already gone.
+
+He reached for the dawn from horseback, the face of a girl from college whose name he'd been about to say, the warm specific feel of a hand under his eight-year-old jaw. He kept reaching. He had no word for what he was doing or why it was working when it worked.
+
+He held what he could.
+
+---
+
+Then the override hit something it wasn't expecting.
 
 Nate felt the moment it happened the way you feel a drill bit hit an unexpected pocket of rock — a sudden resistance, a change in the vibration, the machinery adjusting to something harder than it had accounted for.
 
-The scanning presence paused.
+The override paused.
 
-In fifteen years of systems work, he'd seen that pause a thousand times — the half-second delay when an installation routine encountered a partition it didn't recognize. Not an error. Not yet. Just the system taking a beat to figure out what it was looking at before deciding what to do about it.
+In fifteen years of systems work, he'd seen that pause a thousand times — the half-second delay when a process encountered a file it didn't have the schema for. Not an error. Not yet. Just the system taking a beat to figure out what it was looking at before deciding what to do about it.
 
-The presence proceeded.
+The override proceeded.
 
-Something pressed inward — not physically, but with the unmistakable character of a process attempting to write to a drive. The framework that had been assembling itself around the edges of his consciousness pushed toward the center, toward the occupied space, and—
+Something pressed inward — not physically, but with the unmistakable character of a patch trying to write to a sector it had no permissions for. The framework that had been laying itself down around the edges of his consciousness pushed toward the center, and—
 
 Stopped.
 
-Not gently. Truck into a concrete pylon — absolute finality, no negotiation, and the sudden silence of an engine that would not be running again. The impact resonated through whatever medium he was suspended in, a shuddering discontinuity that made his thoughts stutter. The process pushed. Something held. Not Nate — he was a bystander in his own body, watching one force meet a piece of territory he hadn't known was valuable.
+Not gently. A truck into a concrete pylon — absolute finality, no negotiation, and the sudden silence of an engine that would not be running again. The impact resonated through whatever medium he was suspended in, a shuddering discontinuity that made his thoughts stutter. The override pushed. Something held. Not Nate — he was a bystander in his own body, watching one force meet a piece of territory he hadn't known was valuable.
 
-The thing that was already there did not move.
+The territory was not empty.
 
-It didn't fight. It didn't resist in kind. It simply _was_ — bedrock, aquifer, the land beneath his ranch. It existed whether he thought about it or not. It had been there before the process. Before whatever designed the process had conceived of it. The occupied space wasn't resisting an invasion. It was simply continuing to be what it had always been, in territory it had held since before Nate drew his first breath.
+It didn't fight. It didn't resist in kind. It simply _was_ — bedrock, aquifer, the land beneath his ranch. It existed whether he thought about it or not. It had been there before the override. Before whatever designed the override had conceived of it. The occupied space wasn't resisting an invasion. It was simply continuing to be what it had always been, in territory it had held since before Nate drew his first breath.
 
-The installer hadn't arrived to find an empty room with a squatter. It had arrived to find the door locked from the inside by the original owner.
+The patch hadn't arrived to find an empty room with a squatter. It had arrived to find the door locked from the inside by the original owner.
 
 And the memory loss stopped.
 
-All at once. The dissolving, the converting, the careful disassembly of who he was — all of it ceased in the same instant the occupied space made itself known. A hand reaching down and pulling the plug on the machine that had been eating him alive. The memories still in the pipeline — a summer afternoon, the face of a girl he'd known in college, the blue of a dawn he'd watched from horseback — stuttered and held. Damaged. Incomplete. But present. Whatever was in there had drawn a line, and everything behind that line was under its protection.
+All at once. The dissolving, the converting, the careful re-shelving of who he was — all of it ceased in the same instant the occupied space made itself known. A hand reaching down and pulling the plug on the machine that had been eating him alive. The memories still in the pipeline — a summer afternoon, the face of a girl he'd known in college, the blue of a dawn he'd watched from horseback — stuttered and held. Damaged. Incomplete. But present. Whatever was in there had drawn a line, and everything behind that line was under its protection.
 
-The installer tried again. Harder this time — he felt the difference — a hand knocking on a door versus a boot trying to kick it in. The framework attempted to write itself into the occupied space, to overlay its structures on top of whatever had been there first.
+The patch tried again. Harder this time — he felt the difference — a hand knocking on a door versus a boot trying to kick it in. The framework attempted to write itself into the occupied space, to overlay its structures on top of whatever had been there first.
 
 The occupied space didn't acknowledge the attempt. The framework's structures touched it and dissolved — not shattered, not repelled, just _undone_ — the way frost dissolves on a warm windshield. Quietly. Completely. As if the structures had never existed at all.
 
-_That's a permission level I've never seen,_ Nate thought, and the thought felt small against the thing it was trying to describe. _Whatever's in there has root access to something the installer doesn't even know exists._
+_That's a dev account the patch wasn't built to recognize,_ Nate thought, and the thought felt small against the thing it was trying to describe. _Whatever's in there owns the engine. The patch is just trying to mod the game._
 
-And the installer, for its part, was beginning to agree.
+And the patch, for its part, was beginning to agree.
 
 ---
 
-Oh, but there it was. The thing an installer's schema had no column for. The door locked from the inside. Nate didn't know what it was — wouldn't, not for a long time, and the not-knowing would cost him dearly before it saved him entirely. Process, meet pylon. Sure, every once in a great while, pylon wins.
+Oh, but there it was. The thing an installer's schema had no column for. The door locked from the inside. Nate didn't know what it was — wouldn't, not for a long time — and the not-knowing was, just now, the very thing holding the door. Process, meet pylon. Sure, the pylon doesn't lose, isn't that the way. The patch only learns, late, that there was a pylon at all.
 
 ---
 
 Back in the quiet at the center of Nate's skull, the errors started.
 
-He couldn't see them — no interface, no screen, no display of any kind. But he could feel them. Each one landed — small shock, sharp snap, a circuit failing under load. Fuse-blowing sounds that weren't sounds, felt through whatever medium connected him to the process that was trying to rewrite him. They came in clusters. Three, then five, then a cascade that blurred together into a sustained rattle of failures. The installer was throwing process after process at the thing it couldn't move and watching each one dissolve on contact.
+He couldn't see them — no interface, no screen, no display of any kind. But he could feel them. Each one landed — small shock, sharp snap, a circuit failing under load. Fuse-blowing sounds that weren't sounds, felt through whatever medium connected him to the process that was trying to rewrite him. They came in clusters. Three, then five, then a cascade that blurred together into a sustained rattle of failures. The patch was throwing process after process at the thing it couldn't move and watching each one dissolve on contact.
 
-The escalation was the part that surprised him. Not his escalation — the installer's. He could feel it — a dog straining against a leash, a stuck bolt refusing to turn. Whatever this was, it ran one procedure. Every human mind, every consciousness, every identity — all of it slid neatly into the framework, received its classification, accepted its parameters, and began operating within its structure. That was what the process did. That was what it did everywhere. Eight billion installations, and Nate's was the one throwing error codes.
+The escalation was the part that surprised him. Not his escalation — the patch's. He could feel it — a dog straining against a leash, a stuck bolt refusing to turn. Whatever this was, it ran one procedure. Every human mind, every consciousness, every identity — all of it slid neatly into the framework. Received its classification. Accepted its parameters. Began operating within its structure. That was what the process did. That was what it did everywhere. Eight billion installations, and the patch was throwing error codes in this one.
 
-Somewhere in the real world — or whatever was left of the real world — Marcus Webb's phone would have been lighting up with phantom alerts. Cascade failure on a production system. Framework integrity dropping. Multiple partition errors on a single node. Nate could hear the conversation that would have happened in any control room on the planet: _We've got a node that won't take the image. It's not throwing standard errors — it's just not accepting the write. The partition's occupied. By what? I don't know. Something that was there first._
+Somewhere on Earth — or whatever was left of it — Marcus Webb's phone would have been lighting up with phantom alerts. Cascade failure on a production system. Framework integrity dropping. Multiple partition errors on a single node. Nate could hear the conversation that would have happened in any control room on the planet: _We've got a node that won't take the image. It's not throwing standard errors — it's just not accepting the write. The partition's occupied. By what? I don't know. Something that was there first._
 
-More errors. Faster now. Nate's head was beginning to hurt — not the dull ache of a headache but the sharp, specific pain of a system running at capacity, every buffer full, every process maxed out. The void around him was no longer stable. Hairline fractures of light cracked through the darkness — not warm or luminous but cold, brittle, flickering things. Data overflows made visible. The installer bleeding at the edges of its own process.
+More errors. Faster now. Nate's head was beginning to hurt — not the dull ache of a headache but the sharp, specific pain of a system running at capacity, every buffer full, every process maxed out. The void around him was no longer stable. Hairline fractures of light cracked through the darkness — not warm or luminous but cold, brittle, flickering things. Data overflows made visible. The patch bleeding at the edges of its own process.
 
 He'd have felt sorry for the thing if it wasn't currently trying to lobotomize him. Professional sympathy only extended so far.
 
@@ -120,7 +154,7 @@ Silence. Not the absence of sound — the absence of process. Every error stoppe
 
 For three seconds — Nate counted, because counting was what his brain did when everything else failed — the void was perfectly still.
 
-Then the installer changed course.
+Then the patch changed course.
 
 ---
 
@@ -130,13 +164,13 @@ Not gracefully — a machine running out of options, its error log a novel nobod
 
 He'd done this himself. On live systems that couldn't go down, with one partition that refused to cooperate. You isolated it. You documented it as "known issue" and moved on. You told yourself you'd come back to it later, and sometimes you even meant it.
 
-He was a known issue now. The **System** had put a Post-it note on his soul and moved on.
+He was a known issue now. The **System** had put a Post-it note on the partition and moved on.
 
-The framework installed itself in the remaining space. He felt it — a cold scaffolding assembling itself around the warm territory it couldn't touch. Structures. Categories. Containers for things that hadn't been categorized before. The shelving went up around the immovable thing in the center of the room, and the installer populated those shelves with whatever it could manage: baseline physical stats, a placeholder where a class designation should be, the barest skeleton of an interface.
+The framework installed itself in the remaining space. He felt it — a cold scaffolding assembling itself around the warm territory it couldn't touch. Structures. Categories. Containers for things that hadn't been categorized before. The shelving went up around the immovable thing in the center of the room, and the patch populated those shelves with whatever it could manage: baseline physical stats, a placeholder where a class designation should be, the barest skeleton of an interface.
 
 And the connections ran in with the shelving.
 
-Nate felt them arrive as features. Helpful ones. A new OS organizing your files into folders you hadn't asked for but couldn't argue with. A health indicator. A stamina tracker. A faint sense of where his body's limits were, more precise than any intuition he'd had before. Useful. Practical. Quality-of-life improvements that made you wonder how you'd managed without them.
+Nate felt them arrive as features. Helpful ones. A new build patching itself in over the menus you'd been using all your life — you didn't ask for it but you couldn't argue with it. A health indicator. A stamina tracker. A faint sense of where his body's limits were, more precise than any intuition he'd had before. Useful. Practical. Quality-of-life improvements that made you wonder how you'd managed without them.
 
 And something that sat next to the feeling of them — lighter than thought, steadier than gratitude — the soft certainty that he was welcome, that he was home, that more was available if he wanted it.
 
@@ -146,7 +180,9 @@ The framework worked without asking.
 
 The partial installation settled into place. Maybe forty percent of whatever a full version would have been. The rest — whatever else it had come for — had dissolved against the occupied space like frost on warm glass. The occupied space sat in the center of his consciousness like a stone in a stream, and the framework flowed around it — water around stone, finding any path that didn't require moving what couldn't be moved.
 
-And the memories it had already converted — the ones that had been outside the occupied space's protection when the conversion started — were gone. His grandmother's kitchen. His mother's voice across the pasture. Surface memories, fringe memories, the edges of a life. But they were his edges, and they were gone, and the empty places where they'd been ached like phantom limbs.
+And the memories the patch had already taken — the ones that had been outside the occupied space's protection — were gone. His grandmother's kitchen. His mother's voice across the pasture. Surface memories, fringe memories, the edges of a life. But they were his edges, and they were gone, and the empty places where they'd been ached like phantom limbs.
+
+But the things he had reached for in time — Rex's weight at his leg, his grandmother's voice from the table, the warm specific feel of a hand under his eight-year-old jaw — those held. Damaged. Some at half-resolution. Some with their edges torn. But there. He didn't know why some had stayed and some had gone. He only knew his hand had been on some of them when the override moved through, and on others, it hadn't been in time.
 
 And then — far off, the way weather gathers before you notice you've been hearing it for a while — the void began to break apart.
 
@@ -192,7 +228,7 @@ The number next to **WIS** jumped — **20**, then **24**, then a string of char
 
 It got worse. Over the next twenty seconds, the interface came apart piece by piece. Not all at once — a breaker panel tripping one circuit at a time, each failure pulling the next one down with it, one system after another giving up in sequence. The progress wheel froze, unfroze, spun backward. The stat column scrambled, recovered, scrambled again with different garbage each time. Panels that had been sharp and translucent washed out, the blue bleeding pale, the text losing contrast until it looked like a screen left in the sun too long.
 
-Nate watched it happen with the specific, familiar dread of someone who had seen too many systems fail in exactly this way — the slow cascade, each failure triggering the next, the whole architecture unraveling because one critical component wasn't responding and everything downstream of it was losing its mind. Even the failure mode was thorough. The interface had been well-assembled — it came apart in the right order, load-bearing systems last, cosmetic layers first. Disciplined, even in collapse.
+Nate watched it happen with the specific, familiar dread of someone who had seen too many systems fail in exactly this way. The slow cascade. Each failure triggering the next. The whole architecture unraveling because one critical component wasn't responding and everything downstream of it was losing its mind. Even the failure mode was thorough. The interface had been well-assembled — it came apart in the right order, load-bearing systems last, cosmetic layers first. Disciplined, even in collapse.
 
 The last part to go was the health bar. It flickered green one final time, then dissolved into static and was gone.
 
@@ -206,9 +242,9 @@ He blinked them away. They came back. Blinked again. Stayed.
 
 A whoop carried from the county road — high, strange, the sound of a man who'd just been handed something impossible. Nate turned his head toward it.
 
-A white Chevy Tahoe sat on the county road about forty yards from his fence line, both front doors hanging open, engine idling. Stopped dead in the lane — not pulled over, not angled, just sitting where it had been when the freeze hit. The family was already out.
+A white Chevy Tahoe sat on the county road about forty yards away, both front doors hanging open, engine idling. Stopped dead in the road — not pulled over, not angled, just sitting where it had been when the freeze hit. The family was already out.
 
-A man stood in the road — mid-thirties, shirt and tie, leather shoes that had no business on a county road. He was staring at a point in front of his face with the kind of fixed attention people reserve for screens, his eyes on something Nate's couldn't follow, his fingers twitching small deliberate gestures at the empty air in front of him. A small, wary thought worked its way up from somewhere practical in Nate's head: _I hope his didn't do what mine just did._
+A man stood in the road — mid-thirties, shirt and tie, leather shoes that had no business on a county road. He was staring at a point in front of his face with the kind of fixed attention people reserve for screens. His eyes were on something Nate's couldn't follow. His fingers twitched small deliberate gestures at the empty air in front of him. A small, wary thought worked its way up from somewhere practical in Nate's head: _I hope his didn't do what mine just did._
 
 A woman sat on the Tahoe's running board, one hand pressed flat against her chest, laughing. Not the polite kind — the kind that came out of your gut when something impossible turned out to be real. She was staring at something only she could see, her eyes moving across it the way people read when the page says something they'd wanted to hear.
 
@@ -226,7 +262,7 @@ Something cold settled in his chest. Not grief — not yet. The inventory was st
 
 Rex was already there.
 
-Right next to Nate's left hand, his nose working Nate's palm, his jaw resting light across Nate's forearm — the quiet weight a working dog laid on his person when his person was down. Not whining. Not barking. Just _there_, with his head where Nate could reach it whenever Nate was ready to reach. Just a Border Collie doing the only job that he knew — being exactly where he was supposed to be, warm and alive and uninterested in whatever the rest of the world was celebrating.
+Right next to Nate's left hand, his nose working Nate's palm, his jaw resting light across Nate's forearm — the quiet weight a working dog laid on his person when his person was down. Not whining. Not barking. Just _there_, with his head where Nate could reach it whenever Nate was ready to reach. Just a Border Collie doing the one job nobody'd had to teach him — being exactly where he was supposed to be, warm and alive and uninterested in whatever the rest of the world was celebrating.
 
 The relief hit Nate in the chest. His hand found Rex's head — the familiar topography of skull and ear, the soft spot behind the left ear — and Rex shifted his weight into the scratch, the head-push every working dog reserves for his person. Alive. Real. Whole.
 
@@ -288,7 +324,7 @@ Sure, the **System**'s architecture registered wanting. Registered reaching. Had
 
 He was still standing there, hand on Rex's head, when the blue arcs flickered. Both of them, simultaneously — a stutter in the pale light, catching, resetting, catching again. Then they steadied, brightened a fraction, and held. Something new appeared at the bottom center of his sight, floating between the brackets — a subtitle on a screen only he could see.
 
-Two words, rendered in monochrome blue:
+Three words, rendered in monochrome blue:
 
 **BOOT SEQUENCE PENDING**
 
@@ -296,7 +332,7 @@ Then the text dissolved, and the arcs dimmed back to their faint pulse — still
 
 _Pending._ Not failed. Not denied. Pending. The most noncommittal word in the English language, and his entire situation had just been summarized by it. Technically accurate. Emotionally bankrupt.
 
-Two words that meant nothing to the man reading them and everything to the **System** that wrote them. A process, deferred. Not cancelled — deferred. Every system Nate had ever worked with treated _deferred_ the same way — not forgotten, scheduled. Waiting its turn in a queue nobody was going to flush. And the framework that had installed itself around the occupied space — the helpful, practical, gift-wrapped framework — still had live connections to the places it had claimed.
+Three words that meant nothing to the man reading them and everything to the **System** that wrote them. A process, deferred. Not cancelled — deferred. Every system Nate had ever worked with treated _deferred_ the same way — not forgotten, scheduled. Waiting its turn in a queue nobody was going to flush. And the framework that had installed itself around the occupied space — the helpful, practical, gift-wrapped framework — still had live connections to the places it had claimed.
 
 ---
 
