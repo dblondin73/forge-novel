@@ -2,7 +2,7 @@
 
 ---
 
-The world kept turning, mind. It had that particular stubbornness about it — the refusal of dirt and grass and morning light to acknowledge that anything fundamental had changed. The pump was still grinding at the north pasture wellhead, still pulling from the Trinity aquifer, same as it had for twenty-two years. Somewhere above the man lying in the bermudagrass, a mockingbird was still borrowing songs it hadn't earned.
+The world kept turning, mind. It had that particular stubbornness about it — the refusal of dirt and grass and morning light to acknowledge that anything fundamental had changed. The pump was still grinding at the north pasture wellhead, still pulling from the Carrizo-Wilcox aquifer, same as it had for twenty-two years. Somewhere above the man lying in the bermudagrass, a mockingbird was still borrowing songs it hadn't earned.
 
 Sure, these are the things that survive: the mechanical, the borrowed, and the stubborn. What doesn't survive — what never survives — is the assumption that the person lying in the grass is the same person who went down.
 
@@ -232,7 +232,7 @@ The fence was holding.
 
 Nate rolled the truck along the northeast line, checking the low spot where spring rain liked to pool and the posts liked to lean. Wire tight. T-posts vertical. Earth anchors doing their job, which made them one of the few things on the planet still doing theirs this morning.
 
-Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Judge paced the right rail, bristling at every distant noise, issuing low growls at threats that were either real or preemptive — with Judge, you never knew which, and she wasn't going to clarify. Distant gunshots — not hunting shots, wrong rhythm, wrong spacing. Car horns on the highway, sustained and overlapping — not traffic, but fear leaning on a horn and not letting up. A helicopter somewhere to the south, low enough to hear the blade chop through the morning air. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm and were now settling into something louder and less organized — an argument, or several, — everyone with a different theory about the same disaster, nobody willing to sit down first.
+Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Judge paced the right rail, bristling at every distant noise, issuing low growls at threats that were either real or preemptive — with Judge, you never knew which, and she wasn't going to clarify. Distant gunshots — not hunting shots, wrong rhythm, wrong spacing. Car horns on the highway, sustained and overlapping — not traffic, but fear leaning on a horn and not letting up. A helicopter somewhere to the south, low enough to hear the blade chop through the morning air. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm. Settling now into something louder and less organized — an argument, or several. Everyone with a different theory about the same disaster. Nobody willing to sit down first.
 
 "The Henderson kid," Flint said from the space behind Nate's eyes, and his voice had found the working register — still quick, still sharp, but running on something closer to purpose than performance, "based on what I'm picking up from the network chatter — and I want to stress that 'picking up' is extremely generous for what my access actually provides — is throwing fireballs."
 
@@ -276,7 +276,7 @@ A preacher's voice, East Texas accent thick as fence-post creosote: "— and I t
 
 Nate's jaw tightened. A man who could look at the wreckage of a world and see his own expectations confirmed instead of shattered. The preacher's voice had the airtight seal of someone who'd already decided what this was before it happened, and nothing that happened next was going to change the answer he'd written first.
 
-Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely — something the preacher's confident voice couldn't fit a frame around, even if every frame he had was already cut and hung — and the preacher's confident voice was describing a painting while standing in front of a window.
+Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely. Something the preacher's confident voice couldn't fit a frame around, even if every frame he had was already cut and hung. The preacher's confident voice was describing a painting while standing in front of a window.
 
 _Give a man a hammer, everything looks like a nail. Give a man a pulpit, everything looks like a prophecy._
 

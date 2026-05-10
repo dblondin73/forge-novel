@@ -116,7 +116,7 @@ The door opened.
 
 Not the crack-and-grind of Room 2's entry — this one eased, stone on stone, the kind of opening a foundry uses when the work inside wants to breathe. Warm air pushed through with a smell Nate didn't have a name for yet: scorched sap with something greener underneath, and beneath that, the dry mineral scent of real stone that had been cut a long time ago and never weathered.
 
-Rex lifted off his boot in a motion that did not look like getting up so much as reassembly — ears first, head second, the rest of him in a single fluid stack. Judge was already up. Ears pinned, weight forward, stub tail rigid, staring into the dark beyond the doorway with the personal offense of a dog who had not been introduced to whatever was down there and intended to correct that oversight.
+Rex lifted off his boot in a motion that did not look like getting up so much as reassembly — ears first, head second, the rest of him in a single fluid stack. Judge was already up. Ears pinned. Weight forward, stub tail rigid. She stared into the dark beyond the doorway with the personal offense of a dog who had not been introduced to whatever was down there and intended to correct that oversight.
 
 They walked in.
 
@@ -339,11 +339,11 @@ Blue panel, unmistakable, larger than any screen the System had yet put in front
 **Combat Rooms: 3 of 3**
 **Specialization Pathways: Unlocked**
 
-The pulse of it was subtle. A faint warmth behind the words, not quite heat, more like the way a good woodstove registered from across a room. Every member of the cohort was reading the same message in their own panel in the same configuration — Nate knew because Marcus had gone still and Heather had gone still and Walt Keane had stopped working his bark-plate fragment, and the thirty-three others in the chamber were all doing the same thing at the same time with the stillness of people whose screens had just gone polite.
+The pulse of it was subtle. A faint warmth behind the words, not quite heat, more like the way a good woodstove registered from across a room. Every member of the cohort was reading the same message in their own panel in the same configuration. Nate knew because Marcus had gone still. Heather had gone still. Walt Keane had stopped working his bark-plate fragment. The thirty-three others in the chamber were all doing the same thing at the same time, with the stillness of people whose screens had just gone polite.
 
 A subtler chime sounded. Not the **Power Strike** pulse. Deeper. A low tone, three beats, the kind of chime a bank's vault door made when it decided to open.
 
-The stone at the center of the room — where the proto-guard had died, where the amber sap had pooled — slid aside on a seam **Structural Analysis** had not registered thirty seconds ago. A stairwell opened. Not a corridor. Stairs, going down, lit by the same steady amber torchlight as the rest areas, fading into a depth the light did not reach.
+At the center of the room — where the proto-guard had died, where the amber sap had pooled — the stone slid aside on a seam **Structural Analysis** had not registered thirty seconds ago. A stairwell opened. Not a corridor. Stairs, going down, lit by the same steady amber torchlight as the rest areas, fading into a depth the light did not reach.
 
 **Floor 2 Access Available.**
 
