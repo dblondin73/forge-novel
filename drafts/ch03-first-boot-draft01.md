@@ -16,19 +16,19 @@ He didn't know how long he'd been down. His mouth tasted like copper and static,
 
 Rex hadn't left him.
 
-The dog had his chin laid across Nate's wrist, the warm, solid weight of a Border Collie who'd decided his person wasn't getting up without supervision. Not frantic. Not whining. Holding position — warmth, steady breath, the unmoving weight of _not leaving_.
+Rex's chin lay across Nate's wrist — the warm, settled weight of a Border Collie who'd decided his person wasn't getting up without supervision.
 
-Judge hadn't left either, but Judge wasn't holding position. Forty pounds of Blue Heeler moved in a tight orbit around the two of them — ten feet out, ears rotating, nails ticking on every exposed root and rock she crossed. Every third pass she'd stop, stare at the tree line where the stag had stood, issue a single sharp exhale through her nose like a judicial opinion, and resume her circuit. Where Rex held ground, Judge held perimeter. She'd traded her post at Nate's back for the circuit sometime in the first minute — the stag was gone, the threat had shifted from _here_ to _out there_, and Judge had reorganized her job accordingly. She'd keep holding the perimeter until something either changed or tried her patience, whichever came first.
+Judge hadn't left either, but she wasn't holding position. Forty pounds of Blue Heeler moved in a tight orbit around the two of them — ten feet out, ears rotating, nails ticking on every root and rock. Every third pass she'd stop, stare at the tree line where the stag had stood, issue a single sharp exhale through her nose like a judicial opinion, and resume her circuit. Where Rex held ground, Judge held perimeter. The threat had shifted from _here_ to _out there_, and she'd reorganized.
 
 Nate opened his eyes.
 
 Around the county, the world was waking up differently than he was. He couldn't see it from here — lying in the bermudagrass with two dogs and a headache — but he could hear it. Voices from the Henderson place, a quarter mile east. Not alarm. Excitement. Voices pitched high with discovery — people who'd woken up to find Christmas had come early and wrapped in blue light. Car horns on the highway — sustained, overlapping. Somewhere down the county road, a whoop that carried the unhinged joy of a man who'd just discovered he could do something impossible and had decided to celebrate before asking questions.
 
-Whatever everyone else had gotten, it wasn't visible from where Nate was lying. Not to him, not to the cattle, not to anything without its own subscription. But the shape of it was in the voices — the particular pitch of people reading something astonishing off a wall only they could see. Character creation screens, probably. The full package. Tutorial wizard presumably included.
+Whatever the others got, it wasn't visible from where Nate lay. Not to him, not to the cattle, not to anything without its own subscription. But the shape of it was in the voices — the pitch of people reading something astonishing off a wall only they could see. Character creation screens, probably. Tutorial wizard presumably included.
 
 Nate had two faint blue arcs at the bottom of his vision. Curved. Thin. One slightly longer than the other. No numbers, no labels, no helpful tooltip explaining what they measured or why they looked like they'd been rendered on a Commodore 64. A DOS prompt in a world that had just gotten Windows.
 
-He rubbed his face with both hands and let out a long breath through his nose.
+He scrubbed his free hand down his face and let out a long breath through his nose.
 
 Rex lifted his chin off Nate's wrist and looked at him — steady brown eyes, ears forward, the expression that meant _I've given you my assessment. Now what are we doing about it._
 
