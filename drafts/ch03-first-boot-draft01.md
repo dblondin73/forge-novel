@@ -272,9 +272,9 @@ He turned the dial.
 
 A preacher's voice, East Texas accent thick as fence-post creosote: "— and I tell you, brothers and sisters, _this_ is the Rapture. This is what we were promised. The Lord has reached down His mighty hand and He is _separating_ the wheat from the chaff, and every screen, every power, every —"
 
-Nate's jaw tightened. A man who could look at the wreckage of a world and see his own expectations confirmed instead of shattered. The preacher's voice had the airtight seal of someone who'd already decided what this was before it happened, and nothing that happened next was going to change the answer he'd written first.
+Nate's jaw tightened. A man who could look at the wreckage of a world and see his own expectations confirmed instead of shattered. The voice had the airtight seal of someone who'd decided what this was before it happened — and nothing that came next was going to change his answer.
 
-Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely. Something the preacher's confident voice couldn't fit a frame around, even if every frame he had was already cut and hung. He was describing a painting while standing in front of a window.
+Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely — and Nate would rather stand in front of it not knowing than name it wrong.
 
 _Give a man a hammer, everything looks like a nail. Give a man a pulpit, everything looks like a prophecy._
 
