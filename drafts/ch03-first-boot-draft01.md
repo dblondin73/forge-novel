@@ -22,7 +22,7 @@ Judge hadn't left either, but she wasn't holding position. Forty pounds of Blue 
 
 Nate opened his eyes.
 
-Around the county, the world was waking up differently than he was. He couldn't see it from here — lying in the bermudagrass with two dogs and a headache — but he could hear it. Voices from the Henderson place, a quarter mile east. Not alarm. Excitement. Voices pitched high with discovery — people who'd woken up to find Christmas had come early and wrapped in blue light. Car horns on the highway — sustained, overlapping. Somewhere down the county road, a whoop that carried the unhinged joy of a man who'd just discovered he could do something impossible and had decided to celebrate before asking questions.
+Around the county, the world was waking up differently than he was. He couldn't see it from here — lying in the bermudagrass with two dogs and a headache — but he could hear it. Voices from the Henderson place, a quarter mile east. Not alarm. Excitement. Voices pitched high with discovery — people who'd woken up to find Christmas had come early, wrapped in blue light. Car horns on the highway — sustained, overlapping. Somewhere down the county road, a whoop that carried the unhinged joy of a man who'd just discovered he could do something impossible and had decided to celebrate before asking questions.
 
 Whatever the others got, it wasn't visible from where Nate lay. Not to him, not to the cattle, not to anything without its own subscription. But the shape of it was in the voices — the pitch of people reading something astonishing off a wall only they could see. Character creation screens, probably. Tutorial wizard presumably included.
 
@@ -70,7 +70,7 @@ Judge stopped mid-circuit. Sat down three feet away. Stared at Nate with the con
 
 _Enough._
 
-Nate didn't mean to send it. The thought came up hard — involuntary, blunt, a hand flat on a desk. The reflex of a man who'd sat through too many briefings where someone spiraled instead of reporting. It left him through the same door the voice was coming in through.
+Nate didn't mean to send it. The thought came up hard — involuntary, blunt, a hand flat on a desk. The reflex of a man who'd sat through too many briefings where someone spiraled instead of reporting. It left him through the same door the voice had come in by.
 
 The voice cut out. Not a pause — a full stop. Dead air.
 
@@ -206,7 +206,7 @@ He stood up. The headache pulsed. The blue arcs flickered.
 
 Rex was on his feet before Nate's boots were fully under him, already oriented toward the truck, tail low and level, body saying _finally_ with every line of his frame. Judge had never sat down in the first place.
 
-Nate dropped the tailgate and whistled — one short note. Rex didn't need a second. He cleared the lowered gate in a single jump, nails clicking on the bed liner, and settled into position along the left rail — chin on the side, ears up, scanning. Judge hit the bed half a second behind him, took the right rail, and immediately began surveilling the south pasture like she expected it to try something. Work mode — both of them, bracketing the truck bed — same formation as a herd. Whatever confusion the morning had delivered was filed away now, because there was a truck moving and a man giving direction and that meant the world still had a structure worth trusting.
+Nate dropped the tailgate and whistled — one short note. Rex didn't need a second. He cleared the lowered gate in a single jump, nails clicking on the bed liner, and settled into position along the left rail — chin on the side, ears up, scanning. Judge hit the bed half a second behind him, took the right rail, and immediately began surveilling the south pasture like she expected it to try something. Work mode — both of them, bracketing the truck bed — same formation they'd hold on a herd. Whatever confusion the morning had delivered was filed away now, because there was a truck moving and a man giving direction and that meant the world still had a structure worth trusting.
 
 "What are you doing?" Flint asked.
 
@@ -274,7 +274,7 @@ A preacher's voice, East Texas accent thick as fence-post creosote: "— and I t
 
 Nate's jaw tightened. A man who could look at the wreckage of a world and see his own expectations confirmed instead of shattered. The preacher's voice had the airtight seal of someone who'd already decided what this was before it happened, and nothing that happened next was going to change the answer he'd written first.
 
-Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely. Something the preacher's confident voice couldn't fit a frame around, even if every frame he had was already cut and hung. The preacher's confident voice was describing a painting while standing in front of a window.
+Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely. Something the preacher's confident voice couldn't fit a frame around, even if every frame he had was already cut and hung. He was describing a painting while standing in front of a window.
 
 _Give a man a hammer, everything looks like a nail. Give a man a pulpit, everything looks like a prophecy._
 
@@ -328,7 +328,7 @@ But that hadn't happened yet. For one more minute, mind, the pump was still grin
 
 Nate was reaching for the thermos when every screen on Earth spoke at once.
 
-The voice came from inside and outside simultaneously — through Nate's blue arcs and through a pressure in the air itself, a vibration that bypassed ears and settled directly into the bones of his skull. Rex's head snapped up in the truck bed, ears flat, body going rigid in the time it takes a heart to beat once. Judge didn't go rigid — Judge went loud, barking twice at the sky like she could scare the countdown into stopping, each bark sharp as a gavel strike. Across the south pasture, the cattle lifted their heads in unison — sixty-three animals pivoting like a school of fish sensing a current change.
+The voice came from inside and outside simultaneously — through Nate's blue arcs and through a pressure in the air itself, a vibration that bypassed ears and settled directly into the bones of his skull. Rex's head snapped up in the truck bed, ears flat, body going rigid in the time it takes a heart to beat once. Judge didn't go rigid — Judge went loud, barking twice at the sky like she could scare it back into silence, each bark sharp as a gavel strike. Across the south pasture, the cattle lifted their heads in unison — sixty-three animals pivoting like a school of fish sensing a current change.
 
 **TUTORIAL PHASE — COMMENCING**
 
