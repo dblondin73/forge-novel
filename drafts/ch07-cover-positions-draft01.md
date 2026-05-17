@@ -8,8 +8,6 @@ But first the corridor widened.
 
 ---
 
-## I. Rest Area 2
-
 The torch-light changed first — from the combat chamber's flicker to the steady amber burn that meant infrastructure, not exertion. Then the ceiling lifted. Then the walls smoothed from rough-cut to dressed stone, and the corridor opened into the second rest area of the Tutorial: warmer, wider, better-lit.
 
 Better-stocked, too. Against the west wall, the crafting station had grown teeth. A grinder wheel. A small anvil on a thick iron base. Three tiers of files graded fine-to-coarse. A bench vise screwed to a plank that had been set into the stone floor so solid that **Structural Analysis** read it as permanent architecture — not generated props, not placed hardware, but fixtures the System intended to stay.
@@ -60,8 +58,6 @@ Nate almost smiled. Almost. The Tutorial had a way of flattening humor before it
 
 ---
 
-## II. Peep Sight
-
 The crossbow was off.
 
 Not broken — the prod sat seated, the stock had held through three rooms of use, the trigger mechanism still locked and released with the clean bite of well-fitted wood. But the sight picture was wrong. At twenty feet, the two-degree left cant of the prod was manageable by feel. At forty — Room 3's projected distance, if Marcus's instinct was right — *feel* was a variable Nate wanted to retire.
@@ -110,8 +106,6 @@ Nate took that for what it was.
 
 ---
 
-## III. Room 3
-
 The door opened.
 
 Not the crack-and-grind of Room 2's entry — this one eased, stone on stone, the kind of opening a foundry uses when the work inside wants to breathe. Warm air pushed through with a smell Nate didn't have a name for yet: scorched sap with something greener underneath, and beneath that, the dry mineral scent of real stone that had been cut a long time ago and never weathered.
@@ -154,8 +148,6 @@ A draft before the final version.
 
 ---
 
-## IV. Trinity
-
 Marcus was already calling it.
 
 "**Warriors** hold the choke!" His voice flat-edged, command-voice, the tone of a man who had issued orders his whole working life and expected them obeyed before they finished landing. "Two-man front. Rotate on cooldown. Sam — you take lead beat. Mack — cover. *Rotate.*" Then east, up toward the shelf: "Heather — elevation. Line of sight to center. Burst fire, then *wait.* Let mana regen. You've got four bolts in you before you're dark. Use three. Hold one." He lifted three fingers. "Three. Not four."
@@ -189,8 +181,6 @@ Nate took the shelf two positions east of Heather. Higher ground. Crossbow resti
 "Nate." Marcus's voice, direct. "The big one. Center. Tell me what you see."
 
 ---
-
-## V. Three Bolts
 
 **Structural Analysis** was already reading the proto-guard.
 
@@ -247,8 +237,6 @@ Two men converging on the immobilized creature, hacking into the joints Nate had
 Amber sap pooled beneath the carcass.
 
 ---
-
-## VI. Cover Positions
 
 The room exhaled.
 
@@ -323,8 +311,6 @@ Flint had seen something. And Flint had decided, in the space between detection 
 The things Flint didn't say were starting to form a pattern.
 
 ---
-
-## VII. Floor 1
 
 The last Thornling went down.
 

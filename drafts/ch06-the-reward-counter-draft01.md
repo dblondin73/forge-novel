@@ -6,8 +6,6 @@ Sure, the Tutorial had a curriculum. It also, as of the last ninety seconds, had
 
 ---
 
-## I. Rest Area 1
-
 The rest area opened into something breathable.
 
 Wider corridor, warmer light. The torches here burned with a steady amber glow instead of the combat chamber's flickering — the kind of light a man lit a barn with when he meant people to work in it. The ceiling was higher. The stone walls had shifted from rough-cut to something almost smooth, and **Structural Analysis** read the difference without Nate asking: functional architecture versus combat architecture. Load-bearing walls with dressed stone faces. Finished, not raw. The rest areas felt safe in a way the combat rooms hadn't, which was either a kindness or a pattern Nate didn't yet have the data to call either way.
@@ -35,8 +33,6 @@ Nate watched them scroll and chase and thought: *Post-first-dungeon inventory ch
 The warriors who'd earned their first chimes were already talking about the next room. Not with dread. With anticipation. Survival had a progress bar now, and progress bars pointed forward. Always forward. Never back toward the question of whether forward was where you wanted to go.
 
 ---
-
-## II. Character Sheets
 
 Marcus Webb sat down next to Nate against the corridor wall, settling with the controlled exhale of a man whose body was fifty but whose **Vanguard** class had apparently filed a formal disagreement with that number. He opened his character sheet. His eyes did the left-to-right scroll.
 
@@ -83,8 +79,6 @@ Rex had decided, at some point in the last five minutes, that Josie was a person
 Five people. Five reactions. The **System** had given them all the same interface, and every one of them was reading a different book.
 
 ---
-
-## III. PROCESSING
 
 "So," Marcus said. Still quiet. The rest-area bustle ten feet away, and the two of them held inside a smaller bubble of attention. "Don't you have one."
 
@@ -135,8 +129,6 @@ Marcus held the look for another beat, then nodded — short. The nod of a man r
 From the space behind Nate's eyes, Flint said nothing. Which, Nate noted, was its own kind of answer.
 
 ---
-
-## IV. Crafting — Thorn Bolts
 
 The silence held about four seconds.
 
@@ -252,8 +244,6 @@ The second door. The grinding resolve of stone deciding it was time to open agai
 
 ---
 
-## V. Room 2 — The Tutorial Adjusts
-
 The second room was bigger, and the spawn patterns had shifted.
 
 Eight Thornlings this time. And faster. The spawn points fired in a staggered pattern that **Structural Analysis** read as *patterned* — two up front, a pause, three from the sides, another pause, then three more from the rear corners. Bracketing. Whatever adjusted the difficulty between rooms had seen the first fight and written a response.
@@ -299,8 +289,6 @@ Josh's next swing was late. He caught it halfway, corrected on the fly, got the 
 "Noted," Nate said.
 
 ---
-
-## VI. The Supply Chain Works
 
 Across the room, Judge had stationed herself at the south corridor mouth — not ranked, not formed-up, just at the spot where a working dog had decided the back door needed a sentry. Ears pinned, weight forward on her front legs, every line of her body angled at the dark. She didn't move when the warriors shifted. She didn't move when the **Mage** flared. She watched the south wall the way she watched a coyote line at dusk — patient, planted, and absolutely not negotiating about what was about to come through it.
 
@@ -353,8 +341,6 @@ Two thorn bolts. Two kills that mattered.
 "I said 'your girlfriend's material salvage.' The possessive was grammatical, not romantic. The fact that you immediately corrected the romantic interpretation tells me things I'm filing under a category you don't want to know about."
 
 ---
-
-## VII. Gaps in the Line
 
 The fight was finding its noise. Bark-on-stone footfalls layered with the wet crack of thorn-arms hitting raised shields. Sword work on the front line — heavy, repetitive, the rhythm of men chopping wood faster than wood was meant to be chopped. The smell had thickened: scorched sap from Heather's first bolts, iron from a **Warrior**'s shoulder gash, sweat and adrenaline and the mineral dust still settling out of the air. Marcus's voice cut through the layers in flat, even calls — a man air-traffic-controlling a fight by ear because there were too many vectors to track by sight.
 

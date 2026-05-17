@@ -6,8 +6,6 @@ The Tutorial had lessons, mind. Nobody had asked the fifty people walking throug
 
 ---
 
-## I. Corridor Approach
-
 The passage funneled them forward — fifty people moving through a dim stone corridor with nothing but the sound of their own breathing and something scratching beneath the floor ahead.
 
 Then the walls fell away and they were in a chamber, and the scratching stopped.
@@ -29,8 +27,6 @@ Fifty. That was the number Nate was walking in with. He'd counted in the Safe Ro
 Spawn point three cracked first. Bark-covered fingers pushed through the stone. Then the whole thing erupted upward in a shower of dirt and rock, and the room went from silence to pandemonium in about two seconds.
 
 ---
-
-## II. First Wave
 
 The other five spawn points opened in a staggered rip — gravel and stone-dust hazing the air, the smell sharp and mineral, like a freshly broken concrete floor. Someone screamed — the high animal sound of a person whose nervous system had outpaced their thinking by half a second. Another screamed back. A man in the support line dropped his unfamiliar weapon and reached for it twice on the way to the floor before he picked it up.
 "Thornling," Flint said. Quick, clipped, reading from somewhere Nate couldn't see. "System-generated combatant. Bark-plated, thorn-studded, approximately three and a half feet tall. Think 'angry topiary' and you're most of the way there."
@@ -75,8 +71,6 @@ Nate raised the crossbow.
 
 ---
 
-## III. Crossbow, Rex, Judge
-
 His hands were steady. That surprised him less than it should have — the crossbow was a tool, and tools in his hands had always been steady, whether it was a fencing plier at three in the morning or a rifle on a coyote that had gotten into the chicken pen. The fundamentals transferred: sight picture, breath control, squeeze. The trigger had two degrees of play and he'd already memorized both.
 
 The bolt was a rack bolt — one of the ten mass-produced starter shafts he'd pulled from the wooden box on the Safe Room's supply shelf, the ones nobody else had touched because nobody else had grabbed a crossbow. Plain wooden shaft with a soft-iron tip, basic factory garbage. Ten had come with him out of the starting room. Nine were riding in the belt pouch now. What remained was still garbage. But it was straight, it fit the groove, and the prod's spring steel didn't care what it threw as long as it had something to throw.
@@ -116,8 +110,6 @@ The word sat in his chest with a weight he hadn't expected. Not guilt — he'd k
 "First blood," Flint said. If Nate didn't know better, he'd say Flint sounded impressed. "Two bolts, one kill. Your crossbow has a two-degree cant to the left, but for a weapon built from furniture by a man who had ten minutes and no instructions, I'll call it a passing grade. Barely."
 
 ---
-
-## IV. The First Chime
 
 The fight was finding its rhythm and its losses at the same time.
 
@@ -159,8 +151,6 @@ Isabel's next swing took that Thornling too.
 
 ---
 
-## V. Four Dead
-
 The last two Thornlings went down in the next ten seconds.
 
 Kyle and the Mace woman — Mack, Nate was now ninety percent sure of the name — converged on the fifth and brute-forced it with more aggression than coordination. Pete and a second shield-bearer trapped the sixth against the east wall and Isabel closed the distance in three steps, Power Strike glowing faintly on the blade, and put it down the way a practiced ranch hand finished a hog.
@@ -196,8 +186,6 @@ Nate's hand found Rex's head and got a flash — the Thornling's legs from six i
 The wit was dialed low. Dialed to the room. Flint had read the stone floor and the ceremony and had adjusted.
 
 ---
-
-## VI. Forty-Six
 
 The south wall groaned.
 
