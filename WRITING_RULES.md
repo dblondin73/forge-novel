@@ -391,6 +391,60 @@ When invoked for a full editorial pass:
 
 ---
 
+## Genre Best-Practice Audit (2026-05-17)
+
+Four action items from a cross-subgenre best-practice audit (High Fantasy,
+LitRPG, Urban Fantasy, Shifter/animal-bond). The audit confirmed the manuscript
+is already built against genre convention deliberately; these are the genuine
+open items.
+
+### Soft-Magic Discipline — Conduit Power
+
+Conduit power is uncapped (Codex #91). Sanderson's First Law: the more a power
+can resolve plot conflict, the more rigorously the reader must understand its
+rules. The standing risk is Books 4–7, when conduit power scales and an
+alignment-fuelled miracle becomes a tempting climax solution.
+
+**Rule of thumb:** *Conduit power changes the protagonist; engineering and
+earned skill change the outcome.* The Briarknight climax models it — "the
+Engineer doesn't kill the boss, the Engineer makes the boss killable"
+(Codex #107). Climaxes resolve on hard, reader-legible, earned mechanics;
+conduit power shows up as who Nate becomes, not as the win condition.
+
+### Guard the Sequel Beat
+
+Urban-fantasy craft (Butcher's scene/sequel engine) builds reader bond in the
+**sequel** — the reaction unit: emotion → reason/review → decision. LitRPG
+forward-momentum pressure can starve it, especially in combat-dense Tutorial
+chapters. The existing **"earned breath"** clause (see LitRPG Pacing above)
+licenses the sequel beat — enforce it. After a heavy room, the cohort gets
+emotion and a decision before the next door, not just a loot drop and a corridor.
+
+### RoyalRoad / Serial-Release Question (Open Decision)
+
+Chapter 1 carries zero System content — a trad-publish / audiobook-first opening,
+not a RoyalRoad-serial opening (serial LitRPG readers expect a progression hook
+in Ch1). This is fine for the current audiobook-first plan. **If serialization
+on RoyalRoad is ever on the table, Ch1 needs a companion plan** — it is a
+liability on that platform specifically. Decide consciously; do not drift into
+serialization without revisiting the opening.
+
+### Pack Terminology + Animal Cognition
+
+- **Retire "alpha"** as a label. The pack *model* is correct (Genesis
+  Stewardship, Codex #43 — family/stewardship, not dominance), but "alpha" is
+  dated science (the Schenkel captive-wolf study, since debunked). Prefer "Nate
+  is Rex's person / they are pack." Internal-doc cleanup; never let "alpha"
+  reach prose.
+- **Set a cognition rule before P3.** Rex/Judge anthropomorphism currently lives
+  entirely in the Storyteller's comic framing — the dogs themselves only ever do
+  real working-dog behaviors. That is consistent and safe. When the pack-bond
+  progression reaches **P3 (full mental speech)**, actual words enter the dogs'
+  heads and the cognition-consistency question becomes real. Lock a rule for how
+  Rex/Judge *think* (vs. how the narrator jokes about them) before drafting P3.
+
+---
+
 ## Quick-Reference: The Hard Bans
 
 A consolidated list of "never do this in prose" rules:
