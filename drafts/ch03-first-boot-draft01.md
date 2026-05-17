@@ -30,8 +30,6 @@ Nate had two faint blue arcs at the bottom of his vision. Curved. Thin. One slig
 
 He scrubbed his free hand down his face and let out a long breath through his nose.
 
-Rex lifted his chin off Nate's wrist and looked at him — steady brown eyes, ears forward, the expression that meant _I've given you my assessment. Now what are we doing about it._
-
 "Yeah," Nate said. "Time to move."
 
 He was reaching for the truck's fender to pull himself to his feet when the voice started.
