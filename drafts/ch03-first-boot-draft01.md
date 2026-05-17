@@ -46,7 +46,7 @@ Nate's companion was not standard-issue. But then, neither was Nate.
 
 The voice was not in his ears. The distinction was immediate and physical, like the difference between hearing thunder through the walls and feeling it through the floor joists. This was _inside_ — behind his eyes, between his thoughts, vibrating in a space that hadn't existed five minutes ago. It felt like pressure first. Like someone had opened a door in a room he didn't know his head contained, and through that door came a current of raw, crackling irritation that wasn't his.
 
-Something in a quieter room — a room that had been occupied long before this morning, long before the System, long before the blue arcs or the white light or any of it — shifted. A homeowner hearing a new tenant move into the apartment next door — registering the arrival, reserving judgment. A warmth pulsed once through Nate's chest, brief and sourceless, and was gone before he could name it.
+Somewhere quieter, something stirred — a presence that had been there long before this morning, long before the System, long before the blue arcs or the white light or any of it. It noticed the newcomer the way a man notices tires on the gravel outside: aware, unhurried, reserving judgment. A warmth pulsed once through Nate's chest, brief and sourceless, and was gone before he could name it.
 
 Then the voice became words.
 
