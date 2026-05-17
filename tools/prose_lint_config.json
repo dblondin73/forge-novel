@@ -1,0 +1,27 @@
+{
+  "_comment": "Thresholds and per-chapter flags for tools/prose_lint.py. Set audiobook_locked:true once a chapter has been narrated by Brigid (ElevenLabs) — that softens the em-dash check to INFO, since em-dashes in narrated chapters are deliberate TTS stutter-fixes and must never be auto-stripped. Every other detector still runs at full severity on locked chapters.",
+  "defaults": {
+    "emdash_per_1k_warn": 2.0,
+    "emdash_per_1k_fail": 4.0,
+    "emdash_per_1k_locked_warn": 12.0,
+    "burstiness_cv_min": 0.55,
+    "tricolon_per_1k_max": 1.5,
+    "participial_stack_max": 1,
+    "consecutive_same_ending_max": 2,
+    "transition_cluster_window": 5,
+    "transition_cluster_max": 2,
+    "tier2_cluster_min": 3
+  },
+  "chapters": {
+    "ch01": { "audiobook_locked": true,  "tts_narrated": true },
+    "ch02": { "audiobook_locked": true,  "tts_narrated": true },
+    "ch03": { "audiobook_locked": true,  "tts_narrated": true },
+    "ch04": { "audiobook_locked": true,  "tts_narrated": true },
+    "ch05": { "audiobook_locked": false, "tts_narrated": false },
+    "ch06": { "audiobook_locked": false, "tts_narrated": false },
+    "ch07": { "audiobook_locked": false, "tts_narrated": false },
+    "ch08": { "audiobook_locked": false, "tts_narrated": false },
+    "ch09": { "audiobook_locked": false, "tts_narrated": false },
+    "ch10": { "audiobook_locked": false, "tts_narrated": false }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python c:/Workbench/dev/forge-novel/.claude/skills/forge-write/scripts/check-proper-nouns.py"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "ruff check . --quiet 2>&1 | head -20"
+          },
+          {
+            "type": "command",
+            "command": "python c:/Workbench/dev/forge-novel/tools/prose_lint_hook.py 2>&1 | head -40"
+          }
+        ]
+      }
+    ]
+  }
+}
