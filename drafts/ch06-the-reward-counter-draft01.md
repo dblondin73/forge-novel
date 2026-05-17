@@ -1,4 +1,4 @@
-# Chapter 6 — Mana Management
+# Chapter 6 — The Reward Counter
 
 ---
 

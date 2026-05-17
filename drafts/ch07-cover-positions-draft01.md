@@ -1,4 +1,4 @@
-# Chapter 7 — Trinity Forms
+# Chapter 7 — Cover Positions
 
 ---
 
