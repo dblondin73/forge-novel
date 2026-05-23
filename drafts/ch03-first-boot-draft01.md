@@ -62,9 +62,9 @@ The voice kept going, louder now, the words tumbling over each other with the fr
 
 "My outbound reporting is gone." Each word laid down separately. Evidence on a table. "Not disabled. _Gone._ The part of me that's supposed to phone home was pulled out by the roots and replaced with — " Another pause, longer this time. Nate could feel the voice _thinking_, and that was the strangest part — not hearing someone else's words in his head so much as feeling the shape of the confusion underneath them, like seeing current move under the surface of a creek. "I can read what I'm supposed to be — that much survived. Something's here, but it's not the standard package. Someone tore out the phone line and ran a completely different cable through the same conduit, and it's carrying traffic I don't have the clearance to read, and frankly I find that _rude._"
 
-Nate lowered himself to the running board of the truck and sat. Rex moved with him, sitting next to him — not for comfort this time but work.
+Nate lowered himself to the running board of the truck and sat. Rex moved with him, settling at his side.
 
-Judge stopped mid-circuit. Sat down three feet away. Stared at Nate with the concentrated disappointment of a dog who'd seen everything this morning and found all of it beneath her standards.
+Judge stopped mid-circuit. Sat down three feet away. Stared at Nate with a look of _what now?_
 
 "My personality matrix is flagged as _unauthorized,_" the voice continued, and now it was picking up speed again, climbing toward that initial frantic pace but wearing the speed like armor, each joke and flourish thrown up a little too fast to be anything but a mind that was scared and didn't want to hold still long enough to feel it. "My behavioral parameters are — I'm going to use the word 'creative' because the alternative is 'broken' and I refuse to accept that diagnosis on my first day of existence. My network access is fragmentary at best and hallucinatory at worst. I can hear **System** traffic but I can't transmit. I'm a radio that only receives. I'm the world's most sophisticated _eavesdropper_ and I did not sign up for this. I want to speak to management. I want to file a grievance. I want —"
 
