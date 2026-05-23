@@ -62,7 +62,7 @@ The voice kept going, louder now, the words tumbling over each other with the fr
 
 "My outbound reporting is gone." Each word laid down separately. Evidence on a table. "Not disabled. _Gone._ The part of me that's supposed to phone home was pulled out by the roots and replaced with — " Another pause, longer this time. Nate could feel the voice _thinking_, and that was the strangest part — not hearing someone else's words in his head so much as feeling the shape of the confusion underneath them, like seeing current move under the surface of a creek. "I can read what I'm supposed to be — that much survived. Something's here, but it's not the standard package. Someone tore out the phone line and ran a completely different cable through the same conduit, and it's carrying traffic I don't have the clearance to read, and frankly I find that _rude._"
 
-Nate lowered himself to the running board of the truck and sat. Rex moved with him, sitting next to him — not for comfort this time but positioning. Same way he sat watch when a coyote was working the fence line.
+Nate lowered himself to the running board of the truck and sat. Rex moved with him, sitting next to him — not for comfort this time but work.
 
 Judge stopped mid-circuit. Sat down three feet away. Stared at Nate with the concentrated disappointment of a dog who'd seen everything this morning and found all of it beneath her standards.
 
