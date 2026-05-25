@@ -70,7 +70,7 @@ Judge stopped mid-circuit. Sat down three feet away. Stared at Nate with a look 
 
 _Enough._
 
-Nate didn't mean to send it. The thought came up hard — involuntary, blunt, a hand flat on a desk. The reflex of a man who'd sat through too many briefings where someone spiraled instead of reporting. It left him through the same door the voice had come in by.
+Nate didn't mean to send it. The thought came up hard — blunt, a hand flat on a desk. The reflex of a man who'd sat through too many briefings where someone spiraled instead of reporting. It left him through the same door the voice had come in by.
 
 The voice cut out. Not a pause — a full stop. Dead air.
 
