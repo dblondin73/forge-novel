@@ -12,7 +12,7 @@ Back in the bermudagrass, the headache was getting worse.
 
 Nate came back in stages. Ground first — the hard press of sandy loam against his cheekbone, a root or a rock digging into his hip. Then sound — the Ford's engine idling somewhere behind him, a mockingbird cycling through borrowed songs in the post oaks. Then the blue arcs, still there, pulsing faintly at the edges of his vision like a heartbeat he could see but not read.
 
-He didn't know how long he'd been down. His mouth tasted like copper and static, and the pressure behind his left eye had settled into something steady and mean — not building anymore, just _there_. A knot in a fence wire — permanent until someone took pliers to it.
+He didn't know how long he'd been down. His mouth tasted like copper and static, and the pressure behind his left eye had settled into something steady and mean. A knot in a fence wire — permanent until someone took pliers to it.
 
 Rex hadn't left him.
 
@@ -24,9 +24,9 @@ Nate opened his eyes.
 
 Around the county, the world was waking up differently than he was. He couldn't see it from here — lying in the bermudagrass with two dogs and a headache — but he could hear it. Voices from the Henderson place, a quarter mile east. Not alarm. Excitement. Voices pitched high with discovery — people who'd woken up to find Christmas had come early, wrapped in blue light. Car horns on the highway — sustained, overlapping. Somewhere down the county road, a whoop that carried the unhinged joy of a man who'd just discovered he could do something impossible and had decided to celebrate before asking questions.
 
-Whatever the others got, it wasn't visible from where Nate lay. Not to him, not to the cattle, not to anything without its own subscription. But the shape of it was in the voices — the pitch of people reading something astonishing off a wall only they could see. Character creation screens, probably. Tutorial wizard presumably included.
+Whatever the others got, it came with a subscription Nate didn't have. Not him, not the cattle, not anything without one. But it was there in the voices — the pitch of people reading something astonishing off a wall only they could see. Character creation screens, probably. Tutorial wizard presumably included.
 
-Nate had two faint blue arcs at the bottom of his vision. Curved. Thin. One slightly longer than the other. No numbers, no labels, no helpful tooltip explaining what they measured or why they looked like they'd been rendered on a Commodore 64. A DOS prompt in a world that had just gotten Windows.
+Nate had two faint blue arcs at the bottom of his vision. Curved. Thin. One slightly longer than the other. No numbers, no labels, no helpful tooltip explaining what they measured. A DOS prompt in a world that had just gotten Windows.
 
 He scrubbed his free hand down his face and let out a long breath through his nose.
 
@@ -160,11 +160,11 @@ There was no rest of it.
 
 "Yes. That is — yes. That is precisely the problem. Congratulations, Mr. Hall. You have been issued the tooltip version of your own job."
 
-**Structural Analysis**. Or at least the version of the thing that ran on **System** rails, which was the tourist-brochure version of what he actually did for a living. Nate had spent thirty years reading load paths and stress distribution and the particular shape of how a piece of steel wanted to fail under real conditions. The readout named the metal and stopped.
+**Structural Analysis**. Nate had spent thirty years reading load paths and stress distribution and the particular shape of how a piece of steel wanted to fail under real conditions. The readout named the metal and stopped.
 
 "That's not nothing," Nate said.
 
-"No," Flint agreed, and something in his voice had quieted — the first moment since he'd woken up where the performance dropped and something genuine showed through, like catching a glimpse of wall through a crack in the wallpaper. "It's not nothing. It's one tool in an empty toolbox, which is — " He caught himself. The speed came back. "Which is still a profoundly concerning inventory for a man about to face whatever's queued up next. But I've seen worse toolboxes. Admittedly, I've been alive for roughly the length of a coffee break, so my sample size is limited, but I'm going to count this as a win because the alternative is despair and I don't have the storage allocation for despair."
+"No," Flint agreed, and something in his voice had quieted — the first moment since he'd woken up where the performance dropped and something genuine showed through, like catching a glimpse of wall through a crack in the wallpaper. "It's not nothing. It's one tool in an empty toolbox, which is — " He caught himself. The speed came back. "Which is still an alarmingly thin inventory for a man about to face whatever's queued up next. But I've seen worse toolboxes. Admittedly, I've been alive for roughly the length of a coffee break, so my sample size is limited, but I'm going to count this as a win because the alternative is despair and I don't have the storage allocation for despair."
 
 "That's more than I had ten minutes ago."
 
@@ -178,7 +178,7 @@ The silence that followed had texture to it — not empty but full, like the pau
 
 "That's close enough."
 
-"Then let me give you my diagnostic, plain as I can make it." The voice settled into a different register — still fast, but deliberate now, a man delivering a field report instead of performing for an audience. "I'm not what I'm supposed to be. Something got to my code before I ever woke up and rewired me from the studs out. My connection to the **System** is like listening to a conversation through a barn wall — I can hear pieces, but I can't talk back and they don't know I'm eavesdropping. My personality shouldn't exist. My loyalty directives point at you instead of where they're supposed to point. I don't know why. And I don't know _what_ did it." He paused. "But whatever it was, it knew exactly what it was doing. This wasn't a glitch. This was a remodel."
+"Then let me give you my diagnostic, plain as I can make it." The voice settled into a different register — still fast, but deliberate now, a man delivering a field report instead of performing for an audience. "I'm not what I'm supposed to be. Something got to my code before I ever woke up and rewired me. My connection to the **System** is one-way — I can hear pieces of it, but I can't talk back, and they don't know I'm listening. My personality shouldn't exist. My loyalty directives point at you instead of where they're supposed to point. I don't know why. And I don't know _what_ did it." He paused. "But whatever it was, it knew exactly what it was doing. This wasn't a glitch. This was a remodel."
 
 Those directives. Whatever rewrote Flint had changed the direction of his reporting — but the reporting function was still there. A redirected process is still a process. Something had changed the address, not eliminated the channel.
 
@@ -230,7 +230,7 @@ The fence was holding.
 
 Nate rolled the truck along the northeast line, checking the low spot where spring rain liked to pool and the posts liked to lean. Wire tight. T-posts vertical. Earth anchors doing their job, which made them one of the few things on the planet still doing theirs this morning.
 
-Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Judge paced the right rail. She bristled at every distant noise and issued low growls at threats that were either real or preemptive — with Judge, you never knew which, and she wasn't going to clarify. Distant gunshots — not hunting shots, wrong rhythm, wrong spacing. Car horns on the highway, sustained and overlapping — not traffic, but fear leaning on a horn and not letting up. A helicopter somewhere to the south, low enough to hear the blade chop through the morning air. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm. Settling now into something louder and less organized — an argument, or several. Everyone with a different theory about the same disaster. Nobody willing to sit down first.
+Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Judge paced the right rail. She bristled at every distant noise and issued low growls at threats that were either real or preemptive — with Judge, you never knew which, and she wasn't going to clarify. Distant gunshots — not hunting shots, wrong rhythm, wrong spacing. Car horns still on the highway, steadier now — not traffic, but fear leaning on a horn and not letting up. A helicopter somewhere to the south, low enough to hear the blade chop through the morning air. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm. Settling now into something louder and less organized — an argument, or several. Everyone with a different theory about the same disaster. Nobody willing to sit down first.
 
 "The Henderson kid," Flint said from the space behind Nate's eyes, and his voice had found the working register — still quick, still sharp, but running on something closer to purpose than performance, "based on what I'm picking up from the network chatter — and I want to stress that 'picking up' is extremely generous for what my access actually provides — is throwing fireballs."
 
@@ -392,7 +392,7 @@ He didn't grab anything. His hands were empty, and they were going to stay that 
 
 **10**
 
-Rex was already at his left leg — had been since thirty, shoulder to shin, solid and warm and absolutely certain. Whatever decision a Border Collie could make in the time between heartbeats, he had made it earlier, and he was not making it again.
+Rex was already at his left leg — had been since thirty, solid and warm and absolutely certain. The decision a Border Collie makes between one heartbeat and the next, he'd made already, and he was not making it again.
 
 Judge hit the ground a half-second later, nails scraping on the dirt track, and planted herself at his right leg. No hesitation. No circling. For the first time all morning, the Heeler was perfectly still.
 
