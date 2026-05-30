@@ -44,7 +44,7 @@ Common: model=`eleven_v3`, similarity_boost=0.75, use_speaker_boost=true. Pipeli
 
 **Signature:** Longer cadences, literary word choice, warmth as constant. Sarcasm and snark aimed at the **System** AND humans — but never mean-spirited toward people. She roasts with affection. Think the bartender who's seen everything, calls you on your nonsense to your face, and slides you another drink. The comedy is part of the warmth, not separate from it. **When zoomed to physical-observer mode, the cadence tightens** — precise, observational, workmanlike — but the voice actor stays the same person, just closer.
 
-**Frequency:** 3-4 appearances per chapter minimum. Longer chapters get more. NOT just bookends — woven throughout at scene breaks, significant beats, System reveals. Her appearances should feel like events — a register shift the reader/listener feels.
+**Frequency:** woven throughout — scene breaks, significant beats, System reveals. NOT just bookends. (The old '3-4 per chapter' count is retired; use the weave test — flag any dead-middle stretch with no Storyteller presence.) Her appearances should feel like events — a register shift the reader/listener feels.
 
 **Escalation across Book 1:**
 - Ch1-4: Sparingly direct (reader-address mode)
@@ -132,7 +132,7 @@ See `feedback_omniscient_hiberno_english.md` and `WRITING_RULES.md` in repo for 
    > "Your WIS is a 20. Your DEX is an 11. You're the wisest man I've ever met who can barely dodge a slow pitch."
 3. **Tactical/Urgent** — Faster, stripped of editorializing, pure information. No jokes. The shift is itself a signal.
    > "Three contacts. South-southwest, closing fast. Lead target forty meters. Flankers splitting wide."
-4. **Rare Serious** — Drops in PACE, not volume. 3-4 times per book maximum.
+4. **Rare Serious** — Drops in PACE, not volume. Used sparingly — a handful of times across a book, never a recurring beat.
    > "Your father would be proud."
 5. **Genuine Discomfort** — Slightly halting. An AI that always has an answer suddenly not having one.
    > "I don't know. I don't have a frame of reference."
@@ -147,7 +147,7 @@ See `feedback_omniscient_hiberno_english.md` and `WRITING_RULES.md` in repo for 
 
 ### Voice 4 — Pack-Bond Translations (Rex Scots / Judge Aussie)
 
-**Architecture:** Rex and Judge speak *through* Nate's voice channel. He is the translator; the bond runs on the pre-Fall relational faculty (Codex #170), which is a different room than Flint's analytical faculty. Content stays dog-shaped (pack, threat, scent, bond, hunger, protect, pup, play, den, home, herd, flock) — Rex and Judge do NOT acquire human cognition. This is not the Oberon model.
+**Architecture:** Rex and Judge speak *through* Nate's voice channel. He is the translator; the bond runs on the pre-Fall relational faculty (Codex #170), which is a different room than Flint's analytical faculty. Content stays dog-shaped (pack, threat, scent, bond, hunger, protect, pup, play, den, home, herd, flock) — Rex and Judge do NOT acquire human cognition. This is not the Oberon model. **Articulation progresses P0→P3 across the series:** P0 impressions only (Book 1 opening through Tutorial) → P1 single/two-word bursts → P2 short phrases → P3 full mental speech (Book 2-3+). The content stays dog-shaped at every stage — Oberon (human cognition in a dog) is the counter-model the bond never becomes, not its destination. See `project_pack_bond_progression`.
 
 **Voice-delivery progression:**
 
@@ -287,7 +287,7 @@ Full voice card under **Voice 3** above. Codex #2 is the canonical source.
 
 **Target:** Dresden Files / Dungeon Crawler Carl / The Land (Richter) energy. Snarky, sarcastic, and frequent. Not British understatement — actual laughs. Punch it up. Use it often.
 
-**Density:** 8-10 smirk/laugh moments per chapter minimum. If a chapter doesn't make the reader smirk at least 8 times, it's too flat. Err on the side of MORE humor, not less.
+**Density:** frequent — err on the side of MORE humor, not less. Set the level with the per-voice Comedy Dial (below), not a fixed count. See `feedback_humor_punch_up`.
 
 **Four humor registers (per voice):**
 1. **Flint** — Dial 5 default. Primary comic engine, sardonic System commentary, theatrical wit with snap. Absurdist stacks, italic-break dialogue fragments, named targets. Holds the comic-relief throne.

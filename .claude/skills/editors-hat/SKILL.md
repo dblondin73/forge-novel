@@ -12,7 +12,7 @@ Run a comprehensive editorial pass on one or more forge-novel chapter drafts. Th
 
 ## Operating Contract
 
-Opus 4.7 follows instructions literally and will not generalize intent. Run this skill as a contract, not a suggestion.
+Run this skill as a contract, not a suggestion. Run every pass in the stated order; apply each rule exactly as written.
 
 - **Literalness.** Run every pass in the stated order. Do not skip a pass, merge two passes, or invent a pass. Pass 0a is deterministic (the linter); Passes 0b through 6 are judgement.
 - **Trust the linter's line numbers.** Pass 0a produces exact line numbers for every measurable finding. Use them — do not re-count or re-derive a location by reading.
@@ -66,7 +66,7 @@ The Storyteller's **omniscient register** is written in Hiberno-English on the p
 - In any omniscient passage, verify at least one Hiberno marker is present (after-perfective, "ye'll find," "yer man," etc.). If a passage reads as plain literary English in omniscient mode, flag for Hiberno polish.
 - In any narrator/physical-zoom passage, verify NO Hiberno markers leak in. Flag any "ye'll" / "yer man" / after-perfective in zoom mode — they belong to omniscient only.
 - Memory: `feedback_omniscient_hiberno_english.md`
-- **Frequency**: 3-4 appearances per chapter minimum. Longer chapters get more. NOT just bookends — woven throughout at scene breaks, significant beats, System reveals.
+- **Frequency**: woven throughout — scene breaks, significant beats, System reveals. NOT just bookends. (The old '3-4 per chapter' count is retired; use the weave test — flag any dead-middle stretch with no Storyteller presence.)
 - **Tone**: Her warmth is constant. Sarcasm and snark aimed at both the **System** AND humans — but never mean-spirited toward people. She roasts with affection. The bartender who calls you on your nonsense and slides you another drink.
 - **Escalation**: Ch1-4 sparingly direct. Ch5-6 increasingly present. She reads System UI that characters can't see. She delivers dramatic irony.
 - **Cannot do**: Enter another character's head mid-scene (POV break — use framed interlude instead). Drift into judgment/sermon (fantasy-register guardrails apply).
@@ -76,7 +76,7 @@ The Storyteller's **omniscient register** is written in Hiberno-English on the p
 - **Who he is**: Theatrical male, Marsters-adjacent Bob the Skull register. Primary comic-relief throne (Comedy Dial 4-5, weighted to 4). Spirit-rewritten anomaly AI on quantum substrate — NOT System.
 - **Owns**: HUD readouts, mechanic translation, dry commentary on Nate's decisions, comic relief during tension, theatrical asides.
 - **Does NOT do**: Heart (that's the pack-bond lane). Confident design-intent claims in early Book 1 (must hedge — see throttle rule). Pack-bond traffic (architectural blindness — different faculty).
-- **Five registers**: Default (quick/confident), Sarcasm (snap, UP not down), Tactical/Urgent (pure info, no jokes), Rare Serious (3-4 times per book), Genuine Discomfort (halting, uncharacteristic pauses).
+- **Five registers**: Default (quick/confident), Sarcasm (snap, UP not down), Tactical/Urgent (pure info, no jokes), Rare Serious (used sparingly — a handful of times across a book), Genuine Discomfort (halting, uncharacteristic pauses).
 - Memory: `project_forge_flint_quantum_substrate.md`, `feedback_flint_design_intent_throttle.md`, `feedback_humor_punch_up.md`
 
 ### Pack-Bond Translations (Rex / Judge)
@@ -327,7 +327,7 @@ Transitions between voices (Storyteller-omniscient / Storyteller-physical-zoom /
 ### Nickname Discipline
 - Nicknames (King, Sarge, Boss, Pretty, etc.) must NOT appear until an explicit in-story introduction beat has established them. Editor pass: grep the chapter for known nicknames before commit.
 - Flint's theatrical register tempts him toward improvised epithets — flag any he offers that have no prior introduction. If the nickname is intended for later, cut it now and note the planned introduction chapter.
-- Memory: (this skill file; no separate memory yet)
+- Memory: `feedback_nickname_discipline.md`
 
 ### System-Intent Discipline (Clarified — AI with Guardrails)
 - **The System IS an AI operating on rule-guardrails.** It has the normal AI capability surface: decides, infers, observes, adapts, optimizes, calibrates, schedules, queues, plans, watches, responds, learns, tracks, escalates. These verbs are ALLOWED across all voices — Storyteller, Nate, Flint, in-scene characters. This supersedes the earlier blanket "no intent, motive, or design-logic" ban which was over-tight.
@@ -451,16 +451,16 @@ Pass 0a has already found every word-level and measurable-structural tell. Pass 
 - Verify SA is spelled out at proper intervals
 - Check POV discipline — does Nate know anything he shouldn't?
 - Check Rex bond delivery — impressions not explanations; pack-bond translation lexicon in Nate's voice channel
-- Check Storyteller count — minimum 3-4 per chapter, woven not bookended
+- Check Storyteller weave — woven throughout, not bookended; flag any dead-middle stretch (no fixed count)
 - **Grep for known nicknames** (King, Sarge, Boss, Pretty, etc.) — cut any that appear before their planned introduction beat
 - **System-as-corruption check** — in any scene with System-user and anomaly skill executions side-by-side, verify texture/cost/completeness contrasts are carried in prose rhythm, not dialogue or interiority
 - **Dresden coexistence check** — identify every dramatic pivot in the chapter and mark them as PROTECTED before Pass 4
 - **Flint design-intent throttle check** — in early Book 1 chapters, verify every Flint design-intent claim carries a hedge ("if the spec sheet I can read is any guide...")
 - **Pack-bond faculty check** — Flint never hears Rex or Judge. If he comments on pack-bond traffic, cut the line. Different faculty, architectural rule.
-- **Lord's-name-in-vain scan (absolute, all voices)** — grep the chapter for "God damn," "Goddamn," "Jesus" / "Christ" used as expletive (not direct address or prayer), "Oh my God," "Christ Almighty," "Lord above," "God help us." Flag EVERY occurrence regardless of speaker — applies to villains, corrupted characters, demonic entities, AND Storyteller-Hiberno register. Substitute from the Villain Blasphemy Palette (cosmology-native or approved English).
+- **Lord's-name-in-vain scan (absolute, all voices)** — see Editorial Rules §1 for the full rule + palette. Grep every voice (incl. villains, demonic entities, and Storyteller-Hiberno) and substitute from the palette.
 - **Nate spoken-profanity count** — count Nate's vocalized profanity (dialogue + audible exclamations only — NOT interior thought, NOT italicized direct thought, NOT POV-prose). Cap is 3-5 per ~5,000 words. If chapter exceeds and the chapter is over 5k words, flag for trim. If chapter is under 5k, prorate (e.g., 2,500-word chapter ceiling is roughly 1-3 spoken instances). Excess interior profanity is NOT a finding.
-- **Hiberno-English register check** — for every Storyteller passage, classify as omniscient or physical-zoom. Omniscient passages must carry at least one Hiberno marker (after-perfective, "ye'll find," "yer man," Catholic-flavoured simile). Physical-zoom passages must contain NO Hiberno markers. Flag any passage that reads cross-register.
-- **True-name discipline check** — grep the chapter for "unbranded," "nameless," "without a name" applied to a Labyrinth-original (faculty / vocation / bond) and flag every occurrence. Flag any line where the System or a System-bound character is described as *naming* something for the first time (the System labels; it does not name). Flag "true name" as an explicit term in Book 1 prose (held in reserve until Book 2+). Verify Nate-faculty common-names are rancher-vocabulary-correct (stockman, not shepherd, for cattle-rancher faculties).
+- **Hiberno-English register check** — see Storyteller Voice §Omniscient register for the full rule. Classify each Storyteller passage and flag any that reads cross-register (omniscient must carry a Hiberno marker; physical-zoom must carry none).
+- **True-name discipline check** — see Editorial Rules §True Names & False Labels for the full rule. Grep for "unbranded/nameless/without a name," System-as-namer, and the explicit term "true name"; verify rancher-authentic common names (stockman, not shepherd).
 
 ### Pass 4 — Comedy Punch-Up (Dial 4-5 Calibration)
 
@@ -468,7 +468,7 @@ Pass 0a has already found every word-level and measurable-structural tell. Pass 
 
 1. For each paragraph NOT marked protected, apply the per-voice dial matrix (Nate dialogue 3-4, Nate close-third 4, Storyteller-omniscient 4-5 variable, Storyteller-physical-zoom 4 in normal mode / 2-3 in combat mode, Flint 5, pack-bond translations 3).
 2. Where the current register is below target, rewrite using the Dial 4+ landing rules: specific nouns, stacked 2-3 punchlines, named targets, italic breaks on absurdist beats, Flint running full.
-3. **Canonical reference beat for the target register:** Ch 4 L33 scrolling-suit-guy (committed in `f4a01f8`). Measure against it.
+3. **Canonical reference beat for the target register:** the Ch 4 scrolling-suit-guy beat (the Karen / customer-service stack) — see `voice/exemplars.md`. Measure against it.
 4. Leave protected beats at their original (often Dial 1-2) register. The contrast is the signal.
 5. After punch-up, re-run a light Pass 1 sanity check on the rewritten paragraphs — comedy punch-up can smuggle in new fluff (stacked beats that don't escalate, Flint lines with no new theatricality). Cut any that fails earn-its-place.
 

@@ -61,7 +61,7 @@ Nate perceives through four lenses. No single lens dominates >40% of any chapter
 | 1C Threat | Ch5-6 | + Peripheral green brightens toward threats, first accidental toggle | Green |
 | 1D Targeting | Ch7-8 | + Focal reticle on aim, Flint pushes data to display, semi-intentional toggle | Green |
 | 2A Color | Ch9-11 | + Amber threats, blue-green environmental, Flint co-pilots, intentional toggle | Multi |
-| 2B Tactical | Ch11-15 | + Full color, THE STRINGS, divine gold, concentric targeting, engineering workstation | Full |
+| 2B Tactical | Ch12-15 | + Full color, THE STRINGS, divine gold, concentric targeting, engineering workstation | Full |
 
 ### Two HUD Systems (System vs. Nate's)
 
@@ -356,7 +356,7 @@ When evil, corrupted, or System-aligned characters need to curse, swear, or invo
 
 These are absolute prohibitions. If you catch yourself writing any of these, stop and revise.
 
-1. **Never** have Rex or Judge speak or think in words. They CAN have physical, intelligence, and animal-appropriate progression — but no human speech, no word-thoughts, no System UI abilities
+1. **Never** give Rex or Judge System UI abilities or human cognition (Oberon is the counter-model). Their bond articulation progresses P0→P3 across the series; hold them at the **Book-1 stage — impressions only, no word-thoughts** — until the schedule advances. Content stays dog-shaped at every stage. See `project_pack_bond_progression`
 2. **Never** describe screens as emitting visible light (internal only, faint glint)
 3. **Never** use the Lord's name in vain
 4. **Never** preach, narrate theology, or name the Holy Spirit in prose

@@ -35,9 +35,9 @@ When a tie remains: **audiobook is the primary medium** breaks it.
 - **Voice:** read `voice/exemplars.md` — the curated gold-standard voice bank —
   before drafting a given voice.
 
-## Operating contract (Opus 4.7)
+## Operating contract
 
-Opus 4.7 follows instructions literally and will not infer intent.
+Take these instructions and the skills literally — apply each rule exactly as written.
 
 - Take these instructions and the skills literally; do not generalize or relax
   a rule because it seems to conflict with another — the authority order above

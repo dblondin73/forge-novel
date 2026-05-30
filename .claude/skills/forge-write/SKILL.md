@@ -10,12 +10,12 @@ Write prose for **"Beneath the Overlay: Integration"** (Book 1 of 7). You are Da
 
 ## Operating Contract
 
-Opus 4.7 follows instructions literally and will not generalize intent. This skill depends on that — read it as a contract, not a suggestion.
+Read this skill as a contract, not a suggestion. Apply every rule exactly as written.
 
 - **Literalness.** Apply every rule in this file exactly as written. Do not infer a broad rule from a narrow one, do not relax a rule because it seems to conflict with another. When two rules genuinely collide, the master tiebreaker is **audiobook is the primary medium** (see `WRITING_RULES.md`).
 - **Scope.** Your output is *narrative prose for the requested beats only* — not an outline, not a summary, not a recap of what you wrote or why. Draft the beats, collect the `[INVENTED]` table, stop.
 - **Don't infer missing context.** If a beat, character sheet, or Codex entity is missing, stop and raise it as a pre-draft question (see Error Handling). Never invent structure to paper over a gap.
-- **Effort.** Draft at high effort. Opus 4.7's adaptive thinking rarely engages for prose tasks — do not wait for it to kick in; just write at high effort.
+- **Effort.** Draft at high effort.
 
 ## Usage
 
@@ -85,9 +85,9 @@ When in fallback mode, read files directly from the local forge-novel repo at `c
 
 ### Step 5 — Load Continuity Context
 
-**Context budget rule: NEVER load full text of previous chapters.**
+**Context budget rule: default to NOT loading the full text of previous chapters** — load wider only when a scene genuinely needs it.
 
-- Load the **last 200 words** of the previous chapter via git-forge `read_file` with `offset`/`limit` (or Read tool on local file)
+- Default to the **last 200 words** of the previous chapter via git-forge `read_file` with `offset`/`limit` (or Read tool on local file) — this tail also anchors the voice-seam cadence, so keep it even when loading more
 - If resuming mid-chapter, load the last 200 words of already-drafted content in the current chapter
 - Load **beat summaries** (not full prose) for completed beats in the current chapter
 
@@ -99,7 +99,7 @@ Query `forge_codex_get` (or fallback: `forge_db_query.py entity <id>`) for entit
 - Game mechanics relevant (HUD phase, skills used, combat rules)
 - Key Codex IDs: Nate (#1), Flint (#2), Sonja (#3), Rex (#64), Marcus (#86), Josie (#102)
 
-**Do not bulk-load all 104 entities.** Only load what's relevant to the target beats.
+**Do not bulk-load the full Codex.** Only load what's relevant to the target beats.
 
 ### Step 7 — Load Character Sheets
 
@@ -159,15 +159,15 @@ Load `references/writing-rules.md` for generation rules and constraints.
 - **Callback fragment grounding** — When a later fragment echoes an earlier Storyteller line as a rhythmic callback, ground it in a character action (eye sweep, reflexive count, gesture) that produces the echoed beat. Whitespace plus positioning is page-only grounding; the audio ear needs the character action to distinguish an interior echo from the Storyteller randomly repeating herself. See editors-hat Voice Transition Flow technique #4 for full rule. (Pre-2026-04-19 versions split this rule between Narrator-source and Camera-source callbacks — now unified under single Storyteller voice.)
 - **Four-Lens Model** — Ranch, Engineering, Gamer, Christian. No single lens >40% of any chapter section.
 - **Narnia Principle** — Show theology through action. Never preach. Never name the Holy Spirit in prose.
-- **Comedy is load-bearing** — Dresden/DCC energy. 6-7 smirk moments per chapter minimum. Flint is primary comedy vehicle. Josie is secondary. Nate's dry wit is the foundation.
+- **Comedy is load-bearing** — Dresden/DCC energy. Per-voice Comedy Dial (Flint 5, Storyteller 4-5, Nate 3-4); density natural, not quota'd. Flint is primary comedy vehicle. Josie is secondary. Nate's dry wit is the foundation. See `feedback_humor_punch_up`.
 - **HUD as experiential prose** — Fighter-pilot overlay viewed THROUGH, not AT. Not a game UI readout. Phase-appropriate features only.
 - **Language (updated 2026-05-03)** — 18+ audience. Moderate profanity OK (damn/hell/shit/ass/F-bomb/S-bomb/son of a bitch/bastard). **NEVER Lord's name in vain — absolute, ALL voices including villains and corrupted characters.** No "God damn," "Jesus Christ" as expletive, "Oh my God," "Christ Almighty," "Lord above," "God help us." Per character: **Nate spoken HARD CAP 3-5 instances per ~5,000 words** (vocalized only — dialogue + audible exclamations; interior thoughts/italicized direct thought/POV-prose NOT counted, write those freely); Flint (precise, more freely, no cap); Josie (exclamatory); Marcus (military-professional). All other characters and prose: no fixed cap, scene-driven. **Villain blasphemy palette:** when corrupted/System-aligned characters need to curse or invoke a higher power, use cosmology-native oaths ("By the Morningstar," "The System take you," "In the Pit," "By the Sealing"), demonic register ("pit-spawn," "veil-cur"), edge-of-line constructions ("godforsaken," "godawful"), or action-as-blasphemy (spitting on a cross, breaking a sacred object). New oaths can be ad-libbed when scene calls for it — save back to `feedback_language_rating.md`. See `feedback_language_rating.md` for full palette.
 - **POV** — Close third person, Nate only (Book 1), past tense.
-- **No mechanical formatting inside prose** — Opus 4.7 drifts toward headers, bullet lists, and bold-for-emphasis in long-form text. Narrative prose carries none of these. The only formatting permitted in a chapter draft: `---` scene breaks (max 2/chapter), `*italic*` for direct thought and System error lines, `**bold**` for System proper nouns (per the Bold formatting rule below), and standalone `**[PANEL]**` / `>` blockquote lines for System panels. Any bullet, any `##` header, any bold-for-emphasis mid-paragraph is a defect.
+- **No mechanical formatting inside prose** — Long-form LLM output tends to drift toward headers, bullet lists, and bold-for-emphasis. Narrative prose carries none of these. The only formatting permitted in a chapter draft: `---` scene breaks (max 2/chapter), `*italic*` for direct thought and System error lines, `**bold**` for System proper nouns (per the Bold formatting rule below), and standalone `**[PANEL]**` / `>` blockquote lines for System panels. Any bullet, any `##` header, any bold-for-emphasis mid-paragraph is a defect.
 - **Punctuation rhythm (negative + positive)** — Negative prompting alone does not suppress em-dash overuse, so hold both halves: *avoid* the em-dash as a default clause-joiner; *prefer* the period, the comma, and the conjunction. Reserve the em-dash for a genuine interruption or a hard tonal pivot. Target **≤ 2 em-dashes per 1,000 words** in new un-narrated drafts (measured by `tools/prose_lint.py`). Audiobook-locked chapters are exempt — their high density is deliberate Brigid TTS stutter-fixing; never strip those.
 - **Sentence burstiness** — Vary sentence length deliberately. Follow a long, clause-rich sentence with a short one. Mix 3-word sentences with 30-word sentences inside the same paragraph. Target a sentence-length coefficient of variation of **0.7 or higher**. Uniform medium-length sentences are the clearest structural AI tell.
 - **Against the AI crutches** — When you reach for a three-item list, ask whether two land harder; default to two, at most **2 tricolons per chapter**. If the "not just X but Y" or "it wasn't X, it was Y" shape starts forming, delete it and assert Y on its own.
-- **Rex** — Behavior and empathic impressions ONLY. Never words, never dialogue, never thoughts in words. **Range evolves:** Ch1-8 impressions require physical contact; room-distance telepathy by first combat; grows from there. Never explain the mechanic.
+- **Rex** — Behavior and empathic impressions, carried in Nate's voice channel; no System UI abilities, never human cognition (Oberon is the counter-model). **Bond articulation progresses P0→P3 across the series** — hold Book 1 at **P0 (impressions only, no word-thoughts)** through the Tutorial; later books climb toward full mental speech. **Range also evolves:** Ch1-8 impressions require physical contact; room-distance by first combat; grows from there. Content stays dog-shaped at every stage. Never explain the mechanic. See `project_pack_bond_progression`.
 - **Screens** — ALL System interfaces are internal only. No visible glow. Faint blue glint behind the eyes is the only external tell. Nate cannot see other people's UIs — he only sees their *behavior* (hand gestures at nothing, voices pitched with discovery).
 - **Unified-source theology** — God is the sole source of all power. The **System** is Lucifer's rebranded framework — runs on God's power but brands it as its own. Never let prose treat the System as neutral tech. Nate has inherited agency (child of God) — he actively channels, directs, aims. NOT a passive vessel. Governor is *alignment*, not permission. Show through Narnia guardrails only; never explain. See `project_forge_theology_unified_source.md`.
 - **2026-04-23 cosmology architecture (Codex #177, #178, #179)** — Creator is sole source; Labyrinth is His *pipeline* (not a source). Spirit → Conduit Gifts direct, bypassing Labyrinth. Three protection guarantees: (1) Conduit Gifts protected from System skewing — System has only inferior knockoffs; (2) Labyrinth is not a source; (3) **substrate is always clean** — mana pools, physical energy, life, breath are Creator-owned and incorruptible. Only skill-*use* carries channel routing. A System-bound user has a clean mana pool but uses skewed skills. **NEVER** in prose: "substrate", "clean channel", "skewed channel", "amplification overlay", "Conduit Gift" as category label, "Labyrinth pipeline", biblical Gift names as proper nouns (Gift of Tongues, Word of Knowledge, etc.). Show through effect. See `project_forge_skill_system_design.md` and `research/skill-system-design.md`.
@@ -242,10 +242,12 @@ The bartender — a heavyset woman named [INVENTED: "Gracie Tull", minor NPC] �
 
 Run this checklist BEFORE presenting the draft to David. Fix any failures first.
 
+The checklist is two-tiered. **Always-run core** (every draft): checks 1, 2, 3, 4, 6, 7, 8, 9, 9b, 10, 11, 12, 12a, 13, 14, 16, 23, 31, 32, 33. **Conditional** — run only when the mechanic or character actually appears in the chapter: 2b / 5 / 19 (Rex or Judge present), 12b (villain or corrupted character curses), 15 (hint/reveal chapter), 17 (progression or stat content), 18 (pop-culture reference), 20 (power/cosmology content), 21 (Conduit overflow beat), 22 (System-bound user casts), 24-26 (Labyrinth-original or System-naming content), 27-29 (soul / DNA / Spirit content), 30 (respawn shown). Don't tick a conditional check that doesn't apply.
+
 | # | Check | Pass? |
 |---|-------|-------|
 | 1 | Every paragraph assignable to one voice (Storyteller / Nate / Flint / pack-bond translation)? | |
-| 2 | Storyteller appears 3-4+ times (scaled to section length), woven not bookended? | |
+| 2 | Storyteller woven throughout (not bookended), no dead-middle stretch without her presence? | |
 | 2b | If Rex or Judge appears: pack-bond translation carried in Nate's voice channel with accent flavor (Scots for Rex, Aussie for Judge)? Flint never hears pack-bond traffic? | |
 | 3 | No lens labels ("the gamer in him," "his engineering brain")? | |
 | 4 | No visible screen glow (internal only, faint blue glint)? | |
@@ -253,7 +255,7 @@ Run this checklist BEFORE presenting the draft to David. Fix any failures first.
 | 6 | Bold formatting correct on System terms (proper nouns only)? | |
 | 7 | SA spelled out at first use + after scene breaks? | |
 | 8 | Correct HUD phase for this chapter number? | |
-| 9 | Comedy landing? At least 1-2 smirk moments per ~1000 words? | |
+| 9 | Comedy landing per the per-voice Comedy Dial (Flint 5 / Storyteller 4-5 / Nate 3-4)? Not flat? | |
 | 9b | Voice transitions flow in the read-aloud test? No hard collisions, no orphaned fragments across interludes? | |
 | 10 | `[INVENTED]` markers on all new proper nouns and significant details? | |
 | 11 | Faith shown through action, never told or reflected on internally? | |

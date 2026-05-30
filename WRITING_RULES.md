@@ -381,13 +381,16 @@ When a pass surfaces multiple decisions for David to make, **never dump a flat l
 
 ### Editor's Hat Pass Order
 
-When invoked for a full editorial pass:
+When invoked for a full editorial pass, run the `/editors-hat` skill's pipeline (it supersedes this summary):
 
-1. **Pass 1** — Continuity (timeline, character knowledge, prop tracking).
-2. **Pass 1.5** — Length discipline (every-line-must-earn).
-3. **Pass 2** — Voice (Storyteller / Nate / Flint / pack-bond routing).
-4. **Pass 3** — Theology-show-don't-tell sweep.
-5. **Pass 4** — Audiobook punctuation pass (Brigid stutter fixes).
+- **Pass 0a** — Deterministic slop lint (`prose_lint.py`).
+- **Pass 0b** — Slop judgement (AI-tells the linter can't measure).
+- **Pass 1** — Length discipline (every-line-must-earn).
+- **Pass 2** — Continuity & flow (timeline, character knowledge, prop tracking).
+- **Pass 3** — Rule compliance (voice routing, theology-show-don't-tell, Lord's-name, true-names, bold/SA, POV).
+- **Pass 4** — Comedy punch-up (Dial 4-5; after Pass 1 trim + Pass 3 protected-beat marking).
+- **Pass 5** — Prose & voice polish (incl. audiobook punctuation / Brigid stutter fixes).
+- **Pass 6** — Report.
 
 ---
 

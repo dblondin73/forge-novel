@@ -12,7 +12,6 @@ These words almost never appear in natural prose. Rewrite the sentence.
 |---|---|
 | delve | dig into, examine |
 | utilize | use |
-| leverage (verb) | use, exploit |
 | facilitate | help, enable |
 | elucidate | explain, clarify |
 | embark | start, begin |
@@ -20,15 +19,11 @@ These words almost never appear in natural prose. Rewrite the sentence.
 | encompass | include, cover |
 | multifaceted | complex, varied |
 | tapestry / tapestry of | (describe the actual thing) |
-| testament (as in "a testament to") | shows, proves |
 | paradigm | model, approach |
 | synergy | (delete the sentence) |
 | holistic | whole, complete |
 | catalyze / catalyst | trigger, spark |
 | juxtapose | contrast, set against |
-| nuanced (as filler) | (cut it — show the nuance) |
-| realm | area, field, domain |
-| landscape (metaphorical) | field, space |
 | myriad | many |
 | plethora | many, a lot |
 
@@ -38,7 +33,24 @@ These words almost never appear in natural prose. Rewrite the sentence.
 
 Fine alone. Three in one paragraph = rewrite.
 
-robust, comprehensive, seamless, cutting-edge, innovative, streamline, empower, foster, enhance, elevate, optimize, scalable, pivotal, intricate, profound, resonate, underscore, harness, navigate (metaphorical), cultivate, bolster, galvanize, cornerstone, game-changer
+robust, comprehensive, seamless, cutting-edge, innovative, streamline, empower, foster, enhance, elevate, optimize, scalable, pivotal, intricate, profound, resonate, underscore, harness, cultivate, bolster, galvanize, game-changer
+
+---
+
+## Watch words — judgment only (NOT machine-linted)
+
+These are slop *only in a specific sense*; they are legitimate in literal or genre
+use (a Labyrinth is literally a *realm*; you literally *navigate* a dungeon). They
+are deliberately kept OUT of the Tier 1 / Tier 2 tables so `prose_lint.py` does not
+flag them unconditionally — the parser strips the qualifier and would otherwise hit
+every use. Watch them by eye; rewrite only the slop sense.
+
+- **realm** — slop as a vague abstraction ("the realm of possibility"); fine as a literal place.
+- **navigate** — slop as a metaphor ("navigate the challenges"); fine for literal movement.
+- **landscape** — slop as a metaphor ("the competitive landscape"); fine for literal terrain.
+- **leverage** — slop as a buzzy verb ("leverage synergies"); fine as a noun (mechanical leverage).
+- **testament** — slop as "a testament to"; fine in its literal / scriptural sense.
+- **nuanced** — slop as empty filler; fine when an actual nuance follows.
 
 ---
 
@@ -189,12 +201,14 @@ curl -X POST http://100.92.123.31:18792/score \
 
 ## Quick-Scan Checklist
 
+> **Linter-measured (run `prose_lint.py` — no need to hand-check these):** Tier 1/2 banned vocab + clusters, em-dash density, triadic/tricolon density, repetitive sentence endings, paragraph uniformity, burstiness CV. The human pass focuses on what the linter can't see: subtext, surprise, in-scene ratio, the smell test.
+
 ### Word-level
 - [ ] No Tier 1 banned words
 - [ ] No clusters of Tier 2 words (3+ per paragraph)
 - [ ] No Tier 3 filler phrases
 - [ ] No fiction-specific AI tells from the table above
-- [ ] Em-dash count reasonable (not 5+ per paragraph)
+- [ ] Em-dash density appropriate to chapter type (prose_lint measures it; audiobook-locked chapters run high by design — never strip)
 
 ### Sentence-level
 - [ ] Sentence length varies (not all 15-25 words)
@@ -206,7 +220,7 @@ curl -X POST http://100.92.123.31:18792/score \
 - [ ] No over-explain after emotional beats
 - [ ] Max 2 triadic lists per chapter
 - [ ] Max 2 section breaks per chapter
-- [ ] 70%+ in-scene (not summary)
+- [ ] Mostly in-scene, not summary (judgment call, not a hard ratio)
 - [ ] At least one surprising moment per chapter
 
 ### The Smell Test
