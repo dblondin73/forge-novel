@@ -1,0 +1,108 @@
+/*
+ * Parchment theme for VS Code built-in Markdown Preview
+ * Warm white/cream background while VS Code stays in dark mode
+ */
+
+body {
+    background-color: #f5f0e8 !important;
+    color: #2c2416 !important;
+    font-family: "Georgia", "Palatino Linotype", "Book Antiqua", serif;
+    max-width: 48em;
+    margin: 0 auto;
+    padding: 2em 3em;
+    line-height: 1.8;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #3d2e1a !important;
+    font-weight: 600;
+    margin-top: 1.5em;
+    border-bottom: none !important;
+}
+
+h1 {
+    font-size: 1.8em;
+    text-align: center;
+    margin-bottom: 0.3em;
+}
+
+h2 {
+    font-size: 1.4em;
+}
+
+/* Paragraphs */
+p {
+    text-indent: 0;
+    margin-bottom: 1em;
+    color: #2c2416 !important;
+}
+
+/* Emphasis / italic — used for internal thoughts */
+em {
+    color: #4a3c2a !important;
+    font-style: italic;
+}
+
+strong {
+    color: #2c2416 !important;
+}
+
+/* Horizontal rules — scene breaks */
+hr {
+    border: none;
+    border-top: 1px solid #c4b69c;
+    margin: 2em auto;
+    width: 40%;
+}
+
+/* Block quotes */
+blockquote {
+    border-left: 3px solid #c4b69c !important;
+    background-color: #ede7d9 !important;
+    color: #3d2e1a !important;
+    padding: 0.5em 1em;
+    margin: 1em 0;
+    font-style: italic;
+}
+
+/* Code blocks (for system messages, UI text) */
+code {
+    background-color: #e8e0d0 !important;
+    color: #5c4a32 !important;
+    padding: 0.15em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+pre {
+    background-color: #e8e0d0 !important;
+    border: 1px solid #c4b69c;
+    padding: 1em;
+    border-radius: 4px;
+}
+
+pre code {
+    background-color: transparent !important;
+}
+
+/* Links */
+a {
+    color: #7b5e3a !important;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #5c4a32 !important;
+}
+
+/* Lists */
+ul, ol {
+    color: #2c2416 !important;
+}
+
+/* Selection highlight */
+::selection {
+    background-color: #d4c5a9;
+    color: #2c2416;
+}

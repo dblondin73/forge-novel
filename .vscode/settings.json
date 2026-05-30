@@ -1,0 +1,44 @@
+{
+    "cSpell.words": [
+        "Ahhhh",
+        "Annnyway",
+        "Azkaban",
+        "bahiagrass",
+        "cartoonishly",
+        "cervid",
+        "cooldown",
+        "cooldowns",
+        "friggin",
+        "frine",
+        "hardpack",
+        "longsword",
+        "Mackey",
+        "Nadria",
+        "noob",
+        "overcorrected",
+        "Panola",
+        "parul",
+        "Patronus",
+        "Pyromancer",
+        "recalibrated",
+        "redtail",
+        "regen",
+        "rine",
+        "Sanren",
+        "Sidhe",
+        "Tamagotchi",
+        "Thornling",
+        "Thornlings",
+        "Xuetrix"
+    ],
+
+    // Parchment background for markdown preview in this workspace
+    "markdown.styles": [".vscode/markdown-parchment.css"],
+    "markdown.preview.fontFamily": "Georgia, 'Palatino Linotype', 'Book Antiqua', serif",
+    "markdown.preview.fontSize": 16,
+    "markdown.preview.lineHeight": 1.8,
+
+    // Don't auto-copy pasted/dropped images into the workspace — manuscript chapters shouldn't carry binaries
+    "markdown.editor.filePaste.copyIntoWorkspace": "never",
+    "markdown.editor.drop.copyIntoWorkspace": "never"
+}

@@ -1,9 +1,14 @@
 # Dev artifacts
 .coverage
-.vscode/
 __pycache__/
 *.pyc
 .ruff_cache/
+
+# VSCode: ignore local/user files but track the shared workspace config and the
+# markdown-parchment.css that settings.json references (else preview breaks on clone).
+.vscode/*
+!.vscode/settings.json
+!.vscode/markdown-parchment.css
 
 # Copyrighted style-reference material — keep local only
 Book Samples/
