@@ -394,6 +394,15 @@ Cosmology architecture — refines (does not contradict) unified-source theology
   - **Open in prose:** "soul," "DNA," "Spirit" (rationed in close-third Nate). **Held shorthand only — flag if surfaced:** "Path 1," "Path 2," "Spirit-firewall," "Job effect," "DNA-node," "fiber-channel," "block-cold / allow-with-rewrite / pass."
 - Memory: `project_forge_soul_dna_architecture.md`; codex: `Soul-DNA Architecture (Job Effect)` (pending forge ingestion — research/soul-dna-architecture.md is canonical until then)
 
+### Genre Contract (LitRPG Reader Expectations)
+
+The reader brings a LitRPG contract to the page (system panels, progression payoff, tutorial logic, stat reveals). `LITRPG_CONVENTIONS.md` (repo root) records, for each convention, whether forge-novel **honors / bends / breaks** it and why. This is a *reference, not a rule* — it yields to canon, craft, and the audiobook tiebreaker.
+
+- **A recorded break is correct; an unrecorded stance shift is a finding.** The editor scans for *unintended* breaks only — places where the prose drifts into a stance the doc does NOT record.
+- **Five drift flags to scan:** stat-sheet bloat (block >~6 lines or spreadsheet paragraph), mid-action level-up/"ding," loadout-optimization scene (a recorded BREAK — honoring it is the error), System-as-neutral-tech drift (theology spine), first-person leak (a stretch that loses the Storyteller and reads as flat genre first-person).
+- **The four signature divergences are load-bearing, not bugs:** theological spine, omniscient Storyteller, audiobook-primary, interface restraint. Never flag these as errors.
+- Reference: `LITRPG_CONVENTIONS.md`
+
 ## Pass Structure
 
 Run the passes in the order given; complete each fully before starting the next.
@@ -461,6 +470,7 @@ Pass 0a has already found every word-level and measurable-structural tell. Pass 
 - **Nate spoken-profanity count** — count Nate's vocalized profanity (dialogue + audible exclamations only — NOT interior thought, NOT italicized direct thought, NOT POV-prose). Cap is 3-5 per ~5,000 words. If chapter exceeds and the chapter is over 5k words, flag for trim. If chapter is under 5k, prorate (e.g., 2,500-word chapter ceiling is roughly 1-3 spoken instances). Excess interior profanity is NOT a finding.
 - **Hiberno-English register check** — see Storyteller Voice §Omniscient register for the full rule. Classify each Storyteller passage and flag any that reads cross-register (omniscient must carry a Hiberno marker; physical-zoom must carry none).
 - **True-name discipline check** — see Editorial Rules §True Names & False Labels for the full rule. Grep for "unbranded/nameless/without a name," System-as-namer, and the explicit term "true name"; verify rancher-authentic common names (stockman, not shepherd).
+- **Genre-contract drift scan (light)** — see Editorial Rules §Genre Contract. Scan for the five *unintended*-break flags (stat-sheet bloat, mid-action level-up, loadout-optimization scene, System-as-neutral-tech drift, first-person leak). A recorded honor/bend/break in `LITRPG_CONVENTIONS.md` is correct — flag only stance shifts the doc does not record.
 
 ### Pass 4 — Comedy Punch-Up (Dial 4-5 Calibration)
 

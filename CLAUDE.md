@@ -17,7 +17,11 @@ flow wins.
    audiobook punctuation, the 14 hard bans, editorial pass order
 3. `REFERENCE.md` — the *what*: locked worldbuilding, 153 Codex entities
 4. The `/forge-write` and `/editors-hat` skills
-5. `epistemic-states.json` / `revelation-schedule.json` — what Nate knows when
+5. `LITRPG_CONVENTIONS.md` — the *why it lands*: genre reader-contract +
+   honor/bend/break stances. A reference, not a rule — it **yields** to canon,
+   craft, and the audiobook; it tells you what the reader expects so divergence
+   is a choice, not an accident
+6. `epistemic-states.json` / `revelation-schedule.json` — what Nate knows when
 
 When a tie remains: **audiobook is the primary medium** breaks it.
 
@@ -34,6 +38,11 @@ When a tie remains: **audiobook is the primary medium** breaks it.
   stutter-fixes (see `WRITING_RULES.md`). See `tools/README.md`.
 - **Voice:** read `voice/exemplars.md` — the curated gold-standard voice bank —
   before drafting a given voice.
+- **Genre contract:** when a beat leans on a LitRPG convention (a level-up, loot
+  drop, class reveal, stat readout, tutorial-room beat), consult
+  `LITRPG_CONVENTIONS.md` for its honor/bend/break stance. Deliver the reader's
+  payoff even when the form bends; never honor a convention forge-novel
+  deliberately breaks.
 
 ## Operating contract
 
@@ -61,6 +70,7 @@ Take these instructions and the skills literally — apply each rule exactly as 
 | `reports/` | dated editorial / lint audit output |
 | `.claude/skills/` | `forge-write`, `editors-hat` (versioned with the prose) |
 | `REFERENCE.md` `WRITING_RULES.md` `SESSIONS.md` | canon, craft rules, session log |
+| `LITRPG_CONVENTIONS.md` | genre contract — reader expectations + honor/bend/break stances |
 | `epistemic-states.json` `revelation-schedule.json` | knowledge & reveal tracking |
 
 ## Git

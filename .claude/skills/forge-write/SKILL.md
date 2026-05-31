@@ -194,6 +194,11 @@ Apply ALL of these. For full definitions, consult `/editors-hat` at `c:\Workbenc
 
 Load `references/voice-guide.md` for character voice models.
 Load `references/writing-rules.md` for generation rules and constraints.
+Consult `LITRPG_CONVENTIONS.md` (repo root) when a beat leans on a genre
+convention — a level-up, loot drop, class reveal, stat readout, or tutorial-room
+beat. Deliver the reader's payoff even when forge-novel bends the form; never
+honor a convention the book deliberately breaks (spreadsheet crunch, notification
+spam, loadout-optimization scenes, secular power-fantasy framing).
 
 ### Quick Checklist (one rule per line)
 

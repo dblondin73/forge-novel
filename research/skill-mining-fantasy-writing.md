@@ -554,7 +554,13 @@ David-steers-Claude-drafts setup.
   (`forge_outline_beats`). Validated on Ch01/05/09. Plan:
   `g5-outline-preflight-plan.md`.
 - **G6 · LitRPG-conventions reference** (P9). Distill the reader-expectation
-  contract from the 17-book bank into a checkable reference.
+  contract from the 17-book bank into a checkable reference. **BUILT 2026-05-31:**
+  `LITRPG_CONVENTIONS.md` (repo root) — a third reference layer (canon / craft /
+  **genre-contract**) recording, per convention, whether forge-novel
+  **honors / bends / breaks** it and why. 7 convention groups + the four
+  signature divergences + an editor drift-scan. Wired into `CLAUDE.md` (authority
+  order #5, yielding; repo map), a forge-write consult line, and an editors-hat
+  rule block + Pass 3 drift-scan. Patterns only — no source text reproduced.
 
 ### Tier 3 — architecture + reusable kit
 - **G7 · Three-layer split** (P16) as the kit's organizing principle: Standards
