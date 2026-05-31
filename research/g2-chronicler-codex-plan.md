@@ -97,8 +97,12 @@ contrast, pipelines because each finding verifies independently.)
 
 **Increments (after MVP validates), mirroring G1's step rhythm:**
 
-1. **Relationships + timeline extractors** [P13] — bonds/allegiances/conflicts and
-   world-state events as their own lenses.
+1. ~~**Relationships + timeline extractors** [P13] — bonds/allegiances/conflicts and
+   world-state events as their own lenses.~~ **BUILT 2026-05-31** — the Workflow
+   now runs four parallel extractors (entities + relationships + timeline +
+   progression); validate collapses symmetric edges and adds relationship/timeline
+   drift types; synthesis emits relationship-edge proposals + a `timeline-state.json`
+   delta alongside the progression ledger.
 2. **Live-forge dedup** [P29] — swap the `REFERENCE.md` proxy for a live
    `forge_codex` read when the tools are session-live (exact dedup, real Codex #s).
 3. **Epistemic delta proposals** — propose `learned_this_chapter` +
@@ -132,7 +136,14 @@ contrast, pipelines because each finding verifies independently.)
 
 ## Status
 
-**G2 MVP BUILT 2026-05-31.** Entities + progression extractors, REFERENCE.md
-dedup, drift flags, proposal synthesis. Dry-run validation pending David's
-go-ahead (recommended target: ch03 — Flint first-boot + SA first-use exercises
-both entity and progression extraction). Increments 1-4 above are unstarted.
+**G2 MVP BUILT + VALIDATED 2026-05-31** (committed `16c09bd`). Entities +
+progression extractors, REFERENCE.md dedup, drift flags, proposal synthesis.
+Dry-run on Ch03 surfaced 11 Codex actions + 13 progression events + a real major
+drift flag (HUD green→blue, Codex lags prose), rejected false mints, held the
+Narnia Principle. Report: `reports/ch03-chronicler-2026-05-31.md`.
+
+**Increment #1 BUILT 2026-05-31** (relationships + timeline lenses — now a
+6-agent Workflow). Re-run on Ch03 to validate the two new lenses is pending.
+Increments #2-4 (live-forge dedup, epistemic deltas, apply step) unstarted —
+live-forge dedup and the apply write-half are blocked on forge_codex tools being
+session-live.
