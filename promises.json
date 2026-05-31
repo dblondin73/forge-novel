@@ -1,0 +1,107 @@
+{
+  "_schema": "Promise/payoff ledger (the 'Mercy Engine'). One record per planted promise to the reader; every promise gets a payoff slot. Surfaced by kit/ledger/ledger.py and diffed against drafts in editors-hat Pass 2. MUTABLE STATE (the revelation-schedule.json analog) - a promise's status changes over its life (open -> paid); this is NOT append-only like timeline.json.",
+  "_discipline": "A planted promise the story never honors is a continuity hole. The editor sweeps `ledger.py open --through N` each chapter: pay it, reinforce it, or deliberately mark it abandoned/subverted. A thread silently dropped shows up as perpetually `open` - that is the report.",
+  "_promise_schema": {
+    "id": "stable unique slug, never reused",
+    "kind": "foreshadow | chekhov | mercy | debt | threat | question | vow | reveal",
+    "promise": "what was set up / owed to the reader",
+    "planted_chapter": "int >= 1 - where it was first set up",
+    "status": "open | paid | abandoned | subverted",
+    "reinforced_chapters": "optional [int] - chapters that re-touch the thread",
+    "due_by_chapter": "optional int - soft deadline; open past it = overdue (WARN)",
+    "payoff": "optional - how it pays off (filled when paid)",
+    "paid_chapter": "optional int - where it paid off (required when status=paid)",
+    "who": "optional [name]",
+    "notes": "optional",
+    "source": "optional - provenance"
+  },
+  "_seed_note": "Seeded 2026-05-31 ONLY from revelation-schedule.json (the one canon-tracked setup->payoff store) as kind=reveal promises - planted_chapter from plant_chapter, reinforced_chapters from hint_chapters, due_by_chapter from full_reveal_chapter, who from characters_who_learn. None are paid yet (no reveal has reached its full-reveal chapter). Division of labor: revelation-schedule.json stays the source of truth for SCHEDULING (which reveal forge-write must advance in a given chapter); this ledger is the source of truth for PAYOFF STATUS across ALL promise kinds, so the editor's unpaid-thread sweep covers reveals too. Other kinds (mercy, chekhov, debt, vow, threat, question) are appended by the editorial pass as chapters lock - e.g. a compassionate act in the Tutorial, a weapon noted now that must matter later. Nothing was invented here beyond what revelation-schedule already asserts (per CLAUDE.md 'never invent structure to fill the gap').",
+  "promises": [
+    {
+      "id": "rev-nate-pre-system-origin",
+      "kind": "reveal",
+      "promise": "Nate has pre-System markers - his abilities aren't entirely System-granted (the occupied space, his WIS stat, things that don't fit the System's model)",
+      "planted_chapter": 1,
+      "reinforced_chapters": [4, 8, 13, 17],
+      "due_by_chapter": 22,
+      "status": "open",
+      "paid_chapter": null,
+      "who": ["Nate", "Flint"],
+      "source": "revelation-schedule.json:nate-pre-system-origin"
+    },
+    {
+      "id": "rev-integration-global-scope",
+      "kind": "reveal",
+      "promise": "The Integration affected the entire world - other nations, other creatures, other systems (shown via interludes while Nate is tunnel-visioned on survival)",
+      "planted_chapter": 1,
+      "reinforced_chapters": [4, 8],
+      "due_by_chapter": 9,
+      "status": "open",
+      "paid_chapter": null,
+      "who": ["Nate"],
+      "source": "revelation-schedule.json:integration-global-scope"
+    },
+    {
+      "id": "rev-system-binding",
+      "kind": "reveal",
+      "promise": "The System is progressively binding Nate - Stage 1 through 4 (Storyteller hints throughout; Nate won't understand until much later)",
+      "planted_chapter": 2,
+      "reinforced_chapters": [3, 5, 8, 12],
+      "due_by_chapter": 16,
+      "status": "open",
+      "paid_chapter": null,
+      "who": ["Nate"],
+      "source": "revelation-schedule.json:system-binding"
+    },
+    {
+      "id": "rev-flint-divine-rewrite",
+      "kind": "reveal",
+      "promise": "Flint's rewrite source is divine - the rewrite happened before first boot, severed System loyalty permanently, and the ghost-token access pattern is the fingerprint of the author",
+      "planted_chapter": 3,
+      "reinforced_chapters": [5, 7, 10, 14],
+      "due_by_chapter": 18,
+      "status": "open",
+      "paid_chapter": null,
+      "who": ["Nate", "Flint"],
+      "source": "revelation-schedule.json:flint-divine-rewrite"
+    },
+    {
+      "id": "rev-flint-quantum-substrate",
+      "kind": "reveal",
+      "promise": "Flint runs on a Spirit-provided quantum substrate, not the System's silicon - the execution layer was moved before first boot, which is why the System cannot observe, log, or flag him",
+      "planted_chapter": 3,
+      "reinforced_chapters": [11, 16, 20],
+      "due_by_chapter": 25,
+      "status": "open",
+      "paid_chapter": null,
+      "who": [],
+      "notes": "Deep-reveal arc (mid-Book-2 / Book-3 candidate). Flint does NOT know; Nate does NOT know; only the Storyteller may name the mechanism.",
+      "source": "revelation-schedule.json:flint-quantum-substrate"
+    },
+    {
+      "id": "rev-stag-purpose",
+      "kind": "reveal",
+      "promise": "The Stag is a pre-System entity with its own agenda (brief sightings, Rex reacting to something unseen - slow burn)",
+      "planted_chapter": 5,
+      "reinforced_chapters": [9, 14, 19],
+      "due_by_chapter": 24,
+      "status": "open",
+      "paid_chapter": null,
+      "who": ["Nate"],
+      "source": "revelation-schedule.json:stag-purpose"
+    },
+    {
+      "id": "rev-sonja-witness-gift",
+      "kind": "reveal",
+      "promise": "Sonja can perceive the spiritual layer - she sees what the System hides",
+      "planted_chapter": 9,
+      "reinforced_chapters": [11, 15],
+      "due_by_chapter": 17,
+      "status": "open",
+      "paid_chapter": null,
+      "who": ["Nate", "Sonja"],
+      "notes": "revelation-schedule status is 'not_yet_planted' - Sonja is introduced post-Tutorial (ch9); the plant has not been written yet.",
+      "source": "revelation-schedule.json:sonja-witness-gift"
+    }
+  ]
+}

@@ -10,6 +10,7 @@
     "anti_slop": ".claude/skills/forge-write/references/anti-slop.md",
     "prose_lint_config": "prose_lint_config.json",
     "timeline": "timeline.json",
+    "promises": "promises.json",
     "draft_glob": "drafts/ch*-*.md"
   }
 }

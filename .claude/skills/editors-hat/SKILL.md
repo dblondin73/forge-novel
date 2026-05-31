@@ -472,6 +472,35 @@ this pass:
    event was edited or deleted — revert it and **append a superseding event**
    instead (name the old id in `supersedes`). Never edit history to fit a draft.
 
+**Promise/payoff ledger (planted-but-unpaid sweep).** The companion to the
+timeline: where the timeline records *what happened*, the ledger
+(`promises.json`, Book layer; the "Mercy Engine") records *what was promised* —
+every foreshadow, Chekhov's gun, mercy, debt, threat, posed mystery, or vow gets
+a payoff slot. It is **mutable state** (a promise's status changes open → paid),
+not append-only. The reveal-kind promises are seeded from
+`revelation-schedule.json`, which stays the source of truth for *scheduling*;
+the ledger is the source of truth for *payoff status across all kinds*. Two
+deterministic moves bracket this pass:
+
+1. **List the open threads, judge each against the draft.** Run
+   `python kit/ledger/ledger.py open --through <N>` (N = this chapter) to print
+   the promises planted on or before this chapter and still unpaid. For each, the
+   judgement is yours: does the draft **pay it off**, **reinforce it**, or leave
+   it untouched? Run `python kit/ledger/ledger.py open --through <N> --overdue` to
+   isolate threads past their `due_by_chapter` — an overdue thread the draft
+   neither pays nor reinforces is a candidate **dropped promise**: flag it as a
+   continuity finding for David (pay it, reinforce it, or deliberately mark it
+   `abandoned`/`subverted`). A Chekhov's gun that never fires is a finding, not a
+   quirk.
+2. **After the chapter passes, update the ledger.** Mark any promise this chapter
+   paid off (`status: "paid"`, add `paid_chapter` and a `payoff` line); append any
+   **new** promise the chapter plants (a mercy shown, a weapon noted, a vow made,
+   a mystery posed) as a fresh `open` record (`kind`, `planted_chapter`, optional
+   `due_by_chapter`). Then run `python kit/ledger/ledger.py check --through <N>` to
+   confirm the store is valid and review any overdue warnings. The semantic
+   judgement (is this *really* paid off?) is yours; the tool only surfaces the
+   open threads and keeps the store honest.
+
 ### Pass 3 — Rule Compliance
 - Scan for lens labels (the [X] in him)
 - Check bold formatting on all System terms

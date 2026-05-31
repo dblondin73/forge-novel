@@ -21,15 +21,18 @@ stutter-fixes downstream).
 | `perplexity/prose_predictability.py` | Local-model perplexity spot-checker — flags statistically *flat* sentences. Report-only. | local GPU |
 | `preflight/preflight.py` | Outline-is-law pre-flight gate before drafting chapter N. HALT/PASS; never drafts. | 0 |
 | `timeline/timeline.py` | Append-only continuity event log: validate, append-only integrity gate (vs git HEAD), event views. Report-only. | 0 |
+| `ledger/ledger.py` | Promise/payoff ledger ("Mercy Engine"): validate, overdue-thread sweep, surface planted-but-unpaid threads. Report-only. | 0 |
+| `recap/recap.py` | "Previously On" source-pack aggregator: merges timeline + ledger + epistemic for a chapter range. Emits source material, never prose. | 0 |
 | `methods/genre-conventions-template.md` | The HONOR/BEND/BREAK genre-contract method template. | — |
 
 ## Binding (`kit.config.json`)
 
 Lives at the **repo root** (the Novel layer owns it), not inside `kit/`. Keys:
 `pov_character`, and `paths.{epistemic_states, revelation_schedule,
-characters_dir, entity_cache, anti_slop, prose_lint_config, timeline,
+characters_dir, entity_cache, anti_slop, prose_lint_config, timeline, promises,
 draft_glob}` — all relative to the repo root. See `kit.config.example.json`. Omit
-any key to fall back to the tool's built-in default.
+any key to fall back to the tool's built-in default. (`recap` needs no key of its
+own — it reads `timeline`, `promises`, `epistemic_states`, and `pov_character`.)
 
 ---
 
@@ -225,3 +228,97 @@ Governed by `--fail-on` (default `error`): `error` → exit `3` on BREACH-or-ERR
 `timeline`, else `<repo>/timeline.json`), `--repo PATH` (default: binding dir, else
 CWD), `--chapter "8"|"1-6"|"1,3,5"`, `--format {text,json,md}`,
 `--fail-on {error,warn,never}`.
+
+---
+
+## ledger — promise/payoff continuity ledger ("Mercy Engine")
+
+The companion to the timeline. Where the timeline records *what happened*
+(append-only), the ledger records *what was promised* — and whether the story has
+paid it back. Every planted promise gets a payoff slot:
+
+| Kind | What it tracks |
+|---|---|
+| `foreshadow` | a hint planted now that must land later |
+| `chekhov` | an object/detail introduced that must matter |
+| `mercy` | a compassionate act that must return at the climax (the "Mercy Engine") |
+| `debt` | an obligation owed that must be settled |
+| `threat` | a danger promised that must be delivered |
+| `question` | a mystery posed that must resolve |
+| `vow` | a promise a character makes on the page |
+| `reveal` | a scheduled information reveal (seeded from `revelation-schedule.json`) |
+
+The point is the **unpaid sweep**: a Chekhov's gun that never fires, a mercy that
+never returns, a mystery posed and forgotten is a continuity hole. The tool keeps
+the store honest and **surfaces the open threads**; the semantic judgement — does
+*this* draft pay off *this* promise? — stays agent-side (`editors-hat` Pass 2),
+exactly as preflight leaves the outline-beats check agent-side.
+
+```bash
+python kit/ledger/ledger.py check --through 8        # validate + overdue sweep
+python kit/ledger/ledger.py validate                 # structure only
+python kit/ledger/ledger.py open --through 8         # planted-but-unpaid threads
+python kit/ledger/ledger.py open --through 16 --overdue   # only threads past due-by
+python kit/ledger/ledger.py render --kind mercy      # markdown, grouped by status
+```
+
+### Mutable state, not append-only
+
+Unlike the timeline, the ledger is **mutable state** (the `revelation-schedule.json`
+analog, not the `timeline.json` analog): a promise's status legitimately changes
+over its life (`open` → `paid`), so there is **no git seal** here. A thread that is
+silently dropped surfaces as perpetually `open` — that is the report, not a breach.
+The reveal-kind promises are seeded from `revelation-schedule.json`, which remains
+the source of truth for *scheduling* (which reveal to advance in a given chapter);
+the ledger is the source of truth for *payoff status across all kinds*.
+
+### Overdue needs a frontier
+
+A promise is **overdue** when it is open, has a `due_by_chapter`, and that chapter
+has been reached. "Reached" can't be inferred from the data (the ledger holds
+future-targeted hint/reveal chapters), so overdue detection requires
+`--through N` — the latest drafted chapter. Without it, `check` reports open/paid
+counts and tells you to pass `--through`. Overdue is **WARN**, never a hard block:
+a 7-book series legitimately holds a promise open across volumes.
+
+### Promise schema
+
+Required: `id` (stable, unique), `kind`, `promise` (what was set up), `planted_chapter`
+(int ≥ 1), `status` (`open`/`paid`/`abandoned`/`subverted`). Optional:
+`reinforced_chapters` (list), `due_by_chapter` (soft deadline), `payoff` + `paid_chapter`
+(filled when paid), `who` (list), `notes`, `source`. Validation errors (duplicate id,
+missing required field, bad `planted_chapter`, unknown `status`) are **ERROR**; soft
+issues (unknown `kind`, paid-without-`paid_chapter`, open-with-`paid_chapter`,
+out-of-order due-by) are **WARN**.
+
+### Exit codes & flags (ledger)
+
+Governed by `--fail-on` (default `error`): `error` → exit `3` on ERROR; `warn` →
+exit `3` on WARN+; `never` → always `0`. Overdue threads are WARN, so the default
+gate stays green on them. Flags: `command` (`check`|`validate`|`open`|`render`),
+`--promises PATH` (default: binding's `promises`, else `<repo>/promises.json`),
+`--through N` (frontier chapter), `--overdue` (filter `open` to overdue only),
+`--kind K` (filter `render`), `--format {text,json,md}`, `--fail-on {error,warn,never}`.
+
+---
+
+## recap — "Previously On" source-pack aggregator
+
+A thin, zero-token aggregator for a recap. It pulls three already-maintained
+stores — the timeline (what happened), the ledger (what's still promised), and
+epistemic-states (what the POV learned) — slices each to a chapter range, and
+merges them into one **source pack**. It writes **no prose**: the recap itself
+("Previously on…") is a Storyteller-voice task and stays agent-side. The tool
+gathers the deterministic ground truth; the agent writes from it.
+
+```bash
+python kit/recap/recap.py --chapter 1-8              # text source pack
+python kit/recap/recap.py --chapter 6 --format md    # markdown
+python kit/recap/recap.py --chapter 1-8 --format json
+```
+
+Any missing source is skipped with a note, so a partly-wired project still gets a
+usable pack. It needs no binding key of its own — it resolves `timeline`,
+`promises`, `epistemic_states`, and `pov_character` from the binding (each
+overridable: `--timeline`, `--promises`, `--epistemic`, `--pov-character`). It is
+a generator, not a gate: exit `0` always.

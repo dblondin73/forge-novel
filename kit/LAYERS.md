@@ -30,8 +30,10 @@ the binding *is* present, the tools behave exactly as a hardcoded version would.
 
 - **Standards** — `kit/prose_lint/` (AI-tell linter), `kit/perplexity/`
   (predictability spot-checker), `kit/preflight/` (outline-is-law gate),
-  `kit/timeline/` (append-only continuity-log engine), `kit/methods/` (e.g. the
-  genre-conventions HONOR/BEND/BREAK template).
+  `kit/timeline/` (append-only continuity-log engine), `kit/ledger/`
+  (promise/payoff "Mercy Engine"), `kit/recap/` ("Previously On" source-pack
+  aggregator), `kit/methods/` (e.g. the genre-conventions HONOR/BEND/BREAK
+  template).
 - **Novel** — `REFERENCE.md`, `WRITING_RULES.md`, `LITRPG_CONVENTIONS.md`,
   `characters/`, `voice/`, `.claude/skills/{forge-write,editors-hat}/`,
   `tools/` (chronicler + editorial-fanout Workflows — book-specific
@@ -39,6 +41,7 @@ the binding *is* present, the tools behave exactly as a hardcoded version would.
   `kit.config.json`.
 - **Book** — `drafts/`, `epistemic-states.json` (versioned state),
   `revelation-schedule.json`, `timeline.json` (append-only event log),
+  `promises.json` (promise/payoff ledger — mutable state),
   `prose_lint_config.json` (per-chapter `audiobook_locked`), `SESSIONS.md`,
   `reports/`, the entity cache.
 

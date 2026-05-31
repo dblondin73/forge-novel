@@ -22,6 +22,7 @@ Read this skill as a contract, not a suggestion. Apply every rule exactly as wri
 - `/forge-write 9` — Write next unwritten beats of Chapter 9
 - `/forge-write 9 beats 3-5` — Write specific beats of Chapter 9
 - `/forge-write 9 scene "crossbow workshop"` — Write a specific scene within Chapter 9
+- `/forge-write 9 sim "Nate" "how does he react when the room turns lethal?"` — **Character-Sim discovery mode** (pre-draft; interrogate a character in-voice to find the beat — never ships as prose). See the Character-Sim section below.
 - `/forge-write continue` — Resume from last session (reads SESSIONS.md top entry)
 
 Arguments are passed via `$ARGUMENTS`. Parse the chapter number, optional beat range, and optional scene description.
@@ -133,6 +134,8 @@ I will not invent structure to fill these. How would you like to proceed?
 - If resuming mid-chapter, load the last 200 words of already-drafted content in the current chapter
 - Load **beat summaries** (not full prose) for completed beats in the current chapter
 - **Read the recorded timeline** — `python kit/timeline/timeline.py events --chapter <NN-1>` (widen the range for older callbacks) — to see the in-world events already on the record. This is the append-only continuity ground truth (`timeline.json`, Book layer); do not narrate anything that contradicts it
+- **Read the open promise ledger** — `python kit/ledger/ledger.py open --through <NN-1>` — to see which planted threads (foreshadows, mercies, Chekhov's guns, debts, posed mysteries, vows) are still unpaid, so the draft can honor or advance the ones this chapter is positioned to touch. This is `promises.json` (Book layer, the "Mercy Engine"); reveal-kind threads also live in `revelation-schedule.json` (Step 8)
+- **Only if this chapter opens on a "previously on" beat:** generate the recap source pack — `python kit/recap/recap.py --chapter <range> --format md` — which merges the recorded events, open threads, and what Nate learned across that range into one pack. It emits **source material, not prose**; write the recap itself in Storyteller-omniscient (Hiberno) voice from it
 
 ### Step 6 — Load Codex Entities
 
@@ -166,7 +169,7 @@ Read `c:/Workbench/dev/forge-novel/epistemic-states.json` (or via git-forge `rea
 
 Also read `c:/Workbench/dev/forge-novel/revelation-schedule.json`. Check if the target chapter appears in any revelation's `hint_chapters` or `full_reveal_chapter` — if so, that revelation MUST be advanced in this draft.
 
-**After drafting:** Update `epistemic-states.json` with `learned_this_chapter` for the new chapter. Update revelation statuses if any were advanced. **Append** the chapter's new in-world events to `timeline.json` (append-only — ids `ev-chNN-NN`, in chapter order; never edit a sealed event, supersede it) and run `python kit/timeline/timeline.py check` to confirm no [BREACH].
+**After drafting:** Update `epistemic-states.json` with `learned_this_chapter` for the new chapter. Update revelation statuses if any were advanced. **Append** the chapter's new in-world events to `timeline.json` (append-only — ids `ev-chNN-NN`, in chapter order; never edit a sealed event, supersede it) and run `python kit/timeline/timeline.py check` to confirm no [BREACH]. **Update the promise ledger** (`promises.json`): mark any promise this chapter paid off (`status: "paid"`, `paid_chapter`, `payoff`) and append any new promise the chapter plants (a mercy, a Chekhov's gun, a vow, a posed mystery) as `open`; run `python kit/ledger/ledger.py check --through <NN>` to confirm it is valid. (The deeper unpaid-thread sweep is editors-hat Pass 2 — this is just keeping the ledger current as you draft.)
 
 ### Step 9 — Check Progress
 
@@ -186,6 +189,48 @@ Before writing, present to David:
 4. **Lens balance** — Proposed four-lens distribution for this section (no lens >40%)
 
 **Wait for David's answers before drafting.**
+
+---
+
+## Character-Sim Discovery Mode (optional, pre-draft)
+
+A **discovery tool, not a drafting mode.** Before a hard beat — one where you're
+unsure how a character would *actually* react, where a relationship dynamic needs
+testing, or where a motivation has to be nailed before prose can land — you can
+interrogate the character in-voice for a few turns to find the beat. The output
+is discovery scaffolding that informs the draft; **it never ships as prose.**
+
+Invoke with `/forge-write <ch> sim "<Character>" "<situation or question>"`.
+
+**Protocol:**
+
+1. **Load the character truthfully.** Read their sheet from `characters/`, their
+   section of `voice/exemplars.md`, and — critically — the **epistemic entry for
+   this chapter boundary** (`after_ch{NN-1}` in `epistemic-states.json`). The sim
+   is only useful if the character knows exactly what they'd know at this point
+   and no more. For Flint, also load what he `withholds_through_chNN`.
+2. **Role-play in-voice for a few turns.** Put the situation to the character and
+   answer **as them** — their voice (Comedy Dial, register, diction), their
+   knowledge ceiling, their values. Honor every prose constraint *inside the
+   sim*: POV epistemic limits, the Narnia Principle (faith shows in what they
+   *do*, never in stated theology), the voice rules. David can push back, add
+   pressure, or redirect. A handful of exchanges — enough to discover the
+   reaction, not to write the scene.
+3. **Distill, then stop.** Extract what the sim revealed — how they'd react, what
+   they'd actually say, where the real tension sits, which beat is false — into a
+   short set of discovery notes. Those notes feed the normal drafting protocol;
+   the chapter is still drafted through Steps 4-9.
+
+**Hard rules:**
+
+- **Sim output is never chapter prose.** It is interrogation, not narration —
+  don't paste sim dialogue into a draft. Re-write the beat through the full
+  protocol using what you learned.
+- **No future-knowledge leak.** A simmed character cannot know what their
+  epistemic entry says they don't know. If the sim drifts into knowledge they
+  shouldn't have, that drift is itself a finding — stop and re-anchor.
+- **Bounded.** A few turns, then draft. The sim is a scalpel for one beat, not a
+  parallel manuscript.
 
 ---
 

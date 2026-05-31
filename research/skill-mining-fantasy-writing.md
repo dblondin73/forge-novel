@@ -587,6 +587,24 @@ David-steers-Claude-drafts setup.
   validation. Plan: `g8-timeline-plan.md`.
 - **G9 · Character-sim discovery mode** (P15); **promise/payoff ledger** (P8);
   **recap generation** (ledger idea #3).
+  **BUILT 2026-05-31:** three deliverables. (a) `kit/ledger/ledger.py` (Standards,
+  the "Mercy Engine") — validate + overdue-thread sweep + surface
+  planted-but-unpaid threads across 8 kinds (foreshadow/chekhov/mercy/debt/threat/
+  question/vow/reveal); **mutable state, no git seal** (the revelation-schedule
+  analog, deliberately NOT append-only like the timeline), binding-driven
+  (CLI > `paths.promises` > built-in). Book-layer `promises.json` seeded **only**
+  from `revelation-schedule.json` (7 reveal-kind promises), no invention; the two
+  stores stay complementary (schedule drives "advance now," ledger drives "is it
+  paid"). Overdue is frontier-gated (`--through N`) and WARN-not-block (7-book
+  series holds promises across volumes). (b) `kit/recap/recap.py` (Standards) — a
+  prose-free "Previously On" source-pack aggregator merging timeline + ledger +
+  epistemic for a chapter range; no binding key of its own; graceful on missing
+  sources. (c) Character-sim discovery mode — a `forge-write` sub-mode
+  (`/forge-write <ch> sim "<Character>" "<situation>"`) that role-plays a Codex
+  character in-voice (sheet + exemplar + epistemic entry, no future-knowledge
+  leak) to find a hard beat; discovery only, never ships as prose. Wired into
+  editors-hat Pass 2 (open-thread sweep + ledger update) and forge-write Step 5/8.
+  Plan: `g9-ledger-plan.md`.
 
 ### Explicitly NOT pursuing
 - Generic worldbuilding scaffolds (we're past them — REFERENCE.md + 153 Codex

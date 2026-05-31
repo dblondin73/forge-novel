@@ -66,7 +66,7 @@ Take these instructions and the skills literally — apply each rule exactly as 
 | `research/` | worldbuilding & design docs (`old-versions/` is archived) |
 | `characters/` | nate-hall, flint, josie-pickett, sonja-lee |
 | `voice/exemplars.md` | curated gold-standard voice bank |
-| `kit/` | **Standards layer** — portable, genre-agnostic craft tools (`prose_lint`, perplexity, `preflight`, `timeline`) + methods. Bound to this novel via `kit.config.json`. See `kit/LAYERS.md` |
+| `kit/` | **Standards layer** — portable, genre-agnostic craft tools (`prose_lint`, perplexity, `preflight`, `timeline`, `ledger`, `recap`) + methods. Bound to this novel via `kit.config.json`. See `kit/LAYERS.md` |
 | `tools/` | forge-specific Workflows (chronicler Codex, editorial fan-out) — Novel-layer orchestration |
 | `reports/` | dated editorial / lint audit output |
 | `.claude/skills/` | `forge-write`, `editors-hat` (versioned with the prose) |
@@ -75,6 +75,7 @@ Take these instructions and the skills literally — apply each rule exactly as 
 | `kit.config.json` | binds the kit's portable tools to this novel's files (POV character, state paths) |
 | `epistemic-states.json` `revelation-schedule.json` `prose_lint_config.json` | knowledge & reveal tracking; per-chapter lint flags |
 | `timeline.json` | append-only in-world event log (Book layer); continuity ground truth — never edit a sealed event, append a superseding one (`kit/timeline/timeline.py`) |
+| `promises.json` | promise/payoff ledger (Book layer, "Mercy Engine") — every planted foreshadow/Chekhov's-gun/mercy/vow/reveal + its payoff slot; mutable state, swept for unpaid threads in editors-hat Pass 2 (`kit/ledger/ledger.py`) |
 
 ## Git
 
