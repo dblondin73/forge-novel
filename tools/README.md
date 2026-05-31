@@ -123,3 +123,54 @@ distinctive prose (free continuation never aligns with the next sentence), so it
 was replaced by teacher forcing. Two Ollama constraints shape the design: no
 prompt/echo logprobs, and `raw: true` is required or instruct models *comment on*
 the prose ("What a beautiful passage!") instead of continuing it.
+
+---
+
+## forge_preflight — outline-is-law pre-flight gate (G5)
+
+`forge_preflight.py` is the **front-end** mirror of `check-proper-nouns.py`'s
+back-end catch. Where that hook flags *unflagged inventions after* a draft is
+written, this verifies — **before** any prose — that the repo-local context a
+chapter's beats need is actually present (P2 outline-is-law, P3 minimal context).
+**Stdlib-only, deterministic, zero LLM tokens. Reports PASS / HALT; it never
+drafts, never fills a gap, never edits.** Invoked by `/forge-write` Step 4.
+
+```bash
+python tools/forge_preflight.py --chapter 9
+python tools/forge_preflight.py --chapter 9 --beats 3-5 \
+    --characters "Nate,Flint,Josie" --entities "Briarknight,Meat Grinder"
+python tools/forge_preflight.py --chapter 9 --fail-on warn   # escalate WARN to exit 3
+```
+
+### What it checks (repo-local only)
+
+| Check | Source | Severity if missing |
+|---|---|---|
+| prior-chapter epistemic entry (`after_ch{N-1}`) | `epistemic-states.json` | **HALT** |
+| this chapter's scheduled reveals (must-advance) | `revelation-schedule.json` | INFO (never blocks) |
+| character sheet per named character | `characters/*.md` | **HALT** (or WARN if Codex-only) |
+| named entity resolves to Codex cache | `.forge-known-entities.json` | WARN |
+
+### The forge-side half is deliberately NOT here
+
+The chapter **outline/beats live only in forge-mcp**, so that check (do the beats
+exist and are they unwritten?) stays agent-side — `forge_outline_beats`, or the
+SSH fallback the skill documents. The report says plainly that the outline half
+is agent-side, so a PASS never over-claims. The four checks above are everything
+that is locally, deterministically verifiable.
+
+### Exit codes & gating
+
+Governed by `--fail-on` (default `halt`): `halt` → exit `3` only on a HALT;
+`warn` → exit `3` on HALT-or-WARN; `never` → always `0`. A `[WARN]` (Codex-only
+character, uncached entity) does not stop a draft — it folds into the skill's
+Pre-Draft Questions. Only a `[HALT]` (missing epistemic entry, undefined
+character, missing beats) stops it cold.
+
+### Flags
+
+`--chapter N` (required), `--beats` (informational), `--characters "A,B"`
+(cast for the beats), `--entities "A,B"` (named entities to resolve),
+`--repo PATH` (default: parent of `tools/`), `--fail-on {halt,warn,never}`.
+The cast/entity lists come from the beats — the agent derives them in Step 4b
+(the minimal-context set) and passes them in.

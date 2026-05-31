@@ -539,9 +539,20 @@ David-steers-Claude-drafts setup.
 
 ### Tier 2 — strong, do after Tier 1
 - **G4 · Voice fingerprints from exemplars** (P14). `voice/fingerprints/<voice>.json`
-  that forge-write targets and prose_lint scores against.
+  that forge-write targets and prose_lint scores against. **BLOCKED 2026-05-31:**
+  `voice/exemplars.md` is still an empty scaffold (every section reads "curate
+  here"), so "from exemplars" has no source. Two unblock paths: David curates the
+  bank first, or G4 fingerprints from the locked/edited chapters (Ch4 locked,
+  Ch1-3 edited) instead. Deferred for that decision.
 - **G5 · Outline-is-law pre-flight** (P2 + P3). forge-write halts-and-asks on
   missing context instead of inventing; minimal current-beat context load.
+  **BUILT 2026-05-31 (MVP):** `tools/forge_preflight.py` (stdlib-only, zero-token:
+  prior-epistemic / scheduled-reveals / character-sheet / entity-cache checks,
+  `--fail-on` exit policy) + a hardened **Step 4 Pre-Flight Gate** in
+  `forge-write/SKILL.md` (derive minimal set → check → `⛔ PRE-FLIGHT HALT` + STOP).
+  Repo-local half is deterministic; the outline-beats half stays agent-side
+  (`forge_outline_beats`). Validated on Ch01/05/09. Plan:
+  `g5-outline-preflight-plan.md`.
 - **G6 · LitRPG-conventions reference** (P9). Distill the reader-expectation
   contract from the 17-book bank into a checkable reference.
 

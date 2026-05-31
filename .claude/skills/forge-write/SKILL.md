@@ -14,7 +14,7 @@ Read this skill as a contract, not a suggestion. Apply every rule exactly as wri
 
 - **Literalness.** Apply every rule in this file exactly as written. Do not infer a broad rule from a narrow one, do not relax a rule because it seems to conflict with another. When two rules genuinely collide, the master tiebreaker is **audiobook is the primary medium** (see `WRITING_RULES.md`).
 - **Scope.** Your output is *narrative prose for the requested beats only* — not an outline, not a summary, not a recap of what you wrote or why. Draft the beats, collect the `[INVENTED]` table, stop.
-- **Don't infer missing context.** If a beat, character sheet, or Codex entity is missing, stop and raise it as a pre-draft question (see Error Handling). Never invent structure to paper over a gap.
+- **Don't infer missing context.** If a beat, character sheet, or Codex entity is missing, stop and raise it as a pre-draft question. This is enforced mechanically by the **Step 4 Pre-Flight Gate** (`tools/forge_preflight.py` + the outline-beats check) — a HALT there stops the draft cold. Never invent structure to paper over a gap.
 - **Effort.** Draft at high effort.
 
 ## Usage
@@ -77,11 +77,53 @@ When in fallback mode, read files directly from the local forge-novel repo at `c
 - Read `SESSIONS.md` — via git-forge `read_file("SESSIONS.md")` or locally at `c:/Workbench/dev/forge-novel/SESSIONS.md` — **top entry only** (last session)
 - If invoked with `continue`, parse the last session entry for the next unwritten beat
 
-### Step 4 — Load Outline Beats
+### Step 4 — Pre-Flight Gate (outline-is-law + minimal context)
 
-- Call `forge_outline_beats` (or fallback: `forge_db_query.py beats <ch>`) for the target chapter
-- Identify which beats are `planned` or `outlined` (unwritten) vs. `drafted`/`revised`/`complete`
-- If specific beats requested, filter to those
+This is a **hard gate, not a warning.** Produce the PASS/HALT result below
+**before** loading deep context (Steps 5-8) or writing a single line. The skill's
+"don't infer missing context" contract is only real if this gate runs every time.
+
+**4a — Load + verify beats (outline is law).**
+
+- Call `forge_outline_beats` (or fallback: `forge_db_query.py beats <ch>`) for the target chapter.
+- Identify which beats are `planned`/`outlined` (unwritten) vs. `drafted`/`revised`/`complete`. If specific beats were requested, filter to those.
+- If the target chapter has **no beats**, or the requested beats don't exist: **HALT.** Do not invent beat structure (see Error Handling).
+
+**4b — Derive the required-context set (minimal load).**
+
+From the target beats, enumerate *only* what they actually need:
+
+- the **cast** — characters who speak or act in these beats;
+- the **named entities** — locations, items, creatures, factions, mechanics the beats reference;
+- the **prior epistemic entry** (`after_ch{NN-1}`);
+- the **HUD phase** for this chapter;
+- any **scheduled reveals** for this chapter.
+
+This derived set is *also the load set* for Steps 5-8 — never bulk-load the Codex or whole prior chapters.
+
+**4c — Run the deterministic repo-local check** (zero tokens):
+
+```
+python tools/forge_preflight.py --chapter NN [--beats 3-5] --characters "Nate,Flint,..." --entities "Briarknight,..."
+```
+
+It verifies the prior epistemic entry exists, enumerates the chapter's must-advance reveals, confirms each character has a sheet (or flags Codex-only), and resolves named entities against the Codex cache. Exit `3` = a HALT-level gap. (It checks the **repo-local** half; the outline-beats half is 4a, agent-side.)
+
+**4d — Halt or proceed.**
+
+- If `forge_preflight.py` reports any **[HALT]**, or 4a found missing beats, or a beat names a character/entity with no sheet *and* no Codex entry → emit the **PRE-FLIGHT HALT** block below, each gap as a specific question, and **STOP. Do not draft.**
+- **[WARN]** lines (Codex-only character, uncached entity) do not stop the draft, but each must be carried into Pre-Draft Questions and flagged in the `[INVENTED]` table if it becomes new canon.
+- All-clear → proceed to Step 5, loading exactly the derived set.
+
+**PRE-FLIGHT HALT format** (emit verbatim, then stop):
+
+```
+⛔ PRE-FLIGHT HALT — Chapter NN cannot be drafted yet.
+Missing required context:
+  - <gap 1, phrased as a question David can answer>
+  - <gap 2 ...>
+I will not invent structure to fill these. How would you like to proceed?
+```
 
 ### Step 5 — Load Continuity Context
 
@@ -133,11 +175,13 @@ Call `forge_outline_progress` to confirm current state and verify beat statuses 
 
 ## Pre-Draft Questions
 
+Reached only after the **Step 4 Pre-Flight Gate** passes (a HALT supersedes this
+section — resolve it first). Fold every gate **[WARN]** into the list below.
 Before writing, present to David:
 
 1. **Open creative questions** — Any decisions needed for the target beats (flagged in outline, open questions in character sheets)
 2. **Session scope** — Which beats this session will cover, estimated word count
-3. **Missing entities** — Any Codex entries that are stubs or missing for the target content
+3. **Missing entities** — Any Codex entries that are stubs or missing for the target content (incl. every gate `[WARN]`: Codex-only characters, uncached entities)
 4. **Lens balance** — Proposed four-lens distribution for this section (no lens >40%)
 
 **Wait for David's answers before drafting.**
