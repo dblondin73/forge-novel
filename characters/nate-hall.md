@@ -161,9 +161,9 @@ WIS is primary stat — drives perception, discernment, System resistance. Grows
 - **Mixed geometry:** Hard angles + organic curves. System UI is rigid boxes. Nate's has curves because its source is organic.
 
 **Evolution (Beta Build → Catches Up → Surpasses):**
-1. Phase 1A BOOT (Ch3) — monochrome green, faint. Two curved bars: health/stamina. DOS prompt vs. everyone's polished blue panels.
+1. Phase 1A BOOT (Ch3) — monochrome blue, faint. Two curved bars: health/stamina. DOS prompt vs. everyone's polished blue panels.
 2. Phase 1B CRAFT OVERLAY (Ch4) — SA wireframe overlay on focused objects. Structural data, stress points. Diagnostic, not combat.
-3. Phase 1C THREAT AWARENESS (Ch5-6) — peripheral green brightens toward threats. First accidental toggle during crafting (Ch6).
+3. Phase 1C THREAT AWARENESS (Ch5-6) — peripheral blue brightens toward threats. First accidental toggle during crafting (Ch6).
 4. Phase 1D TARGETING (Ch7-8) — focal reticle on aim. Flint starts pushing data to display. Semi-intentional toggle control.
 5. Phase 2A COLOR (Ch9-11) — amber threats, blue-green environmental. Flint co-pilots display. Intentional toggle. THE CROSSOVER: HUD surpasses blue panels.
 6. Phase 2B TACTICAL (Ch11-15) — full color. THE STRINGS. Divine gold. Concentric targeting. Custom engineering workstation.

@@ -124,7 +124,7 @@ The book is cast like an audiobook. Every voice is a named performer, not a regi
 
 - **All System interfaces are internal / per-user private.** No visible glow. External tell: faint blue glint behind the eyes.
 - **System Dual Interface** (Codex #95): Blue screen = character sheet (rest/menu, blocks vision). Separate combat HUD. Nate has NO character sheet — his info is felt through his HUD (blue wireframe, iris-compass form).
-- **HUD Phase System** (Codex #11, #75): Phase 1 = two monochrome green arcs, barely functional. Phase 2 features do NOT appear casually on Phase 1 hardware — Flint flags anomalies.
+- **HUD Phase System** (Codex #11, #75): Phase 1 = two monochrome blue arcs, barely functional. Phase 2 features do NOT appear casually on Phase 1 hardware — Flint flags anomalies.
 - **System terms:** Bold ONLY as proper nouns (naming the thing). Lowercase/plain for group or action usage.
 
 ### Magic Visibility

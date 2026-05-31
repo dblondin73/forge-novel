@@ -9,7 +9,7 @@
 
 SA is Nate's first glitched skill. The System designed it to show players what IT wants them to see — item stats, quality ratings, System-approved data. Nate's version, warped by the occupied space during his partial 40% installation, shows him what is ACTUALLY THERE.
 
-When SA fires, it's not a dramatic visual transformation. It's subtle — like putting on reading glasses and noticing fine print that was always there. The HUD flickers, the two faint green arcs pulse once, and whatever Nate is looking at becomes *legible.* He sees:
+When SA fires, it's not a dramatic visual transformation. It's subtle — like putting on reading glasses and noticing fine print that was always there. The HUD flickers, the two faint blue arcs pulse once, and whatever Nate is looking at becomes *legible.* He sees:
 
 - **Material composition** — what something is made of at the structural level. Grain direction in wood. Crystalline structure in metal. Whether something is solid, hollow, composite, or generated filler.
 - **Structural integrity** — where the stress points are, where something is load-bearing vs decorative, where it will fail under force. The weak weld. The thin spine. The crack that hasn't happened yet but will.
@@ -33,7 +33,7 @@ Fifty people in chaos. Screaming, crying, a man pounding on the wall looking for
 
 Eight weapon racks line the walls. Maybe a hundred pieces of gear. Swords, shields, axes, staves, bows, crossbows, daggers, maces. Leather armor, robes, chain shirts. All of it has the too-clean look of things that were generated, not made.
 
-Nate is standing in the middle of the room. Still shaking off Integration. Rex pressed against his left leg. HUD — two faint green arcs, barely visible, like parentheses made of light — flickering at the periphery. Flint running commentary Nate is only half hearing.
+Nate is standing in the middle of the room. Still shaking off Integration. Rex pressed against his left leg. HUD — two faint blue arcs, barely visible, like parentheses made of light — flickering at the periphery. Flint running commentary Nate is only half hearing.
 
 Then he looks at the weapon racks. SA activates.
 
@@ -43,7 +43,7 @@ Then he looks at the weapon racks. SA activates.
 
 Everyone else sees swords. Nate sees materials.
 
-His vision shifts — not dramatically, not a special effect. Like focusing on a reflection in glass and suddenly seeing what was behind it all along. The green arcs pulse. The weapons become legible.
+His vision shifts — not dramatically, not a special effect. Like focusing on a reflection in glass and suddenly seeing what was behind it all along. The blue arcs pulse. The weapons become legible.
 
 **The swords:** Pretty. Polished. Blades catch the torchlight and look heroic. SA reads them as thin-gauge steel with a decorative finish over a hollow core. The edge is real — sharp enough to cut — but the spine is half the thickness it should be. Three solid impacts against armor and the blade deforms. Five and it snaps. The crossguards are cast alloy, not forged — they'll crack at the weld under side-load. The handle wraps are uniform synthetic — no grain, no variation. Not real leather. A rendering of leather that has never been near an animal.
 

@@ -334,7 +334,7 @@ Lighter overlay for active use.
 
 **Prose rule:** When describing System users in combat, reference their **combat HUD** — not the blue screen. The blue screen / character sheet appears only during rest scenes, level-up moments, or build review. A master craftsman does not check a manual before cutting wood. He knows the grain by touch.
 
-**HUD phase system (Codex #11, #75):** Nate's HUD starts as two monochrome green arcs. Phase 2 features do NOT appear casually on Phase 1 hardware — if they do, Flint flags the anomaly.
+**HUD phase system (Codex #11, #75):** Nate's HUD starts as two monochrome blue arcs. Phase 2 features do NOT appear casually on Phase 1 hardware — if they do, Flint flags the anomaly.
 
 ---
 

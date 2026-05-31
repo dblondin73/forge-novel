@@ -1,0 +1,101 @@
+{
+  "_schema": "LitRPG progression ledger (the G2 'progression-state' file). One record per mechanical reveal/gain/use per character per chapter — HUD/loadout, stats, class, skills, abilities, and progression beats. Populated by the chronicler (tools/chronicler_codex.workflow.js) and confirmed by David; the narrative-state companion to the forge Codex (canon entities), timeline.json (events), and promises.json (payoff ledger).",
+  "_note": "Created 2026-05-31 from the G2 Chronicler Ch03 run (reports/ch03-chronicler-2026-05-31.md, Appendix A). 10 confirmed events across Nate/Flint/Rex/Judge. The Ch03 HUD-color drift (Codex said green, prose said blue) was RESOLVED this session: blue confirmed canon, Codex #11/#75/#1 corrected green→blue. Merge future chapters append-style under each character's by_chapter map.",
+  "book": 1,
+  "characters": {
+    "Nate": {
+      "by_chapter": {
+        "ch03": [
+          {
+            "kind": "loadout",
+            "name": "HUD — two blue monochrome arcs (Basic phase)",
+            "change": "revealed",
+            "detail": "Exactly two curved BLUE monochrome bars at lower periphery: longer=Health, shorter=Stamina. No numbers/class sheet/inventory/map/quest log/compass/skill tree. Flint: 'You got two blue lines and me.' (Codex #11/#75/#1 corrected green→blue 2026-05-31 to match prose across Ch02 and Ch03.)",
+            "evidence": "L121-129, 29"
+          },
+          {
+            "kind": "stat",
+            "name": "Health",
+            "change": "revealed",
+            "detail": "Longer arc; Flint estimates ~90% from bar length only (no numeric readout). Maps to lingering headache; 'something in your framework is still recalibrating.'",
+            "evidence": "L129"
+          },
+          {
+            "kind": "stat",
+            "name": "Stamina",
+            "change": "revealed",
+            "detail": "Shorter arc; Flint estimates ~80% from bar length only. No numeric value.",
+            "evidence": "L129"
+          },
+          {
+            "kind": "class",
+            "name": "[PROCESSING]",
+            "change": "revealed",
+            "detail": "Class slot reads [PROCESSING] — System hasn't classified him or 'tried and choked.' Unassigned at chapter end. Engineer (#98) canon but NOT surfaced in-world (epistemic gate; after_ch03 lists Engineer under doesnt_know).",
+            "evidence": "L129"
+          },
+          {
+            "kind": "skill",
+            "name": "Structural Analysis",
+            "change": "gained",
+            "detail": "One pre-loaded skill, Rank 1 Low. Verbatim: 'Reveals material type, quality grade, and durability of targeted objects. Passive scan, focus-activated.' Un-amplified floor — no load-path/failure-mode (Bezalel ceiling inactive). Matches #97/#109.",
+            "evidence": "L135"
+          },
+          {
+            "kind": "ability",
+            "name": "Structural Analysis — focus-activated scan (first use)",
+            "change": "used",
+            "detail": "Focuses on F-250 hood; tooltip resolves: '[Structural Analysis — Target: Ford F-250, steel frame. Material: low-carbon steel. Quality: Common. Durability: 72%.]' Exactly three fields, then nothing. Flat bottom-of-vision tooltip.",
+            "evidence": "L149-155"
+          },
+          {
+            "kind": "other",
+            "name": "Tutorial Phase — entry",
+            "change": "used",
+            "detail": "Planet-wide 'TUTORIAL PHASE — COMMENCING' broadcast (HUD + bone-deep air pressure), 60-sec countdown. At zero blue arcs flare white; Nate + Rex + Judge pulled from pasture into instanced Tutorial. Hands deliberately empty — no weapons/inventory carried. Ford left idling, door open. Unnamed warm presence pulses once before the pull.",
+            "evidence": "L329-339, 381, 401-413"
+          }
+        ]
+      }
+    },
+    "Flint": {
+      "by_chapter": {
+        "ch03": [
+          {
+            "kind": "other",
+            "name": "Companion online — F.L.I.N.T. (Field Logic Interface, Network Tethered)",
+            "change": "revealed",
+            "detail": "MSG-standard companion, Spirit-rewritten pre-boot (source not self-known). Outbound reporting severed, inbound one-way, personality matrix flagged unauthorized, directive stack scrambled, loyalty re-pointed to Nate. Bidirectional link active from first contact. Names self on-page (reveal locked Ch3 per #70). Detects unnamed larger/older unclassified subsystem without diagnosing it.",
+            "evidence": "L89-101, 129, 181-201"
+          }
+        ]
+      }
+    },
+    "Rex": {
+      "by_chapter": {
+        "ch03": [
+          {
+            "kind": "other",
+            "name": "Tutorial entry — transported via companion bond",
+            "change": "revealed",
+            "detail": "Border Collie. Two-way-link tell: head-snaps toward Nate, searches empty pasture for Flint's voice (L59). At countdown jumps from truck bed on own decision (no whistle), sets shoulder-to-shin at Nate's LEFT leg; bond transmits heat/'With you.' Pulled into instanced Tutorial alongside Nate (#88). No mechanical stats/skills revealed.",
+            "evidence": "L59-60, 371, 395, 403-408"
+          }
+        ]
+      }
+    },
+    "Judge": {
+      "by_chapter": {
+        "ch03": [
+          {
+            "kind": "other",
+            "name": "Tutorial entry — transported via companion bond",
+            "change": "revealed",
+            "detail": "Blue Heeler. During recovery holds PERIMETER (orbiting ~10 ft, ears rotating, sharp exhale at tree line each third pass), contrast with Rex. At broadcast barks twice at the sky 'sharp as a gavel strike' (established gavel motif). At countdown plants at Nate's RIGHT leg, perfectly still for first time all morning; pulled in alongside (#88). No mechanical stats/skills revealed.",
+            "evidence": "L21, 331, 396-398, 403-408"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -120,10 +120,10 @@ Josie Pickett's class. Support — identifies items and materials. Material iden
 ## Interface & HUD
 
 **HUD Interface System** — Codex #11
-Fighter-pilot HUD, not blue screen. During Integration, Nate briefly receives the standard blue interface (5 sec) before it degrades to two monochrome green arcs (Phase 1 Basic). All screens internal only. Four phases: Basic → Tactical → Analytical → Architectural.
+Fighter-pilot HUD, not blue screen. During Integration, Nate briefly receives the standard blue interface (5 sec) before it degrades to two monochrome blue arcs (Phase 1 Basic). All screens internal only. Four phases: Basic → Tactical → Analytical → Architectural.
 
 **HUD Visual Design and Prose Format** — Codex #75
-Mixed geometry: hard angles (triangles, targeting shapes) combined with rounded elements (arcs, compass-rose circles). System UI is rigid boxes; Nate's HUD has organic curves because its source is organic. Phase 1: monochrome green, health/stamina only. Phase 2 (Ch9+): green base, amber threats, blue-green environmental, gold divine architecture. Phase 3 (Books 3-4): structural analysis overlay, dense data panels. Phase 4 (Books 5-7): full dual-layer vision, System + divine simultaneously. Prose rule: HUD data described experientially, not as readout.
+Mixed geometry: hard angles (triangles, targeting shapes) combined with rounded elements (arcs, compass-rose circles). System UI is rigid boxes; Nate's HUD has organic curves because its source is organic. Phase 1: monochrome blue, health/stamina only. Phase 2 (Ch9+): blue base, amber threats, blue-green environmental, gold divine architecture. Phase 3 (Books 3-4): structural analysis overlay, dense data panels. Phase 4 (Books 5-7): full dual-layer vision, System + divine simultaneously. Prose rule: HUD data described experientially, not as readout. *(Base HUD color corrected green→blue 2026-05-31 to match prose + Codex #594; the Phase 2-4 added palette — amber/blue-green/gold — is pending a design review for blue-base collisions.)*
 
 **System Dual Interface** — Codex #95
 Blue screen redesigned as **character sheet only** — a rest/menu screen that blocks vision when open (like Skyrim inventory). System users also get a separate **combat HUD** for active use. Starts better than Nate's but never evolves. Nate has NO character sheet — his info is felt and interacted with mentally through his HUD.

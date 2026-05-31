@@ -19,7 +19,7 @@ Generation-oriented rules for drafting prose. For editorial review rules, see `/
 | **Deeper detail / context** | **Flint** elaborates | Flint adds analysis, history, tactical context beyond what the HUD shows |
 | **System readouts** | **Flint** picks up via their shared network | Only when it makes sense for Flint to intercept — Flint is NOT omniscient |
 | **Other players' info** | **Storyteller** (omniscient re: blue screens) OR the player tells Nate directly in conversation | Nate can't see other people's screens. Storyteller can. Players can share voluntarily |
-| **Nate's own green arcs / SA readings** | Nate perceives directly | These are his interface — no routing needed |
+| **Nate's own blue arcs / SA readings** | Nate perceives directly | These are his interface — no routing needed |
 
 **Key constraints:**
 - Flint has access to System data through the network he and Nate share, but he has LIMITS — he doesn't know everything
@@ -56,10 +56,10 @@ Nate perceives through four lenses. No single lens dominates >40% of any chapter
 
 | Phase | Chapters | Features | Color |
 |-------|----------|----------|-------|
-| 1A Boot | Ch3 | Two curved bars (health/stamina), monochrome, faint | Green |
-| 1B Craft | Ch4 | + SA wireframe overlay on focused objects, stress points | Green |
-| 1C Threat | Ch5-6 | + Peripheral green brightens toward threats, first accidental toggle | Green |
-| 1D Targeting | Ch7-8 | + Focal reticle on aim, Flint pushes data to display, semi-intentional toggle | Green |
+| 1A Boot | Ch3 | Two curved bars (health/stamina), monochrome, faint | Blue |
+| 1B Craft | Ch4 | + SA wireframe overlay on focused objects, stress points | Blue |
+| 1C Threat | Ch5-6 | + Peripheral blue brightens toward threats, first accidental toggle | Blue |
+| 1D Targeting | Ch7-8 | + Focal reticle on aim, Flint pushes data to display, semi-intentional toggle | Blue |
 | 2A Color | Ch9-11 | + Amber threats, blue-green environmental, Flint co-pilots, intentional toggle | Multi |
 | 2B Tactical | Ch12-15 | + Full color, THE STRINGS, divine gold, concentric targeting, engineering workstation | Full |
 

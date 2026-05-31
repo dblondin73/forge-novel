@@ -96,7 +96,7 @@ The Storyteller's **omniscient register** is written in Hiberno-English on the p
 - Nate can only narrate what he physically sees, hears, feels, smells
 - System data (stats, ranks, screen text) must be routed through **Flint** dialogue or the **Storyteller** reading screens
 - Show effects, not UI: "her hands are dimming" not "she's at sixty percent mana"
-- Exception: Nate's own green arcs and SA readings (these are his interface)
+- Exception: Nate's own blue arcs and SA readings (these are his interface)
 - Memory: `feedback_pov_discipline.md`
 
 ### Faith — Show Don't Tell (Narnia Model)

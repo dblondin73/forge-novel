@@ -60,11 +60,11 @@
           "Flint has network access to System data",
           "Sonja, Marcus, or Josie exist",
           "The Tutorial's full 10-room structure",
-          "His class designation (Engineer)"
+          "His class designation (Engineer)",
+          "The source of Flint's rewrite — that it's divine (full reveal Ch18)"
         ],
         "falsely_believes": [
-          "The System is a neutral tool helping him survive",
-          "Flint is fully loyal to him (Flint serves the System first)"
+          "The System is a neutral tool helping him survive"
         ],
         "learned_this_chapter": [
           "Flint exists and has a name",
@@ -84,7 +84,7 @@
           "System binding progression",
           "Other humans in the Tutorial",
           "His full stat block",
-          "Flint's dual loyalty"
+          "The source of Flint's rewrite (divine)"
         ],
         "falsely_believes": [
           "The System is neutral",
@@ -108,7 +108,7 @@
           "Other humans",
           "His class",
           "The Stag's purpose",
-          "Flint's System-first loyalty"
+          "The source of Flint's rewrite (divine)"
         ],
         "falsely_believes": [
           "The System is neutral",
@@ -132,11 +132,10 @@
           "Marcus Webb exists",
           "Sonja Lee exists",
           "The full party that will form",
-          "Flint's dual loyalty specifics"
+          "The source of Flint's rewrite (divine)"
         ],
         "falsely_believes": [
-          "The System is neutral",
-          "Flint is fully on his side"
+          "The System is neutral"
         ],
         "learned_this_chapter": [
           "Josie exists",
@@ -197,7 +196,6 @@
       "_note": "Flint knows far more than Nate — he has System network access. Track what he REVEALS vs what he WITHHOLDS.",
       "withholds_through_ch08": [
         "System binding is progressive (Stage 1-4)",
-        "His own dual loyalty (System-first, Nate-second)",
         "Nate's hidden stats and origin markers",
         "The full Tutorial structure before Nate reaches each room",
         "Other Tutorials running simultaneously",
@@ -214,7 +212,7 @@
       "_note": "Track dramatic irony — what the READER knows that Nate doesn't. Built through narrator hints and interludes.",
       "knows_that_nate_doesnt_by_ch08": [
         "The System is not neutral (narrator hints throughout)",
-        "Flint's loyalty is divided (narrator commentary)",
+        "Flint's rewrite has a divine source — narrator hints the severed loyalty was re-pointed by Something larger (Nate hasn't caught it; full reveal Ch18)",
         "The Integration is global, not local",
         "Other factions exist (interlude hints)"
       ]

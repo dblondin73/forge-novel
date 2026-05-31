@@ -38,7 +38,7 @@ Data FROM THE PERSPECTIVE OF LOOKING OUT THROUGH THE EYE. HUD is part of vision,
 
 | Element | Shape | Color | Source |
 |---------|-------|-------|--------|
-| Nate's HUD | Mixed hard angles + organic curves | Green, amber, blue-green | Conduit / divine |
+| Nate's HUD | Mixed hard angles + organic curves | Blue, amber, blue-green | Conduit / divine |
 | System UI | Rigid boxes, sharp edges only | Cold blue, white | Lucifer's overlay |
 | Divine architecture | Flowing curves, luminous lines | Warm gold | God's infrastructure |
 
@@ -48,11 +48,13 @@ Data FROM THE PERSPECTIVE OF LOOKING OUT THROUGH THE EYE. HUD is part of vision,
 
 | Color | Meaning | Phase |
 |-------|---------|-------|
-| Monochrome green | Base data (health, stamina, stats) | Phase 1+ |
+| Monochrome blue | Base data (health, stamina, stats) | Phase 1+ |
 | Amber/orange | Threat indicators, danger proximity | Phase 2+ |
 | Blue-green | Environmental data (terrain, water, structure) | Phase 2+ |
 | Cold white | System processes, rune strings | Phase 2+ |
 | Luminous gold | Divine architecture (weak-overlay zones) | Phase 2+ |
+
+> **Base color corrected green→blue (2026-05-31)** to match the prose (Ch02/Ch03) and Codex #594 ("Nate's HUD is blue wireframe"). Two design items left open for a follow-up pass: (1) the **Phase 2-4 added palette** (amber threats, blue-green environmental, cold white System, gold divine) hasn't been re-checked against a blue base — "blue-green environmental" now sits adjacent to the blue base; (2) Nate's blue HUD vs. the System's "cold blue/white" UI no longer differ by color — the distinction now rests on **geometry** (Nate = organic curves/arcs; System = rigid boxes), which #75 already encodes. Confirm both when the higher phases come into play.
 
 ---
 
@@ -73,36 +75,36 @@ The blue panels don't evolve. They were delivered finished. Nate's HUD is alive 
 | Ch15+ | Custom engineering workstation | Consumer product |
 
 ### Phase 1A — BOOT (Ch3, First Boot)
-- Monochrome green, faint, barely noticeable
+- Monochrome blue, faint, barely noticeable
 - Health and stamina only — two thin CURVED bars at lower periphery (arcs, not straight lines)
 - No numbers. Just length = percentage
 - Compared to the System's crisp blue panels everyone else gets, Nate's HUD looks like a DOS prompt next to Windows
 - Flint isn't fully online yet — HUD is running on its own
-- "A faint green shimmer, two curved lines like parentheses made of light."
+- "A faint blue shimmer, two curved lines like parentheses made of light."
 
 ### Phase 1B — CRAFT OVERLAY (Ch4, Room Zero)
 - Trigger: First SA use on weapon racks / crafting materials
 - Faint wireframe overlay ghosts onto objects Nate focuses on — structural data, stress points, material quality
-- Monochrome green, rough, flickery
+- Monochrome blue, rough, flickery
 - The engineer's HUD asserting itself. Everyone else got a weapon menu. Nate got X-ray vision for how things are built
 - Still no targeting, no threat data. Diagnostic tool, not combat tool
 
 ### Phase 1C — THREAT AWARENESS (Ch5-6, First Blood / Spike)
 - Trigger: Combat pressure. The HUD responds to adrenaline
-- Not targeting — subtle peripheral shift. Green at the edge of vision brightens in direction of incoming threats. Instinctive, not precise
+- Not targeting — subtle peripheral shift. Blue at the edge of vision brightens in direction of incoming threats. Instinctive, not precise
 - SA overlay gets cleaner with repeated use during crafting sessions
 - First ACCIDENTAL TOGGLE (Ch6): During a crafting session, Nate gets overwhelmed by wireframe data on multiple objects. He mentally pushes it away — it dims. Pulls it back — it returns. Surprised. Doesn't fully understand it yet
 
 ### Phase 1D — TARGETING (Ch7-8, Meat Grinder / Graduation)
 - Trigger: High-stakes combat in the final rooms
-- Basic focal reticle — when Nate aims (crossbow), concentric arcs tighten on his focal point. Still monochrome green. Not a full targeting system — the HUD confirming what he's already looking at
+- Basic focal reticle — when Nate aims (crossbow), concentric arcs tighten on his focal point. Still monochrome blue. Not a full targeting system — the HUD confirming what he's already looking at
 - Flint starts PUSHING DATA — creature classifications, mana estimates, warnings appear as brief text flashes at periphery in Flint's sardonic shorthand
 - Toggle control becomes semi-intentional — Nate can dim/brighten elements on purpose, though it still takes concentration
 - By Tutorial end: functional but still monochrome, still rougher than blue panels. But growing FASTER than anyone's blue screens
 
 ### Phase 2A — COLOR (Ch9-11, post-Tutorial)
 - Trigger: First time outside the Tutorial. Real world, real stakes
-- Color bleeds in: amber for threats first (most survival-critical data). Blue-green for environmental/terrain. Base stays green
+- Color bleeds in: amber for threats first (most survival-critical data). Blue-green for environmental/terrain. Base stays blue
 - Flint gains deliberate control — can highlight, suppress, prioritize what Nate sees. Shorthand develops ("Flint, clean it up" = strip to essentials)
 - Toggle is now intentional. Nate can run SA overlay, threat awareness, or minimal mode
 - THE CROSSOVER MOMENT (Ch10-11): Nate's HUD now displays MORE useful real-time data than blue panels. The beta build caught up. Reader recognizes it before Nate does
@@ -144,7 +146,7 @@ The HUD's prominence in prose FADES as the reader absorbs it:
 ## Prose Formatting Rules
 
 DO: Describe experientially.
-- "The curved green arc at his periphery had dropped to half."
+- "The curved blue arc at his periphery had dropped to half."
 - "Amber flared at the edge of his left eye — something from the tree line."
 - "Cold white threads ran from the rune on the blade, thin as spider silk."
 - "Concentric rings tightened as he focused, tick marks resolving into distance."
