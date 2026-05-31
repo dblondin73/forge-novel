@@ -23,7 +23,7 @@ export const meta = {
 // ---------------------------------------------------------------------------
 
 const SKILL = '.claude/skills/editors-hat/SKILL.md'
-const LINTER = 'c:/Workbench/dev/forge-novel/tools/prose_lint.py'
+const LINTER = 'c:/Workbench/dev/forge-novel/kit/prose_lint/prose_lint.py'
 
 const a = (typeof args === 'string') ? { file: args } : (args || {})
 const chapter = a.chapter || (a.file ? a.file : 'the target chapter')

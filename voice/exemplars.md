@@ -35,7 +35,7 @@ in below the section headers. Selection criteria for a gold-standard excerpt:
   the passage you would point a new collaborator to and say "sound like this."
 - It is **self-contained** — readable without the surrounding scene.
 - It carries **visible sentence-length variation** (burstiness) — not a uniform
-  block. Run a candidate through `tools/prose_lint.py` if unsure.
+  block. Run a candidate through `kit/prose_lint/prose_lint.py` if unsure.
 
 **Entry format** — label every excerpt so it can be re-synced:
 

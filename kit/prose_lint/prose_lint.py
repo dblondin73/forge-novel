@@ -29,20 +29,62 @@ from prose_lint_rules import DETECTORS, FAIL, INFO, WARN, Doc, Finding
 from prose_lint_segment import segment, split_sentences, word_count
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_CONFIG = SCRIPT_DIR / "prose_lint_config.json"
-DEFAULT_ANTI_SLOP = (
-    SCRIPT_DIR.parent / ".claude" / "skills" / "forge-write"
-    / "references" / "anti-slop.md"
-)
+BUILTIN_ANTI_SLOP = SCRIPT_DIR / "anti-slop-base.md"  # portable fallback list
+BINDING_FILENAME = "kit.config.json"
 _CHAPTER_FILE_RE = re.compile(r"ch\d+.*\.md$", re.I)
 _CHAPTER_ID_RE = re.compile(r"(ch\d+)", re.I)
 _EMDASH = "—"
 
 
+# --- kit binding discovery -------------------------------------------------
+# This is a Standards-layer tool: it knows nothing of forge-novel. The Novel
+# layer binds it to its own files via a repo-root kit.config.json that the tool
+# DISCOVERS (walking up from CWD, then from the script dir). Resolution order
+# for every path is: explicit CLI flag > kit.config.json binding > portable
+# built-in. Absent a binding, the tool runs standalone on its built-in defaults.
+
+
+def find_binding() -> Path | None:
+    """Locate kit.config.json by walking up from CWD, then from this script."""
+    seen: set[Path] = set()
+    for start in (Path.cwd(), SCRIPT_DIR):
+        for d in (start, *start.parents):
+            if d in seen:
+                continue
+            seen.add(d)
+            cand = d / BINDING_FILENAME
+            if cand.is_file():
+                return cand
+    return None
+
+
+def load_binding() -> tuple[dict, Path | None]:
+    """Return (paths-dict, binding-base-dir); ({}, None) when no binding found."""
+    binding = find_binding()
+    if binding is None:
+        return {}, None
+    try:
+        data = json.loads(binding.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}, None
+    return data.get("paths", {}), binding.parent
+
+
+def resolve_path(cli_value: Path | None, paths: dict, base: Path | None,
+                 key: str, fallback: Path | None) -> Path | None:
+    """CLI flag > kit.config.json binding > portable fallback."""
+    if cli_value is not None:
+        return cli_value
+    rel = paths.get(key)
+    if rel and base is not None:
+        return base / rel
+    return fallback
+
+
 # --- config + anti-slop loading -------------------------------------------
 
 
-def load_config(path: Path) -> dict:
+def load_config(path: Path | None) -> dict:
     """Load thresholds + per-chapter flags; fall back to built-in defaults."""
     builtin = {
         "defaults": {
@@ -59,7 +101,7 @@ def load_config(path: Path) -> dict:
         },
         "chapters": {},
     }
-    if path.exists():
+    if path is not None and path.exists():
         loaded = json.loads(path.read_text(encoding="utf-8"))
         builtin["defaults"].update(loaded.get("defaults", {}))
         builtin["chapters"] = loaded.get("chapters", {})
@@ -70,13 +112,13 @@ def _strip_parens(text: str) -> str:
     return re.sub(r"\([^)]*\)", "", text).strip()
 
 
-def load_banned_vocab(path: Path) -> dict:
+def load_banned_vocab(path: Path | None) -> dict:
     """Parse the Tier 1 table and Tier 2 word list out of anti-slop.md.
 
     Single source of truth — editing anti-slop.md updates the linter.
     """
     banned: dict = {"tier1": {}, "tier2": set()}
-    if not path.exists():
+    if path is None or not path.exists():
         return banned
     text = path.read_text(encoding="utf-8")
 
@@ -247,8 +289,16 @@ def main(argv: list[str] | None = None) -> int:
         description="Deterministic AI-tell linter for forge-novel drafts."
     )
     parser.add_argument("path", help="chapter file, directory, or glob")
-    parser.add_argument("--config", type=Path, default=DEFAULT_CONFIG)
-    parser.add_argument("--anti-slop", type=Path, default=DEFAULT_ANTI_SLOP)
+    parser.add_argument(
+        "--config", type=Path, default=None,
+        help="thresholds + per-chapter flags JSON "
+             "(default: kit.config.json binding, else built-in defaults)",
+    )
+    parser.add_argument(
+        "--anti-slop", type=Path, default=None,
+        help="banned-vocab source markdown "
+             "(default: kit.config.json binding, else anti-slop-base.md)",
+    )
     parser.add_argument("--format", choices=("text", "json"), default="text")
     parser.add_argument(
         "--report-file", type=Path, default=None,
@@ -270,8 +320,13 @@ def main(argv: list[str] | None = None) -> int:
         # Path guard: not a chapter draft — stay silent so the hook is quiet.
         return 0
 
-    config = load_config(args.config)
-    banned = load_banned_vocab(args.anti_slop)
+    # Resolve config + anti-slop: CLI flag > kit.config.json binding > built-in.
+    paths, base = load_binding()
+    config_path = resolve_path(args.config, paths, base, "prose_lint_config", None)
+    anti_slop_path = resolve_path(
+        args.anti_slop, paths, base, "anti_slop", BUILTIN_ANTI_SLOP)
+    config = load_config(config_path)
+    banned = load_banned_vocab(anti_slop_path)
 
     json_payloads: list[dict] = []
     text_blocks: list[str] = []

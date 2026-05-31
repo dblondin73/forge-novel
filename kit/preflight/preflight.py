@@ -1,26 +1,32 @@
 #!/usr/bin/env python3
-"""forge_preflight - deterministic, repo-local pre-flight gate for /forge-write (G5).
+"""preflight - deterministic, repo-local pre-flight gate for a drafting skill.
 
 Zero LLM tokens. Before any prose is drafted, verify the repo-local half of the
-context a chapter's beats need is actually present (P2 outline-is-law, P3 minimal
+context a chapter's beats need is actually present (outline-is-law + minimal
 context). Reports PASS / HALT; it never drafts, never fills a gap, never edits.
 
 It checks what lives in the repo:
-  1. prior-chapter epistemic entry  (epistemic-states.json -> after_ch{N-1})
-  2. this chapter's scheduled reveals (revelation-schedule.json) -> MUST-ADVANCE
-  3. character sheets present         (characters/*.md) for named characters
-  4. named entities resolve           (.forge-known-entities.json cache)
+  1. prior-chapter epistemic entry  (epistemic state file -> after_ch{N-1})
+  2. this chapter's scheduled reveals (revelation schedule)  -> MUST-ADVANCE
+  3. character sheets present         (characters dir) for named characters
+  4. named entities resolve           (entity-cache JSON, "all_names")
 
-The OUTLINE-BEATS check is deliberately NOT here: the beats live only in
-forge-mcp, so that half stays agent-side (forge_outline_beats, or the SSH
-fallback the skill documents). This tool covers the deterministic local half;
-the report says plainly what it did and did not verify.
+The OUTLINE-BEATS check is deliberately NOT here: the beats live only in the
+project's outline store (e.g. forge-mcp), so that half stays agent-side. This
+tool covers the deterministic local half; the report says plainly what it did
+and did not verify.
+
+STANDARDS-LAYER TOOL: it knows nothing of any specific novel. The Novel layer
+binds it to its own files via a repo-root kit.config.json that this tool
+DISCOVERS (walking up from CWD, then the script dir). Resolution order for every
+path / the POV-character key is: explicit CLI flag > kit.config.json binding >
+portable built-in default. Absent a binding it falls back to generic defaults.
 
 Usage:
-    python tools/forge_preflight.py --chapter 9
-    python tools/forge_preflight.py --chapter 9 --beats 3-5 \\
+    python kit/preflight/preflight.py --chapter 9
+    python kit/preflight/preflight.py --chapter 9 --beats 3-5 \\
         --characters "Nate,Flint,Josie" --entities "Briarknight,Meat Grinder"
-    python tools/forge_preflight.py --chapter 9 --fail-on warn
+    python kit/preflight/preflight.py --chapter 9 --fail-on warn
 
 Exit codes are governed by --fail-on (default: halt -> non-zero only on a HALT),
 so the gate can block a careless draft while warnings stay advisory.
@@ -34,11 +40,7 @@ import sys
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent
-CACHE_FILE = (
-    REPO_ROOT / ".claude" / "skills" / "forge-write" / "scripts"
-    / ".forge-known-entities.json"
-)
+BINDING_FILENAME = "kit.config.json"
 
 # Severity tags (fixed width so the report columns line up).
 HALT = "HALT"   # a hard-required input is missing -> do not draft
@@ -61,12 +63,41 @@ class Finding:
         self.detail = detail
 
 
+# --- kit binding discovery -------------------------------------------------
+
+
+def find_binding() -> Path | None:
+    """Locate kit.config.json by walking up from CWD, then from this script."""
+    seen: set[Path] = set()
+    for start in (Path.cwd(), SCRIPT_DIR):
+        for d in (start, *start.parents):
+            if d in seen:
+                continue
+            seen.add(d)
+            cand = d / BINDING_FILENAME
+            if cand.is_file():
+                return cand
+    return None
+
+
+def load_binding() -> tuple[dict, Path | None]:
+    """Return (binding-dict, binding-base-dir); ({}, None) when none found."""
+    binding = find_binding()
+    if binding is None:
+        return {}, None
+    try:
+        data = json.loads(binding.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}, None
+    return data, binding.parent
+
+
 # --- loaders ---------------------------------------------------------------
 
 
-def _load_json(path: Path) -> dict | None:
+def _load_json(path: Path | None) -> dict | None:
     """Load a JSON file; return None (not {}) if absent or unparseable."""
-    if not path.exists():
+    if path is None or not path.exists():
         return None
     try:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -84,34 +115,38 @@ def _split_list(raw: str | None) -> list[str]:
 # --- checks ----------------------------------------------------------------
 
 
-def check_prior_epistemic(chapter: int, repo: Path) -> Finding:
+def check_prior_epistemic(chapter: int, epistemic_path: Path | None,
+                          pov_key: str | None) -> Finding:
     """The previous chapter's epistemic entry must exist before we draft N."""
-    path = repo / "epistemic-states.json"
-    data = _load_json(path)
+    data = _load_json(epistemic_path)
     if data is None:
         return Finding(HALT, "Prior epistemic state",
-                       "epistemic-states.json missing or unparseable")
+                       "epistemic state file missing or unparseable")
     if chapter <= 1:
         return Finding(OK, "Prior epistemic state",
                        "chapter 1 - no prior entry required")
+    if not pov_key:
+        return Finding(WARN, "Prior epistemic state",
+                       "no pov_character configured (kit.config.json) - "
+                       "cannot verify the POV character's knowledge boundary")
 
     prior_key = f"after_ch{chapter - 1:02d}"
-    nate = data.get("characters", {}).get("nate", {})
-    if prior_key in nate:
+    pov = data.get("characters", {}).get(pov_key, {})
+    if prior_key in pov:
         return Finding(OK, "Prior epistemic state",
-                       f"{prior_key} present (Nate's knows/doesnt_know loaded)")
+                       f"{prior_key} present ({pov_key}'s knows/doesnt_know loaded)")
     return Finding(HALT, "Prior epistemic state",
-                   f"{prior_key} entry missing - Nate's knowledge boundary for "
-                   f"ch{chapter:02d} is undefined")
+                   f"{prior_key} entry missing - {pov_key}'s knowledge boundary "
+                   f"for ch{chapter:02d} is undefined")
 
 
-def check_scheduled_reveals(chapter: int, repo: Path) -> list[Finding]:
+def check_scheduled_reveals(chapter: int,
+                            revelation_path: Path | None) -> list[Finding]:
     """Reveals scheduled for this chapter are MUST-ADVANCE reminders (never block)."""
-    path = repo / "revelation-schedule.json"
-    data = _load_json(path)
+    data = _load_json(revelation_path)
     if data is None:
         return [Finding(WARN, "Scheduled reveals",
-                        "revelation-schedule.json missing or unparseable")]
+                        "revelation schedule file missing or unparseable")]
 
     hits: list[str] = []
     for rev in data.get("revelations", []):
@@ -135,15 +170,14 @@ def check_scheduled_reveals(chapter: int, repo: Path) -> list[Finding]:
                     f"ch{chapter:02d} MUST advance: " + "; ".join(hits))]
 
 
-def _find_sheet(name: str, repo: Path) -> Path | None:
-    """Match a character name to a characters/*.md sheet by filename token.
+def _find_sheet(name: str, chars_dir: Path | None) -> Path | None:
+    """Match a character name to a <chars_dir>/*.md sheet by filename token.
 
     "Nate" -> nate-hall.md, "Josie" -> josie-pickett.md, "Flint" -> flint.md.
     A sheet matches if the lowercased name (or its first token) is one of the
     sheet stem's hyphen-split tokens.
     """
-    chars_dir = repo / "characters"
-    if not chars_dir.is_dir():
+    if chars_dir is None or not chars_dir.is_dir():
         return None
     key = name.strip().lower().split()[0] if name.strip() else ""
     if not key:
@@ -155,7 +189,7 @@ def _find_sheet(name: str, repo: Path) -> Path | None:
     return None
 
 
-def check_character_sheets(characters: list[str], repo: Path,
+def check_character_sheets(characters: list[str], chars_dir: Path | None,
                            cache_names: set[str]) -> list[Finding]:
     """Each named character needs a sheet, or at least a Codex-cache entry."""
     if not characters:
@@ -163,13 +197,13 @@ def check_character_sheets(characters: list[str], repo: Path,
                         "no --characters given (agent supplies the beat's cast)")]
     findings: list[Finding] = []
     for name in characters:
-        sheet = _find_sheet(name, repo)
+        sheet = _find_sheet(name, chars_dir)
         if sheet is not None:
             findings.append(Finding(OK, "Character sheet",
                                     f'"{name}" -> {sheet.name}'))
         elif name in cache_names or name.split()[0] in cache_names:
             findings.append(Finding(WARN, "Character sheet",
-                                    f'"{name}" - no sheet in characters/; '
+                                    f'"{name}" - no sheet in characters dir; '
                                     f"Codex-only (use entity data, note the gap)"))
         else:
             findings.append(Finding(HALT, "Character sheet",
@@ -186,8 +220,7 @@ def check_entities(entities: list[str], cache_names: set[str],
                         'no --entities given (pass the beat\'s named entities to check)')]
     if not cache_loaded:
         return [Finding(WARN, "Entities",
-                        ".forge-known-entities.json absent - run "
-                        "scripts/refresh-entity-cache.py; cannot resolve names")]
+                        "entity cache absent - refresh it; cannot resolve names")]
     findings: list[Finding] = []
     for name in entities:
         if name in cache_names or name.split()[0] in cache_names:
@@ -202,26 +235,28 @@ def check_entities(entities: list[str], cache_names: set[str],
 # --- orchestration + report ------------------------------------------------
 
 
-def run_preflight(chapter: int, characters: list[str], entities: list[str],
-                  repo: Path) -> list[Finding]:
-    cache = _load_json(CACHE_FILE)
+def run_preflight(chapter: int, characters: list[str], entities: list[str], *,
+                  epistemic_path: Path | None, revelation_path: Path | None,
+                  chars_dir: Path | None, cache_path: Path | None,
+                  pov_key: str | None) -> list[Finding]:
+    cache = _load_json(cache_path)
     cache_loaded = cache is not None
     cache_names = set(cache.get("all_names", [])) if cache_loaded else set()
 
     findings: list[Finding] = []
-    findings.append(check_prior_epistemic(chapter, repo))
-    findings.extend(check_scheduled_reveals(chapter, repo))
-    findings.extend(check_character_sheets(characters, repo, cache_names))
+    findings.append(check_prior_epistemic(chapter, epistemic_path, pov_key))
+    findings.extend(check_scheduled_reveals(chapter, revelation_path))
+    findings.extend(check_character_sheets(characters, chars_dir, cache_names))
     findings.extend(check_entities(entities, cache_names, cache_loaded))
-    # The outline-beats check is agent-side by design (beats live in forge-mcp).
+    # The outline-beats check is agent-side by design (beats live in the outline store).
     findings.append(Finding(SKIP, "Outline beats",
-                            "agent-side - run forge_outline_beats (or the SSH "
+                            "agent-side - run the outline-beats query (or the SSH "
                             "fallback) to confirm the beats exist and are unwritten"))
     return findings
 
 
 def render_text(chapter: int, beats: str | None, findings: list[Finding]) -> str:
-    head = f"forge pre-flight - Chapter {chapter}"
+    head = f"pre-flight - Chapter {chapter}"
     if beats:
         head += f" (beats {beats})"
     lines = [head, "=" * len(head), ""]
@@ -254,9 +289,17 @@ def exit_code(findings: list[Finding], fail_on: str) -> int:
     return 3 if worst >= _RANK[HALT] else 0  # fail_on == "halt" (default)
 
 
+def _resolve(base: Path | None, repo: Path, rel: str | None,
+             default_name: str) -> Path:
+    """Binding path (relative to the binding dir) > <repo>/<default_name>."""
+    if rel and base is not None:
+        return base / rel
+    return repo / default_name
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Deterministic repo-local pre-flight gate for /forge-write (G5)")
+        description="Deterministic repo-local pre-flight gate for a drafting skill")
     parser.add_argument("--chapter", type=int, required=True,
                         help="target chapter number (e.g. 9)")
     parser.add_argument("--beats", default=None,
@@ -265,17 +308,38 @@ def main() -> None:
                         help='comma-separated cast for the beats, e.g. "Nate,Flint"')
     parser.add_argument("--entities", default=None,
                         help='comma-separated named entities, e.g. "Briarknight"')
-    parser.add_argument("--repo", type=Path, default=REPO_ROOT,
-                        help="forge-novel repo root (default: parent of tools/)")
+    parser.add_argument("--repo", type=Path, default=None,
+                        help="repo root (default: kit.config.json dir, else CWD)")
+    parser.add_argument("--pov-character", default=None,
+                        help="epistemic-state key for the POV character "
+                             "(default: kit.config.json pov_character)")
     parser.add_argument("--fail-on", choices=("halt", "warn", "never"),
                         default="halt", help="exit non-zero threshold (default: halt)")
     args = parser.parse_args()
+
+    # Resolve everything: CLI flag > kit.config.json binding > built-in default.
+    binding, base = load_binding()
+    paths = binding.get("paths", {})
+    repo = args.repo or base or Path.cwd()
+    pov_key = args.pov_character or binding.get("pov_character")
+
+    epistemic_path = _resolve(base, repo, paths.get("epistemic_states"),
+                              "epistemic-states.json")
+    revelation_path = _resolve(base, repo, paths.get("revelation_schedule"),
+                               "revelation-schedule.json")
+    chars_dir = _resolve(base, repo, paths.get("characters_dir"), "characters")
+    cache_rel = paths.get("entity_cache")
+    cache_path = (base / cache_rel) if (cache_rel and base is not None) else None
 
     findings = run_preflight(
         chapter=args.chapter,
         characters=_split_list(args.characters),
         entities=_split_list(args.entities),
-        repo=args.repo,
+        epistemic_path=epistemic_path,
+        revelation_path=revelation_path,
+        chars_dir=chars_dir,
+        cache_path=cache_path,
+        pov_key=pov_key,
     )
     print(render_text(args.chapter, args.beats, findings))
     sys.exit(exit_code(findings, args.fail_on))

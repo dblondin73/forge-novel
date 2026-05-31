@@ -14,7 +14,7 @@ Read this skill as a contract, not a suggestion. Apply every rule exactly as wri
 
 - **Literalness.** Apply every rule in this file exactly as written. Do not infer a broad rule from a narrow one, do not relax a rule because it seems to conflict with another. When two rules genuinely collide, the master tiebreaker is **audiobook is the primary medium** (see `WRITING_RULES.md`).
 - **Scope.** Your output is *narrative prose for the requested beats only* — not an outline, not a summary, not a recap of what you wrote or why. Draft the beats, collect the `[INVENTED]` table, stop.
-- **Don't infer missing context.** If a beat, character sheet, or Codex entity is missing, stop and raise it as a pre-draft question. This is enforced mechanically by the **Step 4 Pre-Flight Gate** (`tools/forge_preflight.py` + the outline-beats check) — a HALT there stops the draft cold. Never invent structure to paper over a gap.
+- **Don't infer missing context.** If a beat, character sheet, or Codex entity is missing, stop and raise it as a pre-draft question. This is enforced mechanically by the **Step 4 Pre-Flight Gate** (`kit/preflight/preflight.py` + the outline-beats check) — a HALT there stops the draft cold. Never invent structure to paper over a gap.
 - **Effort.** Draft at high effort.
 
 ## Usage
@@ -104,14 +104,14 @@ This derived set is *also the load set* for Steps 5-8 — never bulk-load the Co
 **4c — Run the deterministic repo-local check** (zero tokens):
 
 ```
-python tools/forge_preflight.py --chapter NN [--beats 3-5] --characters "Nate,Flint,..." --entities "Briarknight,..."
+python kit/preflight/preflight.py --chapter NN [--beats 3-5] --characters "Nate,Flint,..." --entities "Briarknight,..."
 ```
 
 It verifies the prior epistemic entry exists, enumerates the chapter's must-advance reveals, confirms each character has a sheet (or flags Codex-only), and resolves named entities against the Codex cache. Exit `3` = a HALT-level gap. (It checks the **repo-local** half; the outline-beats half is 4a, agent-side.)
 
 **4d — Halt or proceed.**
 
-- If `forge_preflight.py` reports any **[HALT]**, or 4a found missing beats, or a beat names a character/entity with no sheet *and* no Codex entry → emit the **PRE-FLIGHT HALT** block below, each gap as a specific question, and **STOP. Do not draft.**
+- If `preflight.py` reports any **[HALT]**, or 4a found missing beats, or a beat names a character/entity with no sheet *and* no Codex entry → emit the **PRE-FLIGHT HALT** block below, each gap as a specific question, and **STOP. Do not draft.**
 - **[WARN]** lines (Codex-only character, uncached entity) do not stop the draft, but each must be carried into Pre-Draft Questions and flagged in the `[INVENTED]` table if it becomes new canon.
 - All-clear → proceed to Step 5, loading exactly the derived set.
 
@@ -329,7 +329,7 @@ The checklist is two-tiered. **Always-run core** (every draft): checks 1, 2, 3, 
 | 28 | Conduit power is NEVER framed as immunity or force-shield (permission is the frame, not protection — Job-effect)? Spirit-indwelt characters can suffer real cost on the page? | |
 | 29 | Writer-shorthand cosmology terms do NOT appear in prose: "Path 1 / Path 2," "Spirit-firewall," "Job effect," "DNA-node," "fiber-channel," "block-cold / allow-with-rewrite / pass," "three-mode firewall"? (`soul`, `DNA`, `Spirit` ARE open — these architectural labels are not.) | |
 | 30 | Bonded-animal respawn (if shown): pattern routes through Nate's DNA-node domain (Adamic dominion), NOT framed as the dog's own DNA self-restoring? Beast Master Companion respawn (if shown): System-mediated DNA-template restore — different mechanism, no deepening? | |
-| 31 | `tools/prose_lint.py` clean of FAIL findings — no Tier 1 banned words, no "not just X but Y" / "it wasn't X, it was Y" constructions? (Run `python tools/prose_lint.py <draft>` on the new file, or note it will run on the advisory hook.) | |
+| 31 | `kit/prose_lint/prose_lint.py` clean of FAIL findings — no Tier 1 banned words, no "not just X but Y" / "it wasn't X, it was Y" constructions? (Run `python kit/prose_lint/prose_lint.py <draft>` on the new file, or note it will run on the advisory hook.) | |
 | 32 | No mechanical formatting inside narrative prose — no `##` headers, no bullet lists, no bold-for-emphasis mid-paragraph? | |
 | 33 | Sentence length visibly varied within paragraphs (burstiness, not uniformity)? Em-dash density ≤ 2/1k for new un-narrated drafts? | |
 

@@ -416,7 +416,7 @@ Run BEFORE any editorial content review. AI writing patterns survive prompt engi
 Before reading the chapter for slop, run the linter via the Bash tool and capture its report:
 
 ```
-python c:/Workbench/dev/forge-novel/tools/prose_lint.py drafts/chNN-*.md --format text
+python c:/Workbench/dev/forge-novel/kit/prose_lint/prose_lint.py drafts/chNN-*.md --format text
 ```
 
 - The linter output is **ground truth for locations.** Every FAIL and WARN carries an exact line number — trust it; do not re-derive locations by reading.

@@ -21,7 +21,7 @@
           },
           {
             "type": "command",
-            "command": "python c:/Workbench/dev/forge-novel/tools/prose_lint_hook.py 2>&1 | head -40"
+            "command": "python c:/Workbench/dev/forge-novel/kit/prose_lint/prose_lint_hook.py 2>&1 | head -40"
           }
         ]
       }

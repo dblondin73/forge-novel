@@ -30,12 +30,12 @@ When a tie remains: **audiobook is the primary medium** breaks it.
 - **Drafting:** invoke the `/forge-write` skill. **Editing:** `/editors-hat`.
   Do not free-draft without the skill's context-loading protocol — it loads the
   Codex, voice rules, epistemic state, and voice exemplars you need.
-- **Prose quality:** run `python tools/prose_lint.py drafts/chNN-*.md` before
-  committing a draft. It is a zero-token, deterministic AI-tell linter
+- **Prose quality:** run `python kit/prose_lint/prose_lint.py drafts/chNN-*.md`
+  before committing a draft. It is a zero-token, deterministic AI-tell linter
   (em-dash density, banned vocabulary, sentence-length burstiness, the
   `not just X but Y` crutch, and more). It **reports only — never auto-strip**,
   especially em-dashes: on narrated chapters those are deliberate audiobook
-  stutter-fixes (see `WRITING_RULES.md`). See `tools/README.md`.
+  stutter-fixes (see `WRITING_RULES.md`). See `kit/README.md`.
 - **Voice:** read `voice/exemplars.md` — the curated gold-standard voice bank —
   before drafting a given voice.
 - **Genre contract:** when a beat leans on a LitRPG convention (a level-up, loot
@@ -66,12 +66,14 @@ Take these instructions and the skills literally — apply each rule exactly as 
 | `research/` | worldbuilding & design docs (`old-versions/` is archived) |
 | `characters/` | nate-hall, flint, josie-pickett, sonja-lee |
 | `voice/exemplars.md` | curated gold-standard voice bank |
-| `tools/` | `prose_lint.py` — deterministic slop linter |
+| `kit/` | **Standards layer** — portable, genre-agnostic craft tools (`prose_lint`, perplexity, `preflight`) + methods. Bound to this novel via `kit.config.json`. See `kit/LAYERS.md` |
+| `tools/` | forge-specific Workflows (chronicler Codex, editorial fan-out) — Novel-layer orchestration |
 | `reports/` | dated editorial / lint audit output |
 | `.claude/skills/` | `forge-write`, `editors-hat` (versioned with the prose) |
 | `REFERENCE.md` `WRITING_RULES.md` `SESSIONS.md` | canon, craft rules, session log |
 | `LITRPG_CONVENTIONS.md` | genre contract — reader expectations + honor/bend/break stances |
-| `epistemic-states.json` `revelation-schedule.json` | knowledge & reveal tracking |
+| `kit.config.json` | binds the kit's portable tools to this novel's files (POV character, state paths) |
+| `epistemic-states.json` `revelation-schedule.json` `prose_lint_config.json` | knowledge & reveal tracking; per-chapter lint flags |
 
 ## Git
 

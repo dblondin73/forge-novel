@@ -1,0 +1,14 @@
+{
+  "_comment": "Novel-layer binding to the Standards kit (kit/). The genre-agnostic kit tools DISCOVER this file by walking up from CWD and bind to forge-novel's own canon/state via the paths below. Paths are relative to this file (repo root). See kit/LAYERS.md and kit/kit.config.example.json.",
+  "novel": "Beneath the Overlay: Integration",
+  "pov_character": "nate",
+  "paths": {
+    "epistemic_states": "epistemic-states.json",
+    "revelation_schedule": "revelation-schedule.json",
+    "characters_dir": "characters",
+    "entity_cache": ".claude/skills/forge-write/scripts/.forge-known-entities.json",
+    "anti_slop": ".claude/skills/forge-write/references/anti-slop.md",
+    "prose_lint_config": "prose_lint_config.json",
+    "draft_glob": "drafts/ch*-*.md"
+  }
+}

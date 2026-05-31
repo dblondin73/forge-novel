@@ -565,6 +565,16 @@ David-steers-Claude-drafts setup.
 ### Tier 3 — architecture + reusable kit
 - **G7 · Three-layer split** (P16) as the kit's organizing principle: Standards
   (portable craft) / Novel (forge-novel canon) / Book (per-volume state).
+  **BUILT 2026-05-31 (full physical extraction):** portable engines extracted to
+  `kit/` (`prose_lint/`, `perplexity/`, `preflight/`, `methods/`) and generalized
+  — each discovers a repo-root `kit.config.json` and binds via
+  CLI-flag > binding > built-in. forge behavior preserved (prose_lint before/after
+  diff byte-identical; preflight parity on Ch01/09; PostToolUse hook re-pathed +
+  stdin-validated). `forge_preflight.py`→`kit/preflight/preflight.py` (POV key +
+  state paths now config-driven); `prose_lint_config.json` moved to root (Book
+  layer). Scaffold: `kit/README.md`, `kit/LAYERS.md`, `kit.config.example.json`,
+  `anti-slop-base.md`, the genre-conventions method template. Plan:
+  `g7-three-layer-split-plan.md`.
 - **G8 · Append-only timeline** (P19) for continuity diffing.
 - **G9 · Character-sim discovery mode** (P15); **promise/payoff ledger** (P8);
   **recap generation** (ledger idea #3).

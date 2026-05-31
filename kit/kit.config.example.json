@@ -1,0 +1,15 @@
+{
+  "_comment": "EXAMPLE binding. Copy to your repo root as kit.config.json and edit. The kit tools discover it by walking up from CWD. All paths are relative to this file (your repo root). Resolution order for everything: explicit CLI flag > this binding > the tool's portable built-in default.",
+  "novel": "Your Novel Title",
+  "pov_character": "key-in-your-epistemic-states-json (e.g. nate)",
+  "paths": {
+    "_comment_paths": "Omit any key to fall back to the tool's built-in default. Only the keys a given tool reads are required by that tool.",
+    "epistemic_states": "epistemic-states.json",
+    "revelation_schedule": "revelation-schedule.json",
+    "characters_dir": "characters",
+    "entity_cache": "path/to/.known-entities.json",
+    "anti_slop": "path/to/anti-slop.md",
+    "prose_lint_config": "prose_lint_config.json",
+    "draft_glob": "drafts/ch*-*.md"
+  }
+}
