@@ -521,10 +521,18 @@ David-steers-Claude-drafts setup.
   outline-fidelity → timeline → prose_lint → **audio-flow**) with bounded
   revision loops, each gate a sub-agent tuned to OUR rules. Folds in the
   reader-experience channels (P12) and craft axes (P6). *Biggest single win.*
-- **G2 · Chronicler → Codex auto-population** (P13 + P20). After David approves
+- **G2 · Chronicler → Codex auto-population** (P13 + P20 + P29). After David approves
   a chapter, an agent proposes Forge MCP Codex updates **and** updates a
   `progression-state.json` (the LitRPG ledger), flagging mechanical/continuity
   drift. Proposes only — David confirms. *Solves a real 7-book scaling problem.*
+  **BUILT 2026-05-31 (MVP):** `tools/chronicler_codex.workflow.js` — 4-agent
+  Workflow (entity + progression extract → validate/dedup → synthesis). Validated
+  on Ch03: surfaced 11 Codex actions + 13 progression events + a real major drift
+  flag (HUD color green→blue, Codex lags prose), rejected false mints, held the
+  Narnia Principle. Dedups against REFERENCE.md (forge_codex tools were not
+  session-live); live-Codex read + relationships/timeline lenses are the next
+  increments. Plan: `g2-chronicler-codex-plan.md`. Run report:
+  `reports/ch03-chronicler-2026-05-31.md`.
 - **G3 · Perplexity gate on Nova/Ollama** (P18). A report-only `prose_lint`
   companion scoring sentence perplexity via local Ollama. Closes the
   already-planned "perplexity gate" phase at zero token cost.
