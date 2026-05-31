@@ -320,6 +320,15 @@ graft. 21 patterns; deepen each as we actually build it.
   human attention. **Report-only** (never auto-rewrite — our em-dash/audio
   rule). Optional, opt-in.
 - **Target:** `tools/` (prose_lint companion); Nova/Ollama.
+- **BUILT 2026-05-30** as `tools/prose_predictability.py` (validated, ruff-clean).
+  Verified findings: Ollama 0.17.x exposes logprobs for **generated tokens only**
+  (no prompt/echo logprobs); `raw: true` is required or instruct models *comment
+  on* the prose instead of continuing it; `top_logprobs` caps at **20**. The cheap
+  one-call-per-sentence "agreement scan" was built and tested first and **did not
+  discriminate** flat from distinctive prose — replaced by **teacher-forced
+  perplexity** (one call/word). Discrimination confirmed: planted clichés ppl
+  10-31 vs forge-novel prose 800-2300 (~25-230×). Cost makes it a **spot-checker**
+  (bounded `--max-sentences`), not a bulk scanner. See `tools/README.md`.
 
 ### P19 · Bible (read-only) / State (versioned) / Timeline (append-only)
 - **Proven in:** `Claude-Book` file architecture (immutable style anchors vs.

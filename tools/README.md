@@ -77,3 +77,49 @@ headers, scene-break rules, and code fences are already filtered out by
 `check_banned_vocab` parses the Tier 1 table and Tier 2 word list directly out
 of `anti-slop.md` at runtime. There is one source of truth — edit that file and
 the linter follows. No word lists are duplicated here.
+
+---
+
+## prose_predictability — local-model perplexity spot-checker (G3)
+
+`prose_predictability.py` is the **probabilistic cousin** of `prose_lint`'s
+deterministic burstiness check. Where prose_lint measures *structural* flatness
+for free, this measures *statistical* flatness: it asks a local model on Nova how
+**predictable** each sentence is. **Low perplexity = the model saw it coming =
+AI-flat** (cliché openings, stock phrasing); high perplexity = distinctive voice.
+Validated discrimination: planted clichés score ppl 10-31, forge-novel prose
+800-2300. **Report only — never edits or auto-strips.**
+
+### It is a SPOT-CHECKER, not a bulk scanner
+
+Ollama exposes logprobs only for *generated* tokens, so perplexity of existing
+text is computed by **teacher forcing** — one model call *per word*. A 15-word
+sentence = 15 calls; 15 sentences ≈ 4 min. Always bound it (`--max-sentences`,
+default 25). Use it on suspect passages, not whole books.
+
+```bash
+python tools/prose_predictability.py drafts/ch03-first-boot-draft01.md           # first 25 sentences
+python tools/prose_predictability.py drafts/ch03-*.md --longest --top 20         # 25 longest, show 20 flattest
+python tools/prose_predictability.py drafts/ch03-*.md --model gemma3:4b          # faster model
+python tools/prose_predictability.py drafts/ch03-*.md --max-sentences 0          # whole chapter (slow!)
+python tools/prose_predictability.py drafts/ch03-*.md --format json --report-file reports/
+```
+
+Flags: `--host`/`$OLLAMA_HOST` (default Nova Tailscale), `--model` (default
+`llama3:latest`), `--max-sentences` (0=all), `--longest` (score the meatiest
+sentences), `--top N` (flattest to print), `--context-window`, `--top-logprobs`
+(max 20, Ollama's cap), `--floor` (logprob for words outside top-K), `--min-words`.
+
+### Requires Nova online
+
+Needs Ollama reachable (`tailscale status` → nova active). If Nova is offline the
+tool exits `2` with a clear message. Nothing else in the repo depends on it.
+
+### Why teacher-forced (a build note)
+
+A cheap one-call-per-sentence "agreement scan" (does the model reproduce your
+sentence?) was built and tested first — it did **not** discriminate flat from
+distinctive prose (free continuation never aligns with the next sentence), so it
+was replaced by teacher forcing. Two Ollama constraints shape the design: no
+prompt/echo logprobs, and `raw: true` is required or instruct models *comment on*
+the prose ("What a beautiful passage!") instead of continuing it.
