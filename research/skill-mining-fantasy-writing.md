@@ -576,6 +576,15 @@ David-steers-Claude-drafts setup.
   `anti-slop-base.md`, the genre-conventions method template. Plan:
   `g7-three-layer-split-plan.md`.
 - **G8 · Append-only timeline** (P19) for continuity diffing.
+  **BUILT 2026-05-31:** `kit/timeline/timeline.py` (Standards) — validate +
+  append-only integrity gate (sealed events diffed vs `git HEAD`; **[BREACH]** on
+  any edit/delete, exit 3) + `events`/`render` views; binding-driven
+  (CLI > `kit.config.json` `paths.timeline` > built-in). Book-layer `timeline.json`
+  seeded **only** from canon-tracked `epistemic-states.learned_this_chapter`
+  (ch01-08), no invention. Wired into `editors-hat` Pass 2 (read+diff the record,
+  then append + `check`) and `forge-write` Step 5/8 (read recorded events;
+  after-drafting append + check). Windows UTF-8 git-decode bug caught + fixed in
+  validation. Plan: `g8-timeline-plan.md`.
 - **G9 · Character-sim discovery mode** (P15); **promise/payoff ledger** (P8);
   **recap generation** (ledger idea #3).
 

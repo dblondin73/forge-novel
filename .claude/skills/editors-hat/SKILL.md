@@ -454,6 +454,24 @@ Pass 0a has already found every word-level and measurable-structural tell. Pass 
 - Check character positions and inventory carry over between chapters
 - Flag any scene that's written twice (especially at chapter boundaries)
 
+**Timeline ground-truth diff (append-only continuity log).** The recorded
+in-world history lives in `timeline.json` (Book layer; see `kit/README.md`). It is
+**append-only** — sealed events are never edited. Two deterministic moves bracket
+this pass:
+
+1. **Read the record, diff the draft against it.** Run
+   `python kit/timeline/timeline.py events --chapter <N-1>` (widen the range —
+   e.g. `--chapter 1-7` — for older callbacks) to print the events already
+   recorded. Diff the draft against them: a contradiction (a death un-died, a
+   meeting that already happened, a place/time that doesn't line up) means **the
+   draft is wrong**, not the record. Flag it as a continuity finding. The semantic
+   diff is your judgement; the tool only surfaces the ground truth.
+2. **After the chapter passes, append its new events.** Add one record per new
+   in-world event to `timeline.json` (ids `ev-chNN-NN`, in chapter order) and run
+   `python kit/timeline/timeline.py check`. A **[BREACH]** (exit 3) means a sealed
+   event was edited or deleted — revert it and **append a superseding event**
+   instead (name the old id in `supersedes`). Never edit history to fit a draft.
+
 ### Pass 3 — Rule Compliance
 - Scan for lens labels (the [X] in him)
 - Check bold formatting on all System terms

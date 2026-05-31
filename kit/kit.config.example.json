@@ -10,6 +10,7 @@
     "entity_cache": "path/to/.known-entities.json",
     "anti_slop": "path/to/anti-slop.md",
     "prose_lint_config": "prose_lint_config.json",
+    "timeline": "timeline.json",
     "draft_glob": "drafts/ch*-*.md"
   }
 }

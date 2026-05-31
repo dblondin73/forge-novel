@@ -20,15 +20,16 @@ stutter-fixes downstream).
 | `prose_lint/prose_lint_hook.py` | PostToolUse wrapper: lints a draft after a Write/Edit, advisory, always exits 0. | 0 |
 | `perplexity/prose_predictability.py` | Local-model perplexity spot-checker — flags statistically *flat* sentences. Report-only. | local GPU |
 | `preflight/preflight.py` | Outline-is-law pre-flight gate before drafting chapter N. HALT/PASS; never drafts. | 0 |
+| `timeline/timeline.py` | Append-only continuity event log: validate, append-only integrity gate (vs git HEAD), event views. Report-only. | 0 |
 | `methods/genre-conventions-template.md` | The HONOR/BEND/BREAK genre-contract method template. | — |
 
 ## Binding (`kit.config.json`)
 
 Lives at the **repo root** (the Novel layer owns it), not inside `kit/`. Keys:
 `pov_character`, and `paths.{epistemic_states, revelation_schedule,
-characters_dir, entity_cache, anti_slop, prose_lint_config, draft_glob}` — all
-relative to the repo root. See `kit.config.example.json`. Omit any key to fall
-back to the tool's built-in default.
+characters_dir, entity_cache, anti_slop, prose_lint_config, timeline,
+draft_glob}` — all relative to the repo root. See `kit.config.example.json`. Omit
+any key to fall back to the tool's built-in default.
 
 ---
 
@@ -160,3 +161,67 @@ Governed by `--fail-on` (default `halt`): `halt` → exit `3` only on a HALT;
 (required), `--beats` (informational), `--characters "A,B"`, `--entities "A,B"`,
 `--repo PATH` (default: the binding dir, else CWD), `--pov-character` (default:
 binding's `pov_character`), `--fail-on {halt,warn,never}`.
+
+---
+
+## timeline — append-only continuity event log
+
+The third leg of the **P19 discipline** — *Bible / State / Timeline*:
+
+| Leg | What | Mutability | Here |
+|---|---|---|---|
+| **Bible** | locked canon | read-only while drafting | `REFERENCE.md` + Codex |
+| **State** | who-knows-what | versioned, overwritten per chapter | `epistemic-states.json` |
+| **Timeline** | what happened | **append-only, never edited** | `timeline.json` |
+
+A timeline is a flat, ordered list of in-world events — one record per thing that
+happened, grouped by chapter. Once an event is committed it is **sealed**: you
+never edit or delete it. To correct the record you **append** a new event and name
+the old `id` in `supersedes`. That immutability is what makes the log a
+trustworthy continuity ground-truth: a contradiction between a fresh chapter and
+the timeline means *the chapter is wrong*, not that history was quietly rewritten.
+
+```bash
+python kit/timeline/timeline.py check                       # validate + append-only gate
+python kit/timeline/timeline.py validate                    # structure only
+python kit/timeline/timeline.py events --chapter 8          # recorded events for a chapter
+python kit/timeline/timeline.py events --chapter 1-6 --format json
+python kit/timeline/timeline.py render --chapter 1-3        # human-readable markdown
+```
+
+### The deterministic half vs the agent's half
+
+Like `preflight` (which leaves the outline-beats check agent-side), this tool does
+only the **deterministic** half: it keeps the log honest (`check`) and **surfaces**
+the recorded events (`events`). The **semantic continuity diff** — *does this draft
+contradict the record?* — is an editorial judgement and stays agent-side
+(`editors-hat` Pass 2). The tool never reads prose and never edits the log.
+
+### The append-only gate (`check`)
+
+`check` runs structural validation **and** compares the working `timeline.json`
+against `git HEAD`. Any sealed (committed) event that was **modified** or
+**deleted** is a **[BREACH]** (exit `3`); newly **appended** events are fine. If
+the file isn't committed yet, or it's not a git work tree, the sealed-history
+check is skipped with INFO (nothing is sealed yet). Git output is decoded UTF-8
+explicitly so non-ASCII event text never false-positives on Windows.
+
+### Event schema
+
+Required: `id` (stable, unique, never reused), `chapter` (int), `event` (what
+happened). Optional: `seq` (order within chapter), `kind`
+(`world`/`system`/`character`/`relationship`/`knowledge`/`progression`/`combat`/
+`death`/`item`/`location`/`travel`), `who` (list), `where`, `when` (free-text
+in-world clock), `supersedes` (id this corrects), `source` (provenance). Validation
+errors (duplicate id, missing required field) are **ERROR**; soft issues
+(non-monotonic chapter order, unknown `kind`, dangling `supersedes`, duplicate
+`(chapter, seq)`) are **WARN**.
+
+### Exit codes & flags (timeline)
+
+Governed by `--fail-on` (default `error`): `error` → exit `3` on BREACH-or-ERROR;
+`warn` → exit `3` on WARN+; `never` → always `0`. Flags: `command`
+(`check`|`validate`|`events`|`render`), `--timeline PATH` (default: binding's
+`timeline`, else `<repo>/timeline.json`), `--repo PATH` (default: binding dir, else
+CWD), `--chapter "8"|"1-6"|"1,3,5"`, `--format {text,json,md}`,
+`--fail-on {error,warn,never}`.

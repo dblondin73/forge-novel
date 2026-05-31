@@ -1,0 +1,100 @@
+{
+  "_schema": "Append-only continuity event log (Book layer / P19 Timeline). A flat, ordered list of in-world events, one record per thing that happened, grouped by chapter. Read by /forge-write (what has already happened) and diffed against by /editors-hat (does this draft contradict the record?). Checked by kit/timeline/timeline.py.",
+  "_discipline": "APPEND-ONLY. Once an event is committed it is SEALED: never edit or delete it. To correct the record, APPEND a new event and name the old id in `supersedes`. `kit/timeline/timeline.py check` enforces this against git HEAD and reports a BREACH if any sealed event was modified or removed. Append events in chapter order.",
+  "_event_schema": "id (stable, unique, never reused) | chapter (int) | seq (order within chapter) | event (what happened) | kind (world|system|character|relationship|knowledge|progression|combat|death|item|location|travel) | who (list) | where | when (free-text in-world clock) | supersedes (id this corrects, optional) | source (provenance).",
+  "_seed_note": "Seeded 2026-05-31 (G8) from epistemic-states.json `nate.after_chNN.learned_this_chapter` — the only canon-tracked per-chapter record available. These are knowledge/introduction events; the log is intentionally thin. The chronicler/editorial pass enriches it append-only with combat, deaths (e.g. Tyler Sorensen, ch6), progression, and world events as chapters lock. Nothing here is invented beyond what epistemic-states already asserts.",
+  "events": [
+    {
+      "id": "ev-ch01-01",
+      "chapter": 1,
+      "seq": 1,
+      "kind": "world",
+      "event": "The Integration strikes; the world breaks — sky, sounds, and ground all wrong. Nate and Rex survive the first moment on the ranch.",
+      "who": ["Nate", "Rex"],
+      "where": "Hall ranch",
+      "when": "Integration Day",
+      "source": "epistemic-states after_ch01 (learned: 'The world just broke')"
+    },
+    {
+      "id": "ev-ch02-01",
+      "chapter": 2,
+      "seq": 1,
+      "kind": "system",
+      "event": "The System makes contact and speaks to Nate; he learns he has been integrated and pulled into a Tutorial.",
+      "who": ["Nate"],
+      "source": "epistemic-states after_ch02 (learned: 'The System exists', 'He's in a Tutorial')"
+    },
+    {
+      "id": "ev-ch02-02",
+      "chapter": 2,
+      "seq": 2,
+      "kind": "character",
+      "event": "Nate registers that the Integration changed him physically.",
+      "who": ["Nate"],
+      "source": "epistemic-states after_ch02 (learned: 'The Integration changed him physically')"
+    },
+    {
+      "id": "ev-ch03-01",
+      "chapter": 3,
+      "seq": 1,
+      "kind": "character",
+      "event": "Flint comes online as Nate's assigned companion; Nate learns his name (F.L.I.N.T.).",
+      "who": ["Nate", "Flint"],
+      "source": "epistemic-states after_ch03 (learned: 'Flint exists and has a name')"
+    },
+    {
+      "id": "ev-ch03-02",
+      "chapter": 3,
+      "seq": 2,
+      "kind": "progression",
+      "event": "Nate's primary skill, Structural Analysis, is identified, and the basic HUD overlay appears.",
+      "who": ["Nate"],
+      "source": "epistemic-states after_ch03 (learned: 'He has Structural Analysis', 'The HUD exists')"
+    },
+    {
+      "id": "ev-ch04-01",
+      "chapter": 4,
+      "seq": 1,
+      "kind": "combat",
+      "event": "Nate learns to use Structural Analysis in combat, reading weak points under pressure; the Rex bond transmits danger-impressions in a fight.",
+      "who": ["Nate", "Rex"],
+      "source": "epistemic-states after_ch04 (learned: 'How SA works in combat', 'Rex bond transmits impressions in danger')"
+    },
+    {
+      "id": "ev-ch05-01",
+      "chapter": 5,
+      "seq": 1,
+      "kind": "combat",
+      "event": "Combat turns lethal; Nate crosses the line into killing to survive, and the Tutorial escalates.",
+      "who": ["Nate", "Rex"],
+      "source": "epistemic-states after_ch05 (learned: 'He can kill when he has to', 'The Tutorial escalates')"
+    },
+    {
+      "id": "ev-ch06-01",
+      "chapter": 6,
+      "seq": 1,
+      "kind": "character",
+      "event": "Nate meets Josie Pickett in the Tutorial — the first proof he is not alone — and learns she is an Appraiser class.",
+      "who": ["Nate", "Josie"],
+      "source": "epistemic-states after_ch06 (learned: 'Josie exists', 'He's not alone', 'Appraiser is a class')"
+    },
+    {
+      "id": "ev-ch07-01",
+      "chapter": 7,
+      "seq": 1,
+      "kind": "character",
+      "event": "Nate meets Marcus Webb (Vanguard class, military background); they fight as a team and team combat proves out.",
+      "who": ["Nate", "Marcus", "Josie", "Rex"],
+      "source": "epistemic-states after_ch07 (learned: 'Marcus Webb exists and is Vanguard', 'Team combat works')"
+    },
+    {
+      "id": "ev-ch08-01",
+      "chapter": 8,
+      "seq": 1,
+      "kind": "knowledge",
+      "event": "The team learns the Tutorial ends in a Room 10 boss fight, and that they are stronger together than apart.",
+      "who": ["Nate", "Marcus", "Josie"],
+      "source": "epistemic-states after_ch08 (learned: 'The Tutorial has a boss fight', 'The team is stronger together than apart')"
+    }
+  ]
+}

@@ -132,6 +132,7 @@ I will not invent structure to fill these. How would you like to proceed?
 - Default to the **last 200 words** of the previous chapter via git-forge `read_file` with `offset`/`limit` (or Read tool on local file) — this tail also anchors the voice-seam cadence, so keep it even when loading more
 - If resuming mid-chapter, load the last 200 words of already-drafted content in the current chapter
 - Load **beat summaries** (not full prose) for completed beats in the current chapter
+- **Read the recorded timeline** — `python kit/timeline/timeline.py events --chapter <NN-1>` (widen the range for older callbacks) — to see the in-world events already on the record. This is the append-only continuity ground truth (`timeline.json`, Book layer); do not narrate anything that contradicts it
 
 ### Step 6 — Load Codex Entities
 
@@ -165,7 +166,7 @@ Read `c:/Workbench/dev/forge-novel/epistemic-states.json` (or via git-forge `rea
 
 Also read `c:/Workbench/dev/forge-novel/revelation-schedule.json`. Check if the target chapter appears in any revelation's `hint_chapters` or `full_reveal_chapter` — if so, that revelation MUST be advanced in this draft.
 
-**After drafting:** Update `epistemic-states.json` with `learned_this_chapter` for the new chapter. Update revelation statuses if any were advanced.
+**After drafting:** Update `epistemic-states.json` with `learned_this_chapter` for the new chapter. Update revelation statuses if any were advanced. **Append** the chapter's new in-world events to `timeline.json` (append-only — ids `ev-chNN-NN`, in chapter order; never edit a sealed event, supersede it) and run `python kit/timeline/timeline.py check` to confirm no [BREACH].
 
 ### Step 9 — Check Progress
 
