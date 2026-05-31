@@ -110,6 +110,12 @@ contrast, pipelines because each finding verifies independently.)
    file today — G2 only *proposes*).
 4. **Apply step** — a small confirm-then-write path (forge_codex calls +
    progression-state.json merge) gated on David's explicit OK.
+5. **Adjacent-chapter dedup** — *(surfaced by the Ch03 increment run)* dedup
+   currently reads `REFERENCE.md` only, so an entity established in an earlier
+   chapter's prose but never given a Codex entry reads as "new" (the two Ch03
+   runs disagreed on Congressman the steer for exactly this reason). Feed the
+   validator the prior chapters' accepted-entity set (or a running entity index)
+   so create-vs-confirm accounts for prose canon, not just the Codex proxy.
 
 ---
 
