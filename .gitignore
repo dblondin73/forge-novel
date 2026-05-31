@@ -16,3 +16,6 @@ Book Samples/
 # Audio test artifacts and reference images — too large / not for repo
 drafts/audio-test/
 drafts/images/
+
+# Scratch / scrape harness (Playwright, node_modules, scrape data) — ephemeral
+tmp/
