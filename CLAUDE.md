@@ -85,8 +85,11 @@ David's explicit say-so; never `git_commit` a draft before David approves it.
 
 ## Status
 
-See `WRITING_RULES.md` → "Chapter Status". As of the last update: Ch1-8
-unlocked for re-pass; Ch9-10 await first editorial pass.
+See `WRITING_RULES.md` → "Chapter Status". As of **2026-05-31: no locked
+chapters** — all of Ch1-10 are unlocked for re-pass under the current system
+(HUD blue, Flint divine-rewrite reframe, G1-G9 grafts). The Ch1-4 audiobook
+locks were cleared and that narration is flagged stale (needs re-narration after
+re-pass). Ch9-10 still await their first editorial pass.
 
 ## History note
 

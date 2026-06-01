@@ -1,5 +1,5 @@
 {
-  "_comment": "Thresholds and per-chapter flags for tools/prose_lint.py. Set audiobook_locked:true once a chapter has been narrated by Brigid (ElevenLabs) — that softens the em-dash check to INFO, since em-dashes in narrated chapters are deliberate TTS stutter-fixes and must never be auto-stripped. Every other detector still runs at full severity on locked chapters.",
+  "_comment": "Thresholds and per-chapter flags for tools/prose_lint.py. Set audiobook_locked:true once a chapter has been narrated by Brigid (ElevenLabs) — that softens the em-dash check to INFO, since em-dashes in narrated chapters are deliberate TTS stutter-fixes and must never be auto-stripped. Every other detector still runs at full severity on locked chapters. 2026-05-31: ALL audiobook locks CLEARED — the canon changes this session (HUD green→blue, Flint divine-rewrite reframe) plus the accumulated G1-G9 rule/tooling grafts make every chapter due for a full re-pass, and the prior Ch01-04 Brigid narration is now STALE (narration_stale:true) pending re-narration after that re-pass. The lock MECHANISM stays — re-set audiobook_locked:true per chapter once it is re-narrated. The 'never auto-strip em-dashes' rule holds regardless of the flag; editors-hat carries em-dash density as a WARN for David's decision.",
   "defaults": {
     "emdash_per_1k_warn": 2.0,
     "emdash_per_1k_fail": 4.0,
@@ -13,10 +13,10 @@
     "tier2_cluster_min": 3
   },
   "chapters": {
-    "ch01": { "audiobook_locked": true,  "tts_narrated": true },
-    "ch02": { "audiobook_locked": true,  "tts_narrated": true },
-    "ch03": { "audiobook_locked": true,  "tts_narrated": true },
-    "ch04": { "audiobook_locked": true,  "tts_narrated": true },
+    "ch01": { "audiobook_locked": false, "tts_narrated": true,  "narration_stale": true },
+    "ch02": { "audiobook_locked": false, "tts_narrated": true,  "narration_stale": true },
+    "ch03": { "audiobook_locked": false, "tts_narrated": true,  "narration_stale": true },
+    "ch04": { "audiobook_locked": false, "tts_narrated": true,  "narration_stale": true },
     "ch05": { "audiobook_locked": false, "tts_narrated": false },
     "ch06": { "audiobook_locked": false, "tts_narrated": false },
     "ch07": { "audiobook_locked": false, "tts_narrated": false },

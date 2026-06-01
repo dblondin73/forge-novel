@@ -373,11 +373,22 @@ Target dial: **4–5, weighted toward 4**. (Dresden territory, just below DCC.)
 
 When a pass surfaces multiple decisions for David to make, **never dump a flat list** of "answer these 8 questions in bulk." Use AskUserQuestion popups (or the equivalent) **one at a time**. David needs each decision in isolation, with full context, before moving to the next.
 
-### Chapter Status — Current Locks
+### Chapter Status — No Locks
 
-- **Ch1–8** UNLOCKED 2026-04-17 for re-pass under current rules.
-- Ch9–10 drafted, awaiting first editorial pass.
-- Re-pass priorities: System-intent discipline, Flint design-intent throttle, material-comparison sweep.
+- **All chapters (Ch1–10) are UNLOCKED for re-pass.** As of **2026-05-31** there are
+  no locked chapters of any kind — editorial or audiobook. The accumulated system
+  changes (HUD colour green→blue, the Flint divine-rewrite epistemic reframe, and
+  the G1–G9 rule/tooling grafts) supersede every prior lock; nothing is frozen.
+- **Audiobook locks cleared.** Ch1–4 were previously `audiobook_locked` because
+  Brigid had narrated them. Those locks are cleared in `prose_lint_config.json`
+  and the narration is flagged `narration_stale` — the canon now differs from what
+  was recorded, so those chapters need a full re-pass **and** re-narration. (The
+  lock *mechanism* remains: re-set `audiobook_locked:true` per chapter once it is
+  re-narrated under current canon.)
+- Ch9–10 are still awaiting their **first** editorial pass (drafted, never passed).
+- Re-pass priorities: **HUD blue continuity** (no stray green arcs), **Flint
+  divine-source framing** (no "dual loyalty / System-first"), System-intent
+  discipline, Flint design-intent throttle, material-comparison sweep.
 
 ### Editor's Hat Pass Order
 
