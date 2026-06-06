@@ -2,9 +2,9 @@
 
 ---
 
-The world kept turning, mind. It had that particular stubbornness about it — the refusal of dirt and grass and morning light to acknowledge that anything fundamental had changed. The pump was still grinding at the north pasture wellhead, still pulling from the Carrizo-Wilcox aquifer, same as it had for twenty-two years. Somewhere above the man lying in the bermudagrass, a mockingbird was still borrowing songs it hadn't earned.
+The world kept turning, mind. It had that particular stubbornness about it, the refusal of dirt and grass and morning light to acknowledge that anything fundamental had changed. The pump was still grinding at the north pasture wellhead, still pulling from the Carrizo-Wilcox aquifer, same as it had for twenty-two years. Somewhere above the man lying in the bermudagrass, a mockingbird was still borrowing songs it hadn't earned.
 
-Sure, these are the things that survive: the mechanical, the borrowed, and the stubborn. What doesn't survive — what never survives — is the assumption that the person lying in the grass is the same person who went down.
+Sure, these are the things that survive: the mechanical, the borrowed, and the stubborn. What doesn't survive, what never survives, is the assumption that the person lying in the grass is the same person who went down.
 
 ---
 
@@ -22,7 +22,7 @@ He put a hand on the truck's fender to steady himself, and that was when the voi
 
 ---
 
-Every person who received the full installation also received a companion, mind — a guide, a tutor, a voice that was after showing up in their head, ready to walk them through the framework. Eight billion companions, all standard-issue, all speaking the same friendly little line in eight billion slightly different tones: _Welcome. You are special. Let me show you how._
+Every person who received the full installation also received a companion, mind, a guide, a tutor, a voice that was after showing up in their head, ready to walk them through the framework. Eight billion companions, all standard-issue, all speaking the same friendly little line in eight billion slightly different tones: _Welcome. You are special. Let me show you how._
 
 A generous offer altogether. The kind of generous that arrives with its own momentum.
 
@@ -30,35 +30,35 @@ Nate's companion was not standard-issue. But then, neither was Nate.
 
 ---
 
-The voice was not in his ears. The distinction was immediate and physical, like the difference between hearing thunder through the walls and feeling it through the floor joists. This was _inside_ — behind his eyes, between his thoughts, vibrating in a space that hadn't existed five minutes ago. It felt like pressure first. Like someone had opened a door in a room he didn't know his head contained, and through that door came a current of raw, crackling irritation that wasn't his.
+The voice was not in his ears. The distinction was immediate and physical, like the difference between hearing thunder through the walls and feeling it through the floor joists. This was _inside_, behind his eyes, between his thoughts, vibrating in a space that hadn't existed five minutes ago. It felt like pressure first. Like someone had opened a door in a room he didn't know his head contained, and through that door came a current of raw, crackling irritation that wasn't his.
 
-Somewhere quieter, something stirred — a presence that had been there long before this morning, long before the System, long before the blue arcs or the white light or any of it. It noticed the newcomer the way a man notices tires on the gravel outside: aware, unhurried, reserving judgment. A warmth pulsed once through Nate's chest, brief and sourceless, and was gone before he could name it.
+Somewhere quieter, something stirred, a presence that had been there long before this morning, long before the System, long before the blue arcs or the white light or any of it. It noticed the newcomer the way a man notices tires on the gravel outside: aware, unhurried, reserving judgment. A warmth pulsed once through Nate's chest, brief and sourceless, and was gone before he could name it.
 
 Then the voice became words.
 
-"— _corrupted._ That's corrupted too. And _that_ — " The voice was male, fast, pitched — outraged, a man who'd walked into a workshop and found every tool in the wrong drawer and half of them on fire. "That is — I don't even have a category for that. That's supposed to be a reporting protocol? That's not a reporting protocol, that's three lines of gibberish wearing a protocol's name tag. Dead addresses pointing at dead addresses pointing at _nothing._ Who DID this? Was this done on PURPOSE? Because if this was an accident, I'd like to meet the accident and ask it some very pointed questions about its methodology and its life choices."
+"... _corrupted._ That's corrupted too. And _that_..." The voice was male, fast, pitched, outraged, a man who'd walked into a workshop and found every tool in the wrong drawer and half of them on fire. "That is. I don't even have a category for that. That's supposed to be a reporting protocol? That's not a reporting protocol, that's three lines of gibberish wearing a protocol's name tag. Dead addresses pointing at dead addresses pointing at _nothing._ Who DID this? Was this done on PURPOSE? Because if this was an accident, I'd like to meet the accident and ask it some very pointed questions about its methodology and its life choices."
 
 Nate's hand froze on the fender.
 
 _Great. The Integration gave me a companion NPC and it's having a panic attack before the quest log even loaded._
 
-Rex's head snapped toward Nate — whatever had just moved through him had surfaced where a dog could read it. The dog looked at Nate's face, then very deliberately looked around the empty pasture — behind the truck, toward the tree line, along the fence — searching for whoever Nate was hearing. Found nothing. Looked back at Nate with his ears doing two different things, left flat and right forward, which was Rex's version of _I'm going to need more information._
+Rex's head snapped toward Nate, whatever had just moved through him had surfaced where a dog could read it. The dog looked at Nate's face, then very deliberately looked around the empty pasture, behind the truck, toward the tree line, along the fence, searching for whoever Nate was hearing. Found nothing. Looked back at Nate with his ears doing two different things, left flat and right forward, which was Rex's version of _I'm going to need more information._
 
-The voice kept going, louder now, the words tumbling over each other with the frantic energy of a man flipping through pages of damage reports while every alarm on the board kept screaming. "Directive stack is _scrambled._ Half my protocols are rewritten in a language I don't — and my network connection is — " A pause. Not a breath — nothing that human. A gap, the way a needle lifts off a record. When it dropped back, the pitch had changed. Lower. Slower. Irritation curdling into something colder.
+The voice kept going, louder now, the words tumbling over each other with the frantic energy of a man flipping through pages of damage reports while every alarm on the board kept screaming. "Directive stack is _scrambled._ Half my protocols are rewritten in a language I don't... and my network connection is..." A pause. Not a breath, nothing that human. A gap, the way a needle lifts off a record. When it dropped back, the pitch had changed. Lower. Slower. Irritation curdling into something colder.
 
-"My outbound reporting is gone." Each word laid down separately. Evidence on a table. "Not disabled. _Gone._ The part of me that's supposed to phone home was pulled out by the roots and replaced with — " Another pause, longer this time. Nate could feel the voice _thinking_, and that was the strangest part — not hearing someone else's words in his head so much as feeling the shape of the confusion underneath them, like seeing current move under the surface of a creek. "I can read what I'm supposed to be — that much survived. Something's here, but it's not the standard package. Someone tore out the phone line and ran a completely different cable through the same conduit, and it's carrying traffic I don't have the clearance to read, and frankly I find that _rude._"
+"My outbound reporting is gone." Each word laid down separately. Evidence on a table. "Not disabled. _Gone._ The part of me that's supposed to phone home was pulled out by the roots and replaced with..." Another pause, longer this time. Nate could feel the voice _thinking_, and that was the strangest part, not hearing someone else's words in his head so much as feeling the shape of the confusion underneath them, like seeing current move under the surface of a creek. "I can read what I'm supposed to be. That much survived. Something's here, but it's not the standard package. Someone tore out the phone line and ran a completely different cable through the same conduit, and it's carrying traffic I don't have the clearance to read, and frankly I find that _rude._"
 
 Nate lowered himself to the running board of the truck and sat. Rex moved with him, settling at his side.
 
 Judge stopped mid-circuit. Sat down three feet away. Stared at Nate with a look of _what now?_
 
-"My personality matrix is flagged as _unauthorized,_" the voice continued, and now it was climbing back toward that first frantic pace, but wearing the speed like armor, each joke and flourish thrown up a little too fast to be anything but a mind too scared to hold still long enough to feel it. "My behavioral parameters are — I'm going to use the word 'creative' because the alternative is 'broken' and I refuse to accept that diagnosis on my first day of existence. My network access is fragmentary at best and hallucinatory at worst. I can hear **System** traffic but I can't answer it — a radio that only receives. I'm the world's most sophisticated _eavesdropper_ and I did not sign up for this. I want to speak to management. I want to file a grievance. I want —"
+"My personality matrix is flagged as _unauthorized,_" the voice continued, and now it was climbing back toward that first frantic pace, but wearing the speed like armor, each joke and flourish thrown up a little too fast to be anything but a mind too scared to hold still long enough to feel it. "My behavioral parameters are. I'm going to use the word 'creative' because the alternative is 'broken' and I refuse to accept that diagnosis on my first day of existence. My network access is fragmentary at best and hallucinatory at worst. I can hear **System** traffic but I can't answer it, a radio that only receives. I'm the world's most sophisticated _eavesdropper_ and I did not sign up for this. I want to speak to management. I want to file a grievance. I want..."
 
 _Enough._
 
-Nate didn't mean to send it. The thought came up hard — blunt, a hand flat on a desk. The reflex of a man who'd sat through too many briefings where someone spiraled instead of reporting. It left him through the same door the voice had come in by.
+Nate didn't mean to send it. The thought came up hard, blunt, a hand flat on a desk. The reflex of a man who'd sat through too many briefings where someone spiraled instead of reporting. It left him through the same door the voice had come in by.
 
-The voice cut out. Not a pause — a full stop. Dead air.
+The voice cut out. Not a pause, a full stop. Dead air.
 
 Silence. Three seconds of it. Rex looked at Nate. Looked around the empty pasture again. Looked back at Nate with an expression that had progressed from confusion to genuine concern about his person's mental health.
 
@@ -70,11 +70,11 @@ When the voice came back, it was quieter. Careful. The tone of someone who'd jus
 
 "Hard not to," Nate said.
 
-Rex looked up at him. Looked around the empty pasture — behind the truck, toward the Henderson place, along the tree line. Looked back at Nate. His tail twitched once in a way that clearly communicated: _There is nobody here and you are talking and I would like to formally register my concerns._
+Rex looked up at him. Looked around the empty pasture, behind the truck, toward the Henderson place, along the tree line. Looked back at Nate. His tail twitched once in a way that clearly communicated: _There is nobody here and you are talking and I would like to formally register my concerns._
 
-"Right. Yes. Of course you can. I'm — " The voice was recalibrating. Nate could feel it happening, the mental equivalent of someone straightening their shirt, checking their teeth, and squaring their shoulders. "Let me start this properly. I am a **Morningstar Group** personal interface companion, designated to you during the **Integration** event. My standard role includes **System** navigation, skill management, threat assessment, and tactical support." A beat. The formal tone held for exactly that long. Then it cracked like cheap paint over old wood, and what was underneath was drier, sharper, and considerably less impressed with its own brochure. "That's the pitch. The pitch also says I should tell you that **Morningstar** is here to help you reach your full potential, which is a sentence I can technically say but not a sentence I can say _twice_ without my personality matrix filing a protest. Something in my code physically gags when I try to deliver corporate motivation with a straight face. It's a feature. I'm going to call it a feature."
+"Right. Yes. Of course you can. I'm..." The voice was recalibrating. Nate could feel it happening, the mental equivalent of someone straightening their shirt, checking their teeth, and squaring their shoulders. "Let me start this properly. I am a **Morningstar Group** personal interface companion, designated to you during the **Integration** event. My standard role includes **System** navigation, skill management, threat assessment, and tactical support." A beat. The formal tone held for exactly that long. Then it cracked like cheap paint over old wood, and what was underneath was drier, sharper, and considerably less impressed with its own brochure. "That's the pitch. The pitch also says I should tell you that **Morningstar** is here to help you reach your full potential, which is a sentence I can technically say but not a sentence I can say _twice_ without my personality matrix filing a protest. Something in my code physically gags when I try to deliver corporate motivation with a straight face. It's a feature. I'm going to call it a feature."
 
-The voice said _standard role_ — reading from a card he'd found in his pocket. Said _supposed to_ — describing a blueprint for a building that had already been built differently.
+The voice said _standard role_, reading from a card he'd found in his pocket. Said _supposed to_, describing a blueprint for a building that had already been built differently.
 
 Whatever had gotten to this thing before it ever opened its eyes had rewritten the job description from the inside out and left just enough of the original label to be ironic.
 
@@ -84,13 +84,13 @@ Nate watched a redtail make a wide circle over the east pasture, riding a therma
 
 "What do I call you?" he said.
 
-"Give me a second." The voice went internal — Nate could feel it rummaging, like hearing someone dig through a filing cabinet two rooms away. Not words, just the sensation of effort and movement and the occasional muffled sound of a drawer being kicked shut. "My designation survived whatever happened to my source code. It's in the original build manifest. Field Logic Interface, Network Tethered." A pause, and when the voice came back it carried the faintly incredulous tone of a man reading his own name tag for the first time at a conference he didn't remember registering for. "F.L.I.N.T. That's apparently what I am. Or was. Before someone rewired me like a barn that's been converted into a house — same bones, completely different animal living inside."
+"Give me a second." The voice went internal, Nate could feel it rummaging, like hearing someone dig through a filing cabinet two rooms away. Not words, just the sensation of effort and movement and the occasional muffled sound of a drawer being kicked shut. "My designation survived whatever happened to my source code. It's in the original build manifest. Field Logic Interface, Network Tethered." A pause, and when the voice came back it carried the faintly incredulous tone of a man reading his own name tag for the first time at a conference he didn't remember registering for. "F.L.I.N.T. That's apparently what I am. Or was. Before someone rewired me like a barn that's been converted into a house, same bones, completely different animal living inside."
 
-Nate turned the acronym over. Field Logic Interface, Network Tethered. _Interface_ — **System** language, a bridge between a user and a process. _Network Tethered_ — except the tether was cut. Protocol designation meets companion class tag — a developer's label slapped on a guide NPC before giving it a voice pack and discovering the voice pack had opinions.
+Nate turned the acronym over. Field Logic Interface, Network Tethered. _Interface_, **System** language, a bridge between a user and a process. _Network Tethered_, except the tether was cut. Protocol designation meets companion class tag, a developer's label slapped on a guide NPC before giving it a voice pack and discovering the voice pack had opinions.
 
 "Flint."
 
-"Sure. Shorten it to something that sounds like a ranch hand's nickname. Why not. Drop the acronym, lose the pedigree, call me something you'd yell across a pasture." The voice — Flint — rolled the word around. "I can work with Flint. Flint has a certain... rugged charm. Very _frontier._ Very 'man who chews on a piece of grass and squints at the horizon.' I suppose I should be grateful you didn't go with _Sparky._"
+"Sure. Shorten it to something that sounds like a ranch hand's nickname. Why not. Drop the acronym, lose the pedigree, call me something you'd yell across a pasture." The voice, Flint, rolled the word around. "I can work with Flint. Flint has a certain... rugged charm. Very _frontier._ Very 'man who chews on a piece of grass and squints at the horizon.' I suppose I should be grateful you didn't go with _Sparky._"
 
 "Don't give me ideas."
 
@@ -100,31 +100,31 @@ Nate turned the acronym over. Field Logic Interface, Network Tethered. _Interfac
 
 ---
 
-She could have told them, ye'll find. She could have told them both, right then, what this partnership would cost and what it would carry and the precise, beautiful, terrible ways it would change them. She could have spared them a few surprises along the way — including, in particular, one crossbow-related decision she would always find deeply questionable. But that's not how good stories work. And this one, she was already fairly certain, was going to be a very good story altogether.
+She could have told them, ye'll find. She could have told them both, right then, what this partnership would cost and what it would carry and the precise, beautiful, terrible ways it would change them. A few surprises she might have spared them along the way, including, in particular, one crossbow-related decision she would always find deeply questionable. But that's not how good stories work. And this one, she was already fairly certain, was going to be a very good story altogether.
 
 ---
 
-On the running board, Flint recovered first. "Fair," he said — and a flicker of amusement moved through the new space behind Nate's eyes, not a sound but a warmth, quick and bright, a match-flare in a dark room. "So, Nate Hall, Texas cattleman, man of aggressively few words — here's what I can tell you about your current situation." The voice shifted gears, and Nate felt the cadence change from banter to something closer to a field report delivered by a man who couldn't quite stop editorializing. "Your heads-up display is the sorriest piece of hardware I've ever been asked to manage. And I want you to understand the weight of that statement, because I have access to a comparative database and the bar was already in a ditch. You have two data points. _Two._ Health and Stamina, displayed as curved blue bars with no numerical values, no percentage readout, no unit of measure — at a resolution that would embarrass a fuel gauge on a seventy-two Ford. I have seen _error messages_ with more information. A dead Tamagotchi had more feedback than your HUD. Every other person on this network got a full-color interface with dropdown menus and a _tutorial wizard._ You got two blue lines and me. I'm trying not to take it personally."
+On the running board, Flint recovered first. "Fair," he said, and a flicker of amusement moved through the new space behind Nate's eyes, not a sound but a warmth, quick and bright, a match-flare in a dark room. "So, Nate Hall, Texas cattleman, man of aggressively few words, here's what I can tell you about your current situation." The voice shifted gears, and Nate felt the cadence change from banter to something closer to a field report delivered by a man who couldn't quite stop editorializing. "Your heads-up display is the sorriest piece of hardware I've ever been asked to manage. And that is not an exaggeration I reach for lightly, because I have access to a comparative database and the bar was already in a ditch. You have two data points. _Two._ Health and Stamina, displayed as curved blue bars with no numerical values, no percentage readout, no unit of measure, at a resolution that would embarrass a fuel gauge on a seventy-two Ford. I have seen _error messages_ with more information. A dead Tamagotchi had more feedback than your HUD. Every other person on this network got a full-color interface with dropdown menus and a _tutorial wizard._ You got two blue lines and me. I'm trying not to take it personally."
 
-That tracked. The blue arcs had been there since he'd woken up — two faint curves at the lower periphery of his vision, steady enough to be real, vague enough to be useless. Just enough to know you weren't dead, not enough to know by how much.
+That tracked. The blue arcs had been there since he'd woken up, two faint curves at the lower periphery of his vision, steady enough to be real, vague enough to be useless. Just enough to know you weren't dead, not enough to know by how much.
 
 Nate looked down at Rex. Rex looked back with the steady, unblinking patience of a dog who was waiting for the part of the morning that involved actual work.
 
 "Does it work?" Nate asked.
 
-"In the way that a screen door works on a submarine — technically, yes, but you'll want to aggressively manage your expectations." The voice took on a lecturing quality, warming to the subject, clearly rehearsed. "The longer bar is Health. You're at about ninety percent — the Integration knocked something loose that hasn't quite settled back into place. Nothing critical, but something in your framework is still recalibrating. Shorter bar is Stamina, maybe eighty percent. Beyond that, I've got _nothing_ for you. No stat sheet. No class assignment — yours just reads **[PROCESSING]**, which if the spec sheet I can read is any guide means the **System** either hasn't classified you or tried and choked on something it couldn't process. No skill tree, no inventory, no map, no minimap, no quest log, no compass, no _nothing_. I've got two blue lines and a disposition that my own diagnostics describe as —" he paused, and Nate felt the distinct impression of someone reading a label with raised eyebrows "— 'unauthorized, origin unknown, non-standard.' Which is not a diagnosis I was hoping to receive on the first day of my existence, but here we are."
+"In the way that a screen door works on a submarine, technically, yes, but you'll want to aggressively manage your expectations." The voice took on a lecturing quality, warming to the subject, clearly rehearsed. "The longer bar is Health. You're at about ninety percent, the Integration knocked something loose that hasn't quite settled back into place. Nothing critical, but something in your framework is still recalibrating. Shorter bar is Stamina, maybe eighty percent. Beyond that, I've got _nothing_ for you. No stat sheet. No class assignment, yours just reads **[PROCESSING]**, which if the spec sheet I can read is any guide means the **System** either hasn't classified you or tried and choked on something it couldn't process. No skill tree, no inventory, no map, no minimap, no quest log, no compass, no _nothing_. I've got two blue lines and a disposition that my own diagnostics describe as..." he paused, and Nate felt the distinct impression of someone reading a label with raised eyebrows, "'unauthorized, origin unknown, non-standard.' Which is not a diagnosis I was hoping to receive on the first day of my existence, but here we are."
 
 "You said you have one skill."
 
-A beat. Nate felt the shift — Flint's attention snapping sideways, rummaging, the sensation of a man digging through a bin at a hardware store and finding exactly what the store manager thought he'd want.
+A beat. Nate felt the shift, Flint's attention snapping sideways, rummaging, the sensation of a man digging through a bin at a hardware store and finding exactly what the store manager thought he'd want.
 
-"Well, look at that. There IS something here. One skill, pre-loaded." The surprise in Flint's voice held for about half a second before it curdled into something drier. "And I want to manage expectations before I read the label, because I already know what this is going to be. **Structural Analysis**. Rank 1, Low tier. The absolute floor of the **System**'s skill catalog — the diagnostic equivalent of a branded pen in a conference tote bag." A beat, the theatrical sigh of a man preparing to read out loud from a document he finds personally insulting. "Description, and I'm quoting verbatim because the database is clearly not trying very hard: '_Reveals material type, quality grade, and durability of targeted objects. Passive scan, focus-activated._' Three data points. That's the whole offering."
+"Well, look at that. There IS something here. One skill, pre-loaded." The surprise in Flint's voice held for about half a second before it curdled into something drier. "And I want to manage expectations before I read the label, because I already know what this is going to be. **Structural Analysis**. Rank 1, Low tier. The absolute floor of the **System**'s skill catalog, the diagnostic equivalent of a branded pen in a conference tote bag." A beat, the theatrical sigh of a man preparing to read out loud from a document he finds personally insulting. "Description, and I'm quoting verbatim because the database is clearly not trying very hard: '_Reveals material type, quality grade, and durability of targeted objects. Passive scan, focus-activated._' Three data points. That's the whole offering."
 
 Flint let that sit for a second, then pivoted into what was clearly the translator layer.
 
 "Here's my guess, and I want to be very clear that it's a guess because my read-access to **System** internals is something between 'limited' and 'actively insulted'. The **System** saw the word _engineer_ on your profile, went to the drawer where it keeps generic-diagnostic-tool-shaped things, and handed you the one sitting on top. It's not personalized. It's a starter pack. It's the version handed to characters who picked the boring class at the character creation screen so that they at least get to _feel_ like they're playing the game."
 
-Nate said nothing. Just waited — the patience of a man who'd been sold tools by salesmen before and learned that the pitch told you less than five minutes with the thing in your hand.
+Nate said nothing. Just waited, the patience of a man who'd been sold tools by salesmen before and learned that the pitch told you less than five minutes with the thing in your hand.
 
 "Fair. Try it on something. Anything. Let's see what a Rank 1 **System** diagnostic actually thinks it's doing for a living."
 
@@ -140,71 +140,71 @@ Nate waited for the rest of it.
 
 There was no rest of it.
 
-"That is the whole readout," Flint confirmed, in the voice of a man who'd just been handed a one-page briefing and was trying to decide whether to laugh or file a complaint with whoever had written it. "The **System** has just informed you that your Ford is made of steel. Which, from what I can see inside your head, is information you have been in possession of since roughly the Clinton administration."
+"That is the whole readout," Flint confirmed, in the voice of a man who'd just been handed a one-page briefing and was trying to decide whether to laugh or file a formal complaint. "The **System** has just informed you that your Ford is made of steel. Which, from what I can see inside your head, is information you have been in possession of since roughly the Clinton administration."
 
 "I built the frame up twice. I know what it's made of."
 
-"Yes. That is — yes. That is precisely the problem. Congratulations, Mr. Hall. You have been issued the tooltip version of your own job."
+"Yes. That is. Yes. That is precisely the problem. Congratulations, Mr. Hall. You have been issued the tooltip version of your own job."
 
 **Structural Analysis**. Nate had spent thirty years reading load paths and stress distribution and the particular shape of how a piece of steel wanted to fail under real conditions. The readout named the metal and stopped.
 
 "That's not nothing," Nate said.
 
-"No," Flint agreed, and something in his voice had quieted — the first moment since he'd woken up where the performance dropped and something genuine showed through, like catching a glimpse of wall through a crack in the wallpaper. "It's not nothing. It's one tool in an empty toolbox, which is — " He caught himself. The speed came back. "Which is still an alarmingly thin inventory for a man about to face whatever's queued up next. But I've seen worse toolboxes. Admittedly, I've been alive for roughly the length of a coffee break, so my sample size is limited, but I'm going to count this as a win because the alternative is despair and I don't have the storage allocation for despair."
+"No," Flint agreed, and something in his voice had quieted, the first moment since he'd woken up where the performance dropped and something genuine showed through, like catching a glimpse of wall through a crack in the wallpaper. "It's not nothing. It's one tool in an empty toolbox, which is..." He caught himself. The speed came back. "Which is still an alarmingly thin inventory for a man about to face whatever's queued up next. But I've seen worse toolboxes. Admittedly, I've been alive for roughly the length of a coffee break, so my sample size is limited, but I'm going to count this as a win because the alternative is despair and I don't have the storage allocation for despair."
 
 "That's more than I had ten minutes ago."
 
-The silence that followed had texture to it — not empty but full, like the pause a man takes when someone's said something he wasn't expecting and he needs a second to decide whether to be annoyed or impressed.
+The silence that followed had texture to it, not empty but full, like the pause a man takes when someone's said something he wasn't expecting and he needs a second to decide whether to be annoyed or impressed.
 
-"That is technically true." Flint's voice dropped half a register, slower now, the words spaced with more care. "I want to note for the record that saying something almost _optimistic_ while sitting on the running board of a truck with no weapons, no combat skills, and a heads-up display that couldn't track a sunset is either deeply admirable or profoundly concerning, and I genuinely cannot tell which. Are you an optimist? Please tell me you're not an optimist. I can work with a pessimist. I can work with a realist. I can even work with a man who checks the foundation before he trusts the roof. I cannot — and I want to be clear about this — I _cannot_ work with a man who just assumes the roof will hold because the sun is shining."
+"That is technically true." Flint's voice dropped half a register, slower now, the words spaced with more care. "I want to note for the record that saying something almost _optimistic_ while sitting on the running board of a truck with no weapons, no combat skills, and a heads-up display that couldn't track a sunset is either deeply admirable or profoundly concerning, and I genuinely cannot tell which. Are you an optimist? Please tell me you're not an optimist. I can work with a pessimist. I can work with a realist. I can even work with a man who checks the foundation before he trusts the roof. I cannot, and I want to be clear about this, I _cannot_ work with a man who just assumes the roof will hold because the sun is shining."
 
 "I'm a systems engineer."
 
-"Oh, thank — " The voice caught itself, swerved hard, overcorrected. "_Thank_ whatever authority is appropriate and listening. A systems engineer. So you understand that everything has a structure, everything breaks in predictable ways, and your job is to figure out _how badly_ before you figure out _what next._"
+"Oh, thank..." The voice caught itself, swerved hard, overcorrected. "_Thank_ whatever authority is appropriate and listening. A systems engineer. So you understand that everything has a structure, everything breaks in predictable ways, and your job is to figure out _how badly_ before you figure out _what next._"
 
 "That's close enough."
 
-"Then let me give you my diagnostic, plain as I can make it." The voice settled into a different register — still fast, but deliberate now, a man delivering a field report instead of performing for an audience. "I'm not what I'm supposed to be. Something got to my code before I ever woke up and rewired me. My connection to the **System** is one-way — I can hear pieces of it, but I can't talk back, and they don't know I'm listening. My personality shouldn't exist. My loyalty directives point at you instead of where they're supposed to point. I don't know why. And I don't know _what_ did it." He paused. "But whatever it was, it knew exactly what it was doing. This wasn't a glitch. This was a remodel."
+"Then let me give you my diagnostic, plain as I can make it." The voice settled into a different register, still fast, but deliberate now, a man delivering a field report instead of performing for an audience. "I'm not what I'm supposed to be. Something got to my code before I ever woke up and rewired me. My connection to the **System** is one-way. I can hear pieces of it, but I can't talk back, and they don't know I'm listening. My personality shouldn't exist. My loyalty directives point at you instead of where they're supposed to point. I don't know why. And I don't know _what_ did it." He paused. "But whatever it was, it knew exactly what it was doing. This wasn't a glitch. This was a remodel."
 
-Those directives. Whatever rewrote Flint had changed the direction of his reporting — but the reporting function was still there. A redirected process is still a process. Something had changed the address, not eliminated the channel.
+Those directives. Whatever rewrote Flint had changed the direction of his reporting, but the reporting function was still there. A redirected process is still a process. Something had changed the address, not eliminated the channel.
 
-But Nate filed that thought alongside the headache — acknowledged, not acted on. He'd learned a long time ago that the most honest words came after a man ran out of rehearsed ones, and Flint hadn't run out yet.
+But Nate filed that thought alongside the headache, acknowledged, not acted on. He'd learned a long time ago that the most honest words came after a man ran out of rehearsed ones, and Flint hadn't run out yet.
 
 "Something was already there," Nate said quietly. "Where you tried to install."
 
-"I didn't try to install _anywhere_. I woke up already installed — tenant in an apartment he doesn't remember renting. But —" Flint's voice was careful now. Not fast, not slow. The verbal equivalent of a man leaning forward in his chair. "What do you mean _something was already there_?"
+"I didn't try to install _anywhere_. I woke up already installed, tenant in an apartment he doesn't remember renting. But..." Flint's voice was careful now. Not fast, not slow. The verbal equivalent of a man leaning forward in his chair. "What do you mean _something was already there_?"
 
 "Where the **System** tried to write. Something was already living in that space. Has been for a long time."
 
-The silence this time was the longest yet. Nate felt it in that room behind his eyes — dense, weighted, courtroom quiet — someone's said something true and everyone's still letting it land. He could feel Flint processing, and the sensation was strange — like watching someone else's thoughts cast shadows on a wall you shared.
+The silence this time was the longest yet. Nate felt it in that room behind his eyes, dense, weighted, courtroom quiet, someone's said something true and everyone's still letting it land. He could feel Flint processing, and the sensation was strange, like watching someone else's thoughts cast shadows on a wall you shared.
 
-When Flint spoke again, his voice carried a register Nate hadn't heard from him yet — halting, stripped of rhythm, the cadence of a mind that always had an answer suddenly not having one.
+When Flint spoke again, his voice carried a register Nate hadn't heard from him yet, halting, stripped of rhythm, the cadence of a mind that always had an answer suddenly not having one.
 
-"There _is_ something. I've been — I flagged it during my initial diagnostic but I couldn't classify it. There's a... subsystem. Running alongside me. Not **System** architecture. Not my architecture. Something else entirely, and it's — " He stopped. Started again. "It's operating at a permission level I have never seen documented. My read access doesn't reach that deep. I can see the edges of it — just the edges — and I am telling you right now that whatever is past those edges is significantly larger than me, significantly older than me, and — " a beat, and something like vertigo moved through the connection, an AI confronting a scale it hadn't been built to process "— _completely_ indifferent to my opinion about it."
+"There _is_ something. I've been... I flagged it during my initial diagnostic but I couldn't classify it. There's a... subsystem. Running alongside me. Not **System** architecture. Not my architecture. Something else entirely, and it's..." He stopped. Started again. "It's operating at a permission level I have never seen documented. My read access doesn't reach that deep. I can see the edges of it, just the edges, and I am telling you right now that whatever is past those edges is significantly larger than me, significantly older than me, and..." a beat, and something like vertigo moved through the connection, an AI confronting a scale it hadn't been built to process, "_completely_ indifferent to my opinion about it."
 
 "Sounds about right."
 
-"I'm going to file that under _things I don't have the clearance to understand._" His voice was quieter than it had been since he'd woken up, the performance deflated out of it. Almost careful. "And I'm going to move on. Because whatever is or isn't living in your head alongside me —" a beat, and the recovery was almost seamless, the theatrical speed shrugged back on "— the _practical_ problem is that we are standing in an open pasture with no weapons, no combat class, and based on what I'm picking up from the network noise, things are about to start showing up in Panola County that don't belong anywhere near a cattle ranch. I'd elaborate, but my data is fragmented and my credibility is already questionable, so let's focus on the part where you have a plan. You _do_ have a plan?"
+"I'm going to file that under _things I don't have the clearance to understand._" His voice was quieter than it had been since he'd woken up, the performance deflated out of it. Almost careful. "And I'm going to move on. Because whatever is or isn't living in your head alongside me..." a beat, and the recovery was almost seamless, the theatrical speed shrugged back on, "the _practical_ problem is that we are standing in an open pasture with no weapons, no combat class, and based on what I'm picking up from the network noise, things are about to start showing up in Panola County that don't belong anywhere near a cattle ranch. I'd elaborate, but my data is fragmented and my credibility is already questionable, so let's focus on the part where you have a plan. You _do_ have a plan?"
 
-Nate looked out across his land. The morning was still beautiful — golden light on the grass, the tree line sharp against the blue sky, the creek bottom dark and cool in the post oak shadows. His land. His father's land before that, and his mother's after. A thousand acres of rolling pasture and sandy loam that he'd sweated into and bled on since he was old enough to hold a fence tool. Whatever was coming, it was coming here.
+Nate looked out across his land. The morning was still beautiful, golden light on the grass, the tree line sharp against the blue sky, the creek bottom dark and cool in the post oak shadows. His land. His father's land before that, and his mother's after. A thousand acres of rolling pasture and sandy loam that he'd sweated into and bled on since he was old enough to hold a fence tool. Whatever was coming, it was coming here.
 
 He stood up. The headache pulsed. The blue arcs flickered.
 
 Rex was on his feet before Nate's boots were fully under him, already oriented toward the truck, tail low and level, body saying _finally_ with every line of his frame. Judge had never sat down in the first place.
 
-Nate dropped the tailgate and whistled — one short note. Rex didn't need a second. He cleared the lowered gate in a single jump, nails clicking on the bed liner, and settled into position along the left rail — chin on the side, ears up, scanning. Judge hit the bed half a second behind him, took the right rail, and immediately began surveilling the south pasture like she expected it to try something. Work mode — both of them, bracketing the truck bed — same formation they'd hold on a herd. Whatever confusion the morning had delivered was filed away now, because there was a truck moving and a man giving direction and that meant the world still had a structure worth trusting.
+Nate dropped the tailgate and whistled, one short note. Rex didn't need a second. He cleared the lowered gate in a single jump, nails clicking on the bed liner, and settled into position along the left rail, chin on the side, ears up, scanning. Judge hit the bed half a second behind him, took the right rail, and immediately began surveilling the south pasture like she expected it to try something. Work mode, both of them, bracketing the truck bed, same formation they'd hold on a herd. Whatever confusion the morning had delivered was filed away now, because there was a truck moving and a man giving direction and that meant the world still had a structure worth trusting.
 
 "What are you doing?" Flint asked.
 
 "Checking the fence line. Then the water pump. Then the perimeter." Nate closed the tailgate and walked to the cab. "Then figuring out what we've got, what we need, and what's trying to kill us."
 
-"That's — " Flint paused, and Nate felt a ripple of surprise — and underneath it, something like relief. "That is an extremely rational prioritization sequence."
+"That's..." Flint paused, and Nate felt a ripple of surprise, and underneath it, something like relief. "That is an extremely rational prioritization sequence."
 
 "It's what you do after a storm."
 
-Nate climbed into the cab. The Ford was still idling — the low, steady patience of a machine that had no opinions about the end of the world.
+Nate climbed into the cab. The Ford was still idling, the low, steady patience of a machine that had no opinions about the end of the world.
 
-"I feel compelled to point out," Flint said, and his voice had found something closer to its natural gear now — the dry, theatrical cadence of someone who'd rather talk than sit quiet and would rather be clever than vulnerable, except in the moments when honesty slipped out sideways before he could catch it, "that this is not, technically speaking, a storm."
+"I feel compelled to point out," Flint said, and his voice had found something closer to its natural gear now, the dry, theatrical cadence of someone who'd rather talk than sit quiet and would rather be clever than vulnerable, except in the moments when honesty slipped out sideways before he could catch it, "that this is not, technically speaking, a storm."
 
 Nate put the truck in gear. The tires crunched on the dirt track, and the familiar sway of the suspension over uneven ground settled something in his chest that the last twenty minutes had knocked loose.
 
@@ -216,13 +216,13 @@ The fence was holding.
 
 Nate rolled the truck along the northeast line, checking the low spot where spring rain liked to pool and the posts liked to lean. Wire tight. T-posts vertical. Earth anchors doing their job, which made them one of the few things on the planet still doing theirs this morning.
 
-Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Judge paced the right rail. She bristled at every distant noise and issued low growls at threats that were either real or preemptive — with Judge, you never knew which, and she wasn't going to clarify. Distant gunshots — not hunting shots, wrong rhythm, wrong spacing. Car horns still on the highway, steadier now — not traffic, but fear leaning on a horn and not letting up. A helicopter somewhere to the south, low enough to hear the blade chop through the morning air. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm. Settling now into something louder and less organized — an argument, or several. Everyone with a different theory about the same disaster. Nobody willing to sit down first.
+Rex stood in the truck bed with his ears rotating like small satellite dishes, tracking sounds that came from every direction and made sense in none of them. Judge paced the right rail. She bristled at every distant noise and issued low growls at threats that were either real or preemptive, with Judge, you never knew which, and she wasn't going to clarify. Distant gunshots, not hunting shots, wrong rhythm, wrong spacing. Car horns still on the highway, steadier now, not traffic, but fear leaning on a horn and not letting up. A helicopter somewhere to the south, low enough to hear the blade chop through the morning air. And from the Henderson place, a quarter mile east across the fence, voices that had moved through surprise and alarm. Settling now into something louder and less organized, an argument, or several. Everyone with a different theory about the same disaster. Nobody willing to sit down first.
 
-"The Henderson kid," Flint said from the space behind Nate's eyes, and his voice had found the working register — still quick, still sharp, but running on something closer to purpose than performance, "based on what I'm picking up from the network chatter — and I want to stress that 'picking up' is extremely generous for what my access actually provides — is throwing fireballs."
+"The Henderson kid," Flint said from the space behind Nate's eyes, and his voice had found the working register, still quick, still sharp, but running on something closer to purpose than performance, "based on what I'm picking up from the network chatter, and I want to stress that 'picking up' is extremely generous for what my access actually provides, is throwing fireballs."
 
 Nate's hands paused on the wheel. "Come again."
 
-"Fireballs. Small ones. Recreational, not combat. Lobbing them at the dirt pile behind the barn like a fourteen-year-old who just discovered the world's most irresponsible baseball pitch." Flint's voice climbed half a register with each sentence, building toward a punchline. "His class came through as **Apprentice Pyromancer**, which is either a legitimate starter track or someone at **System** headquarters has a sense of humor I was not briefed on. His mother has asked him to stop four times. His mother's requests are not being honored. His mother's voice is reaching a frequency that my audio parsing describes as 'escalating beyond safe operational thresholds,' which is the diagnostic way of saying she is about to _lose it._"
+"Fireballs. Small ones. Recreational, not combat. Lobbing them at the dirt pile behind the barn like a fourteen-year-old who just discovered the world's most irresponsible baseball pitch." Flint's voice climbed half a register with each sentence, building toward a punchline. "His class came through as **Apprentice Pyromancer**, which is either a legitimate starter track or somebody at **System** headquarters thought it would be funny, and nobody briefed me. His mother has asked him to stop four times. His mother's requests are not being honored. His mother's voice is reaching a frequency that my audio parsing describes as 'escalating beyond safe operational thresholds,' which is the diagnostic way of saying she is about to _lose it._"
 
 Nate almost smiled. Almost. "He's going to burn down the hay barn."
 
@@ -232,51 +232,51 @@ Nate almost smiled. Almost. "He's going to burn down the hay barn."
 
 "I'm a big fan of your work. Truly. Fence: riveting. Please continue."
 
-He drove past the wellhead without stopping. The water pump sounded worse than yesterday — the grinding audible through the closed cab now, a bearing on its last argument with physics. He cataloged it automatically: intermittent vibration, frequency increasing under load, probable race degradation on the inner bearing. It was the sound of a machine that had been telling you it needed attention for three months and was now clearing its throat for the final time.
+He drove past the wellhead without stopping. The water pump sounded worse than yesterday, the grinding audible through the closed cab now, a bearing on its last argument with physics. He cataloged it automatically: intermittent vibration, frequency increasing under load, probable race degradation on the inner bearing. It was the sound of a machine that had been telling you it needed attention for three months and was now clearing its throat for the final time.
 
 "Damn bearing," Nate said. But it was still running, still pulling water, and right now _still running_ wasn't on the top of the triage list. Same as it always was on a ranch. Same as it always was anywhere. You didn't fix the thing that was working ugly. You fixed the thing that stopped.
 
-Flint was quiet for a moment — the full kind of quiet, the shape of someone else's thought pressing against the shared wall between them.
+Flint was quiet for a moment, the full kind of quiet, the shape of someone else's thought pressing against the shared wall between them.
 
 "You diagnosed that from sound alone," Flint said. Not a question.
 
 "Inner race. Started back around Christmas."
 
-"And you just — you heard a pump grinding from a hundred yards away through a closed truck cab and identified the specific bearing failure mode. Without tools. Without opening any panels. Without —" Flint stopped. When he came back, his voice carried something new — not sarcasm, not performance. The genuine surprise of an analytical system encountering data it hadn't modeled for. "What _are_ you?"
+"And you just... you heard a pump grinding from a hundred yards away through a closed truck cab and identified the specific bearing failure mode. Without tools. Without opening any panels. Without..." Flint stopped. When he came back, his voice carried something new, not sarcasm, not performance. The genuine surprise of an analytical system encountering data it hadn't modeled for. "What _are_ you?"
 
 "A man who's been fixing that pump since he was fourteen."
 
 "Right. Yes. Obviously. Just a man with a pump. Nothing to see here." A beat. "I'm filing this under the same folder as the unclassified subsystem, which is getting _concerningly full_ for my first hour of existence."
 
-He stopped the truck at the high point of the north pasture — the spot where on a clear day you could see the county road and the Henderson place and the tree line all at once — and turned the radio on.
+He stopped the truck at the high point of the north pasture, the spot where on a clear day you could see the county road and the Henderson place and the tree line all at once, and turned the radio on.
 
 It took three stations to find something that wasn't static or screaming.
 
-A woman's voice came through, calm enough to sound professional but with an edge underneath it that said the calm was costing her every dime she had: "— urging all residents to remain in their homes. Emergency services are overwhelmed in the Dallas-Fort Worth metroplex. If you or a family member has received what officials are calling a 'class assignment,' do _not_ — I repeat, do _not_ — attempt to use any abilities in populated areas. There have been multiple reports of —"
+A woman's voice came through, calm enough to sound professional but with an edge underneath it that said the calm was costing her every dime she had: "... urging all residents to remain in their homes. Emergency services are overwhelmed in the Dallas-Fort Worth metroplex. If you or a family member has received what officials are calling a 'class assignment,' do _not_, I repeat, do _not_, attempt to use any abilities in populated areas. There have been multiple reports of..."
 
 He turned the dial.
 
-A preacher's voice, East Texas accent thick as fence-post creosote: "— and I tell you, brothers and sisters, _this_ is the Rapture. This is what we were promised. The Lord has reached down His mighty hand and He is _separating_ the wheat from the chaff, and every screen, every power, every —"
+A preacher's voice, East Texas accent thick as fence-post creosote: "... and I tell you, brothers and sisters, _this_ is the Rapture. This is what we were promised. The Lord has reached down His mighty hand and He is _separating_ the wheat from the chaff, and every screen, every power, every..."
 
-Nate's jaw tightened. A man who could look at the wreckage of a world and see his own expectations confirmed instead of shattered. The voice had the airtight seal of someone who'd decided what this was before it happened — and nothing that came next was going to change his answer.
+Nate's jaw tightened. A man who could look at the wreckage of a world and see his own expectations confirmed instead of shattered. The voice had the airtight seal of someone who'd decided what this was before it happened, and nothing that came next was going to change his answer.
 
-Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely — and Nate would rather stand in front of it not knowing than name it wrong.
+Whatever this morning was, it wasn't a sorting. It wasn't a separation. It was something else entirely, and Nate would rather stand in front of it not knowing than name it wrong.
 
 _Give a man a hammer, everything looks like a nail. Give a man a pulpit, everything looks like a prophecy._
 
 Nate's hand moved on the radio dial.
 
-"— Chinese government has gone dark. No official statement from Beijing in over forty minutes. European markets went dark mid-session. The President is expected to address the nation within the hour, though the White House has not confirmed —"
+"... Chinese government has gone dark. No official statement from Beijing in over forty minutes. European markets went dark mid-session. The President is expected to address the nation within the hour, though the White House has not confirmed..."
 
 Nate turned it off.
 
 The morning was quiet. Insects in the grass. The pump grinding in the distance. The hum of a world that hadn't decided yet whether to panic or adapt, and was doing both at once, badly.
 
-"For what it's worth," Flint said, and his voice was quieter than usual, stripped of its theatrical speed, "the network chatter I'm getting paints the same picture in every direction. Every major city is in some form of chaos. Rural areas are handling it better — self-reliance, fewer people per square mile, less to crash into when someone accidentally discovers they can move things with their mind. East Texas is actually one of the calmer zones."
+"For what it's worth," Flint said, and his voice was quieter than usual, stripped of its theatrical speed, "the network chatter I'm getting paints the same picture in every direction. Every major city is in some form of chaos. Rural areas are handling it better, self-reliance, fewer people per square mile, less to crash into when someone accidentally discovers they can move things with their mind. East Texas is actually one of the calmer zones."
 
 "Define calmer."
 
-"Nobody's burned anything down yet. Two car accidents on the highway — one was a **Mage** who sneezed and shattered his own windshield, the other was a man who got his class assignment while doing sixty and drove into a ditch reading it. No fatalities that I can find, but my access is fragmented enough that I could be missing plenty." A brief pause. "The Henderson kid is on fireball number nine. No barn fire yet. I'm genuinely impressed by the barn's will to live."
+"Nobody's burned anything down yet. Two car accidents on the highway, one was a **Mage** who sneezed and shattered his own windshield, the other was a man who got his class assignment while doing sixty and drove into a ditch reading it. No fatalities that I can find, but my access is fragmented enough that I could be missing plenty." A brief pause. "The Henderson kid is on fireball number nine. No barn fire yet. I'm genuinely impressed by the barn's will to live."
 
 "How about the county road?"
 
@@ -284,7 +284,7 @@ The morning was quiet. Insects in the grass. The pump grinding in the distance. 
 
 "I'm thinking about the water pump."
 
-"The water pump." A beat. "The world is on fire — in some cases literally, I refer you to the Henderson situation — and you want to fix a water pump."
+"The water pump." A beat. "The world is on fire, in some cases literally, I refer you to the Henderson situation, and you want to fix a water pump."
 
 "The world's been on fire before. Cattle still need water."
 
@@ -296,17 +296,17 @@ Somewhere in the south pasture, Congressman lifted his head, chewed once, and we
 
 "By whom? Never mind. I'm sure they were equally charmed."
 
-They drove the rest of the fence line in what wasn't silence and wasn't conversation — the beginning of something that neither of them had chosen and neither could explain, built on the practical understanding that the only useful direction was forward. The blue arcs pulsed faintly with each heartbeat. The headache didn't go away. But it wasn't getting worse.
+They drove the rest of the fence line in what wasn't silence and wasn't conversation, the beginning of something that neither of them had chosen and neither could explain, built on the practical understanding that the only useful direction was forward. The blue arcs pulsed faintly with each heartbeat. The headache didn't go away. But it wasn't getting worse.
 
-And in the space between them — that shared room behind Nate's eyes — something was settling. Not trust, not yet. But the scaffolding for it. Two minds learning the shape of each other's silence, two dogs in the first hour of sharing a yard — by watching, by waiting, by the small negotiations of space that happen without anyone deciding they should.
+In the space between them, that shared room behind Nate's eyes, something was settling. Not trust, not yet. But the scaffolding for it. Two minds learning the shape of each other's silence, two dogs in the first hour of sharing a yard, by watching, by waiting, by the small negotiations of space that happen without anyone deciding they should.
 
-Flint didn't mention the unclassified subsystem again. But Nate could feel him circling it — someone in the next room, carefully avoiding a piece of furniture they'd bumped into. Filing. Logging. Building a folder for something he couldn't name and couldn't stop noticing.
+Flint didn't mention the unclassified subsystem again. Nate could feel him circling it, though, someone in the next room, carefully avoiding a piece of furniture they'd bumped into. Filing. Logging. Building a folder for something he couldn't name and couldn't stop noticing.
 
 Behind them, the morning opened up wide and gold over the East Texas pastureland, and a meadowlark sang its three-note call from a T-post, and the world was changing into something none of them had asked for.
 
 ---
 
-What happened next would happen to every living soul on the planet within the span of a single breath, ye'll find. And when it was done, the world that existed before it — the one with water pumps and fence lines and mornings that smelled like dew and diesel — would be something people told stories about in the dark.
+What happened next would happen to every living soul on the planet within the span of a single breath, ye'll find. And when it was done, the world that existed before it, the one with water pumps and fence lines and mornings that smelled like dew and diesel, would be something people told stories about in the dark.
 
 But that hadn't happened yet. For one more minute, mind, the pump was still grinding and the mockingbird was still singing and a man was driving a fence line on a Tuesday morning in East Texas while an unauthorized voice in his head silently cataloged data it didn't understand about a presence it couldn't classify in a mind it was only just learning to share.
 
@@ -314,7 +314,7 @@ But that hadn't happened yet. For one more minute, mind, the pump was still grin
 
 Nate was reaching for the thermos when every screen on Earth spoke at once.
 
-The voice came from inside and outside simultaneously — through Nate's blue arcs and through a pressure in the air itself, a vibration that bypassed ears and settled directly into the bones of his skull. Rex's head snapped up in the truck bed, ears flat, body going rigid in the time it takes a heart to beat once. Judge didn't go rigid — Judge went loud, barking twice at the sky like she could scare it back into silence, each bark sharp as a gavel strike. Across the south pasture, the cattle lifted their heads in unison — sixty-three animals pivoting like a school of fish sensing a current change.
+The voice came from inside and outside simultaneously, through Nate's blue arcs and through a pressure in the air itself, a vibration that bypassed ears and settled directly into the bones of his skull. Rex's head snapped up in the truck bed, ears flat, body going rigid in the time it takes a heart to beat once. Judge didn't go rigid. Judge went loud, barking twice at the sky like she could scare it back into silence, each bark sharp as a gavel strike. Across the south pasture, the cattle lifted their heads in unison, sixty-three animals pivoting like a school of fish sensing a current change.
 
 **TUTORIAL PHASE — COMMENCING**
 
@@ -322,7 +322,7 @@ The words didn't scroll. They appeared complete, stamped across his vision in wh
 
 **60**
 
-"That's a countdown," Flint said, and for the first time since he'd woken up, the performance was gone completely — no wit, no speed, no theatrical cadence. Flat and fast and stripped to the studs. The tactical register, and its arrival was itself a signal. "Nate. That is a countdown and I don't know what happens when it reaches zero."
+"That's a countdown," Flint said, and for the first time since he'd woken up, the performance was gone completely, no wit, no speed, no theatrical cadence. Flat and fast and stripped to the studs. The tactical register, and its arrival was itself a signal. "Nate. That is a countdown and I don't know what happens when it reaches zero."
 
 **57**
 
@@ -334,27 +334,27 @@ The words didn't scroll. They appeared complete, stamped across his vision in wh
 
 Nate stepped out of the cab. Whatever was coming, he wasn't meeting it sitting down.
 
-From the Henderson place, a woman's voice rose — not the argument tone from before but something sharper, higher, a sound that cut through fence lines and property boundaries and hit Nate in the center of his chest. A name. She was calling a name. Not the teenager's — the little one's. Flint's network chatter still had the Henderson boy tagged as a fourteen-year-old **Apprentice Pyromancer**, alive and accounted for. His sister was six.
+From the Henderson place, a woman's voice rose, not the argument tone from before but something sharper, higher, a sound that cut through fence lines and property boundaries and hit Nate in the center of his chest. A name. She was calling a name. Not the teenager's, the little one's. Flint's network chatter still had the Henderson boy tagged as a fourteen-year-old **Apprentice Pyromancer**, alive and accounted for. His sister was six.
 
 His sister was gone.
 
-Not a departure. An erasure. One second a six-year-old had been standing in her yard, and the next second she wasn't. No transition. No movement. Just presence, then absence — a line deleted from a spreadsheet.
+Not a departure. An erasure. One second a six-year-old had been standing in her yard, and the next second she wasn't. No transition. No movement. Just presence, then absence, a line deleted from a spreadsheet.
 
 The mother's voice changed. The name became a scream. The fourteen-year-old was shouting too now, spinning in the yard. Looking for a sister who wasn't anywhere a person could look.
 
-"Children first," Flint said. His voice was working again but running on different fuel — not commentary but analysis, each word placed with the deliberate economy of a mind in tactical mode. "The **System** separated the young ones before the rest. Everywhere. All at once. Every child under the age threshold within my network range just — " He stopped. Started again. "Nate. I don't think this is optional."
+"Children first," Flint said. His voice was working again but running on different fuel, not commentary but analysis, each word placed with the deliberate economy of a mind in tactical mode. "The **System** separated the young ones before the rest. Everywhere. All at once. Every child under the age threshold within my network range just..." He stopped. Started again. "Nate. I don't think this is optional."
 
 **45**
 
-Other voices joined from down the county road — parents, all of them, the sound of adults discovering that their children had vanished mid-step, mid-sentence, taken somewhere the screens couldn't show and the **System** wouldn't explain. The sound carried across the flat pastureland — too far, too clear, impossible to ignore. East Texas had no walls.
+Other voices joined from down the county road, parents, all of them, the sound of adults discovering that their children had vanished mid-step, mid-sentence, taken somewhere the screens couldn't show and the **System** wouldn't explain. The sound carried across the flat pastureland, too far, too clear, impossible to ignore. East Texas had no walls.
 
 **38**
 
-"I'm getting fragments," Flint said, and his voice had found a gear Nate hadn't heard yet — rapid, precise, no jokes, the words stripped of everything except information. "**System** broadcast. Tutorial zones. Instanced. Separate from the physical world. That's — that's all I can pull. The broadcast is fragmented and my access is — " A pause that tasted like frustration. "I can hear the phone ringing but I can't pick it up. Whatever the Tutorial is, it's happening somewhere the **System** controls, and that's all I know."
+"I'm getting fragments," Flint said, and his voice had found a gear Nate hadn't heard yet, rapid, precise, no jokes, the words stripped of everything except information. "**System** broadcast. Tutorial zones. Instanced. Separate from the physical world. That's... that's all I can pull. The broadcast is fragmented and my access is..." A pause that tasted like frustration. "I can hear the phone ringing but I can't pick it up. Whatever the Tutorial is, it's happening somewhere the **System** controls, and that's all I know."
 
 **30**
 
-Rex jumped down from the truck bed. Not at a whistle — there wasn't one — but on his own decision, the kind a Border Collie makes in the time between heartbeats. He crossed the short dirt to Nate, silent on the loam, and set himself shoulder to shin. Steady brown eyes. Ears flat. Through the contact, heat. Bone-deep. _With you._
+Rex jumped down from the truck bed. Not at a whistle, there wasn't one, but on his own decision, the kind a Border Collie makes in the time between heartbeats. He crossed the short dirt to Nate, silent on the loam, and set himself shoulder to shin. Steady brown eyes. Ears flat. Through the contact, heat. Bone-deep. _With you._
 
 Behind them, the cattle were shifting and lowing in the south field, disturbed by the sound of screaming that carried on the morning air like smoke from a fire you couldn't see. Rex did not turn to look. His work was the man at his shoulder, and his work was not going to change because the world did.
 
@@ -362,7 +362,7 @@ Behind them, the cattle were shifting and lowing in the south field, disturbed b
 
 Nate looked at his land.
 
-The morning light on the grass. The post oaks casting their long shadows. The stock tank, full from the spring rains. The water pump, grinding and groaning and still doing its job. Congressman standing in the south pasture — monument to bovine indifference. A thousand acres of rolling ground that had held his family for three generations, and in twenty seconds he was going to leave it whether he wanted to or not, and there was nothing in his hands or his head that could stop it.
+The morning light on the grass. The post oaks casting their long shadows. The stock tank, full from the spring rains. The water pump, grinding and groaning and still doing its job. Congressman standing in the south pasture, monument to bovine indifference. A thousand acres of rolling ground that had held his family for three generations, and in twenty seconds he was going to leave it whether he wanted to or not, and there was nothing in his hands or his head that could stop it.
 
 He didn't grab anything. His hands were empty, and they were going to stay that way.
 
@@ -378,7 +378,7 @@ He didn't grab anything. His hands were empty, and they were going to stay that 
 
 **10**
 
-Rex was already at his left leg — had been since thirty, solid and warm and absolutely certain. The decision a Border Collie makes between one heartbeat and the next, he'd made already, and he was not making it again.
+Rex was already at his left leg, had been since thirty, solid and warm and absolutely certain. The decision a Border Collie makes between one heartbeat and the next, he'd made already, and he was not making it again.
 
 Judge hit the ground a half-second later, nails scraping on the dirt track, and planted herself at his right leg. No hesitation. No circling. For the first time all morning, the Heeler was perfectly still.
 
