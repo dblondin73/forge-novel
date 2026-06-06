@@ -8,31 +8,17 @@ Sure, these are the things that survive: the mechanical, the borrowed, and the s
 
 ---
 
-Back in the bermudagrass, the headache was getting worse.
+He was on his feet, but only barely, and the headache had moved in to stay. The pressure behind his left eye had settled into something steady and mean, a knot in a fence wire that wouldn't come loose until somebody took pliers to it. His mouth tasted like copper and static. He had no idea how long the white had kept him.
 
-Nate came back in stages. Ground first — the hard press of sandy loam against his cheekbone, a root or a rock digging into his hip. Then sound — the Ford's engine idling somewhere behind him, a mockingbird cycling through borrowed songs in the post oaks. Then the blue arcs, still there, pulsing faintly at the edges of his vision like a heartbeat he could see but not read.
+The county was waking up better than he was. He could hear it without turning to look. Voices from the Henderson place a quarter mile east, pitched high with discovery. Car horns on the highway, sustained and overlapping. Somewhere down the county road, a whoop with the unhinged joy of a man who'd just found out he could do something impossible and decided to celebrate before he asked a single question. Christmas come early for everybody but him, wrapped in blue light. And it came with a subscription Nate didn't have, not him, not the cattle, not anything without one. Character creation screens, probably. Tutorial wizard presumably included.
 
-He didn't know how long he'd been down. His mouth tasted like copper and static, and the pressure behind his left eye had settled into something steady and mean. A knot in a fence wire — permanent until someone took pliers to it.
+The two arcs pulsed at the bottom of his vision, thin and curved, one a hair longer than the other. No numbers, no labels, no tooltip explaining what they measured. A DOS prompt in a world that had just gotten Windows.
 
-Rex hadn't left him.
+He scrubbed a hand down his face and let out a long breath through his nose.
 
-Rex's chin lay across Nate's wrist — the warm, settled weight of a Border Collie who'd decided his person wasn't getting up without supervision.
+"Yeah," Nate said, to the dogs and the morning and nobody at all. "Time to move."
 
-Judge hadn't left either, but she wasn't holding position. Forty pounds of Blue Heeler moved in a tight orbit around the two of them — ten feet out, ears rotating, nails ticking on every root and rock. Every third pass she'd stop, stare at the tree line where the stag had stood, issue a single sharp exhale through her nose like a judicial opinion, and resume her circuit. Where Rex held ground, Judge held perimeter. The threat had shifted from _here_ to _out there_, and she'd reorganized.
-
-Nate opened his eyes.
-
-Around the county, the world was waking up differently than he was. He couldn't see it from here — lying in the bermudagrass with two dogs and a headache — but he could hear it. Voices from the Henderson place, a quarter mile east. Not alarm. Excitement. Voices pitched high with discovery — people who'd woken up to find Christmas had come early, wrapped in blue light. Car horns on the highway — sustained, overlapping. Somewhere down the county road, a whoop that carried the unhinged joy of a man who'd just discovered he could do something impossible and had decided to celebrate before asking questions.
-
-Whatever the others got, it came with a subscription Nate didn't have. Not him, not the cattle, not anything without one. But it was there in the voices — the pitch of people reading something astonishing off a wall only they could see. Character creation screens, probably. Tutorial wizard presumably included.
-
-Nate had two faint blue arcs at the bottom of his vision. Curved. Thin. One slightly longer than the other. No numbers, no labels, no helpful tooltip explaining what they measured. A DOS prompt in a world that had just gotten Windows.
-
-He scrubbed his free hand down his face and let out a long breath through his nose.
-
-"Yeah," Nate said. "Time to move."
-
-He was reaching for the truck's fender to pull himself to his feet when the voice started.
+He put a hand on the truck's fender to steady himself, and that was when the voice started.
 
 ---
 

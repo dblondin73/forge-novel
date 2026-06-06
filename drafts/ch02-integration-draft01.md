@@ -2,370 +2,189 @@
 
 ---
 
-What happened next happened to everyone, mind. But it happened to Nate Hall differently, and the difference would matter more than anyone — including Nate — would understand for a very long time.
+What came next came for everyone, mind. Eight billion souls, the one morning, the one white light, and after it the one voice that sounded, to every last one of them, like a welcome. It came for Nate Hall the same as the rest. It simply didn't take the way it was built to, and that failure is the whole of what follows.
 
 ---
 
-The white didn't fade. It stopped.
+The white didn't fade. It resolved.
 
-One moment there was nothing — no light, no dark, no temperature, no sound, no ground beneath his boots. Then the nothing resolved into something, and the something was worse, because at least nothing had been honest about what it was.
+It resolved into a room, and into the fact that he was sitting down in the middle of it. That came to him by degrees, the way waking does. The chair first, under him and around him, deep and high-backed, bolstered down the sides like a racing seat, the kind built for a man to sit a long while and not want to get up. His arms had come to rest along its arms without his putting them there. The kind of chair he'd have called a waste of money out loud and wanted anyway, and here he was, poured into it like he'd owned it for years.
 
-Nate was suspended in a void. Not floating — suspended. Floating implied buoyancy, a medium, physics still on speaking terms with whatever this place was. This was different. He was held in position the way a specimen was held on a slide — precisely, deliberately, without his input or consent. Nobody had asked him to sign a waiver. His complaint was being filed with the universe's HR department, which — based on this morning's performance — was understaffed.
+Whoever furnished the place had skipped the folding chair and gone straight for the model with the lumbar support and the four-figure price tag. First time the end of the world had ever seated him better than his own truck.
 
-He couldn't feel his body. He knew it was there by inference — the way you know your truck's in the driveway without looking out the kitchen window. His hands weren't making fists. His legs weren't standing. His lungs were working, probably, but he couldn't feel his chest expanding. The weight that had been at both legs — Rex left, Judge right, the last real thing he'd felt before the white — was gone. Or he couldn't feel it. The distinction should have mattered, but every distinction was starting to feel like a luxury he couldn't afford.
+He was facing a wall of monitors. Floor to ceiling, screen set against screen, the seams pulled so tight you couldn't tell where one ended and the next began, the whole of it one unbroken surface of light. They didn't stop in front of him, either. They wrapped the room and curved around behind him until he sat inside them, surrounded. He'd stood in front of a wall like it exactly once, on a contract tour through an operations center that had cost more than his ranch, where one man in good shoes watched the whole of a thing from a single chair in the center of the floor. Now he was the man in the chair, and the wall was lit, and the wall was waiting on him.
 
-The only thing that still felt like his was his mind, and even that felt like someone had opened the hood and was looking at the engine without asking.
+The room felt right. That came first, ahead of the strangeness of it, ahead of the question of how he'd come to be sitting there at all. Under the screens and the gloss the place had bones, a structure he couldn't see and somehow could feel, square and true and laid out exactly the way a man would lay it out if he knew how to do it properly. It was the feeling of walking into a shop somebody else built and finding every tool already where your hand goes looking. Nobody ever built him a shop. He'd built his own, twice, and the second time he'd still hung the grinder a foot too high. This one had it right the first pass, which was either flattering or a little insulting, he hadn't decided which.
 
-Something was scanning him.
+Over the bones, the polish. A mark in the corner of every panel, soft-glowing, clean and modern, an M with a tail off the top stroke like a struck match. The loading flourishes had a house style. The whole place had been skinned by somebody with a budget and a brand guide, laid down over those older, truer bones the way a storefront gets built across the face of something a good deal older than the store.
 
----
+Somebody had loved that little mark very much. It sat in the corner of every panel, the same size, the same glow, spaced like it had passed a review. The afterlife, and it had a style guide.
 
-He felt it. The closest thing his body remembered was the MRI he'd had two years back — that specific sensation of being inside a tube, immobile, with something pressing against him from every direction at once. His brain even supplied the clicking. But this went deeper.
+The screens were showing him his life.
 
-The first layer was a mechanic's diagnostic — cold, impersonal, deciding whether the vehicle was worth pulling apart. Age. Height. Weight. The kind of inventory a man took of livestock before deciding what they were worth at sale.
+Every system he'd ever stood up wanted to be this. Knew it would never get the budget for it.
 
-The second came from somewhere inside him. Something opened — a drawer he hadn't known was there, a hand he hadn't known was closed. Warmth where there had been nothing — not heat, just the specific sensation of a room being reopened after a long winter, the air remembering it had once held people.
+Not pictures. Numbers, and they were everywhere, sorted across the wall into areas the way a control room splits its feeds. One bank off to his left had settled into a tidy stack of his attributes, the raw measures of him, strength and constitution and the rest, each with a figure beside it. He didn't have to hunt for the high one. His wits sat at the top of that column by a clear margin, and seeing it ranked there, plain, was both flattering and faintly invasive, like catching his reflection in a window he hadn't known was a window.
 
-The third arrived alongside the second, pressing in from a direction that wasn't, strictly speaking, a direction. Foreign weight. A package set down on top of something that had just opened — fast, deliberate, with the grain of a thing that intended to stay.
+Dead ahead, center wall, one line had pulled itself to the top of a long column and held there, brighter than what hung beneath it. **Structural Analysis.** His maker's eye, the thing that looked at a failing structure and saw where it would go and when and why. Labeled. Graded. Set near the very top of whatever scale the room was keeping. He looked at it longer than he meant to. It was the truest thing the wall had said about him yet.
 
-His brain reached for the shape of it and came back with three answers at once. _Character creation screen. Save file unpacking. Patch installing._ Three different hands. Same moment.
+Under it, and off to both sides, and running away into the corners where the curve pulled them out of focus, the rest of him scrolled. Skills he had names for and skills he didn't, each one splitting into smaller pieces as it went, the work of his hands broken down finer than he'd ever have bothered to break it himself. Ranch and rifle and engine and weather, the reading of stock and ground, and somewhere down in the churn, brief, cooking, at a number he'd have argued with. It went by faster than he could read and deeper than he could follow. Whatever the room was, it hadn't skimmed him. It had inventoried him clear to the bottom, and most of what it found ran past too quick to catch.
 
----
+Thirty-some years of a man, line-itemed and filed before breakfast. The DoD had taken longer than that just to reissue his badge.
 
-Neural pathways. Synaptic density. Learned motor patterns. The scan mapped the architecture of his nervous system: where the connections ran, how they clustered, which nodes carried the most traffic. It found his training and measured it — fifteen years of reading system logs until the anomalies stood up and waved. It found his instincts and measured those too — twenty-five years of ranch work written into muscle memory so deep it was practically firmware. It found the spatial awareness that came from navigating a thousand acres in the dark, the capacity for sustained attention that came from watching calving heifers through a long February night, the thread-count of a mind that had spent its whole life pulling things apart to see how they worked.
+A whole wall of him, quantified and waiting. And the maddening part, the part that settled him back into the chair before he'd decided to trust any of it, was that it was mostly right. It had his number. It knew what he was good at and what he only got by on, and it kept the proportions honest.
 
-It was efficient. It was thorough. It had the bedside manner of a DMV kiosk.
+He'd been read before. Security screenings, performance reviews, a clearance process that wanted to know who he'd been at nineteen and why. The whole apparatus the government kept for deciding what a man was worth on paper. They had all felt like a stranger guessing. This felt like being known.
 
-But underneath the scan, the second layer kept opening.
+He knew the shape of it before he had a name for it. Anybody who'd ever rolled a character knew it. The screen that made you sit a while and decide what you were going to be. He'd put in his hours on that screen. D&D in a dorm, arguing whether a fourteen in Wisdom was wasted on a fighter. Loading menus sorting his points into columns that pretended to matter.
 
-Each thing the scan reached for, the inside layer handed back to him. Not a copy — a clean version, with edges. His stockman's sense — the thing that let him track a cow's health in the angle of her head from forty yards — opened with handles. His maker's eye — the way he could look at a busted hay rake and see what it had been, what it was doing wrong, and what it would take to set it right — surfaced with new clarity. His system intuition, the thing the scan had just measured in cold numbers, settled into something he could feel from the inside.
+These columns weren't pretending. That was the whole difference. The game had finally gotten its hands on the real save file, and the real save file was him, and now it wanted to know what he'd like to build out of it.
 
-He had no words for what was happening. He had only the sensation: things he had quietly been all his life were suddenly _rendered._
+No reroll button that he could find, though. You came as you were and you spent what you'd lived. He'd known character creators with worse policies.
 
-The process reminded him of a character creation screen — the moment every game made you sit in a menu while the system decided what you were worth. He'd spent plenty of time on that side. D&D in college, rolling stats and arguing about whether a 14 in Wisdom was wasted on a Fighter. Skyrim, watching the loading screen sort his attributes into categories that pretended to matter. The mechanics were identical. He'd just never been the character sheet before.
+The panels offered. Paths spread across the upper screens, callings and classes and the shapes a life like his could grow into, each one rendered in clean confident art with his own starting numbers already slotted in so he could see how he'd fit. He didn't have to lift a hand off the armrest. All his life he'd had to walk over and turn a thing on. Now he had a wall the size of a barn door that took its orders off a passing thought, and a chair that didn't want him standing up to do it. Convenience like that, a man could get to liking.
 
----
+He found that if he turned his attention to a panel and thought the thing, just shaped the choice in his head the way you'd say it out loud, the screen heard him and answered, opening the path out into what it would become.
 
-And then the third layer arrived.
+He tried one the way you try on a coat. Thought toward it. The wall bloomed it open three deep and pulled back when he thought away. It was easy, and it was, he noticed with the small far-off part of him that never fully shut up, pleasant. The room wanted him comfortable. The chair fit. The brand glowed soft and friendly in its corners. Nothing here pushed. Everything offered, and waited, and made it feel like his own idea.
+Some of the panels carried a different finish. The brand sat a little prouder on them. They were the specialty stock, the premium shelf, features the house had built itself and was pleased with, and they shone a half-step brighter than the rest.
 
-It came in over the top of the second — not where the scan was reading, not where the things were opening, but _on top of._ A second packaging laid down across the first opening, fast, with the brisk efficiency of something that had done this many times this morning and had no doubt about its right-of-way.
+The good aisle, lit up to make sure you noticed it was the good aisle. He'd stood in a feed store laid out the same exact way, the name-brand sacks set at eye height and the store brand down where you had to bend. A man knew an end-cap when he saw one. He just hadn't expected the end-cap to know his name.
 
-The third layer reached for his stockman's sense — which had just rendered — and re-shelved it. An impression of a label sliding into place where he'd just felt the original. His maker's eye — same thing. The capacity surfaced; the override arrived a half-beat later and set a different name on it. Re-skinned. Re-categorized. Filed under whatever schema the third layer ran on.
+One of them he wanted on sight. It took the thing he did, the read he had on how a structure held or failed, and put the whole working of the world up on the wall as a readout. Every join, every load, every weak point flagged and labeled and solved before he reached it. His own eye, but external, finished, served up complete. He thought toward it the way you think toward a thing you already want.
 
-He'd seen this before. Every gamer had. An indie that you'd loved for years gets bought by a publisher; the next patch strips mod support, adds three currencies, and tells you in the loading screen that you'll love the new direction. Same game. Different ownership. New EULA you didn't read because the screen wouldn't let you keep playing until you'd clicked _agree._
+And under the wanting, low, almost nothing, a note sat wrong. Not a warning. He'd have noticed a warning. Just a small offness, the feel of a bolt that threads with no resistance at all and makes you stop and check you've got the right one. The readout was his eye with the work taken out of it. It was the answer key set down where the problem ought to be. He couldn't have told you that. He only thought away from it, that same small far-off part steering his attention off the panel before the rest of him had finished admiring it, and the screen let it close without complaint, because nothing here ever pushed.
 
-The override didn't only reach for what had just opened. It reached around it. Adjacent files — surface memories, the fringe data, the low-priority storage — caught on its way in.
+Another of the premium panels knew about his dogs.
 
-His grandmother's kitchen shifted. The sharp smell of biscuits browning at five in the morning softened, blurred, lost its edges. The yellow of the wallpaper faded. The sound of her voice — _Nathan, get your elbows off my table_ — stretched thin, like a recording played through water.
+It opened without his asking, the way the friendly ones did, and offered him the working stock and the herd and every creature that breathed on his thousand acres, offered to set them under his hand and have them answer clean. The art on it was good. A man at the center of a ring of animals, all of them turned toward him, all of them waiting on his word. For half a breath it was the warmest thing in the room, because it sat so close to a thing he already had.
 
-He reached for it. Tried to hold on. The memory slipped through his grip like creek water.
+That was what turned it. He thought toward it and felt, under the warmth, the actual shape of the thing, and the shape was a leash. A good leash, a comfortable one, handed to him with a smile, for a friend. Rex didn't need to be made to answer. Rex answered because he was Rex and Nate was Nate and the thing between them had been built a long time and built honest. The panel was offering him a worse copy of a thing he already owned and calling it an upgrade.
 
-Then his mother's voice. Calling him in from the pasture at dusk. He couldn't remember what she'd been calling him in for — supper? A phone call? The context dissolved and left only the echo of her voice, and then the echo thinned, and then —
-
-Gone.
-
-He knew the memory had existed. He knew what it was about — the shape of it, the space where it should be, the frustrating certainty that it was right _there_ a moment ago. But the actual experience of standing in the east pasture at age nine with the sun going down and his mother's voice carrying across four hundred yards of bermudagrass — that was gone. Re-filed. Stored somewhere he couldn't access in a format he couldn't read.
-
-_Something else is writing on my save._
+He thought away from it hard. The screen, friendly to the last, let it go.
 
 ---
 
-He had no buttons. No console. No way to interrupt the process eating his life from the edges in.
-
-So he reached.
-
-Not for anything specific. He reached the way a man reached for a fence post in a strong wind — for the next solid thing, whatever it turned out to be. His left hand, which he couldn't feel, reached for Rex's weight at his leg. Rex's weight, which he couldn't feel either, was somehow still _there_ — just, _there_, in the shape his body remembered. He held that.
-
-His grandmother's kitchen was almost gone. He reached for her voice — _Nathan, get your elbows off my table_ — and held it against the place where it had been.
-
-It held.
-
-He didn't know why. Other things had slipped. Some had slipped a hand's-breadth before they slipped, some had slipped before he could even reach. But the things he reached for _in time_ — those held, in a way that had nothing to do with how hard he reached.
-
-There was a stillness underneath the reaching. He didn't notice it. It didn't ask him to notice it. It only _steadied_ him in the same way the ground steadied him when his knees gave out — without fanfare, without negotiation, by being there.
-
-He reached for his mother's voice. Too late. The voice had already gone.
-
-He reached for the dawn from horseback, the face of a girl from college whose name he'd been about to say, the warm specific feel of a hand under his eight-year-old jaw. He kept reaching. He had no word for what he was doing or why it was working when it worked.
-
-He held what he could.
+Now here's the way of it, and yer man in the chair caught not the half of it, for it wasn't built to be caught. A thing that means to put a collar on you doesn't come at you holding a collar. It comes with a good chair and your name spelled right and every comfort it can lay hands on, and it lets you feel chosen, and it waits. There was a price on the back of every door in that room, sure, writ small and writ honest, for the house was within its rights. But who's reading the back of the door when the front fits this well, and the welcome's this warm, and the whole place has gone to such trouble to feel like home?
 
 ---
 
-Then the override hit something it wasn't expecting.
+He'd been at it a while, or no time at all, when the room brought him to the last of it.
 
-Nate felt the moment it happened the way you feel a drill bit hit an unexpected pocket of rock — a sudden resistance, a change in the vibration, the machinery adjusting to something harder than it had accounted for.
+The panels he'd left open drew themselves quiet. The wall cleared. One screen came up in the center where the chair faced, bigger than the rest and easy on the eye, everything he'd shaped gathered onto it, the build of him near done. It wanted one thing more. A label on it. The class, the calling, the thing he'd be from here on, set and confirmed, and the door would close behind it and the welcome would be over and he'd be home.
 
-The override paused.
+He looked for the one he wanted. He'd been choosing that way the whole time, thinking toward the thing that sat right and away from the thing that didn't, and now he looked across the last screen for the right door the way he'd found all the others.
 
-In fifteen years of systems work, he'd seen that pause a thousand times — the half-second delay when a process encountered a file it didn't have the schema for. Not an error. Not yet. Just the system taking a beat to figure out what it was looking at before deciding what to do about it.
+It wasn't there.
 
-The override proceeded.
+Every option on that final screen looked good. Every one of them shone. And not one of them was the clean true thing the bones of the room had felt like at the start. They were all skin. Premium skin, the proud mark sunk into every one of them, and under the mark he couldn't find the bones at all. There was no door on that screen the house hadn't put itself the whole way through.
 
-Something pressed inward — not physically, but with the unmistakable character of a patch trying to write to a sector it had no permissions for. The framework that had been laying itself down around the edges of his consciousness pushed toward the center, and—
+It didn't feel like a trap. That was the worst of it, looking back, though he wouldn't look back for a long time. It felt like the natural end of a good afternoon. The chair still fit. The room was still warm. It was only that the last comfortable step the room wanted from him was a step onto a floor that wasn't there.
 
-Stopped.
+And while he sat with it, the room began, very gently, to take.
 
-Not gently. A truck into a concrete pylon — absolute finality, no negotiation, and the sudden silence of an engine that would not be running again. The impact resonated through whatever medium he was suspended in, a shuddering discontinuity that made his thoughts stutter. The override pushed. Something held. Not Nate — he was a bystander in his own body, watching one force meet a piece of territory he hadn't known was valuable.
+It started at the soft edges of him, kind about it, near apologetic. His grandmother's kitchen. The smell of biscuits at five in the morning thinned and went flat. The yellow of the wallpaper drained toward gray. Her voice, *Nathan, get your elbows off my table,* came once and came stretched, the way a song goes when the battery's dying. Somewhere on that wall a panel was making room. To write the new thing onto him it had to clear a little space, and the space it cleared was him.
 
-The territory was not empty.
+He couldn't stop it. There was no panel for stop, no door marked no. So he did the one thing left, which was to hold. He turned everything he had onto his grandmother's voice and held it where it lived, and it stayed. He went for his mother calling him in from the pasture at dusk and was half a second slow, and the calling thinned under his attention and was gone before he closed on it.
 
-It didn't fight. It didn't resist in kind. It simply _was_ — bedrock, aquifer, the land beneath his ranch. It existed whether he thought about it or not. It had been there before the override. Before whatever designed the override had conceived of it. The occupied space wasn't resisting an invasion. It was simply continuing to be what it had always been, in territory it had held since before Nate drew his first breath.
+What he got his mind onto in time, he kept. The rest went somewhere he couldn't follow, quiet, and the panel made its room.
 
-The patch hadn't arrived to find an empty room with a squatter. It had arrived to find the door locked from the inside by the original owner.
+The screen was still waiting on a label, and there was no clean door, so he chose. He put his attention on the brightest of them, the best of a bad set, and thought, clear as saying it: *yes.*
 
-And the memory loss stopped.
+The label came down to land on him.
 
-All at once. The dissolving, the converting, the careful re-shelving of who he was — all of it ceased in the same instant the occupied space made itself known. A hand reaching down and pulling the plug on the machine that had been eating him alive. The memories still in the pipeline — a summer afternoon, the face of a girl he'd known in college, the blue of a dawn he'd watched from horseback — stuttered and held. Damaged. Incomplete. But present. Whatever was in there had drawn a line, and everything behind that line was under its protection.
+It got as far as the surface, and then it reached for somewhere to anchor, down past the numbers and the grades and the tidy rows, down to whatever the bones of him were made of. The oldest floor. The part the room had felt like at the very start, before it skinned itself over and lost it.
 
-The patch tried again. Harder this time — he felt the difference — a hand knocking on a door versus a boot trying to kick it in. The framework attempted to write itself into the occupied space, to overlay its structures on top of whatever had been there first.
+And it couldn't get a hold.
 
-The occupied space didn't acknowledge the attempt. The framework's structures touched it and dissolved — not shattered, not repelled, just _undone_ — the way frost dissolves on a warm windshield. Quietly. Completely. As if the structures had never existed at all.
+Nothing he could see went wrong. No alarm, no flash. The label simply would not seat. It came down to write itself into the deepest part of him and found that part already occupied, already entirely spoken for, with no permission for it and no category for it either. It pressed. The deep floor held the way a slab holds, the way the ground holds when your knees give out and you go down onto it. It didn't resist the label so much as fail to make room. There was no room to make. The floor had been full since long before the room and the screens and the brand were ever thought of, and full it stayed.
 
-_That's a dev account the patch wasn't built to recognize,_ Nate thought, and the thought felt small against the thing it was trying to describe. _Whatever's in there owns the engine. The patch is just trying to mod the game._
+The label slid off and did not catch.
 
-And the patch, for its part, was beginning to agree.
+And every screen in the room went wrong at once.
 
----
+The readouts stuttered, broke into garbage, reassembled wrong, broke again. The brand in the corners flickered and held and flickered. All across the wrapping wall the panels began to fail the way he'd watched real systems fail, one feeding the next, the cascade running downhill faster than anything could catch, the house style coming apart in good order with the cosmetic dying first and the load-bearing last. The room was throwing everything it had at the one floor it couldn't write to, and the floor wasn't troubled by any of it.
 
-Oh, but there it was. The thing an installer's schema had no column for. The door locked from the inside. Nate didn't know what it was — wouldn't, not for a long time — and the not-knowing was, just now, the very thing holding the door. Process, meet pylon. Sure, the pylon doesn't lose, isn't that the way. The patch only learns, late, that there was a pylon at all.
+Then the room gave up on him.
 
----
+It drew a line around the part it couldn't take and walled it off, set a tag on it he couldn't read, and routed itself around the gap the way you wall off a partition that won't behave, write it up as a known issue, and get on with your day. He knew the move. He'd made it himself, on live systems that couldn't go down. You isolated the fault. You promised yourself you'd come back for it.
 
-Back in the quiet at the center of Nate's skull, the errors started.
+He was the fault now. The room put a tag on him and moved on.
 
-He couldn't see them — no interface, no screen, no display of any kind. But he could feel them. Each one landed — small shock, sharp snap, a circuit failing under load. Fuse-blowing sounds that weren't sounds, felt through whatever medium connected him to the process that was trying to rewrite him. They came in clusters. Three, then five, then a cascade that blurred together into a sustained rattle of failures. The patch was throwing process after process at the thing it couldn't move and watching each one dissolve on contact.
-
-The escalation was the part that surprised him. Not his escalation — the patch's. He could feel it — a dog straining against a leash, a stuck bolt refusing to turn. Whatever this was, it ran one procedure. Every human mind, every consciousness, every identity — all of it slid neatly into the framework. Received its classification. Accepted its parameters. Began operating within its structure. That was what the process did. That was what it did everywhere. Eight billion installations, and the patch was throwing error codes in this one.
-
-Somewhere on Earth — or whatever was left of it — Marcus Webb's phone would have been lighting up with phantom alerts. Cascade failure on a production system. Framework integrity dropping. Multiple partition errors on a single node. Nate could hear the conversation that would have happened in any control room on the planet: _We've got a node that won't take the image. It's not throwing standard errors — it's just not accepting the write. The partition's occupied. By what? I don't know. Something that was there first._
-
-More errors. Faster now. Nate's head was beginning to hurt — not the dull ache of a headache but the sharp, specific pain of a system running at capacity, every buffer full, every process maxed out. The void around him was no longer stable. Hairline fractures of light cracked through the darkness — not warm or luminous but cold, brittle, flickering things. Data overflows made visible. The patch bleeding at the edges of its own process.
-
-He'd have felt sorry for the thing if it wasn't currently trying to lobotomize him. Professional sympathy only extended so far.
-
-The occupied space pulsed once.
-
-Not in response to his thought — the timing was coincidence, or something beyond coincidence that he didn't have a word for yet. It pulsed — rhythmic, certain, alive. A heartbeat. A single beat, unhurried and absolute — a man settling into a chair he'd owned for forty years and had no intention of leaving.
-
-And the framework, in the exact moment of that pulse, went completely still.
-
-Silence. Not the absence of sound — the absence of process. Every error stopped. Every probe withdrew. Every attempt to write to the occupied space simply ceased.
-
-For three seconds — Nate counted, because counting was what his brain did when everything else failed — the void was perfectly still.
-
-Then the patch changed course.
+The chair was gone. The wall was going, the monitors guttering out across the curve of it like lights losing power down a long hallway. The good warm room that had known his name folded down toward dark, and the last of it let go of him, and he went under.
 
 ---
 
-It stopped reaching for the territory it couldn't claim.
+Now. While he was under, in the small space between the breaking and the waking, a work was done on him he'd never see, mind, nor ever be able to account for.
 
-Not gracefully — a machine running out of options, its error log a novel nobody wanted to read. It sectioned off the occupied space, drew a boundary around it, labeled it with something Nate couldn't read, and routed everything else around it. A workaround. A patch job. The engineering equivalent of admitting the bolt was stripped and drilling a new hole next to it.
+What the room had left of itself came away. Not torn down. Undone, quiet, until there was nothing where it had stood. The two or three bright premium things he'd thought toward and pulled back from, the ones with the fine print on the back, were taken up and the fine print struck clean off them, and what was good in them was handed back without the hook in it. The oldest ground in him, the floor the label had broken against, settled and spread and went quiet, and wherever it spread, the ceilings the room would have set on him simply weren't there. No cap. No top to the thing. Only floor, and a long way up from it, and the whole of it his to climb if he'd do the climbing.
 
-He'd done this himself. On live systems that couldn't go down, with one partition that refused to cooperate. You isolated it. You documented it as "known issue" and moved on. You told yourself you'd come back to it later, and sometimes you even meant it.
-
-He was a known issue now. The **System** had put a Post-it note on the partition and moved on.
-
-The framework installed itself in the remaining space. He felt it — a cold scaffolding assembling itself around the warm territory it couldn't touch. Structures. Categories. Containers for things that hadn't been categorized before. The shelving went up around the immovable thing in the center of the room, and the patch populated those shelves with whatever it could manage: baseline physical stats, a placeholder where a class designation should be, the barest skeleton of an interface.
-
-And the connections ran in with the shelving.
-
-Nate felt them arrive as features. Helpful ones. A new build patching itself in over the menus you'd been using all your life — you didn't ask for it but you couldn't argue with it. A health indicator. A stamina tracker. A faint sense of where his body's limits were, more precise than any intuition he'd had before. Useful. Practical. Quality-of-life improvements that made you wonder how you'd managed without them.
-
-And something that sat next to the feeling of them — lighter than thought, steadier than gratitude — the soft certainty that he was welcome, that he was home, that more was available if he wanted it.
-
-Nate didn't question it. He had no reason to. The framework had tried to eat his memories, yes, but what remained felt — better? Cleaner? Like someone had pressure-washed the driveway. You lost some moss, but the concrete looked great. A reasonable trade.
-
-The framework worked without asking.
-
-The partial installation settled into place. Maybe forty percent of whatever a full version would have been. The rest — whatever else it had come for — had dissolved against the occupied space like frost on warm glass. The occupied space sat in the center of his consciousness like a stone in a stream, and the framework flowed around it — water around stone, finding any path that didn't require moving what couldn't be moved.
-
-And the memories the patch had already taken — the ones that had been outside the occupied space's protection — were gone. His grandmother's kitchen. His mother's voice across the pasture. Surface memories, fringe memories, the edges of a life. But they were his edges, and they were gone, and the empty places where they'd been ached like phantom limbs.
-
-But the things he had reached for in time — Rex's weight at his leg, his grandmother's voice from the table, the warm specific feel of a hand under his eight-year-old jaw — those held. Damaged. Some at half-resolution. Some with their edges torn. But there. He didn't know why some had stayed and some had gone. He only knew his hand had been on some of them when the override moved through, and on others, it hadn't been in time.
-
-And then — far off, the way weather gathers before you notice you've been hearing it for a while — the void began to break apart.
+And the things the room had taken and not yet carried off, the kitchen and the wallpaper and the voice gone thin, were not so gone as they seemed. But that's a slow mercy, and it keeps its own clock, and it isn't for this morning to tell.
 
 ---
 
-Every person on earth went through it. Eight billion integrations, eight billion frameworks installed, eight billion sets of shelves erected in eight billion minds. Most went cleanly enough, ye'll find — the seamless migration from what they had been to whatever came out the other side of the process. They woke up grateful. They woke up classified. They woke up with blue screens and starter kits and the warm certainty that the thing that had just happened to them was a gift.
+He came back gasping.
 
-Most took. A few did not, mind. And this one — yer man lying in the bermudagrass — was the kind of _did not_ that had no entry in the **System**'s documentation. The difference — small as a single partition error on a single node — would ripple outward in ways neither the **System** nor the man could yet predict.
+Air, real air, East Texas in March, pine and damp and the iron tang of red clay. Hard ground under him, something pressing into his hip. He was on his side in his own pasture with the bermudagrass against his cheek and the morning going on around him like nothing at all had happened.
 
----
+The morning was lying. From the county road came voices, and they weren't afraid. They were thrilled.
 
-The void broke. Not violently — ice breaking in spring. Cracks of real light appearing in the darkness, carrying the smell of — bermudagrass? — and the sound of wind. The real world leaking back through the fractures.
+He got an elbow under himself. His arms had the structural integrity of wet newspaper, which seemed about right for a man whose head had just been run through something that didn't bother with warnings. He stayed there a moment, breathing.
 
-Nate felt gravity first. Then weight. Then the specific, undeniable sensation of lying on his side on hard ground with something pressing into his hip.
+Then the blue came, everywhere at once, like a shade pulled down over the world. A panel bloomed in front of him, clean and certain. **SYSTEM** at the top in a font he didn't know, a row for a class, a column of stats counting themselves up, a health bar green and near full. For a few seconds he saw what eight billion other people were seeing, and some part of him read the layout and thought, against everything, *huh, that's well built.*
 
-He gasped. Air — real air — flooded his lungs. It tasted like East Texas in March: pine and humidity and the faint iron tang of red clay.
+Then the class row gave up and blinked. The bar went yellow for no reason. And the whole thing came apart the way the wall had come apart, piece feeding piece, the blue bleeding pale, the panels washing out and failing in good order. The last to go was the health bar. It flickered green a final time and dissolved.
 
-He kept his eyes shut. Not ready yet.
+Two faint arcs were left. Thin curves of pale blue light, a pair of brackets at the edge of his sight, holding nothing between them. No panel. No class. No stats. Eight billion people got the full thing. Nate got the loading screen that wouldn't load.
 
-But the world was not waiting for him. It had never been particularly patient with Nate Hall altogether, and it was not about to start now.
+The humor of it was dry enough to chew. A full-scale end of the world, and he'd drawn the IT version of *your call is important to us.*
 
----
+He blinked the arcs away. They came back. He blinked again. They stayed.
 
-He opened his eyes.
+A whoop carried up from the county road, and he turned his head toward it. A white Tahoe sat stopped dead in the road, both front doors open, a family already out of it. A man in a shirt and tie stood staring at a point a foot off his own face, fingers twitching small shapes at empty air. A woman on the running board with one hand flat to her chest, laughing the way you laugh when an impossible thing turns out to be real. Two kids out the back, the boy swiping at nothing and bouncing on his feet, the girl gone still over something only she could read.
 
-Wind in the bermudagrass. Post oaks swaying at the tree line. A mockingbird running its catalog in the canopy — cardinal, blue jay, car horn — uninterrupted, unbothered. The morning looked exactly the same. The morning was lying.
+Every one of them was reading something. Every one of them had been handed a letter, and each held the only copy of their own. Whatever the world had just been given, on them it landed like a gift.
 
-From the direction of the county road, voices. Not alarmed — excited. Already excited. However long the world had been frozen, it was over, and whatever came after had people hollering on the county road like they'd just won something big. The wrong soundtrack for a Tuesday morning.
+The man caught sight of Nate at the fence line, and for a moment they held each other's eyes across forty yards of morning.
 
-Nate tried to push himself up. His arms had the structural integrity of wet newspaper. He got to one elbow and stayed there, breathing hard, which was embarrassing but probably appropriate for a man whose head had just been run through something that didn't bother with warnings.
+"You seeing this?" the man called, his voice cracked somewhere between joy and terror. "You getting the screen? The class?"
 
-Then the blue came — everywhere at once, like a shade pulled down over the world.
+Nate looked down at his own hands. Nothing. He looked for the panels, the stats, the class everyone else was reading. Two pale arcs, and past them, his pasture.
 
-A translucent panel bloomed in his field of view — clean, bright, official. The word **SYSTEM** sat at the top in a font he didn't recognize, and beneath it, text was populating itself with crisp efficiency. A class designation field showing **Still Loading**. A vertical column of abbreviated stats — **STR**, **CON**, **DEX**, **INT**, **WIS** — with numbers filling in beside them like a spreadsheet auto-calculating. A health bar, green and nearly full — then a tick lower, as if something had just spent a little of him getting him here. A stamina bar beneath it, already settled a shade below the line. A progress wheel spinning in the corner with the words **INTEGRATION COMPLETE — CALIBRATING**.
+"No," he said. "I'm not getting that."
 
-For about five seconds, Nate saw what eight billion other people were seeing: a full-color interface, welcoming and organized, already sorting him into its architecture. He was already reading the layout, mapping the information hierarchy, noting the data structures — and despite everything that had just happened in the void, some part of him thought: _Huh. That's actually well-designed._
+The man stared at him the way you'd stare at a man who said he hadn't felt the earthquake while the pictures were still swinging on the wall. Then whatever he was reading pulled him back under, and he was gone.
 
-He'd seen this layout before. Every MMORPG he'd ever played used some version of it — stats on the left, health bar top-center, class field prominent. The UI grammar was identical. Either the **System** had borrowed its interface from games, or games had been borrowing from something older than anyone realized.
+Rex was already there. Right at his left hand, nose working his palm, jaw laid light across his forearm, the quiet weight a working dog puts on his person when his person is down. Not whining. Border collies don't whine. They work, or they watch, or they wait, and Rex was doing the last of those with his whole body, here and warm and entirely uninterested in whatever the road was celebrating.
 
-Then a stat flickered.
+The relief of it went through Nate's chest like heat. His hand found the dog's head on its own, the familiar country of skull and ear, and Rex leaned into it. Alive. Real. Whole.
 
-The number next to **WIS** jumped — **20**, then **24**, then a string of characters that weren't numbers at all — and snapped back. A hairline crack of static ran across the class designation field, which had been trying to load something and was now just blinking. The health bar turned yellow for no reason, then green again, then yellow.
+Judge had set up on his right. Forty pounds of blue heeler squared off at his hip, ears forward and weight planted. She faced out and read the tree line with the flat focus of a dog who'd decided the morning was a threat and threats got all of her. She wasn't checking on him. Rex had that. Judge had the rest of the world, and a low opinion of it.
 
-It got worse. Over the next twenty seconds, the interface came apart piece by piece. Not all at once — a breaker panel tripping one circuit at a time, each failure pulling the next one down with it, one system after another giving up in sequence. The progress wheel froze, unfroze, spun backward. The stat column scrambled, recovered, scrambled again with different garbage each time. Panels that had been sharp and translucent washed out, the blue bleeding pale, the text losing contrast until it looked like a screen left in the sun too long.
+He reached again, the way he had when the room was taking from him, for something solid to hold. His grandmother's kitchen. The yellow wallpaper. Biscuits at five in the morning.
 
-Nate watched it happen with the specific, familiar dread of someone who had seen too many systems fail in exactly this way. The slow cascade. Each failure triggering the next. The whole architecture unraveling because one critical component wasn't responding and everything downstream of it was losing its mind. Even the failure mode was thorough. The interface had been well-assembled — it came apart in the right order, load-bearing systems last, cosmetic layers first. Disciplined, even in collapse.
+The wallpaper was gone. The biscuits were gone. He knew they'd been there. He knew the shape of where they'd been, the way you know a tooth by the gap. But the rooms were swept and bare. He reached for his mother's voice and found only the fact that she used to call him in. Not the sound of it. Just that she had.
 
-The last part to go was the health bar. It flickered green one final time, then dissolved into static and was gone.
+Something cold settled low in his chest. Not grief. Not yet. The inventory was still running.
 
-Two faint blue arcs remained. Thin curved lines, parentheses of pale monochrome light, shimmering at the edges of his vision. That was all. No text. No panels. No stat columns or progress wheels. Just two stubborn blue lines pulsing where an entire interface had been thirty seconds ago. Eight billion people got the full release. Nate got the loading screen that refused to load.
+He got to his knees, then his feet, and stood swaying in his own pasture like a man three beers past sundown on a Tuesday morning, which, all told, might have been an improvement on the truth of it.
 
-The humor of it was so dry it was practically jerky. A full-scale alien invasion — or whatever this was — and he'd gotten the IT version of "your call is important to us."
+Somewhere underneath all of it, in the one place the label had broken against, something that had been there his whole life settled back down without a sound. A man who'd stood when a stranger came into the room and sat again when the stranger left. It hadn't fought. It hadn't needed to. The room was exactly as it had been.
 
-He blinked them away. They came back. Blinked again. Stayed.
+And the empty places at the edges of him ached.
 
----
-
-A whoop carried from the county road — high, strange, the sound of a man who'd just been handed something impossible. Nate turned his head toward it.
-
-A white Chevy Tahoe sat on the county road about forty yards away, both front doors hanging open, engine idling. Stopped dead in the road — not pulled over, not angled, just sitting where it had been when the freeze hit. The family was already out.
-
-A man stood in the road — mid-thirties, shirt and tie, leather shoes that had no business on a county road. He was staring at a point in front of his face with the kind of fixed attention people reserve for screens. His eyes were on something Nate's couldn't follow. His fingers twitched small deliberate gestures at the empty air in front of him. A small, wary thought worked its way up from somewhere practical in Nate's head: _I hope his didn't do what mine just did._
-
-A woman sat on the Tahoe's running board, one hand pressed flat against her chest, laughing. Not the polite kind — the kind that came out of your gut when something impossible turned out to be real. She was staring at something only she could see, her eyes moving across it the way people read when the page says something they'd wanted to hear.
-
-Two kids had scrambled out of the back seat. A boy, maybe ten, was swiping his hands through the air — gesturing at an interface Nate couldn't see, bouncing on his feet with the manic energy of a kid who'd just been handed the world's best video game. A girl, seven or eight, stood very still, her eyes moving across something only she could see, the way a child reads the first page of a book that matters.
-
-Everyone was reading something. Everyone had received something. Whatever the **System** was showing the rest of the world, they still had it. He'd held it for five seconds and watched it come apart in his face.
-
-He tried to steady himself and reached for something solid — a memory, a reference point, the mental equivalent of grabbing a fence post in a strong wind. His grandmother's kitchen. The yellow wallpaper. Biscuits at five in the morning.
-
-The wallpaper was gone. The biscuits were gone. He knew they had existed, knew the memory was supposed to be there, but the space was empty — a stripped shelf where something important had been. He reached for another: his mother's voice. Calling him in from the pasture. He could remember _that_ she used to call him in. He could not remember the sound.
-
-Something cold settled in his chest. Not grief — not yet. The inventory was still running.
-
----
-
-Rex was already there.
-
-Right next to Nate's left hand, his nose working Nate's palm, his jaw resting light across Nate's forearm — the quiet weight a working dog laid on his person when his person was down. Not whining. Not barking. Just _there_, with his head where Nate could reach it whenever Nate was ready to reach. Just a Border Collie doing the one job nobody'd had to teach him — being exactly where he was supposed to be, warm and alive and uninterested in whatever the rest of the world was celebrating.
-
-The relief hit Nate in the chest. His hand found Rex's head — the familiar topography of skull and ear, the soft spot behind the left ear — and Rex shifted his weight into the scratch, the head-push every working dog reserves for his person. Alive. Real. Whole.
-
-Judge was on his right. Planted. Forty pounds of Blue Heeler standing squared at Nate's hip with her ears forward and her weight set — sentry, facing outward, hackles up, scanning the pasture with the focused aggression of a dog who had decided that whatever had just happened was a threat and threats got her full attention. She wasn't checking on Nate. Rex had that covered. Judge was making sure nothing else got close while he was down.
-
-The division of labor was as old as working dogs: one watches the fallen, one watches the perimeter. Nobody had taught them that. Nobody had needed to.
-
-_At least two of us came through clean._
-
-He got to his knees. Then his feet. The world tilted, steadied, tilted again. He stood there swaying in his own pasture three beers past vertical on a Tuesday morning, which — given the circumstances — might have been an improvement on the actual situation.
-
----
-
-The man by the Tahoe lifted his attention from whatever he was reading and saw Nate standing at the fence line. They locked eyes for a moment across forty yards of East Texas morning — two men on either side of a fence, one lost in whatever the rest of the world was seeing and the other still swaying on his feet with nothing but two blue lines he couldn't read.
-
-"You seeing this?" the man called out, his voice cracking with something between joy and terror. "You getting the — the screen? The class thing?"
-
-Nate looked down at his own hands. Nothing. He searched his vision for the blue panels, the stat sheets, the class assignments. Nothing. Just the two faint blue arcs, monochrome and stubborn, pulsing at the edges of his vision like a heartbeat he could see but not read.
-
-"No," Nate said. "I'm not getting that."
-
-The man stared at him — confused, disbelieving, the look you give someone who says they didn't feel the earthquake while the pictures are still swinging on the walls. Then whatever he was reading pulled his attention back and he was gone — lost in his own screen.
-
-From down the county road — the Henderson place, maybe a quarter mile — whooping. Voices carrying across open country — nothing between here and there but pasture and fence line. Someone hollering for someone else to come look at this, come see, _you ain't gonna believe it._
-
-The man by the Tahoe was laughing now — bewildered, delighted — and half-turning toward his wife, gesturing at his screen like it was visible to everyone.
-
-"You getting this?" he called, his voice still cracked around the edges. "The class, the stats — you getting the same thing I'm getting?"
-
-"I don't see _yours_, Mike." She was still on the running board, still staring at her own stretch of empty air. "I've got my own. It's — it's showing me a map. Mike, it's a _map_ of —" She broke off, caught by something new on a screen only she could read, and her hand went to her mouth.
-
-"Read it to me." He was looking at her now, not at his own interface. "I can't see yours. Read it — what does it say?"
-
-Husband and wife, three feet apart on the shoulder of a county road, each of them staring at something the other could not see. Each of them reading the only copy of their own personal letter. Whatever the **System** had given them, it had given it to them one at a time. And whatever it was showing these people, it was landing like a gift.
-
-Judge barked — one sharp syllable aimed at the tree line, at something ambient only a dog could read. She had strong opinions about mornings that sounded wrong, and the morning had been sounding wrong ever since the freeze broke.
-
-They looked happy. They looked like people who had been given exactly what they wanted.
-
-Nate wondered — in the quiet, practical part of his brain that never fully shut down — whether anyone else had gotten nothing. Whether there were other known issues standing in other pastures, watching other families celebrate, holding two blue lines and a head full of empty shelves.
-
----
-
-Rex nosed Nate's hand, then pushed his head against Nate's knee — not the nip of a Border Collie moving cattle, just the quiet check. A warm head against a leg. A heartbeat he could feel through denim. _Here._
-
-Judge circled him once — tight, deliberate, the patrol she ran when something wasn't right — and sat at his left heel. Not touching him. Watching everything. If Rex was the comfort, Judge was the perimeter. Together they bracketed him — same formation as cattle. One steadied, one secured.
-
-Nate put his hand on Rex's head. Stood at his fence line. Watched the world receive its gift.
-
-Somewhere deep inside him, in the space the installer couldn't touch, something that had been there his whole life settled quietly back into place. A man who'd stood up when a stranger entered the room and sat back down when the stranger left. It had not fought. It had not needed to. The stranger had left of his own accord, and the room was exactly as it had been.
-
-And the empty places at the edges of his memory ached.
-
----
-
-Sure, the **System**'s architecture registered wanting. Registered reaching. Had no column for a man who could watch the feast and keep his hand on a dog's head instead.
-
----
-
-He was still standing there, hand on Rex's head, when the blue arcs flickered. Both of them, simultaneously — a stutter in the pale light, catching, resetting, catching again. Then they steadied, brightened a fraction, and held. Something new appeared at the bottom center of his sight, floating between the brackets — a subtitle on a screen only he could see.
-
-Three words, rendered in monochrome blue:
+He was still on his feet, hand on Rex's head, when the two arcs flickered, both at once, a stutter in the pale light, catching and resetting, then catching again. They steadied, brightened a hair, and held. Something surfaced at the bottom of his sight, between the brackets, three words on a screen only he could read.
 
 **BOOT SEQUENCE PENDING**
 
-Then the text dissolved, and the arcs dimmed back to their faint pulse — still there, still framing his vision, but offering nothing more.
+Then it dissolved, and the arcs dimmed back to their faint pulse, offering nothing more.
 
-_Pending._ Not failed. Not denied. Pending. The most noncommittal word in the English language, and his entire situation had just been summarized by it. Technically accurate. Emotionally bankrupt.
-
-Three words that meant nothing to the man reading them and everything to the **System** that wrote them. A process, deferred. Not cancelled — deferred. Every system Nate had ever worked with treated _deferred_ the same way — not forgotten, scheduled. Waiting its turn in a queue nobody was going to flush. And the framework that had installed itself around the occupied space — the helpful, practical, gift-wrapped framework — still had live connections to the places it had claimed.
+*Pending.* Not failed. Not denied. Pending. The most noncommittal word in the language, and his whole situation summed up inside it. Technically accurate. Bankrupt of comfort.
 
 ---
 
-The man by the Tahoe glanced back at him one more time — that brief, uncertain look of a man who'd found something that didn't fit the pattern and decided it wasn't his problem. Then his daughter tugged his sleeve and pulled him back toward the family, and Nate was forgotten. The woman had gone quiet on the running board, her eyes moving across her own private document. The boy was bouncing now, stabbing his finger at empty air, chattering a mile a minute at his sister about whatever he was seeing. Ten years old with a screen only he could read, and the world had just gotten extremely simple.
+Every soul on earth went through it that morning, mind. Eight billion welcomes, eight billion sets of shelves raised in eight billion minds, and most of them took clean, ye'll find. They woke grateful. They woke sorted. They woke certain the thing done to them was a gift, and went off down their roads without once looking back at the one man in the bermudagrass who'd been handed nothing at all.
 
-They didn't say goodbye. People receiving gifts don't tend to look over their shoulder at yer man who didn't get one, mind.
+Most took. A few did not. And this one, yer man on his feet between two dogs, with two pale arcs and a head full of swept rooms, was the kind of did-not that had no line in anyone's ledger for it. The difference was small, no bigger than a single fault on a single node. It would not stay small.
 
-The Tahoe doors closed. The engine settled into gear. The white Chevy rolled forward on the county road and kept going, and then it was just Nate and Rex and Judge and the sound of the Henderson place hollering a quarter mile away.
-
-Rex leaned his head harder against Nate's knee. Judge hadn't moved from her post — still facing outward, still scanning, still running a threat assessment that the world no longer made sense for but that she was going to finish anyway. Judge finished things.
-
-"Yeah," Nate said to them both. "I saw it too."
-
-Rex was watching the tree line — not toward the celebration, not toward where the Tahoe had been, but back toward the spot between the post oaks where the stag had stood. The tree line was empty. But Rex kept watching, reading an absence that bothered him more than a presence would have.
-
-Whatever was coming, it wasn't here yet. But something in Nate's broken, half-installed system had just told him it was on its way. Not in words. Not in data. In the way the framework's new architecture hummed against the thing it couldn't touch — a vibration, faint and constant — two different voltages on a shared line, humming where they met.
-
-Then his legs went.
-
-Not from pain — from absence. A breaker tripping: not with warning, not with drama, just a sudden clean nothing where strength used to be. His knees buckled and he went down to the bermudagrass in two stages — one knee first, then his side — and the ground came up to meet him with the matter-of-fact patience of something that had been waiting.
-
-Rex was on him before he stopped moving. A cold nose against the back of his hand. Then the warm weight of a Border Collie head on his forearm — not gentle, not panicked. Present. His breath against Nate's skin, steady and real.
-
-Judge dropped low a half-second later. She didn't check on him — Rex had that — she set herself at his back, forty pounds of Blue Heeler forming a wall between Nate and whatever else the world might have planned.
-
-His cheek came to rest against the sandy loam. The ground was warm. It held him — without opinion, without urgency, without asking what had just happened. The land never did. Two dogs were on him — one at his arm, one at his back — and the weight of them was the most real thing left.
-
-The blue arcs pulsed once, steady, and held.
-
-He let his eyes close.
-
----
-
-The blue arcs held steady under closed eyes, patient as the land beneath him. Two dogs held their posts — one watching him, one watching everything else. In the north pasture, the pump kept running — bearings and all, mind.
-
-And in the space where the framework met the thing it couldn't move, the installation settled deeper into the forty percent it had claimed. Quietly. Helpfully. The kind of helpfulness that was easy to stop noticing.
+Out in the pasture the cattle had gone back to grazing, the way cattle will, with no opinion on the morning at all. And the empty places where the morning had taken from him ached, and would for a while yet. But not forever. That's a slow mercy, and it keeps its own clock.
