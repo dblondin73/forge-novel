@@ -334,7 +334,7 @@ There was a water skin on the supply table. One of the ones the **System** had p
 
 "Ma'am."
 
-She looked up. Mid-twenties. Red-eyed, face wet, raw grief that didn't care about audience or dignity. The nameplate above her had settled into something she hadn't been when she'd hit her knees: **HEATHER KIM — WARD MAGE [RANK F — LOW]**. She didn't seem to have noticed.
+She looked up. Mid-twenties. Red-eyed, face wet, raw grief that didn't care about audience or dignity. The nameplate above her had settled into something she hadn't been when she'd hit her knees: **HEATHER KIM — PYROMANCER [RANK F — LOW]**. She didn't seem to have noticed.
 
 "I don't know where my daughter is." Her voice was flat. Emptied.
 

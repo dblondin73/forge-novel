@@ -22,9 +22,9 @@ Generated for the Ch1-10 travel draft. Canonical voices (Storyteller, Nate) are 
 | **Pete Bowman** | Will - Relaxed Optimist | `bIHbv24MWmeRgasZH58o` | Oregon outdoorsy young |
 | **Kyle Greene** | Liam - Energetic Social Media Creator | `TX3LPaxmHKxFdv7VOQHJ` | Contract-signer foil, too-confident |
 | **Mack Turner** | Chris - Charming, Down-to-Earth | `iP95p4xoKVk53GoZ742B` | Ranger / Scout floor-4 anchor |
-| **Heather Kim** | Bella - Professional, Bright, Warm | `hpp4J3VqNfWAUOO0d1Us` | Ward Mage, mother-on-knees |
+| **Heather Kim** | Bella - Professional, Bright, Warm | `hpp4J3VqNfWAUOO0d1Us` | Pyromancer, mother-on-knees |
 | **Isabel Wu** | Laura - Enthusiast, Quirky Attitude | `FGY2WhTYpPnrIDTdsKH5` | Alchemist rest-area 2 |
-| **Dr. Martin Voss** | George - Warm British Storyteller | `JBFqnCBsd6RMkjVDRZzb` | Scholar, floor-6 witness |
+| **Dr. Martin Voss** | George - Warm British Storyteller | `JBFqnCBsd6RMkjVDRZzb` | Ward Mage, scholar, floor-6 witness |
 | **Tyler Sorensen** | Harry - Fierce Warrior | `SOYHLrjzK2X1ezoPC6cr` | 17-year-old, Ch6 casualty |
 | **Unknown male** | Adam - Dominant, Firm | `pNInz6obpgDQGcFmaJgB` | Fallback for unnamed males |
 | **Unknown female** | Alice - Clear, Engaging Educator | `Xb7hH8MSUJpSbSDYk0k2` | Fallback for unnamed females |
