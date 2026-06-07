@@ -242,7 +242,7 @@ Flint was quiet for a moment, the full kind of quiet, the shape of someone else'
 
 "Inner race. Started back around Christmas."
 
-"And you just... you heard a pump grinding from a hundred yards away through a closed truck cab and identified the specific bearing failure mode. Without tools. Without opening any panels. Without..." Flint stopped. When he came back, his voice carried something new, not sarcasm, not performance. The genuine surprise of an analytical system encountering data it hadn't modeled for. "What _are_ you?"
+"And you just... you heard a pump grinding from ten yards away through a closed truck cab and identified the specific bearing failure mode. Without tools. Without opening any panels. Without..." Flint stopped. When he came back, his voice carried something new, not sarcasm, not performance. The genuine surprise of an analytical system encountering data it hadn't modeled for. "What _are_ you?"
 
 "A man who's been fixing that pump since he was fourteen."
 
