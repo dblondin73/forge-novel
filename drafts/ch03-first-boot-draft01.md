@@ -144,7 +144,7 @@ There was no rest of it.
 
 "I built the frame up twice. I know what it's made of."
 
-"Yes. That is. Yes. That is precisely the problem. Congratulations, Mr. Hall. You have been issued the tooltip version of your own job."
+"Yes. That is... that is _precisely_ the problem. Congratulations, Mr. Hall. You have been issued the tooltip version of your own job."
 
 **Structural Analysis**. Nate had spent thirty years reading load paths and stress distribution and the particular shape of how a piece of steel wanted to fail under real conditions. The readout named the metal and stopped.
 
