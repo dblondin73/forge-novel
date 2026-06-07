@@ -2,45 +2,45 @@
 
 ---
 
-Fifty people, give or take, and one crossbow worth a damn. But they hadn't found the crossbow yet. They hadn't found the man who'd build it, either — not properly, not in the way that mattered. They would. The room surfaced things, one way or another, and the things it surfaced and the things the people in it had come ready to find would turn out to be two very different lists, ye'll find.
+Fifty people, give or take, and one crossbow worth a damn. But they hadn't found the crossbow yet. They hadn't found the man who'd build it, either, not properly, not in the way that mattered. They would. The room surfaced things, one way or another, and the things it surfaced and the things the people in it had come ready to find would turn out to be two very different lists, ye'll find.
 
 ---
 
 The stone was wrong.
 
-Nate's boots hit solid ground and the wrongness registered before anything else — not dirt, not the sandy give of ground he had been standing on. Stone. His knees buckled. He caught himself with one hand on the floor and the other reaching for something that wasn't there — the truck's fender, the post driver, anything solid and familiar. His palm came down hard and flat, cold through his skin in a way East Texas ground never was, not even in January. Stone and nothing else.
+Nate's boots hit solid ground and the wrongness registered before anything else. Not dirt, not the sandy give of ground he had been standing on. Stone. His knees buckled. He caught himself with one hand on the floor and the other reaching for something that wasn't there, the truck's fender, the post driver, anything solid and familiar. His palm came down hard and flat, cold through his skin in a way East Texas ground never was, not even in January. Stone and nothing else.
 
-Rex was still against his left leg. He hadn't moved from where he'd been at the moment of transport — set against Nate's shin, rigid and silent. Not panicking. Holding position, the way he held position when lightning cracked close enough to taste and the cattle broke wrong and everything in the world said *run* except the person who made decisions.
+Rex was still against his left leg. He hadn't moved from where he'd been at the moment of transport, set against Nate's shin, rigid and silent. Not panicking. Holding position, the way he held position when lightning cracked close enough to taste and the cattle broke wrong and everything in the world said *run* except the person who made decisions.
 
-Judge was at his right boot. Not holding position — *containing* it. Stub tail rigid, weight forward, shoulders bunched over her forelegs. A Blue Heeler couldn't hold the kind of still a Border Collie defaulted to. Judge's version of *set* was forty pounds of muscle vibrating in place, waiting for the signal to stop.
+Judge was at his right boot. Not holding position. *Containing* it. Stub tail rigid, weight forward, shoulders bunched over her forelegs. A Blue Heeler couldn't hold the kind of still a Border Collie defaulted to. Judge's version of *set* was forty pounds of muscle vibrating in place, waiting for the signal to stop.
 
-The blue arcs flickered hard. Two faint curved lines of light at the edges of his vision, still calibrating to an environment that had nothing in common with the pasture where they'd initialized. The one Flint had said was Health: somewhere below full and the other, Stamina: lower still. Beneath them, an amber field — like a warning label on a diagnostic screen:
+The blue arcs flickered hard. Two faint curved lines of light at the edges of his vision, still calibrating to an environment that had nothing in common with the pasture where they'd initialized. The one Flint had said was Health: somewhere below full and the other, Stamina: lower still. Beneath them, an amber field, like a warning label on a diagnostic screen:
 
 **[PROCESSING]**
 
 Then the room came into focus, and the screaming started making sense.
 
-Stone walls. High ceiling — arched, rough-cut, stonework that belonged in fantasy games and medieval cathedrals and nowhere in real life. Torches in iron sconces every ten feet, casting orange light that moved wrong — too steady, too even, the flames burning without smoke or flicker in a pattern that registered as *generated, not combustion.* The room was large — seventy feet long, maybe forty wide. Weapon racks along both long walls, eight of them. Crafting tables in the center cluster, three heavy wooden stations with tools racked on their surfaces. Armor stands between the weapon racks. And at the far end, a door — dark stone, no handle, no hinges, sealed — part of the wall since the wall was built.
+Stone walls. High ceiling, arched, rough-cut, stonework that belonged in fantasy games and medieval cathedrals and nowhere in real life. Torches in iron sconces every ten feet, casting orange light that moved wrong, too steady, too even, the flames burning without smoke or flicker in a pattern that registered as *generated, not combustion.* The room was large, seventy feet long, maybe forty wide. Weapon racks along both long walls, eight of them. Crafting tables in the center cluster, three heavy wooden stations with tools racked on their surfaces. Armor stands between the weapon racks. And at the far end, a door, dark stone, no handle, no hinges, sealed, part of the wall since the wall was built.
 
-He'd been in this room a hundred times in a hundred games. tutorial staging area. Safe room before the first dungeon. Loading zone. Starter gear on the walls, sealed exit that opens when the event triggers. The loading screen tip that said *Equip your weapon before entering the combat zone!* Except the NPCs were real people and the wooden swords were —
+He'd been in this room a hundred times in a hundred games. tutorial staging area. Safe room before the first dungeon. Loading zone. Starter gear on the walls, sealed exit that opens when the event triggers. The loading screen tip that said *Equip your weapon before entering the combat zone!* Except the NPCs were real people and the wooden swords were…
 
 He'd get to the swords.
 
-His eyes moved through the room the way they moved through a pasture at first light — taking inventory. Fifty people. Give or take.
+His eyes moved through the room the way they moved through a pasture at first light, taking inventory. Fifty people. Give or take.
 
-A man — bald, thick-necked, veins standing in his forearms — was hammering his fist against the wall beside the sealed door. "OPEN IT. Open this damn door right now. OPEN IT." His voice cracking on the repetition, the sound of someone whose anger was running on fear's fuel and would burn out in minutes. The wall did not respond.
+A man, bald, thick-necked, veins standing in his forearms, was hammering his fist against the wall beside the sealed door. "OPEN IT. Open this damn door right now. OPEN IT." His voice cracking on the repetition, the sound of someone whose anger was running on fear's fuel and would burn out in minutes. The wall did not respond.
 
-A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. Not anyone Nate knew — wrong accent, probably wrong state — but the sound was the same one he'd heard drifting across the pasture after Integration hit. A mother's voice that had started calling before this room existed and wasn't going to stop until it got an answer or ran out of air.
+A woman was on her knees near the center of the room, hands pressed to her face, calling a name. A child's name. Not anyone Nate knew, wrong accent, probably wrong state, but the sound was the same one he'd heard drifting across the pasture after Integration hit. A mother's voice that had started calling before this room existed and wasn't going to stop until it got an answer or ran out of air.
 
-Fifty people. From everywhere. The woman calling the child's name had an accent from somewhere north — Illinois, maybe, or Michigan. The bald man cursing at the wall sounded like New Jersey. A teenager sat against the far wall with his arms wrapped around his knees, rocking, a University of Oregon hoodie three sizes too big for the body inside it. A man in a suit stood perfectly still — or what used to be a suit, before the transport dropped him face-first onto medieval flooring. His fingers twitched at his sides in the unmistakable rhythm of someone scrolling an email that had stopped existing the moment he did. His lips were moving. *Karen. Karen. KAREN.* Nate gave him four minutes before he started looking for customer service. Six before he demanded a supervisor. Ten before he filed a formal complaint with the wall, which would at least be quiet.
+Fifty people. From everywhere. The woman calling the child's name had an accent from somewhere north, Illinois, maybe, or Michigan. The bald man cursing at the wall sounded like New Jersey. A teenager sat against the far wall with his arms wrapped around his knees, rocking, a University of Oregon hoodie three sizes too big for the body inside it. A man in a suit stood perfectly still, or what used to be a suit, before the transport dropped him face-first onto medieval flooring. His fingers twitched at his sides in the unmistakable rhythm of someone scrolling an email that had stopped existing the moment he did. His lips were moving. *Karen. Karen. KAREN.* Nate gave him four minutes before he started looking for customer service. Six before he demanded a supervisor. Ten before he filed a formal complaint with the wall, which would at least be quiet.
 
 Whatever had happened in that pasture hadn't stopped at Panola County. Hadn't stopped at Texas. The sky had broken everywhere, and the people it had broken for came from everywhere, and fifty was just this room's share of a number that was very, very large.
 
-Half of them had that look — eyes distant, lips moving, fingers making small gestures at nothing visible. Reading something. Learning something. Accepting something. The vacancy on each face was the same, but the responses were already diverging — some gasping, some grinning, a few whispering "yes" in voices that carried further than they realized.
+Half of them had that look. Eyes distant, lips moving, fingers making small gestures at nothing visible. Reading something. Learning something. Accepting something. The vacancy on each face was the same, but the responses were already diverging, some gasping, some grinning, a few whispering "yes" in voices that carried further than they realized.
 
-A young woman near the third weapon rack suddenly straightened, spread her fingers, and gasped as pale blue light crackled between them. Her face — pure wonder. A man beside her flexed his hands and watched as his forearms thickened, muscles swelling visibly under his skin, and his expression was the same. Wonder. Awe. Gratitude. The look of someone being handed a gift they hadn't dared to hope for.
+A young woman near the third weapon rack suddenly straightened, spread her fingers, and gasped as pale blue light crackled between them. Her face, pure wonder. A man beside her flexed his hands and watched as his forearms thickened, muscles swelling visibly under his skin, and his expression was the same. Wonder. Awe. Gratitude. The look of someone being handed a gift they hadn't dared to hope for.
 
-The **System** was distributing power, and every face around the room that received it wore the same expression — the best thing they'd ever owned.
+The **System** was distributing power, and every face around the room that received it wore the same expression. The best thing they'd ever owned.
 
 Something about it sat wrong in his chest.
 
@@ -48,9 +48,9 @@ He couldn't say why.
 
 He let the feeling sit.
 
-"They're reading stat sheets," Flint said. "Class assignments, skill trees, the full starter package. The **System**'s onboarding experience, delivered to fifty people simultaneously. Some of them are already arguing with their companions. Everyone's getting the same pitch — just not the same offer."
+"They're reading stat sheets," Flint said. "Class assignments, skill trees, the full starter package. The **System**'s onboarding experience, delivered to fifty people simultaneously. Some of them are already arguing with their companions. Everyone's getting the same pitch. Just not the same offer."
 
-"Fifty people," Flint continued. "Three sight lines. One sealed exit. Based on what I can read of the **System** architecture through your visual field — and I want to stress that 'read' is generous, given the absolute state of our network access — this is a staging area. A holding pen with equipment."
+"Fifty people," Flint continued. "Three sight lines. One sealed exit. Based on what I can read of the **System** architecture through your visual field, and I want to stress that 'read' is generous, given the absolute state of our network access, this is a staging area. A holding pen with equipment."
 
 "I know what working pens look like."
 
@@ -60,45 +60,45 @@ He let the feeling sit.
 
 "It works disturbingly well." A beat. "For what it's worth, several of these people are handling the existential crisis better than the cattle would. Several are handling it worse. I'm keeping a list."
 
-Rex's eyes were moving — tracking people, movement patterns, clustering, the ones standing still and the ones about to bolt. Unsorted yearlings in a different pen. A Border Collie didn't need a **System** screen to read a crowd. The crowd was just a herd that walked upright and made more noise.
+Rex's eyes were moving. Tracking people, movement patterns, clustering, the ones standing still and the ones about to bolt. Unsorted yearlings in a different pen. A Border Collie didn't need a **System** screen to read a crowd. The crowd was just a herd that walked upright and made more noise.
 
-Rex was at his shin, and a wash of impressions came through — fear-scent thick in the air, too many bodies too close, the bald man by the wall radiating something sharp and unstable. Rex's ears tracked him without his head moving. A hot spike of focus — every ounce of the dog's attention locked onto that one — a bull about to charge, before the bull itself knew it was going to.
+Rex was at his shin, and a wash of impressions came through. Fear-scent thick in the air, too many bodies too close, the bald man by the wall radiating something sharp and unstable. Rex's ears tracked him without his head moving. A hot spike of focus, every ounce of the dog's attention locked onto that one, a bull about to charge, before the bull itself knew it was going to.
 
-Judge was reading the room differently. Where Rex was scanning for patterns, Judge was picking targets — the specific person she'd put her teeth into first if Nate said *go*. She'd already chosen the bald man. Second pick was still loading.
+Judge was reading the room differently. Where Rex was scanning for patterns, Judge was picking targets, the specific person she'd put her teeth into first if Nate said *go*. She'd already chosen the bald man. Second pick was still loading.
 
 Marcus Webb's voice cut through it.
 
-"Listen up! Prior military, on me. First responders, medical, anyone with formal training — on me now. Everyone else, back against the walls, give people space. Move."
+"Listen up! Prior military, on me. First responders, medical, anyone with formal training. On me now. Everyone else, back against the walls, give people space. Move."
 
-He'd found position already — center of the room, near the largest crafting table, where his voice carried in every direction. Deep enough to feel in your chest before your ears finished processing it, a rumble that didn't need volume to fill a room. Same voice he'd used to hold a platoon together in places the news didn't cover. A label resolved in Nate's vision — text floating at the edge of his focus, pinned to the man like a sale tag on a heifer:
+He'd found position already, center of the room, near the largest crafting table, where his voice carried in every direction. Deep enough to feel in your chest before your ears finished processing it, a rumble that didn't need volume to fill a room. Same voice he'd used to hold a platoon together in places the news didn't cover. A label resolved in Nate's vision, text floating at the edge of his focus, pinned to the man like a sale tag on a heifer:
 
 **MARCUS WEBB — VANGUARD [RANK F — LOW]**
 
-And people were listening. Not all of them — the bald man was still hitting the wall, the mother on her knees hadn't looked up, the kid in the Oregon hoodie was somewhere else entirely — but enough. Ten, twelve, fifteen people migrating toward Marcus's voice, because in a room full of panic, the man who sounded like he had a plan was worth following even if he didn't have one yet.
+And people were listening. Not all of them, the bald man was still hitting the wall, the mother on her knees hadn't looked up, the kid in the Oregon hoodie was somewhere else entirely, but enough. Ten, twelve, fifteen people migrating toward Marcus's voice, because in a room full of panic, the man who sounded like he had a plan was worth following even if he didn't have one yet.
 
-Nate didn't move toward Marcus. Not yet. His back to the wall, Rex at his feet, where he could see the whole room without being in the middle of it. Same place he'd stand at a sale barn — gate in view, watching the herd sort itself. One dog and a wall. That was enough.
+Nate didn't move toward Marcus. Not yet. His back to the wall, Rex at his feet, where he could see the whole room without being in the middle of it. Same place he'd stand at a sale barn, gate in view, watching the herd sort itself. One dog and a wall. That was enough.
 
-His eye caught a face near the second weapon rack — weathered, sixtyish, the permanent squint of a man who'd spent decades in the sun. He'd seen him before at the sale barn in Carthage, maybe, or De Berry. The man was holding a sword by the middle — testing the balance before he trusted the weight, same grip you'd use on a fence post — and Nate filed that away. The nameplate above him resolved in clean white: **WALT KEANE — SMITH [RANK F — LOW]**. At least one person in this room knew what tools felt like before today.
+His eye caught a face near the second weapon rack, weathered, sixtyish, the permanent squint of a man who'd spent decades in the sun. He'd seen him before at the sale barn in Carthage, maybe, or De Berry. The man was holding a sword by the middle, testing the balance before he trusted the weight, same grip you'd use on a fence post, and Nate filed that away. The nameplate above him resolved in clean white: **WALT KEANE — SMITH [RANK F — LOW]**. At least one person in this room knew what tools felt like before today.
 
 He turned his attention to the weapon racks.
 
 ---
 
-Eight racks. A hundred pieces of gear. Swords, axes, maces, daggers, staves, bows, crossbows — the entire catalog of fantasy-protagonist starter kit, laid out like a Renaissance faire that had been given a decorating budget and no combat consultant. Armor stands between the racks wore chest pieces and chain shirts and robes with embroidered hems, all of it polished, organized, presented with the quiet confidence of a department store that had never been audited.
+Eight racks. A hundred pieces of gear. Swords, axes, maces, daggers, staves, bows, crossbows, the entire catalog of fantasy-protagonist starter kit, laid out like a Renaissance faire that had been given a decorating budget and no combat consultant. Armor stands between the racks wore chest pieces and chain shirts and robes with embroidered hems, all of it polished, organized, presented with the quiet confidence of a department store that had never been audited.
 
 People were already grabbing. A woman in hospital scrubs pulled a longsword off the rack and held it exactly like someone who had never held anything longer than a stethoscope and was now negotiating the physics of a thirty-eight-inch steel lever in real time. A teenager hauled the biggest axe off the wall and the weight tipped him forward half a step before he remembered he had knees. Two grown men were arguing over a shield with a lion embossed on its face, each gripping one edge, both of them wearing the expression of men who had never negotiated for anything heavier than the last dinner roll and were discovering they had opinions about ownership.
 
-Nate looked at the racks — *really* looked — and **Structural Analysis** fired.
+Nate looked at the racks, *really* looked, and **Structural Analysis** fired.
 
-Not the tooltip version. Not the flat readout that had spent six seconds in the pasture telling him his F-250 was made of steel. Something deeper was happening inside the skill. The blue arcs flared once, and a faint wireframe ghosted over the nearest sword rack — monochrome blue lines tracing edges and joints like a blueprint drawn on smoke by a drafter who was mostly sober. Not solid. Flickering. But *architecture*, not labels. The overlay was rough, unstable, and kept cutting out at the edges of his focus before snapping back with the embarrassed persistence of software being asked to do something the documentation had not covered. But where it held, objects became *legible* — not as names and numbers but as structures. Load paths. Stress points. The bones of the thing.
+Not the tooltip version. Not the flat readout that had spent six seconds in the pasture telling him his F-250 was made of steel. Something deeper was happening inside the skill. The blue arcs flared once, and a faint wireframe ghosted over the nearest sword rack, monochrome blue lines tracing edges and joints like a blueprint drawn on smoke by a drafter who was mostly sober. Not solid. Flickering. But *architecture*, not labels. The overlay was rough, unstable, and kept cutting out at the edges of his focus before snapping back with the embarrassed persistence of software being asked to do something the documentation had not covered. But where it held, objects became *legible*, not as names and numbers but as structures. Load paths. Stress points. The bones of the thing.
 
-"I'm watching a skill that was documented as a tooltip go full architectural CAD on a tutorial sword rack," Flint said, "and I would like it noted for the record that the **System's** own specification document is currently *lying to me,* which — and I say this with genuine affection — is a hell of a Tuesday."
+"I'm watching a skill that was documented as a tooltip go full architectural CAD on a tutorial sword rack," Flint said, "and I would like it noted for the record that the **System's** own specification document is currently *lying to me,* which, and I say this with genuine affection, is a hell of a Tuesday."
 
 "Useful."
 
 "I am providing color commentary while your skill violates a design document written by an interdimensional framework older than language. If *useful* is the word, I'll take it."
 
-The swords: polished. Blades catching the torchlight and looking heroic the way props on a movie set looked heroic — from exactly one camera angle, under exactly the right lighting, held by someone who had been told not to swing. **Structural Analysis** read them as thin-gauge steel over a hollow core. The edge was real enough to cut skin. The spine was half the thickness a functional blade needed. Three solid impacts against anything harder than flesh and the steel would deform; five and it would snap; seven and someone would be holding half a sword and a strong opinion about the manufacturer. The crossguards were cast alloy — they'd crack at the weld under any side-load more aggressive than a firm handshake. The handle wraps were a uniform synthetic rendering of leather that had never been within a thousand miles of an animal, and Nate was almost impressed by the consistency of the failure.
+The swords: polished. Blades catching the torchlight and looking heroic the way props on a movie set looked heroic, from exactly one camera angle, under exactly the right lighting, held by someone who had been told not to swing. **Structural Analysis** read them as thin-gauge steel over a hollow core. The edge was real enough to cut skin. The spine was half the thickness a functional blade needed. Three solid impacts against anything harder than flesh and the steel would deform; five and it would snap; seven and someone would be holding half a sword and a strong opinion about the manufacturer. The crossguards were cast alloy. They'd crack at the weld under any side-load more aggressive than a firm handshake. The handle wraps were a uniform synthetic rendering of leather that had never been within a thousand miles of an animal, and Nate was almost impressed by the consistency of the failure.
 
 "You look like a man reviewing a government contract," Flint observed. "Specifically the kind where the deliverable looks great in the executive summary and the footnotes are written in the blood of the integration team."
 
@@ -106,13 +106,13 @@ The swords: polished. Blades catching the torchlight and looking heroic the way 
 
 "I believe it. You've got *that* face."
 
-The wireframe flickered, died, came back a fraction sharper. Each pulse added detail — stress points resolving as brighter nodes, load-bearing joints separating visually from decorative ones, the whole overlay learning his focus like a dog learning what part of the ranch actually needed watching. Point, hold, read.
+The wireframe flickered, died, came back a fraction sharper. Each pulse added detail, stress points resolving as brighter nodes, load-bearing joints separating visually from decorative ones, the whole overlay learning his focus like a dog learning what part of the ranch actually needed watching. Point, hold, read.
 
-The shields: same problem, different shape. Decorated faces over wood that **Structural Analysis** read as generated composite — structural filler wearing a wood costume and hoping nobody checked the tags. Two of the shields had bosses — the metal center pieces — that came back as genuine forged iron. Crystalline structure, real density, actual thermal history. The one structural-honest component on the shields was the one nobody was going to notice, which struck Nate as either an accident or a punchline he didn't have the data to judge.
+The shields: same problem, different shape. Decorated faces over wood that **Structural Analysis** read as generated composite, structural filler wearing a wood costume and hoping nobody checked the tags. Two of the shields had bosses, the metal center pieces, that came back as genuine forged iron. Crystalline structure, real density, actual thermal history. The one structural-honest component on the shields was the one nobody was going to notice, which struck Nate as either an accident or a punchline he didn't have the data to judge.
 
-The bows: recurve limbs of generated composite, uniform grain tip to tip, no natural variation, no life in the wood because there had never been any wood. They'd fire arrows. They'd do it the way a printer fired a page — functionally, without joy, and with roughly the same expected service life. The arrows were worse. Straight enough, but the shafts were hollow composite. They'd shatter on impact with anything harder than flesh. Given what was presumably about to come through the sealed door, that was a specification decision someone was going to regret.
+The bows: recurve limbs of generated composite, uniform grain tip to tip, no natural variation, no life in the wood because there had never been any wood. They'd fire arrows. They'd do it the way a printer fired a page, functionally, without joy, and with roughly the same expected service life. The arrows were worse. Straight enough, but the shafts were hollow composite. They'd shatter on impact with anything harder than flesh. Given what was presumably about to come through the sealed door, that was a specification decision someone was going to regret.
 
-Starter gear. Gray-quality trash with good skins. Every game did this — handed you something that *looked* functional for the first zone, let you bond with it emotionally for an hour, and then broke it halfway through the second boss so you'd feel grateful for the upgrade. The gear wasn't armament. It was decoration. Appearance was everything on the walls; survival was nothing. The way every government contract he'd ever reviewed came out — pretty deliverables, hollow data, and a team somewhere downstream who was going to find out the hard way that the PowerPoint had lied.
+Starter gear. Gray-quality trash with good skins. Every game did this. Handed you something that *looked* functional for the first zone, let you bond with it emotionally for an hour, and then broke it halfway through the second boss so you'd feel grateful for the upgrade. The gear wasn't armament. It was decoration. Appearance was everything on the walls; survival was nothing. The way every government contract he'd ever reviewed came out, pretty deliverables, hollow data, and a team somewhere downstream who was going to find out the hard way that the PowerPoint had lied.
 
 "Forty-something people are selecting weapons based on visual appeal," Flint said, "while your **Structural Analysis** is cataloging material deficiencies in every piece on that wall. Three of them are about to start arguing over who gets the prettiest sword, and I want to note that the prettiest sword on this rack would lose a structural argument with a well-thrown dinner plate. I assume you have opinions."
 
@@ -120,27 +120,27 @@ Starter gear. Gray-quality trash with good skins. Every game did this — handed
 
 "Would you like to share them with the class, or just stand here looking disappointed while forty-something adults arm themselves with theatrical metalwork and hope?"
 
-Nobody was checking anything. Nobody tapped a blade to hear the ring. Nobody flexed a crossguard to test the weld. They were shopping — by appearance, by size, by the weight of expectation that a sword should *look* like a sword. Something in him wanted to say it — the same instinct that had watched new hands grab the wrong tool at a fencing job because the right one didn't look impressive enough — but fifty terrified strangers weren't going to listen to a man with a **PROCESSING** tag telling them their swords were garbage.
+Nobody was checking anything. Nobody tapped a blade to hear the ring. Nobody flexed a crossguard to test the weld. They were shopping, by appearance, by size, by the weight of expectation that a sword should *look* like a sword. Something in him wanted to say it, the same instinct that had watched new hands grab the wrong tool at a fencing job because the right one didn't look impressive enough, but fifty terrified strangers weren't going to listen to a man with a **PROCESSING** tag telling them their swords were garbage.
 
 He turned his attention to the rest of the room.
 
 And the rest of the room told a different story.
 
-The crafting tables were built for function, not display. **Structural Analysis** read them as structural — real materials, real density, load-bearing. Honest material, where nobody would think to check. The table legs were straight-grain hardwood. Dense. True. The wall brackets were forged iron — simple, heavy, functional. The torch mounts were solid steel anchored into genuine stone.
+The crafting tables were built for function, not display. **Structural Analysis** read them as structural, real materials, real density, load-bearing. Honest material, where nobody would think to check. The table legs were straight-grain hardwood. Dense. True. The wall brackets were forged iron, simple, heavy, functional. The torch mounts were solid steel anchored into genuine stone.
 
 Everything that got *used* was real. Everything that got *chosen* was fake.
 
-The split snagged at him — two categories of honesty in the same room, and he had no words yet for what that meant.
+The split snagged at him, two categories of honesty in the same room, and he had no words yet for what that meant.
 
 "Flint."
 
-"I see it. The **System** dressed the mannequins and forgot to dress the stage." A pause. "Or didn't forget — I can't tell which from this side of the spec sheet. Pretty grabs, fragile replaces. That's all I've actually got. The rest I'd be guessing."
+"I see it. The **System** dressed the mannequins and forgot to dress the stage." A pause. "Or didn't forget. I can't tell which from this side of the spec sheet. Pretty grabs, fragile replaces. That's all I've actually got. The rest I'd be guessing."
 
 "Standard gear treadmill. Played this game before."
 
-The wireframe overlay pulsed and steadied, and for the first time, the blue lines held without flickering. The table leg's grain structure resolved in his vision — straight, dense, stress lines running clean from end to end. The wall bracket showed forged iron, crystalline, functional. The world had split into two categories, and his eyes were learning to sort them faster than his brain could narrate it.
+The wireframe overlay pulsed and steadied, and for the first time, the blue lines held without flickering. The table leg's grain structure resolved in his vision, straight, dense, stress lines running clean from end to end. The wall bracket showed forged iron, crystalline, functional. The world had split into two categories, and his eyes were learning to sort them faster than his brain could narrate it.
 
-"That's not supposed to do that." Flint's voice was stripped of performance — no joke queued, no flourish. Flat diagnostic. "That skill, specifically, is not supposed to do what it is currently doing. I am looking at the **System**'s skill database and it is telling me, very politely, that **Structural Analysis** Rank 1 provides material type, durability percentage, and a quality grade. A tooltip. That's the spec sheet. That is the entire spec sheet." A beat. "What you are seeing is not on the spec sheet. I am watching it happen anyway, and I would like it noted that my professional opinion is _what the hell._"
+"That's not supposed to do that." Flint's voice was stripped of performance, no joke queued, no flourish. Flat diagnostic. "That skill, specifically, is not supposed to do what it is currently doing. I am looking at the **System**'s skill database and it is telling me, very politely, that **Structural Analysis** Rank 1 provides material type, durability percentage, and a quality grade. A tooltip. That's the spec sheet. That is the entire spec sheet." A beat. "What you are seeing is not on the spec sheet. I am watching it happen anyway, and I would like it noted that my professional opinion is _what the hell._"
 
 The **PROCESSING** tag pulsed amber beneath his health bar. Still amber. Still patient. Still saying nothing about why.
 
@@ -148,21 +148,21 @@ The **PROCESSING** tag pulsed amber beneath his health bar. Still amber. Still p
 
 Across the room, three crossbows hung on the end of the second rack. Nobody was touching them. In a room full of people grabbing swords because swords looked like what heroes carried, the crossbows were wallflowers at a dance nobody had invited them to.
 
-The wireframe overlay ghosted over them. Two were the same cosmetic trash — decorative prods that would lose tension after twenty shots, generated stocks that looked like walnut but rang hollow. The third sat on the bottom of the rack, partially hidden behind a shield nobody wanted. Ugly. Warped pine stock that wouldn't sit right against the shoulder. Sloppy cast trigger mechanism with too much play in the lever. Rail misaligned by two degrees — enough that every bolt would pull left.
+The wireframe overlay ghosted over them. Two were the same cosmetic trash, decorative prods that would lose tension after twenty shots, generated stocks that looked like walnut but rang hollow. The third sat on the bottom of the rack, partially hidden behind a shield nobody wanted. Ugly. Warped pine stock that wouldn't sit right against the shoulder. Sloppy cast trigger mechanism with too much play in the lever. Rail misaligned by two degrees, enough that every bolt would pull left.
 
 But the prod.
 
 **Structural Analysis** read it, and Nate stopped.
 
-Spring steel. Actual temper. The crystalline grain structure showed heat treatment — not uniform **System** generation but something that had gone through a real heating and cooling cycle. The metal had memory. It wanted to return to its resting state after deformation. This one component — hidden on the worst crossbow on the worst rack in the corner of the room — was made right.
+Spring steel. Actual temper. The crystalline grain structure showed heat treatment, not uniform **System** generation but something that had gone through a real heating and cooling cycle. The metal had memory. It wanted to return to its resting state after deformation. This one component, hidden on the worst crossbow on the worst rack in the corner of the room, was made right.
 
 His hands reached for it before his brain formed a reason.
 
-Twenty years of replacing trailer springs. Checking hay baler tines. Testing the temper on farrier tools by the ring they made when you tapped them — high and clear for good steel, dull and flat for junk. His hands knew spring steel the way Rex knew cattle — at a level below language, where knowledge lived in muscle and bone instead of words.
+Twenty years of replacing trailer springs. Checking hay baler tines. Testing the temper on farrier tools by the ring they made when you tapped them, high and clear for good steel, dull and flat for junk. His hands knew spring steel the way Rex knew cattle, at a level below language, where knowledge lived in muscle and bone instead of words.
 
-He pulled the crossbow off the rack. Stripped the prod off the warped stock. Discarded the body, the trigger, the rail. Kept the one piece that mattered and the bowstring — it was decent cordage and worth saving.
+He pulled the crossbow off the rack. Stripped the prod off the warped stock. Discarded the body, the trigger, the rail. Kept the one piece that mattered and the bowstring. It was decent cordage and worth saving.
 
-A **Warrior** type nearby — big, already holding two swords he didn't need — watched Nate tear apart a crossbow and keep one piece. "What are you doing?"
+A **Warrior** type nearby, big, already holding two swords he didn't need, watched Nate tear apart a crossbow and keep one piece. "What are you doing?"
 
 "Finding a good part."
 
@@ -172,15 +172,15 @@ A **Warrior** type nearby — big, already holding two swords he didn't need —
 
 The man walked away with the expression of someone who had decided Nate was not his problem.
 
-Nate turned to the nearest crafting table. The wireframe overlay showed the table itself — the legs, the frame, the joints. One leg was slightly thicker than the others. Overbuilt for its role. More material than the table needed.
+Nate turned to the nearest crafting table. The wireframe overlay showed the table itself, the legs, the frame, the joints. One leg was slightly thicker than the others. Overbuilt for its role. More material than the table needed.
 
 "You're looking at the table like the table owes you money," Flint said.
 
 "That leg is better wood than every weapon handle in this room."
 
-"I'm going to regret saying this, but — explain."
+"I'm going to regret saying this, but… explain."
 
-"Weapons on those walls are built to look good. This table's built to hold weight. Different jobs. Honest material shows up where honest material has to do actual work." He tapped the leg. High, dense ring — not a dull thunk. Not composite filler. Actual hardwood. "Hear that? Straight grain. Thirty inches of stock that'll hold a prod better than anything on those racks."
+"Weapons on those walls are built to look good. This table's built to hold weight. Different jobs. Honest material shows up where honest material has to do actual work." He tapped the leg. High, dense ring. Not a dull thunk. Not composite filler. Actual hardwood. "Hear that? Straight grain. Thirty inches of stock that'll hold a prod better than anything on those racks."
 
 "You're going to take the table apart."
 
@@ -190,45 +190,45 @@ Nate turned to the nearest crafting table. The wireframe overlay showed the tabl
 
 "It'll manage."
 
-He grabbed the forging hammer from the crafting station. Flat face on one side, cross peen on the other. Solid steel, honest weight — a blacksmith's tool, not a carpenter's. Built for shaping metal, not pulling nails. Nate's hand closed around the handle and something settled in his chest — a tool in his hand when the world stopped making sense. That always felt right.
+He grabbed the forging hammer from the crafting station. Flat face on one side, cross peen on the other. Solid steel, honest weight, a blacksmith's tool, not a carpenter's. Built for shaping metal, not pulling nails. Nate's hand closed around the handle and something settled in his chest, a tool in his hand when the world stopped making sense. That always felt right.
 
 He worked the table leg joint with the hammer until the leg released. The weight landed in his palm exactly the way he'd expected.
 
-A metal bracket on the wall held a torch in place — forged iron, simple, a U-shaped bracket with bolt holes. He pried it off the wall with the hammer's peen. Filed the bolt holes wider against the rough edge of the table's iron banding. Bent the bracket into a trigger lever using the table edge as a brake.
+A metal bracket on the wall held a torch in place, forged iron, simple, a U-shaped bracket with bolt holes. He pried it off the wall with the hammer's peen. Filed the bolt holes wider against the rough edge of the table's iron banding. Bent the bracket into a trigger lever using the table edge as a brake.
 
 The hands did the work. Trailer hitches and fence stretchers and the alternator on the '98 Ford he'd rebuilt in the barn at seventeen because the dealer wanted four hundred dollars and his daddy said that was four hundred dollars worth of learning. The crossbow was just the latest entry in a long catalog of things that got built because the right tool didn't exist and the man who needed it had hands and opinions about what "right" looked like.
 
-The prod seated into the table-leg stock. The blue wireframe showed the contact — wood fibers meeting steel at a joint that wasn't tight enough. Not yet. He'd need something to bond it. He was turning to look for that something when the **System** pushed new gifts to everyone. Nate's world split for the second time that morning.
+The prod seated into the table-leg stock. The blue wireframe showed the contact, wood fibers meeting steel at a joint that wasn't tight enough. Not yet. He'd need something to bond it. He was turning to look for that something when the **System** pushed new gifts to everyone. Nate's world split for the second time that morning.
 
-Mid-assembly — hands on both the prod and the stock — the skill grant arrived. A pressure behind his eyes, sharp and targeted, the **System** writing an update onto his framework — patch pushing mid-session. Around the room, warriors straightened as something new poured into their limbs. A **Mage** gasped. Sparks jumped between her fingers — blue-white, electrical, a current where no circuit should have been. A **Healer** — nameplate settling into **ANA TORRES — HEALER [RANK F — LOW]** — touched the kneeling mother's shoulder and a soft golden glow spread from her palm. Class abilities were landing. Combat starters. The first tools — the ones that would make the first fight survivable.
+Mid-assembly, hands on both the prod and the stock, the skill grant arrived. A pressure behind his eyes, sharp and targeted, the **System** writing an update onto his framework, patch pushing mid-session. Around the room, warriors straightened as something new poured into their limbs. A **Mage** gasped. Sparks jumped between her fingers, blue-white, electrical, a current where no circuit should have been. A **Healer**, nameplate settling into **ANA TORRES — HEALER [RANK F — LOW]**, touched the kneeling mother's shoulder and a soft golden glow spread from her palm. Class abilities were landing. Combat starters. The first tools, the ones that would make the first fight survivable.
 
-More power, distributed in the same blue bloom. And this time, the looks on the faces weren't just wonder — they were *belonging.* Classes had resolved. Nameplates had settled. Power had arrived. Fifty strangers becoming mages, warriors, healers, guardians, and feeling — for the first time since the sky broke — like they understood what was happening. Like they had a place in it.
+More power, distributed in the same blue bloom. And this time, the looks on the faces weren't just wonder. They were *belonging.* Classes had resolved. Nameplates had settled. Power had arrived. Fifty strangers becoming mages, warriors, healers, guardians, and feeling, for the first time since the sky broke, like they understood what was happening. Like they had a place in it.
 
 When the skill grant hit Nate's framework, it crashed.
 
-The occupied space rejected it. He felt the skill try to load — **Basic Strike**, probably, the standard melee opener — and felt it stutter, catch, collapse. Fragments scattering through the space behind his eyes like sparks off a bad weld. Not gracefully. The **System**'s combat programming met resistance that shouldn't exist on any framework it had built, and broke apart.
+The occupied space rejected it. He felt the skill try to load, **Basic Strike**, probably, the standard melee opener, and felt it stutter, catch, collapse. Fragments scattering through the space behind his eyes like sparks off a bad weld. Not gracefully. The **System**'s combat programming met resistance that shouldn't exist on any framework it had built, and broke apart.
 
 "*Shit,*" Flint said, with no theater in it at all.
 
 But something else came through.
 
-Not a weapon skill. Something quieter. Something that had been waiting in the gap where the grant had miscarried. It settled into his hands — into the connection between his palms and the materials they held. Understanding. Not how to fight. How to *build.*
+Not a weapon skill. Something quieter. Something that had been waiting in the gap where the grant had miscarried. It settled into his hands, into the connection between his palms and the materials they held. Understanding. Not how to fight. How to *build.*
 
 "That's reading like **Field Repair**," Flint said, his voice stripped to genuine disbelief. "But not the version I know. Standard **Field Repair** shows a durability readout and a repair prompt. What you're doing is reading material structure through physical contact and... convincing it to cooperate."
 
-The wood grain tightened under his right hand. He felt it through his skin — the hardwood stock responding to something below conscious control, molecular structure shifting, the grain aligning along stress pathways that his hands somehow knew were optimal. The prod seated itself into the stock with a connection that went deeper than friction or carpentry. Not glue. Not fasteners. The wood and steel *holding* each other at a level Nate's conscious mind was still catching up to. He could feel the materials answering a question he hadn't known how to ask: *How does the wood want to hold the steel?*
+The wood grain tightened under his right hand. He felt it through his skin, the hardwood stock responding to something below conscious control, molecular structure shifting, the grain aligning along stress pathways that his hands somehow knew were optimal. The prod seated itself into the stock with a connection that went deeper than friction or carpentry. Not glue. Not fasteners. The wood and steel *holding* each other at a level Nate's conscious mind was still catching up to. He could feel the materials answering a question he hadn't known how to ask: *How does the wood want to hold the steel?*
 
 "It's cooperating."
 
 "The wood is *rearranging its grain pattern.* I can see it through your HUD feed. That's not repair. That's negotiation."
 
-Nate set the trigger mechanism into a notch he'd carved. Threaded the bowstring — tensioned, tested. Click. Reset. Click. Smooth enough.
+Nate set the trigger mechanism into a notch he'd carved. Threaded the bowstring, tensioned, tested. Click. Reset. Click. Smooth enough.
 
 Grip wrapped in a strip of leather from the inside of a belt buckle, where the **Tutorial** had generated actual material to hold the buckle in place and nobody would think to check. **Structural Analysis** had found it. **Field Repair** bonded it.
 
 Ten minutes. The crossbow looked like someone built it in a barn. The stock was a table leg. The trigger was a wall bracket. The prod was the only piece in the whole room that someone had bothered to *temper*.
 
-It was ugly — honest-ugly, the kind that came from function winning every argument with form — and dangerous with the quiet certainty of something engineered to a purpose. That morning it was just a man and a crossbow that looked like it had been assembled during a bar fight, and neither of them knew what they were starting, mind.
+It was ugly, honest-ugly, the kind that came from function winning every argument with form, and dangerous with the quiet certainty of something engineered to a purpose. That morning it was just a man and a crossbow that looked like it had been assembled during a bar fight, and neither of them knew what they were starting, mind.
 
 "I have catalogued what you just did," Flint said, "and I want you to know that from a strictly technical standpoint, you just built a ranged weapon from furniture and wall fixtures while forty-something people with functioning class assignments selected purpose-built armaments designed by a god-tier intelligence." A beat, and his voice shifted from clinical to something that sounded almost like pride, if you didn't know better. "And yours is better. I find that personally offensive on their behalf."
 
@@ -238,9 +238,9 @@ It was ugly — honest-ugly, the kind that came from function winning every argu
 
 "Theirs will break first."
 
-Nate picked the hammer back up, wrapped the handle with cordage from the crafting station, and felt the steel seat deeper into the wood as the connection went from adequate to permanent. Added a loop of cord so it hung from his belt. Flat face for striking. Cross peen for shaping. A blacksmith's tool that would follow him to every crafting station between here and whatever waited at the end of this place. Two minutes, start to finish. Nobody in the room noticed — they were watching warriors compare swords.
+Nate picked the hammer back up, wrapped the handle with cordage from the crafting station, and felt the steel seat deeper into the wood as the connection went from adequate to permanent. Added a loop of cord so it hung from his belt. Flat face for striking. Cross peen for shaping. A blacksmith's tool that would follow him to every crafting station between here and whatever waited at the end of this place. Two minutes, start to finish. Nobody in the room noticed. They were watching warriors compare swords.
 
-Rex nosed his free hand. Not alerting — checking. The dog version of *you still in there?* after ten minutes of a man who hadn't spoken out loud. Nate scratched behind his ears once. Rex's tail swept low, satisfied, and he went back to scanning the room.
+Rex nosed his free hand. Not alerting. Checking. The dog version of *you still in there?* after ten minutes of a man who hadn't spoken out loud. Nate scratched behind his ears once. Rex's tail swept low, satisfied, and he went back to scanning the room.
 
 Judge had appropriated a scrap of hide from the discard pile and was carrying it around like a trophy. It was the size of a playing card. She was behaving as though she had hunted it down and killed it personally. When she passed Rex, she adjusted her route by a degree so he could see her prize. Rex declined to comment. Judge took that for the professional jealousy it clearly was.
 
@@ -248,11 +248,11 @@ Judge had appropriated a scrap of hide from the discard pile and was carrying it
 
 She'd been three feet to his left the whole time altogether.
 
-Short. Compact. Dark ponytail that had been practical before the world ended and was practical after. Brown eyes that didn't rest on anything — they *scanned*, moving across surfaces and objects with the relentless sweep of someone who'd been inventorying the world since before she knew there was a word for it. She'd been sorting through a pile of leather armor pieces on the neighboring table, and based on the organized chaos of her work surface — rejects in one stack, possibles in another, and a third pile of items she appeared to be conducting a personal intervention with — she'd been at it since before Nate started building.
+Short. Compact. Dark ponytail that had been practical before the world ended and was practical after. Brown eyes that didn't rest on anything. They *scanned*, moving across surfaces and objects with the relentless sweep of someone who'd been inventorying the world since before she knew there was a word for it. She'd been sorting through a pile of leather armor pieces on the neighboring table, and based on the organized chaos of her work surface, rejects in one stack, possibles in another, and a third pile of items she appeared to be conducting a personal intervention with, she'd been at it since before Nate started building.
 
 She was talking to the leather.
 
-"No. No. Absolutely not." She held a leather vambrace at arm's length, turning it with the critical attention of a jeweler examining a suspect diamond. "This is insulting. This is — you're not even trying, are you?" She dropped the vambrace into the reject pile and picked up a belt, sniffed the edge of the leather, and made a face. "Not real. Smells like a car seat." Into the reject pile. She picked up another belt, sniffed, paused, ran her thumbnail along the grain, and made a small involuntary sound of recognition. "Oh. *Oh.* Hello, sweetheart." The belt went into the third pile. The good pile.
+"No. No. Absolutely not." She held a leather vambrace at arm's length, turning it with the critical attention of a jeweler examining a suspect diamond. "This is insulting. This is… you're not even trying, are you?" She dropped the vambrace into the reject pile and picked up a belt, sniffed the edge of the leather, and made a face. "Not real. Smells like a car seat." Into the reject pile. She picked up another belt, sniffed, paused, ran her thumbnail along the grain, and made a small involuntary sound of recognition. "Oh. *Oh.* Hello, sweetheart." The belt went into the third pile. The good pile.
 
 She had four belts, two pouches, a strip of backing leather, and what appeared to be a boot sole in the good pile. In a room full of people grabbing armor and swords, she was salvaging belt hardware and talking to it like it had feelings.
 
@@ -260,7 +260,7 @@ She had four belts, two pouches, a strip of backing leather, and what appeared t
 
 Nate didn't look up. He was testing the trigger pull. Click. Reset. Click. "I built a crossbow out of parts."
 
-"Out of the *room.* Out of a table and a wall bracket and a crossbow nobody wanted." She'd stopped sorting. She was looking at the weapon racks where forty-something people were grabbing swords. Then back at Nate's hands. She was making a connection nobody else in the room was making, and she was making it the way Rex did — before the brain had a vote. "You can see what things actually are."
+"Out of the *room.* Out of a table and a wall bracket and a crossbow nobody wanted." She'd stopped sorting. She was looking at the weapon racks where forty-something people were grabbing swords. Then back at Nate's hands. She was making a connection nobody else in the room was making, and she was making it the way Rex did, before the brain had a vote. "You can see what things actually are."
 
 "I can see what things are made of."
 
@@ -268,11 +268,11 @@ Nate didn't look up. He was testing the trigger pull. Click. Reset. Click. "I bu
 
 It wasn't. But it was close enough that he looked at her for the first time.
 
-She was five-four, maybe. Compact, solid — not petite, *dense*. The build of a woman who'd hauled furniture and loaded trucks since she was old enough to help. A smudge of something on her forearm already — dust or leather dye, hard to tell. She'd been working. Clean clothes clearly lasted about twenty minutes on this woman.
+She was five-four, maybe. Compact, solid, not petite, *dense*. The build of a woman who'd hauled furniture and loaded trucks since she was old enough to help. A smudge of something on her forearm already, dust or leather dye, hard to tell. She'd been working. Clean clothes clearly lasted about twenty minutes on this woman.
 
-She held up a strip of synthetic leather from the armor pile in one hand and a different strip in the other. "This one's fake — no grain. This one's real." She held up the genuine strip. "Some of these are real. Most aren't. I'm keeping the real ones. Everyone's grabbing chest pieces. Nobody's checking belts."
+She held up a strip of synthetic leather from the armor pile in one hand and a different strip in the other. "This one's fake, no grain. This one's real." She held up the genuine strip. "Some of these are real. Most aren't. I'm keeping the real ones. Everyone's grabbing chest pieces. Nobody's checking belts."
 
-Rex's ears rotated toward her. Not a threat assessment — curiosity. The slight tilt of a dog encountering a human who operated at a frequency he recognized. Fast. Certain. Reading the room on the same frequency.
+Rex's ears rotated toward her. Not a threat assessment, curiosity. The slight tilt of a dog encountering a human who operated at a frequency he recognized. Fast. Certain. Reading the room on the same frequency.
 
 "The small loud one has grabbed seventeen pieces of biological debris in four minutes," Flint said internally. "I want to classify this as a behavioral anomaly, but I think it might just be a personality."
 
@@ -282,13 +282,13 @@ Nate almost smiled.
 
 "How do you know what real leather looks like?" Nate asked.
 
-"I run estate sales." She said it like breathing — not a credential, a fact of existence. "Estate sales are ninety percent fake and ten percent treasure. Your job is knowing which pile everything belongs in before you waste money finding out." She looked at the crossbow, and her expression shifted — not impressed, not confused, but *hungry.* The look of someone who had just found the ten-percent pile in a room full of people digging through the ninety. "You're the first person in here who didn't grab the shiniest thing on the wall."
+"I run estate sales." She said it like breathing, not a credential, a fact of existence. "Estate sales are ninety percent fake and ten percent treasure. Your job is knowing which pile everything belongs in before you waste money finding out." She looked at the crossbow, and her expression shifted, not impressed, not confused, but *hungry.* The look of someone who had just found the ten-percent pile in a room full of people digging through the ninety. "You're the first person in here who didn't grab the shiniest thing on the wall."
 
 "I grabbed the real one."
 
 "Same thing." She pointed at him with the leather strip. "The difference matters."
 
-She crouched. Not reaching for Rex, just lowering herself to his level — someone who understood animals, making herself smaller before making contact. Rex's tail moved once. She passed.
+She crouched. Not reaching for Rex, just lowering herself to his level, someone who understood animals, making herself smaller before making contact. Rex's tail moved once. She passed.
 
 Judge didn't bother with Rex's protocol. She shouldered in, planted her weight against Josie's boot, and looked up with the unmixed certainty of a dog whose vote had been cast before anyone called for one. Rex was still reading. Judge had decided.
 
@@ -298,11 +298,11 @@ Then Judge noticed the leather pile. Her nose worked once, twice, and her head s
 
 Judge's ears dropped half a millimeter. She did not take the leather. She did, however, sigh with the full chest-heave of a dog who had been prevented from committing what she considered a victimless crime.
 
-"I'm Josie," she said, straightening. "Josie Pickett." She held up a hand before he could ask. "Yes, like the fence. I've heard it. My screen says **Appraiser**, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them. The chain shirts are the best armor in here — actual metal rings — but they're sized for someone about six inches taller than me, which is a recurring theme in my life."
+"I'm Josie," she said, straightening. "Josie Pickett." She held up a hand before he could ask. "Yes, like the fence. I've heard it. My screen says **Appraiser**, which I thought was insulting for about ten seconds until I realized it means I can grade every piece of gear on those racks without touching them. The chain shirts are the best armor in here, actual metal rings, but they're sized for someone about six inches taller than me, which is a recurring theme in my life."
 
 "She just identified those chain shirts as genuine metal rings," Flint said. "Her **Appraiser** class sees material *value*. Your **Structural Analysis** sees material *structure*. She prices the horse. You read its conformation." A pause. "I am now deeply curious what happens when both of you look at the same object."
 
-"And the robes are —" Josie made a face that conveyed her complete professional assessment of the robes without needing a single word. "Are we going to die in here?"
+"And the robes are…" Josie made a face that conveyed her complete professional assessment of the robes without needing a single word. "Are we going to die in here?"
 
 "Not today."
 
@@ -318,7 +318,7 @@ Judge's ears dropped half a millimeter. She did not take the leather. She did, h
 
 "He's a Border Collie."
 
-"He's a *something.*" Josie looked at Rex with the same expression she'd used on the genuine leather — the one that said *there's more here than the label says.* "Border Collies don't usually make me feel like I'm being professionally evaluated."
+"He's a *something.*" Josie looked at Rex with the same expression she'd used on the genuine leather, the one that said *there's more here than the label says.* "Border Collies don't usually make me feel like I'm being professionally evaluated."
 
 "He likes you. That's his evaluation face."
 
@@ -330,7 +330,7 @@ Nate found the mother before he found Marcus.
 
 She was still on her knees near the center of the room, hands pressed to her face, no longer calling the name but the silence where the name had been was worse. Her shoulders shook. Nobody had stopped. The warriors were comparing swords, the mages were testing their new lights, Marcus was organizing, and the woman was on the floor and the crowd flowed around her like water around a stone.
 
-There was a water skin on the supply table. One of the ones the **System** had provided — generated but it held actual water. Nate picked it up. Walked to the woman and crouched.
+There was a water skin on the supply table. One of the ones the **System** had provided. Generated but it held actual water. Nate picked it up. Walked to the woman and crouched.
 
 "Ma'am."
 
@@ -342,7 +342,7 @@ She looked up. Mid-twenties. Red-eyed, face wet, raw grief that didn't care abou
 
 She took it. Drank. Handed it back. "Thank you."
 
-He stood. Walked to the supply table. Picked up the other three water skins and the small stack of dried rations the **System** had included. He distributed them. The older woman he thought was from Illinois. The teenager in the Oregon hoodie — **PETE BOWMAN — PATHFINDER [RANK F — LOW]** above his head — who took the water without looking up. The bald man — **KYLE GREENE — BERSERKER [RANK F — LOW]** floating above him — who had stopped hitting the wall and was standing with his back against it, breathing hard, staring at nothing. Nate handed him water. Kyle took it.
+He stood. Walked to the supply table. Picked up the other three water skins and the small stack of dried rations the **System** had included. He distributed them. The older woman he thought was from Illinois. The teenager in the Oregon hoodie, **PETE BOWMAN — PATHFINDER [RANK F — LOW]** above his head, who took the water without looking up. The bald man, **KYLE GREENE — BERSERKER [RANK F — LOW]** floating above him, who had stopped hitting the wall and was standing with his back against it, breathing hard, staring at nothing. Nate handed him water. Kyle took it.
 
 Nobody asked why the man with the **PROCESSING** tag was handing out water while everyone else was grabbing weapons. Nobody noticed. That was fine.
 
@@ -356,7 +356,7 @@ His eyes swept the crossbow, the three-legged table, the missing wall bracket, t
 
 "That's one word for it."
 
-Judge had already decided about him. She decided fast — everything, always. Marcus read as pack-adjacent in her register. Her stub tail moved once, and she went back to sentry.
+Judge had already decided about him. She decided fast. Everything, always. Marcus read as pack-adjacent in her register. Her stub tail moved once, and she went back to sentry.
 
 "Your status is still wrong."
 
@@ -370,29 +370,29 @@ Judge had already decided about him. She decided fast — everything, always. Ma
 
 "From the *room.*" Marcus's voice dropped to the low rumble he used when the situation was serious and he wanted you to feel it in your sternum. "What can you do, Nate?"
 
-"I can see how this place is built. The weapons on those racks — most of them are cosmetic. Thin-gauge blades over hollow cores. The crossguards will crack under side-load. Three solid hits and they deform."
+"I can see how this place is built. The weapons on those racks. Most of them are cosmetic. Thin-gauge blades over hollow cores. The crossguards will crack under side-load. Three solid hits and they deform."
 
 Marcus went quiet. Three seconds. The same three seconds he always took when someone handed him a field report that changed the operational picture.
 
 "How many people know this?"
 
-"Me, and her." Nate nodded toward Josie, who'd moved to the far end of the room and was methodically salvaging materials from the gear discard pile — the things people had picked up, tested, and thrown back. She was building a collection from everyone else's rejects and did not appear to care that she looked insane doing it. "She's an **Appraiser**. She sees what things are worth. I see what things are made of."
+"Me, and her." Nate nodded toward Josie, who'd moved to the far end of the room and was methodically salvaging materials from the gear discard pile, the things people had picked up, tested, and thrown back. She was building a collection from everyone else's rejects and did not appear to care that she looked insane doing it. "She's an **Appraiser**. She sees what things are worth. I see what things are made of."
 
 "That's a pair." Marcus looked toward the sealed door. "Don't lose her."
 
-A man walked past — big, broad-shouldered, a build earned on construction sites or daily labor. His nameplate read **SAM HARGROVE — GUARDIAN [RANK F — LOW]** in clean white text — classified, rank-stamped, no amber anywhere. He glanced at Nate's crossbow — the table-leg stock, the wall-bracket trigger, the whole barn-built assembly that looked like it had been put together during a tornado warning. He glanced at the amber **PROCESSING** tag. His face performed the exact calculation that every middle manager and military officer had performed since the invention of rank: *unclassified, unconventional, not worth the investment.* He walked on without a word.
+A man walked past, big, broad-shouldered, a build earned on construction sites or daily labor. His nameplate read **SAM HARGROVE — GUARDIAN [RANK F — LOW]** in clean white text, classified, rank-stamped, no amber anywhere. He glanced at Nate's crossbow, the table-leg stock, the wall-bracket trigger, the whole barn-built assembly that looked like it had been put together during a tornado warning. He glanced at the amber **PROCESSING** tag. His face performed the exact calculation that every middle manager and military officer had performed since the invention of rank: *unclassified, unconventional, not worth the investment.* He walked on without a word.
 
 "The big ones always pick last," Flint said internally. "Adding him to the list of people who'll want to be your friend when their swords snap. The list has subsections now. He's in the subsection labeled 'ironic.'"
 
-Marcus had caught Sam Hargrove's dismissal. His jaw tightened half a degree. Sergeants read their people like engineers read stress fractures — not by looking for problems, but by being unable to stop.
+Marcus had caught Sam Hargrove's dismissal. His jaw tightened half a degree. Sergeants read their people like engineers read stress fractures, not by looking for problems, but by being unable to stop.
 
 "The **System** tried to give me a combat skill," Nate said. "Standard melee opener. It didn't take."
 
 "What took instead?"
 
-Nate ran his hand along the crossbow stock. Felt the wood respond under his palm — grain alive through **Field Repair's** lens, the molecular structure humming at a frequency his hands already knew. "The **System** tried to give me a sword. I got a workshop."
+Nate ran his hand along the crossbow stock. Felt the wood respond under his palm, grain alive through **Field Repair's** lens, the molecular structure humming at a frequency his hands already knew. "The **System** tried to give me a sword. I got a workshop."
 
-Marcus studied him for a long moment. Not assessing rank or status — not like Sam. Marcus was reading capability. A staff sergeant sizing up a new boot: not what the paperwork said, but what the man could actually do when the paperwork stopped mattering.
+Marcus studied him for a long moment. Not assessing rank or status. Not like Sam. Marcus was reading capability. A staff sergeant sizing up a new boot: not what the paperwork said, but what the man could actually do when the paperwork stopped mattering.
 
 "Stay behind the line. Whatever that door opens into, you're not point. You're building whatever we need to survive the next room." He turned to go, then stopped. "And stay close to Pickett. She's already got more salvage than anyone with a combat class."
 
@@ -402,41 +402,41 @@ He walked back toward the center of the room, where twenty people were waiting f
 
 The sound came without warning.
 
-Low. Sustained. A vibration that bypassed ears and settled directly into stone and bone — sourceless, because it came from everywhere at once. The walls. The floor. The sealed door at the far end that had been dark and silent since they'd arrived.
+Low. Sustained. A vibration that bypassed ears and settled directly into stone and bone, sourceless, because it came from everywhere at once. The walls. The floor. The sealed door at the far end that had been dark and silent since they'd arrived.
 
-Rex went rigid. Every muscle locked. Ears flat against his skull. His body set against Nate's shin like a compressed spring. An impression washed through the contact — the gut-deep charge of a gate swinging wide, herd surging, no choice in it. Movement coming whether anything was ready or not.
+Rex went rigid. Every muscle locked. Ears flat against his skull. His body set against Nate's shin like a compressed spring. An impression washed through the contact. The gut-deep charge of a gate swinging wide, herd surging, no choice in it. Movement coming whether anything was ready or not.
 
-Judge went the other direction. Where Rex compressed, she *ignited* — stub tail vibrating, weight forward past balance, every muscle trembling with the forward drive of a dog who wanted to go *at* the thing the room was about to release. Rex was a spring. Judge was a live wire.
+Judge went the other direction. Where Rex compressed, she *ignited*, stub tail vibrating, weight forward past balance, every muscle trembling with the forward drive of a dog who wanted to go *at* the thing the room was about to release. Rex was a spring. Judge was a live wire.
 
 The sealed door began to glow.
 
-Lines of amber light traced the doorframe, following seams that **Structural Analysis** showed had been there all along — channels cut into the stone, filled with something that moved like liquid light. The door didn't open. It dissolved. Stone became translucent, then transparent, then gone, and behind it a corridor stretched into darkness beyond the torchlight's reach.
+Lines of amber light traced the doorframe, following seams that **Structural Analysis** showed had been there all along. Channels cut into the stone, filled with something that moved like liquid light. The door didn't open. It dissolved. Stone became translucent, then transparent, then gone, and behind it a corridor stretched into darkness beyond the torchlight's reach.
 
-**Structural Analysis** fired hard. The wireframe overlay flared, steadier than it had been all morning — still flickery at the edges, still rough, but the core data was clean and it unfolded the corridor's architecture in his vision — blueprint reading itself. Stone walls, twelve-foot ceiling, repeating tile patterns every forty feet. And in the floor, starting thirty yards down the corridor, points of light pulsed beneath the surface in loose clusters. Dim. Rhythmic. Dormant heartbeats buried under six inches of generated stone.
+**Structural Analysis** fired hard. The wireframe overlay flared, steadier than it had been all morning, still flickery at the edges, still rough, but the core data was clean and it unfolded the corridor's architecture in his vision. Blueprint reading itself. Stone walls, twelve-foot ceiling, repeating tile patterns every forty feet. And in the floor, starting thirty yards down the corridor, points of light pulsed beneath the surface in loose clusters. Dim. Rhythmic. Dormant heartbeats buried under six inches of generated stone.
 
-Rex's growl started before Nate's brain finished processing what he was seeing. Low, mechanical, the sound of a working dog who'd found the problem and was telling the boss where it was. His head angled toward the corridor, and through the contact at Nate's shin came the shape of it — not the walls, not the ceiling, the *floor.* Not a picture. A direction. Whatever was down there had a heartbeat, and Rex's herding instinct had classified it as livestock that hadn't been sorted yet and was about to move.
+Rex's growl started before Nate's brain finished processing what he was seeing. Low, mechanical, the sound of a working dog who'd found the problem and was telling the boss where it was. His head angled toward the corridor, and through the contact at Nate's shin came the shape of it. Not the walls, not the ceiling, the *floor.* Not a picture. A direction. Whatever was down there had a heartbeat, and Rex's herding instinct had classified it as livestock that hadn't been sorted yet and was about to move.
 
-"Spawn points," Flint said. Combat mode — rapid, precise, stripped of everything that wasn't immediately useful. "Six in the first chamber. More past it, clusters of them down the stretch, beyond my range. Dormant but warming up — I'm reading activation timers through the ambient **System** broadcast. Whatever they are, the first batch goes live when you reach them." A beat, and the showmanship crept back in despite itself. "The **Tutorial** handed out the party favors. Now it's about to introduce the pinata. Except the pinata hits back."
+"Spawn points," Flint said. Combat mode, rapid, precise, stripped of everything that wasn't immediately useful. "Six in the first chamber. More past it, clusters of them down the stretch, beyond my range. Dormant but warming up. I'm reading activation timers through the ambient **System** broadcast. Whatever they are, the first batch goes live when you reach them." A beat, and the showmanship crept back in despite itself. "The **Tutorial** handed out the party favors. Now it's about to introduce the pinata. Except the pinata hits back."
 
-Numbers appeared between Nate's blue arcs — not because he'd asked, but because the HUD had decided he needed them.
+Numbers appeared between Nate's blue arcs, not because he'd asked, but because the HUD had decided he needed them.
 
 **120**
 
 Two minutes.
 
-The room erupted. People who'd been stunned into silence found their voices. People who'd found their voices found their fear. The bald man backed away from the wall with his hands up, expecting the stone itself to attack him. A woman grabbed the nearest weapon — a mace she could barely lift — and pressed herself against the far wall. The **Guardian** stepped forward with both swords drawn, and for all his dismissal of Nate's **PROCESSING** tag, his face had gone the color of old ash.
+The room erupted. People who'd been stunned into silence found their voices. People who'd found their voices found their fear. The bald man backed away from the wall with his hands up, expecting the stone itself to attack him. A woman grabbed the nearest weapon, a mace she could barely lift, and pressed herself against the far wall. The **Guardian** stepped forward with both swords drawn, and for all his dismissal of Nate's **PROCESSING** tag, his face had gone the color of old ash.
 
 **105**
 
-"LISTEN UP!" Marcus's voice cut through it like an auctioneer's gavel through a full barn. Not louder — *aimed.* "Combat classes — front line at the door. **Mages**, second rank, ranged support. Medical and support, behind the line. Nobody goes through alone and nobody gets left behind. MOVE IT."
+"LISTEN UP!" Marcus's voice cut through it like an auctioneer's gavel through a full barn. Not louder. *Aimed.* "Combat classes, front line at the door. **Mages**, second rank, ranged support. Medical and support, behind the line. Nobody goes through alone and nobody gets left behind. MOVE IT."
 
 People moved. Not because they wanted to. Because moving was better than standing still, and the man giving directions sounded like he knew what he was doing even if nobody in the room could prove it.
 
 **90**
 
-Nate checked the crossbow. Click. Reset. The prod's tension held — spring steel doing what spring steel did, storing energy, waiting to release it. Good.
+Nate checked the crossbow. Click. Reset. The prod's tension held. Spring steel doing what spring steel did, storing energy, waiting to release it. Good.
 
-He had ten bolts he picked up from a small wooden box on the supply shelf near the south wall, untouched because nobody else had grabbed a crossbow. Ten mass-produced starter shafts with loose-fitted iron heads. **Structural Analysis** read them in one sweep — soft iron, inconsistent weights, fletching glued instead of seated. The kind of factory run that would mushroom on impact and drift a degree left. Starter garbage. But starter garbage that flew in a straight-enough line and fit the groove, which put them a universe ahead of *no bolts at all.*
+He had ten bolts he picked up from a small wooden box on the supply shelf near the south wall, untouched because nobody else had grabbed a crossbow. Ten mass-produced starter shafts with loose-fitted iron heads. **Structural Analysis** read them in one sweep. Soft iron, inconsistent weights, fletching glued instead of seated. The kind of factory run that would mushroom on impact and drift a degree left. Starter garbage. But starter garbage that flew in a straight-enough line and fit the groove, which put them a universe ahead of *no bolts at all.*
 
 He stuffed the ten into a belt pouch he had picked up from an armor rack. Ten crappy shafts against whatever was about to climb out of the floor. Not a plan. A start.
 
@@ -444,7 +444,7 @@ He stuffed the ten into a belt pouch he had picked up from an armor rack. Ten cr
 
 "And when I run out?"
 
-"The corridor," Flint said. "Whatever comes out of those spawn points — if it's biological, if it drops structural material, if any part of it has density and a straight grain —"
+"The corridor," Flint said. "Whatever comes out of those spawn points… if it's biological, if it drops structural material, if any part of it has density and a straight grain…"
 
 "I can make more bolts."
 
@@ -452,19 +452,19 @@ He stuffed the ten into a belt pouch he had picked up from an armor rack. Ten cr
 
 **60**
 
-Josie appeared at his elbow. She'd strapped a chain shirt over her clothes. It hung past her hips and clinked when she moved. She'd already started modifying it — tucking the excess length into a belt fashioned from two of her salvaged leather strips. A dagger on one hip. A makeshift sack on the other — already bulging with materials nobody else had thought to keep.
+Josie appeared at his elbow. She'd strapped a chain shirt over her clothes. It hung past her hips and clinked when she moved. She'd already started modifying it, tucking the excess length into a belt fashioned from two of her salvaged leather strips. A dagger on one hip. A makeshift sack on the other, already bulging with materials nobody else had thought to keep.
 
 "I heard the thing about spawn points," she said, fast and aimed. "Whatever comes through that door, I get the parts. Material identification is my whole class. I can sort drops faster than they hit the ground."
 
-"The small loud one wants to loot the things trying to kill us," Flint said internally. "I should find that alarming. Instead I find it — I believe the word is 'efficient.' She's volunteering to run salvage in a combat zone because she physically cannot watch materials hit the ground without sorting them. That's either courage or a clinical condition and I approve of both."
+"The small loud one wants to loot the things trying to kill us," Flint said internally. "I should find that alarming. Instead I find it… I believe the word is 'efficient.' She's volunteering to run salvage in a combat zone because she physically cannot watch materials hit the ground without sorting them. That's either courage or a clinical condition and I approve of both."
 
 Nate looked at her. Looked at the sack. Looked at the brown eyes that hadn't stopped inventorying since she'd woken up in this room.
 
 "Stay behind me. Grab everything that falls. Don't be a hero."
 
-"I don't need to be a hero." She patted the sack. "I need to be fast." She grinned — quick, sharp, the grin of someone who had found a problem she was specifically designed to solve. "I'm fast."
+"I don't need to be a hero." She patted the sack. "I need to be fast." She grinned, quick, sharp, the grin of someone who had found a problem she was specifically designed to solve. "I'm fast."
 
-"Are you just going to LEAVE that there?" She darted sideways to grab a discarded leather strap from the floor — someone had dropped it during the rush to the corridor. She scooped it up, inspected it, and tucked it into the sack without breaking stride. "Honestly. People just throw things on the ground in here."
+"Are you just going to LEAVE that there?" She darted sideways to grab a discarded leather strap from the floor. Someone had dropped it during the rush to the corridor. She scooped it up, inspected it, and tucked it into the sack without breaking stride. "Honestly. People just throw things on the ground in here."
 
 "She's looting the floor during a countdown," Flint said. "I'm adding a new data category. I'm calling it 'The Pickett Variable.' It accounts for her finding things that shouldn't matter and making them matter anyway. I have a feeling this variable is going to break my prediction models repeatedly. I do not enjoy having my prediction models broken. But I suspect I'm going to have to get used to it."
 
@@ -472,27 +472,27 @@ Nate looked at her. Looked at the sack. Looked at the brown eyes that hadn't sto
 
 The weapon racks dissolved first.
 
-Not dramatically — no flash, no sound effect. The iron simply lost cohesion, the swords and hammers and axes that nobody had claimed turning translucent, then transparent, then gone. The rack frames followed. Then the supply crates. Then the torches on the south wall, one by one, the light dying in a slow westward wave — sunset in fast-forward.
+Not dramatically. No flash, no sound effect. The iron simply lost cohesion, the swords and hammers and axes that nobody had claimed turning translucent, then transparent, then gone. The rack frames followed. Then the supply crates. Then the torches on the south wall, one by one, the light dying in a slow westward wave, sunset in fast-forward.
 
 "The **System** is clearing the room," Flint said. "Unclaimed equipment and infrastructure are being reclaimed. I'd call it housekeeping, but housekeeping doesn't usually have a deadline."
 
 The back wall moved.
 
-Not fast. A grinding shudder — stone on stone — and the wall that had been behind them since they'd woken up shifted forward six inches. Then another six. Slow. Patient. *Checkout time*, without the intercom announcement.
+Not fast. A grinding shudder, stone on stone, and the wall that had been behind them since they'd woken up shifted forward six inches. Then another six. Slow. Patient. *Checkout time*, without the intercom announcement.
 
 The wall didn't speed up. It didn't need to. Six inches every few seconds, the room shrinking with the mechanical indifference of a trash compactor that didn't care what was inside it. Forward was the only direction still open, and it wouldn't stay open long.
 
-Warriors at the corridor mouth. Mages behind them, hands glowing with unsteady light. Marcus in the center of the formation, his **Vanguard** class doing something Nate couldn't see but could feel in the way people responded — standing straighter, breathing slower, finding a rhythm that wasn't their own but helped.
+Warriors at the corridor mouth. Mages behind them, hands glowing with unsteady light. Marcus in the center of the formation, his **Vanguard** class doing something Nate couldn't see but could feel in the way people responded, standing straighter, breathing slower, finding a rhythm that wasn't their own but helped.
 
-Josie was still stuffing materials into her sack. A loose bolt. A strip of iron banding that hadn't dissolved yet. Two more leather scraps from the floor. She moved through the evacuation — technically leaving, but not without checking one more box first.
+Josie was still stuffing materials into her sack. A loose bolt. A strip of iron banding that hadn't dissolved yet. Two more leather scraps from the floor. She moved through the evacuation, technically leaving, but not without checking one more box first.
 
 Nate stood behind the line with an ugly crossbow, ten starter bolts, a forging hammer on his belt, and a Border Collie who'd already decided that whatever waited down the corridor was just livestock that hadn't been sorted yet.
 
 The crossbow was a promise. The hammer was a purpose. The dogs were the only ones in the room who'd never needed a **System** to know what they were. One of them read the herd. The other decided who needed teeth first.
 
-Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth. Through the contact, warmth and certainty — the coiled-spring readiness of a dog who knew his job and was waiting to do it. Rex pinned forward, every line of his body pointing into the darkness — compass needle, true north.
+Rex dropped into a crouch. Ears flat. Body coiled. Eyes locked on the corridor's dark mouth. Through the contact, warmth and certainty, the coiled-spring readiness of a dog who knew his job and was waiting to do it. Rex pinned forward, every line of his body pointing into the darkness. Compass needle, true north.
 
-Judge dropped in beside him — not crouched, *coiled.* Stub tail rigid, weight forward past balance, ears pinned, every ounce of her forty pounds pointed at the same dark. Rex was the reading. Judge was the charge.
+Judge dropped in beside him. Not crouched, *coiled.* Stub tail rigid, weight forward past balance, ears pinned, every ounce of her forty pounds pointed at the same dark. Rex was the reading. Judge was the charge.
 
 "Here we go," Flint said. Very quietly.
 
