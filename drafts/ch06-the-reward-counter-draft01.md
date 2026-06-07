@@ -266,7 +266,7 @@ But the second bolt was weaker. The first had been a bonfire. The second was a m
 
 "Her mana reserve is approximately thirty percent," Flint said. Tactical register, no embellishment. "**Fire Bolt** at her current power level costs roughly a fifth of her total pool per cast. The System is giving her zero feedback on the cost — no counter, no warning, no 'low fuel' indicator visible to her. She has to learn the limits by hitting them." A beat. "Which is either a design flaw or an intentional pedagogy. I suspect the latter. The System wants her to go dry so she learns what dry feels like."
 
-The math was straightforward. The System downloaded the knowledge, but she wasn't learning from it — she was dumping mana and hoping. The technique was in her head. The control wasn't. And mana didn't care about enthusiasm. When the tank ran dry, she'd be a twenty-five-year-old with no combat training standing in a room full of bark-covered killing machines.
+The math was straightforward. The System downloaded the knowledge. She was dumping mana and hoping. The technique was in her head. The control wasn't. And mana didn't care about enthusiasm. When the tank ran dry, she'd be a twenty-five-year-old with no combat training standing in a room full of bark-covered killing machines.
 
 Josh Miller swung at a Thornling. The downloaded knowledge was in there somewhere — the System had given him the stance, the grip, where to aim. His first swing used it. The blow connected, the axe biting into bark, and for one second the kid looked like someone who knew what he was doing.
 
@@ -356,7 +356,7 @@ The fight ended. Eight Thornlings down. Three dead. Two more injured — a gashe
 
 Thirty-nine. The number landed heavier than the math suggested.
 
-In Room 1, four people had died and the group had fractured — screaming, weeping, the raw shock of mortality arriving without warning. Now the shock was thinner. Not gone. Spread across a surface that had already cracked. People looked at the bodies and looked away. A woman crossed herself. A man sat down hard against the wall and stared at nothing. But nobody screamed. The Tutorial was teaching them that too — not just how to fight, but how to keep moving after someone didn't.
+In Room 1, four people had died and the group had fractured — screaming, weeping, the raw shock of mortality arriving without warning. Now the shock was thinner. Not gone. Spread across a surface that had already cracked. People looked at the bodies and looked away. A woman crossed herself. A man sat down hard against the wall and stared at nothing. But nobody screamed. The Tutorial was teaching them that too: how to keep moving after someone didn't.
 
 Heather was leaning against the wall, hands dark, breathing hard. She'd thrown four **Fire Bolts** total. The first two had been full-power dumps — bright, dramatic, effective, expensive. The third had been half-power, a sign she was starting to feel the drain. The fourth had been a flicker. She'd gone dark mid-fight, standing useless while the warriors covered her position, and the look on her face said she'd learned what the drain felt like. Mana was a resource. Resources had limits. And limits didn't care about adrenaline.
 
