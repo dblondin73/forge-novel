@@ -364,8 +364,6 @@ Nate looked at his land.
 
 The morning light on the grass. The post oaks casting their long shadows. The stock tank, full from the spring rains. The water pump, grinding and groaning and still doing its job. Congressman standing in the south pasture, monument to bovine indifference. A thousand acres of rolling ground that had held his family for three generations, and in twenty seconds he was going to leave it whether he wanted to or not, and there was nothing in his hands or his head that could stop it.
 
-He didn't grab anything. His hands were empty, and they were going to stay that way.
-
 **20**
 
 "For the record," Flint said, and the speed was back but running scared now, "I would like it noted that I have been alive for approximately forty-five minutes, the majority of which have been spent diagnosing my own existential irregularities, and I am now facing a countdown to an event that my entire knowledge base describes as 'unknown' in a font I find personally threatening. I did not get a _training period._ I did not get an _orientation._ I got a pasture and a man who talks in Sam Elliott sentences and a _countdown._"
