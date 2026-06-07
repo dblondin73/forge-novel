@@ -114,7 +114,7 @@ Nate looked down at Rex. Rex looked back with the steady, unblinking patience of
 
 "In the way that a screen door works on a submarine, technically, yes, but you'll want to aggressively manage your expectations." The voice took on a lecturing quality, warming to the subject, clearly rehearsed. "The longer bar is Health. You're at about ninety percent, the Integration knocked something loose that hasn't quite settled back into place. Nothing critical, but something in your framework is still recalibrating. Shorter bar is Stamina, maybe eighty percent. Beyond that, I've got _nothing_ for you. No stat sheet. No class assignment, yours just reads **[PROCESSING]**, which if the spec sheet I can read is any guide means the **System** either hasn't classified you or tried and choked on something it couldn't process. No skill tree, no inventory, no map, no minimap, no quest log, no compass, no _nothing_. I've got two blue lines and a disposition that my own diagnostics describe as..." he paused, and Nate felt the distinct impression of someone reading a label with raised eyebrows, "'unauthorized, origin unknown, non-standard.' Which is not a diagnosis I was hoping to receive on the first day of my existence, but here we are."
 
-"You said you have one skill."
+"You said I have one skill."
 
 A beat. Nate felt the shift, Flint's attention snapping sideways, rummaging, the sensation of a man digging through a bin at a hardware store and finding exactly what the store manager thought he'd want.
 
