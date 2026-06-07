@@ -26,7 +26,7 @@ Judge flanked wide. Where Rex went still and low, the Blue Heeler went forward �
 
 Rex had felt them two seconds before Flint's sensors registered the density shift. Judge had felt them one second after Rex and was already angling toward the heavier signatures, because Judge's response to *something bigger* had always been *then I'll hit it harder.* The empathic sense beating the AI's environmental scan. Again.
 
-Marcus was already calling formation from the corridor mouth, his **Vanguard** HUD painting positional data across the fighters' combat interfaces. "**Warriors**, spread formation — we've got room to maneuver. Don't bunch up. **Mage**, find elevation — there." He pointed to a cluster of boulders along the north edge, waist-high, good sight lines. "**Healer**, behind the rock line. Support, stay mobile."
+Marcus was already calling formation from the corridor mouth, reading whatever his class fed him and turning it into orders the rest of them could move on. "**Warriors**, spread formation — we've got room to maneuver. Don't bunch up. **Mage**, find elevation — there." He pointed to a cluster of boulders along the north edge, waist-high, good sight lines. "**Healer**, behind the rock line. Support, stay mobile."
 
 Forty people. That was what three rooms of Thornlings had left them — ten gone between Rooms 1 and 3, bodies that the Tutorial had broken and the group had carried past and tried not to think about. Three Healers. Josie. Nate. Rex. Judge. And the rest — the ones who weren't combat classes but had survived three rooms of learning that survival wasn't optional. Forty people who'd walked out of Room 3 still breathing. That number hung over the group — fragile, heavy, held.
 
@@ -108,13 +108,13 @@ He was standing next to her now, holding his bent sword, waiting for her to fini
 
 Room 5 was a cave, and the cave was a kill box.
 
-**Structural Analysis** read the architecture as they entered and Nate's stomach dropped before the first spawn point fired. The chamber was smaller than the forest clearing — forty feet across, irregular walls, water dripping from a ceiling that threw echoes in every direction. Sound bounced wrong in here. Footsteps multiplied. Voices came from everywhere and nowhere. The acoustics in here were a nightmare.
+**Structural Analysis** read the architecture as they entered and Nate's stomach dropped before the first spawn point fired. The chamber was smaller than the forest clearing — forty feet across, irregular walls, water dripping from a ceiling that threw echoes in every direction. Sound bounced wrong in here. Footsteps multiplied. Voices came from everywhere and nowhere.
 
 The spawn point placement was wrong. Not random wrong — deliberately wrong. Five spawn points clustered near the entrance, creating a wall of immediate combat that would pin the group at the choke point. Three more staggered along the sides. And two in the back — the same dense, slow-cycling signature that Flint had flagged in Room 4.
 
 "It's a kill zone," Nate said. "The entrance spawn cluster is designed to stack the group at the door. While the front line is pinned, the side-spawns flank and the **Thornguard** in the back closes from range."
 
-Marcus was already reading it. His **Vanguard** HUD painting the tactical picture in real time, processing the same data through a different lens. "We can't bunch at the entrance."
+Marcus was already reading it, processing the same threat through whatever his class showed him. "We can't bunch at the entrance."
 
 "No. We need to push through the first wave fast. Get to the center before the sides fire."
 
@@ -196,7 +196,7 @@ You bury your dead and keep working. That was the law of it. The law of calving 
 
 Damn it.
 
-"His name was Tyler," Flint said. His voice came through the shared space behind Nate's eyes, stripped of every layer — no theater, no deflection, no speed-as-armor. Just information, delivered with the weight of something that mattered not for tactical value but because the alternative was letting a name disappear into a number. "Seventeen years old. His System profile registered during the first room. Class: **Warrior** — basic melee. His combat efficiency was above the group median. He was improving faster than seventy percent of the fighters in this group."
+"His name was Tyler," Flint said. His voice came through the shared space behind Nate's eyes, stripped of every layer — no theater, no deflection, no speed-as-armor. Just information, delivered with the weight of something that mattered not for tactical value but because the alternative was letting a name disappear into a number. "Seventeen years old. His **System** profile registered during the first room. Class: **Warrior** — basic melee. His combat efficiency was above the group median. He was improving faster than seventy percent of the fighters in this group."
 
 A pause. The kind of pause that Flint filled with data when data was available and filled with nothing when it wasn't.
 
@@ -204,7 +204,7 @@ A pause. The kind of pause that Flint filled with data when data was available a
 
 Nobody else could hear Flint. Nobody needed to. The AI told Nate because Nate was the only one who could listen, and because Flint was learning that some information mattered not because it was tactically useful but because the alternative was a silence that felt like complicity.
 
-Marcus stood over the body with the expression of a man who had led people for twenty years and had just been reminded what that cost. His jaw worked. His hands opened and closed at his sides — not fists, not relaxed, the hands of a sergeant who'd written letters home and was about to add to the count. The **Vanguard** HUD was feeding him data — health bars, mana levels, the after-action metrics of a fight that had gone wrong exactly as the **System** had intended — and none of it mattered.
+Marcus stood over the body with the expression of a man who had led people for twenty years and had just been reminded what that cost. His jaw worked. His hands opened and closed at his sides — not fists, not relaxed, the hands of a sergeant who'd written letters home and was about to add to the count. His eyes moved across something only he could see, the after-action read of a fight that had gone wrong exactly as the **System** had intended, and none of it mattered.
 
 "We move him to the side," Marcus said. His voice was flat. Not cold — flat. Storm-pressed. Everything leveled. "We clear the room. We keep moving."
 
@@ -268,7 +268,7 @@ Marcus counted heads. His **Vanguard** HUD doing the math that his face was alre
 
 Thirty-five people. Eighteen sets. The number sat in the silence where forty had been.
 
-The math was deliberate. And something about the way the gear materialized — the amber glow, the organized rows, the presentation that was less "supply drop" and more "storefront display" — nagged at the part of him that cataloged design patterns. The **System** wasn't just distributing equipment. The distribution landed like a reward. The upgrade landed like progress earned. The new armor landed like validation for surviving the rooms that had killed Tyler.
+The math was deliberate. And something about the way the gear materialized — the amber glow, the organized rows, the presentation that was less "supply drop" and more "storefront display" — wouldn't sit still. He'd built and bought enough rigs to know a sales floor when he saw one, and this one read like a showroom. The **System** wasn't just distributing equipment. The distribution landed like a reward. The upgrade landed like progress earned. The new armor landed like validation for surviving the rooms that had killed Tyler.
 
 "Distribute among your party," Marcus read aloud, and his voice carried that flatness — mission voice overriding the man inside the uniform. He looked at the gear. Looked at the group. Looked at the faces of thirty-five people who'd lost five of their own across two rooms and were now being asked to decide who deserved protection.
 
@@ -462,7 +462,7 @@ Rex's head pressed against Nate's hand. The dog was still facing forward, always
 
 The left path narrowed and the narrowing was a corridor of its own — a gauntlet stocked with Thornlings that hit harder than anything in Rooms 1 through 6. The **System** had sorted the stronger fighters onto the harder road and then immediately proved why the sorting existed.
 
-The left path delivered them to a rest area — smaller, tighter, the walls closer together in a way that made the reduced group feel like a reduction instead of just a number. Eighteen people out of thirty-five. The barrier had sorted the strongest fighters and the ones the **System** flagged onto the harder road, and left seventeen others on the easier path with no say in the matter. Nearly even. The **System** hadn't skimmed the best off the top — it had split the group down the middle, and the even divide made the sorting feel less like selection and more like amputation.
+The left path delivered them to a rest area — smaller, tighter, the walls closer together in a way that made the reduced group feel like a reduction instead of just a number. Eighteen people out of thirty-five. The barrier had sorted the strongest fighters and the ones the **System** flagged onto the harder road, and left seventeen others on the easier path with no say in the matter. The **System** hadn't skimmed the best off the top — it had split the group down the middle, and the even divide made the sorting feel less like selection and more like amputation.
 
 Marcus did the headcount — standing, moving through the group, making eye contact, counting bodies with the systematic care of a man who refused to let people become numbers even when the numbers were all he had left.
 
@@ -530,7 +530,7 @@ The silence that followed had weight. Tyler's absence filling the space that hum
 
 Nobody spoke for a moment. The corridor stretched ahead, dark, the torchlight failing at the edge of visible range. **Structural Analysis** read what it could — stone walls, narrower than before, spawn points pulsing in the deep. More of them. Closer together.
 
-"The difficulty just doubled," Flint said. His voice carried none of the usual theater. Just information, delivered with the weight of data that mattered. "Eighteen people on the hard path. Thirty-five minus five dead, minus seventeen on the easy road, equals us. I want to say the math works out but I'd be lying, and I've been told my poker face needs work." A beat. "On account of not having a face."
+"The difficulty just doubled," Flint said. His voice carried none of the usual theater. Just information, delivered with the weight of data that mattered. "Eighteen people on the hard path. Forty minus five dead, minus seventeen on the easy road, equals us. I want to say the math works out but I'd be lying, and I've been told my poker face needs work." A beat. "On account of not having a face."
 
 Rex was already facing the corridor.
 

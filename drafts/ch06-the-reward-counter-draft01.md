@@ -18,7 +18,7 @@ Judge settled at Nate's right hip with a theatrical sigh that suggested she was 
 
 Then came the moment that told Nate everything he needed to know about where this was heading.
 
-Across the corridor, people were going still — eyes unfocused, heads tilted, the vacant scroll-face of people reading screens only they could see. Character sheets. They were reading whatever the System had given them. Some scrolled with small finger gestures. Others talked quietly to their AI companions — the standard-issue System voices that Nate couldn't hear but could see in the way people tilted their heads and nodded at empty air.
+Across the corridor, people were going still — eyes unfocused, heads tilted, the vacant scroll-face of people reading screens only they could see. Character sheets. They were reading whatever the **System** had given them. Some scrolled with small finger gestures. Others talked quietly to their AI companions — the standard-issue **System** voices that Nate couldn't hear but could see in the way people tilted their heads and nodded at empty air.
 
 A woman laughed at something her screen showed her. Not a nervous laugh — a *delighted* one. The sound of someone discovering she'd earned something.
 
@@ -56,15 +56,15 @@ Across the room Josh Miller — seventeen, big-shouldered, the teenager who'd gr
 
 "**Warrior — Rank One — Low,**" Josh said out loud. He didn't mean to. The reading had spilled out of his mouth. A couple of warriors glanced over, then away. "Basic Swing. Basic Block. **Power Strike** is locked. It says I need — it says it's behind a confidence gate." He blinked. "What's a confidence gate?"
 
-"It means you have to actually believe the swing is going to land," Marcus said gently. Not loud, not correcting — just setting the information down where Josh could pick it up. "The System grades you on whether you *commit,* not just whether you swing. Isabel unlocked **Power Strike** because her swing had no question in it. Yours still has a question in it. That's fine. That's normal for your first fight. You'll get there."
+"It means you have to actually believe the swing is going to land," Marcus said gently. Not loud, not correcting — just setting the information down where Josh could pick it up. "The **System** grades you on whether you *commit,* not just whether you swing. Isabel unlocked **Power Strike** because her swing had no question in it. Yours still has a question in it. That's fine. That's normal for your first fight. You'll get there."
 
-Josh nodded. He didn't look up. He was reading something else on the sheet now — numbers, probably, the little stats next to the skill names. The kind of numbers that told a kid whether he was ahead or behind on the curve the class expected him to be on. Nate could see the shape of it in Josh's face even without seeing the sheet: *I'm behind. I'm behind where I'm supposed to be.* The System gave a seventeen-year-old the intimidation his muscles couldn't carry and then gave him a readout that reminded him, in clean white text on a blue panel, that the intimidation was rented.
+Josh nodded. He didn't look up. He was reading something else on the sheet now — numbers, probably, the little stats next to the skill names. The kind of numbers that told a kid whether he was ahead or behind on the curve the class expected him to be on. Nate could see the shape of it in Josh's face even without seeing the sheet: *I'm behind. I'm behind where I'm supposed to be.* The **System** gave a seventeen-year-old the intimidation his muscles couldn't carry and then gave him a readout that reminded him, in clean white text on a blue panel, that the intimidation was rented.
 
 "Hey." Marcus's voice, low, directed. "Josh. You're seventeen and you just killed a monster. You don't get to be behind on anything today."
 
 Josh didn't look up. But his shoulders dropped a quarter-inch. The intimidation decompressed a little, into the body underneath it.
 
-One of the **Healers** — not Ana, the younger one who'd been shaking through her first cast in Room 1 — was sitting with her knees pulled up and her character sheet open in front of her face, and she was crying. Not loud. Not the shoulder-shaking kind. The steady seep of a woman who had just read the ability tree attached to the class the System had given her, and had understood — maybe for the first time in her life — that what she'd been put here to do was *matter.* Her lips were moving. Reading the branches. Every name a promise she hadn't known she could make. Every cooldown a clock she hadn't known she was allowed to run.
+One of the **Healers** — not Ana, the younger one who'd been shaking through her first cast in Room 1 — was sitting with her knees pulled up and her character sheet open in front of her face, and she was crying. Not loud. Not the shoulder-shaking kind. The steady seep of a woman who had just read the ability tree attached to the class the **System** had given her, and had understood — maybe for the first time in her life — that what she'd been put here to do was *matter.* Her lips were moving. Reading the branches. Every name a promise she hadn't known she could make. Every cooldown a clock she hadn't known she was allowed to run.
 
 Somebody passed her a water bottle. She took it without looking.
 
@@ -92,7 +92,7 @@ He tried to pull up his own interface. The two blue arcs pulsed at the edges of 
 
 That was it. Two arcs like parentheses made of light, and a word that had been sitting there since the HUD booted and apparently had no intention of leaving.
 
-"Two curves and a loading screen," Nate said. "No stats. No skill list. Just *processing.* Like the System put me on hold and forgot to play the music."
+"Two curves and a loading screen," Nate said. "No stats. No skill list. Just *processing.* Like the **System** put me on hold and forgot to play the music."
 
 Marcus closed his character sheet. The blue glow faded from his eyes. Those panels were internal, invisible from outside, but the way someone's expression changed when they switched between interface and reality was becoming easy to read — the subtle reset a man's face did when he came back from a call.
 
@@ -108,7 +108,7 @@ And that wasn't quite true either. Something *had* changed during the fight. His
 
 "I got something different."
 
-Marcus studied him. Sergeant's eyes, calibrated. A man who had spent two decades folding new variables into operational pictures was folding this one in now — the quiet mental sort of a commander triaging a piece of intel that didn't fit the template. "The System gave the rest of us an instruction manual. Class, skills, progression path, all of it laid out in nice clean text with a progress bar attached. What did it give you?"
+Marcus studied him. Sergeant's eyes, calibrated. A man who had spent two decades folding new variables into operational pictures was folding this one in now — the quiet mental sort of a commander triaging a piece of intel that didn't fit the template. "The **System** gave the rest of us an instruction manual. Class, skills, progression path, all of it laid out in nice clean text with a progress bar attached. What did it give you?"
 
 Nate looked at the two blue arcs. The amber tag. The void where a character sheet should have been.
 
@@ -120,7 +120,7 @@ Nate didn't answer. He didn't disagree either.
 
 Marcus held the look for another beat, then nodded — short. The nod of a man revising an assessment in private and choosing not to announce the revision.
 
-*Two arcs on the HUD of a man the System doesn't have a box for. She can see them both, love — the arcs and the man — and she's not worried. Neither arc is finished. Neither needs to be. The tree grows roots in two directions at once, and the one that matters more is the one you can't see from above ground.*
+*Two arcs on the HUD of a man the **System** doesn't have a box for. She can see them both, love — the arcs and the man — and she's not worried. Neither arc is finished. Neither needs to be. The tree grows roots in two directions at once, and the one that matters more is the one you can't see from above ground.*
 
 "Whatever it is," Marcus said, softer now, "don't let anybody talk you into wanting a stat page instead of it. Including you."
 
@@ -136,13 +136,13 @@ The silence held about four seconds.
 
 Josie Pickett was elbow-deep in Thornling remains.
 
-The warriors had dragged two of the six corpses into the rest area before they'd started dissolving — the System's cleanup protocol breaking down the creatures into component materials over a span of about ten minutes. Josie had intercepted the dissolution process with the focused urgency of a woman who had watched too many good things go to waste in her life. She had decided something. In this particular stone corridor, on this particular impossible day, waste stopped here.
+The warriors had dragged two of the six corpses into the rest area before they'd started dissolving — the **System's** cleanup protocol breaking down the creatures into component materials over a span of about ten minutes. Josie had intercepted the dissolution process with the focused urgency of a woman who had watched too many good things go to waste in her life. She had decided something. In this particular stone corridor, on this particular impossible day, waste stopped here.
 
 She was pulling thorns. Not the small, cosmetic spines that covered the Thornlings' surface like bark texture — the structural thorns. Dense. Heavy. The ones that had been load-bearing components of a creature designed to kill, and which were now, in Josie Pickett's professional assessment, *materials.*
 
 "That one's structural. That one's garbage. This one — oh, this is a GOOD one, feel the weight on that." She held a thorn up to the torchlight and turned it, appraising. "See the stress lines at the base? Decorative growths don't develop those. This was holding something together. This has *grain.*"
 
-She sorted as she spoke — three piles forming on the stone floor with the organized speed of someone who'd been sorting inventory on flat surfaces her entire professional life. Her hands moved with a precision that had nothing to do with the System and everything to do with twelve years of pawn-shop work and a thousand Saturday mornings at estate sales. When she picked up a thorn, she already knew where it was going before she finished the rotation.
+She sorted as she spoke — three piles forming on the stone floor with the organized speed of someone who'd been sorting inventory on flat surfaces her entire professional life. Her hands moved with a precision that had nothing to do with the **System** and everything to do with twelve years of pawn-shop work and a thousand Saturday mornings at estate sales. When she picked up a thorn, she already knew where it was going before she finished the rotation.
 
 "She's *looting,*" Flint said internally, with the tone of an AI who had just discovered a new category of human behavior and was not sure it belonged in any existing taxonomy. "She's looting a tutorial mob. I don't have a framework for this. I'm going to need a new framework. Possibly a whole new subdirectory."
 
@@ -202,7 +202,7 @@ Nate didn't pause. He kept filing. The stat arrived the way weather arrived — 
 
 "Noted."
 
-"I'd like the record to reflect that I said that out loud because it meant something," Flint added, with the carefully controlled aggression of an AI who had not been acknowledged. "A *tier.* On a channel the System doesn't seem to know exists yet. We should probably have feelings about that."
+"I'd like the record to reflect that I said that out loud because it meant something," Flint added, with the carefully controlled aggression of an AI who had not been acknowledged. "A *tier.* On a channel the **System** doesn't seem to know exists yet. We should probably have feelings about that."
 
 "Later."
 
@@ -240,7 +240,7 @@ Then the south wall groaned.
 
 The second door. The grinding resolve of stone deciding it was time to open again.
 
-*Forty-six walked in. Forty-two are walking on. She watches the gap resolve in the south wall, and she marks the clock — lessons are priced by the minute, love, and the next one has already been billed.*
+*Forty-six walked in. Forty-six are walking on. She watches the gap resolve in the south wall, and she marks the clock — lessons are priced by the minute, love, and the next one has already been billed.*
 
 ---
 
@@ -262,19 +262,19 @@ Heather Kim — hands already bright with gathered mana — threw a **Fire Bolt*
 
 But the second bolt was weaker. The first had been a bonfire. The second was a match.
 
-*She's burning mana like someone who doesn't know the bill is coming.* Two bolts in three seconds and her hands were noticeably dimmer — the visible glow of gathered mana fading from white-hot to a sullen orange that Nate could see even from thirty feet away. System magic had a cost, and that cost was as visible as a gas gauge dropping. Two more like that and she'd be running on fumes. Standing dark in a fight with empty hands while Thornlings closed the distance.
+*She's burning mana like someone who doesn't know the bill is coming.* Two bolts in three seconds and her hands were noticeably dimmer — the visible glow of gathered mana fading from white-hot to a sullen orange that Nate could see even from thirty feet away. **System** magic had a cost, and that cost was as visible as a gas gauge dropping. Two more like that and she'd be running on fumes. Standing dark in a fight with empty hands while Thornlings closed the distance.
 
-"Her mana reserve is approximately thirty percent," Flint said. Tactical register, no embellishment. "**Fire Bolt** at her current power level costs roughly a fifth of her total pool per cast. The System is giving her zero feedback on the cost — no counter, no warning, no 'low fuel' indicator visible to her. She has to learn the limits by hitting them." A beat. "Which is either a design flaw or an intentional pedagogy. I suspect the latter. The System wants her to go dry so she learns what dry feels like."
+"Her mana reserve is approximately thirty percent," Flint said. Tactical register, no embellishment. "**Fire Bolt** at her current power level costs roughly a fifth of her total pool per cast. The **System** is giving her zero feedback on the cost — no counter, no warning, no 'low fuel' indicator visible to her. She has to learn the limits by hitting them." A beat. "Which is either a design flaw or an intentional pedagogy. I suspect the latter. The **System** wants her to go dry so she learns what dry feels like."
 
-The math was straightforward. The System downloaded the knowledge. She was dumping mana and hoping. The technique was in her head. The control wasn't. And mana didn't care about enthusiasm. When the tank ran dry, she'd be a twenty-five-year-old with no combat training standing in a room full of bark-covered killing machines.
+The math was straightforward. The **System** downloaded the knowledge. She was dumping mana and hoping. The technique was in her head. The control wasn't. And enthusiasm didn't refill the tank. When the tank ran dry, she'd be a twenty-five-year-old with no combat training standing in a room full of bark-covered killing machines.
 
-Josh Miller swung at a Thornling. The downloaded knowledge was in there somewhere — the System had given him the stance, the grip, where to aim. His first swing used it. The blow connected, the axe biting into bark, and for one second the kid looked like someone who knew what he was doing.
+Josh Miller swung at a Thornling. The downloaded knowledge was in there somewhere — the **System** had given him the stance, the grip, where to aim. His first swing used it. The blow connected, the axe biting into bark, and for one second the kid looked like someone who knew what he was doing.
 
 Then the Thornling screamed and surged forward, and the technique evaporated. The knowledge was still in his head but panic had taken the wheel — his next swing was all fear and no form, the axe too heavy, the arc too wide, the edge glancing off bark-plate. A downloaded manual didn't help when your hands were shaking and your body had decided that *running* was the correct response.
 
-A **Warrior** intervened — Mack Turner, the stocky mace-woman whose first-room swings had been textbook for half a second and then collapsed into rotation. Two rooms of constant swinging had worn her base technique into something that actually worked. Not polished. Practiced. Her body had started to believe what the System had downloaded. She drove the Thornling off Josh with two quick cuts and a shove that used the mace head as a battering ram. The Thornling went down.
+A **Warrior** intervened — Mack Turner, the stocky mace-woman whose first-room swings had been textbook for half a second and then collapsed into rotation. Two rooms of constant swinging had worn her base technique into something that actually worked. Not polished. Practiced. Her body had started to believe what the **System** had downloaded. She drove the Thornling off Josh with two quick cuts and a shove that used the mace head as a battering ram. The Thornling went down.
 
-And as it dropped, something flared around her — a brief pulse of golden light, a chime that Nate couldn't hear but could see in the way her stance shifted and her mouth opened in a small *oh.* Flint's glitchy combat log flickered — fragments of data from a network Flint shouldn't have been reading: **[MACE TECHNIQUE — RANK 1: LOW → MID. ENHANCED OPTION UNLOCKED: POWER STRIKE.]** Her next swing was different. Heavier. Tighter. The mace head glowing faintly as the System guided it into the seam of a Thornling closing from her left. The blow hit the creature's chest plate and cratered it — bark splitting in a dense web of cracks, amber sap erupting in a wet spray. It hit harder than anything she'd thrown before.
+And as it dropped, something flared around her — a brief pulse of golden light, a chime that Nate couldn't hear but could see in the way her stance shifted and her mouth opened in a small *oh.* Flint's glitchy combat log flickered — fragments of data from a network Flint shouldn't have been reading: **[MACE TECHNIQUE — RANK 1: LOW → MID. ENHANCED OPTION UNLOCKED: POWER STRIKE.]** Her next swing was different. Heavier. Tighter. The mace head glowing faintly as the **System** guided it into the seam of a Thornling closing from her left. The blow hit the creature's chest plate and cratered it — bark splitting in a dense web of cracks, amber sap erupting in a wet spray. It hit harder than anything she'd thrown before.
 
 She was already looking for the next target with the hungry focus of someone who wanted to feel that chime a second time.
 
@@ -282,7 +282,7 @@ She was already looking for the next target with the hungry focus of someone who
 
 Josh watched the chime land. Nate saw it happen — the kid's eyes widening, his face tightening, the specific expression of a seventeen-year-old who had just watched another fighter unlock something he couldn't reach. No golden light for him. No enhanced option. His axe technique was crawling through Rank 1 Low while Mack's had jumped to Mid. The **System** rewarded confident use, and scared swings counted for less.
 
-Josh's next swing was late. He caught it halfway, corrected on the fly, got the axe up in time to not-die to the Thornling in front of him — and then stepped back, breath shuddering, eyes wet, and reset. He came in again with a downward cut that landed flat in the bark-plate. Not pretty. But seated. No chime for Josh. Not yet. The System had watched him watch Mack and had decided, in whatever way the System decided such things, that hesitation was not the currency it paid out milestones for.
+Josh's next swing was late. He caught it halfway, corrected on the fly, got the axe up in time to not-die to the Thornling in front of him — and then stepped back, breath shuddering, eyes wet, and reset. He came in again with a downward cut that landed flat in the bark-plate. Not pretty. But seated. No chime for Josh. Not yet. The **System** had watched him watch Mack and had decided, in whatever way the **System** decided such things, that hesitation was not the currency it paid out milestones for.
 
 "I want that kid to live through this chapter," Flint said. Quietly, no joke attached. "I am registering that as a preference. The spec sheet I can read did not ask me for preferences, and I am having one anyway."
 
@@ -310,7 +310,7 @@ One bolt. One kill. At thirty feet. With ammunition made from the last room's co
 
 "OUR thorn. In YOUR crossbow. WE did that. Team effort. TEAM KILL." She pumped both fists in the air. "THE SUPPLY CHAIN WORKS."
 
-A **Warrior** nearby, mid-swing, paused long enough to give Josie a look of total bewilderment before the System reminded him that he was in combat and there was a Thornling within arm's reach. Somewhere in the back of Nate's skull, Flint was making a sound that might have been laughter, if AIs laughed, which they absolutely did not, and he would deny it under oath.
+A **Warrior** nearby, mid-swing, paused long enough to give Josie a look of total bewilderment before the **System** reminded him that he was in combat and there was a Thornling within arm's reach. Somewhere in the back of Nate's skull, Flint was making a sound that might have been laughter, if AIs laughed, which they absolutely did not, and he would deny it under oath.
 
 A spike of urgency hit Nate's chest — Rex's impression, not his own. Not words — a spatial flash of Heather from ground level, exposed flank, something closing fast from the direction she wasn't facing. Threat-direction, immediate, a ranch dog's bull-turned-wrong warning.
 
@@ -354,7 +354,7 @@ Two more near the east wall. The woman who'd shared her water bottle with strang
 
 The fight ended. Eight Thornlings down. Three dead. Two more injured — a gashed arm and a **Warrior** who'd twisted his ankle when a Thornling knocked him sideways — both already being handled by healers whose confidence had grown measurably since Room 1. The healers' hands shook now. Not from exhaustion. From the three people on the stone floor that no amount of white light would fix.
 
-Thirty-nine. The number landed heavier than the math suggested.
+Forty-three. The number landed heavier than the math suggested.
 
 In Room 1, four people had died and the group had fractured — screaming, weeping, the raw shock of mortality arriving without warning. Now the shock was thinner. Not gone. Spread across a surface that had already cracked. People looked at the bodies and looked away. A woman crossed herself. A man sat down hard against the wall and stared at nothing. But nobody screamed. The Tutorial was teaching them that too: how to keep moving after someone didn't.
 
@@ -378,7 +378,7 @@ Judge sighed — the same theatrical full-body exhale from Rest Area 1, the unam
 
 The second door opened wider. Warmer light bled through. Nate waited for the wounded to go first — same as the last door, same as every gate on the ranch when the stragglers needed the extra second — and then he stepped toward the threshold with Rex on his left and Judge on his right, and the three thorn bolts left in his belt pouch clicking softly against each other with every step.
 
-*Thirty-nine. She watches them go through the gap. She marks the number. And somewhere, quieter than the stone-grind of the door, the Storyteller turns a page — because the lesson has a second half, love, and the second half is always the one that tells you what the first half was for.*
+*Forty-three. She watches them go through the gap. She marks the number. And somewhere, quieter than the stone-grind of the door, the Storyteller turns a page — because the lesson has a second half, love, and the second half is always the one that tells you what the first half was for.*
 
 Nate stepped through.
 

@@ -10,11 +10,11 @@ But first the corridor widened.
 
 The torch-light changed first — from the combat chamber's flicker to the steady amber burn that meant infrastructure, not exertion. Then the ceiling lifted. Then the walls smoothed from rough-cut to dressed stone, and the corridor opened into the second rest area of the Tutorial: warmer, wider, better-lit.
 
-Better-stocked, too. Against the west wall, the crafting station had grown teeth. A grinder wheel. A small anvil on a thick iron base. Three tiers of files graded fine-to-coarse. A bench vise screwed to a plank that had been set into the stone floor so solid that **Structural Analysis** read it as permanent architecture — not generated props, not placed hardware, but fixtures the System intended to stay.
+Better-stocked, too. Against the west wall, the crafting station had grown teeth. A grinder wheel. A small anvil on a thick iron base. Three tiers of files graded fine-to-coarse. A bench vise screwed to a plank that had been set into the stone floor so solid that **Structural Analysis** read it as permanent architecture — not generated props, not placed hardware, but fixtures the **System** intended to stay.
 
 Reward scaling. Classic design. He'd seen it in every MMO rest zone he'd ever bunked down in. Better crafting tools with each progression tier, and never the crafting tools you actually wanted up front — always the ones you'd earned by grinding through the previous floor. Engineer's version of dopamine, delivered in the shape of a good bench vise.
 
-Thirty-nine entered. The math nobody had voiced since the door closed behind them. Three rooms into the Tutorial, six bodies on the stone of rooms that had already started to feel like memory. Nate sat at the workbench and let the number settle — not arithmetic, not yet, but a shape he was still getting used to holding.
+Forty-three entered. The math nobody had voiced since the door closed behind them. Two combat rooms behind them, seven bodies on the stone of rooms that had already started to feel like memory. Nate sat at the workbench and let the number settle — not arithmetic, not yet, but a shape he was still getting used to holding.
 
 Rex set against his left boot. Not lying down — set, the way a working dog parked weight the moment the task paused, three points of contact with the floor and the ribs rising and falling against the denim of Nate's pants. Ears up, eyes half-lidded, the specific alertness of a dog who had decided the corridor was secure and was therefore downshifting into companion mode rather than off-duty mode. Rex didn't do off-duty.
 
@@ -30,7 +30,7 @@ Judge flopped against his other thigh with the theatrical finality of a dog who 
 
 Across the corridor, Josie Pickett had set up a supply chain.
 
-Not a metaphor — an actual, working, three-station sorting operation with bark-plate fragments graded by laminate quality, thorn tips separated by curvature, and root-fiber bundled into hank lengths a crafter could actually use. The leather-worker from Rest Area 1 was back at her station. So was a tinkerer Nate didn't recognize. So was a weaver who had clearly not expected to discover, in her fifties, that the System had handed her a class whose subskill list included *fibrous structural integration.*
+Not a metaphor — an actual, working, three-station sorting operation with bark-plate fragments graded by laminate quality, thorn tips separated by curvature, and root-fiber bundled into hank lengths a crafter could actually use. The leather-worker from Rest Area 1 was back at her station. So was a tinkerer Nate didn't recognize. So was a weaver who had clearly not expected to discover, in her fifties, that the **System** had handed her a class whose ability list included *fibrous structural integration.*
 
 "The Room 3 stock is better," Josie was explaining to the weaver, holding up a bark-plate fragment with the calm certainty of a woman running an estate sale. "See the interlocking grain? Three-layer laminate, stress-tested, combat-grade. Room 1 fragments were practice. *These* are the real deal."
 
@@ -46,7 +46,7 @@ Marcus drifted into the workbench's range with the careful approach of a man who
 
 "Headcount," he said.
 
-"Thirty-nine."
+"Forty-three."
 
 "That's the one." He glanced toward the corridor that led back to Room 2, then to the one that led forward to Room 3 — a quick, lateral read of ingress and egress that was pure Marcus. "Ramp's real. Room 1 was a whiff test. Room 2 was a resource check. I'd put a hundred on Room 3 being something we haven't seen yet."
 
@@ -66,7 +66,7 @@ He pulled the crossbow flat on the bench.
 
 A torch bracket protruded from the wall at bench height — iron, rectangular, set into a groove carved to hold it. **Structural Analysis** read it in the same glance: carbon content consistent with low-grade wrought iron, cross-section two inches by a quarter, work-hardening visible along the top edge from whatever had shaped it in the first place. It would file into a ring with about eight minutes of patient work.
 
-Nate pried it off the wall. The System's generated fixtures came free cleaner than Earth-side ones — no stubborn anchor bolts, no decades of paint fused into the mounting holes. One steady pull and the bracket was his.
+Nate pried it off the wall. The **System's** generated fixtures came free cleaner than Earth-side ones — no stubborn anchor bolts, no decades of paint fused into the mounting holes. One steady pull and the bracket was his.
 
 He clamped it in the vise. Picked up the medium file. Started cutting.
 
@@ -98,11 +98,11 @@ Engineering didn't eliminate imperfection. It made imperfection predictable.
 
 "You keep a ledger of favors?"
 
-"I keep a ledger of *everything*. Favors are the column with the most interesting audit trail."
+"Favors I track separately. Compound interest, Nate — you're already in arrears, and you don't even know the rate."
 
 Two benches down, Walt Keane glanced up from a bark-plate he was working. His eye slid over the peep sight — slow, appraising, the sale-barn squint of a man who had spent thirty years sizing up other people's livestock and never lost the habit. He grunted once. Approving. The way an auctioneer's *fair enough* settled a price.
 
-Nate took that for what it was.
+Coming from Walt, that was a paragraph.
 
 ---
 
@@ -140,11 +140,11 @@ Nate had met that math before. Congressman — his registered Red Angus herd bul
 
 This thing didn't have ears.
 
-"New," Flint said. "And by new I mean: if the spec sheet I can read is any guide, significantly worse for us than the baseline Thornlings. Bigger, denser, the armor-plate geometry suggests coordinated movement. I'd put my assessment at *a draft that's been in revision.* Not the final version of what it's turning into. What happens when the basic Thornlings file a complaint and the System adjusts."
+"New," Flint said. "And by new I mean: if the spec sheet I can read is any guide, significantly worse for us than the baseline Thornlings. Bigger, denser, the armor-plate geometry suggests coordinated movement. I'd put my assessment at *a draft that's been in revision.* Not the final version of what it's turning into. What happens when the basic Thornlings file a complaint and the **System** adjusts."
 
 **Structural Analysis** fired hard — harder than it had fired on anything since the crossbow. Density, yes. But density had structure, and structure had seams. The arm joints were thicker than the basic Thornlings' but the growth pattern was the same: bark plates overlapping at the joints, narrower seams but present. The shoulder-to-torso connection showed a gap where the heavier armor hadn't fused completely — load-bearing growth that hadn't caught up to the creature's final geometry. Chest plate too thick. Joints exposed. Same shape, drafted heavier.
 
-A draft before the final version.
+Whatever it was growing into, it wasn't finished. The seams were still open.
 
 ---
 
@@ -158,13 +158,13 @@ Heather Kim nodded once from the ledge. Her hands were already at her knees, pal
 
 Tank. Healer. Damage.
 
-Nate watched the shape of it form without naming it. He'd seen the shape in a hundred games and in more tabletop sessions than he'd admit at a Sunday cookout. Three roles, each covering the other two's weakness, the geometry that held when every other geometry fell apart. Marcus wasn't running it because he'd read it in a book. He was running it because he'd been running the same shape in every operation he'd ever led, and the System had given him the vocabulary to make it visible.
+Nate watched the shape of it form without naming it. He'd seen the shape in a hundred games and in more tabletop sessions than he'd admit at a Sunday cookout. Three roles, each covering the other two's weakness, the geometry that held when every other geometry fell apart. Marcus wasn't running it because he'd read it in a book. He was running it because he'd been running the same shape in every operation he'd ever led, and the **System** had given him the vocabulary to make it visible.
 
 The warriors took the choke.
 
 Sam Hargrove and Mack Turner, shoulder-to-shoulder in the four-foot pinch between the stone ridges. The rock formations did the teaching. A Thornling coming through had to pass the two-man front to reach anything behind it, and the two-man front was a dance now — Sam's base technique on the lead beat, Mack's **Power Strike** on the cover, then swap, then again. Each of them had earned a milestone chime in the previous room. Neither of them was good. Both of them were *adequate*, and adequate, multiplied by rotation, was a wall.
 
-A Thornling clipped Sam's shin. Bark-thorn across the calf, hot line of blood through torn pants. Sam grunted. Didn't drop. His blade kept coming on the upswing because the System was carrying his arm through the motion and the System did not care that he had just been hit. Behind him, Mack stepped up with his **Power Strike** primed, and Sam rotated back breathing hard, hand pressed to the cut, eyes counting the cooldown seconds.
+A Thornling clipped Sam's shin. Bark-thorn across the calf, hot line of blood through torn pants. Sam grunted. Didn't drop. His blade kept coming on the upswing because the **System** was carrying his arm through the motion and the **System** did not care that he had just been hit. Behind him, Mack stepped up with her **Power Strike** primed, and Sam rotated back breathing hard, hand pressed to the cut, eyes counting the cooldown seconds.
 
 *Sure, two rough men swapping the lead beat with the metronome rhythm of dancers who have no idea they are dancing. They will never use the word. But their feet know it, mind. And in the room's acoustics, for those eight seconds, the choke sounds like music.*
 
@@ -258,11 +258,11 @@ The corridor was six feet long with one exit. The Thornling was between her and 
 
 Nate heard the sounds. He could not see them — the rock formation blocked line of sight from his elevated position, and **Structural Analysis** did not read through three feet of quarried granite. By the time a **Warrior** cleared the corridor, there were two more bodies on the stone floor.
 
-Three more dead. Thirty-six.
+Three more dead. Forty.
 
 The number had stopped being arithmetic.
 
-Nobody said the names. That was the part that stayed with Nate — nobody said the names because almost nobody knew them. Thirty-nine had walked into the room and thirty-six had walked out, and even the three who had not were becoming abstractions faster than felt decent. The young **Warrior** who had chased too deep. The man who had held his shield until it broke. The woman behind him. They would be remembered by what they had done at the end, not who they had been before it.
+Nobody said the names. That was the part that stayed with Nate — nobody said the names because almost nobody knew them. Forty-three had walked into the room and forty had walked out, and even the three who had not were becoming abstractions faster than felt decent. The young **Warrior** who had chased too deep. The man who had held his shield until it broke. The woman behind him. They would be remembered by what they had done at the end, not who they had been before it.
 
 *The names were there. She kept them. That was part of the work. The young Warrior was twenty-four and had a sister in Lincoln, Nebraska, who would not know for a long time what he had become at the end — only that he had been loved by a family and was gone. The man with the shield was a middle-school shop teacher from Bartlesville who had fixed his neighbors' lawnmowers for free and never let the favor be mentioned. The woman behind him was his wife of thirty-two years — three grandchildren, a garden that would not be weeded this spring. The cohort did not know. The cohort did not need to know. But the names were kept, mind. The names were always kept.*
 
@@ -318,14 +318,14 @@ Not with ceremony — with the same root-fiber pop the others had made — and f
 
 Then the banner.
 
-Blue panel, unmistakable, larger than any screen the System had yet put in front of the cohort. It opened in Nate's vision the way a good flag unfurls — snap at the top, settle at the corners, clean text centered across the field:
+Blue panel, unmistakable, larger than any screen the **System** had yet put in front of the cohort. It opened in Nate's vision the way a good flag unfurls — snap at the top, settle at the corners, clean text centered across the field:
 
 **FLOOR 1 — COMPLETE**
-**Cohort Remaining: 36**
+**Cohort Remaining: 40**
 **Combat Rooms: 3 of 3**
 **Specialization Pathways: Unlocked**
 
-The pulse of it was subtle. A faint warmth behind the words, not quite heat, more like the way a good woodstove registered from across a room. Every member of the cohort was reading the same message in their own panel in the same configuration. Nate knew because Marcus had gone still. Heather had gone still. Walt Keane had stopped working his bark-plate fragment. The thirty-three others in the chamber were all doing the same thing at the same time, with the stillness of people whose screens had just gone polite.
+The pulse of it was subtle. A faint warmth behind the words, not quite heat, more like the way a good woodstove registered from across a room. Every member of the cohort had gone still over a screen of their own. Nate knew because Marcus had gone still. Heather had gone still. Walt Keane had stopped working his bark-plate fragment. The thirty-three others in the chamber were all doing the same thing at the same time, with the stillness of people whose screens had just gone polite.
 
 A subtler chime sounded. Not the **Power Strike** pulse. Deeper. A low tone, three beats, the kind of chime a bank's vault door made when it decided to open.
 
@@ -339,7 +339,7 @@ Marcus was already at the stair-head, reading the geometry with the unbothered p
 
 "Floor 1 is done," Marcus said. Flat. Fact-voice, not sermon-voice.
 
-"Thirty-six," Nate answered. Also flat.
+"Forty," Nate answered. Also flat.
 
 "That's the one."
 

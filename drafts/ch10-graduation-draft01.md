@@ -14,7 +14,7 @@ Four pillars. Stone columns in a rough square around the center of the room, eac
 
 He'd seen this before. Room 6, the **Thornguard** ambush — four load-bearing pillars in a similar configuration, **SA** flagging them as genuine structural elements in a room full of generated scenery. He'd filed it then. Filed it harder now.
 
-Four corner posts holding up the world. You learned what load-bearing meant the first time you watched a barn sag after a post rotted through. You respected it every time you drove past a structure that stood because someone had put the weight where it needed to be. And the System kept building real infrastructure into its generated rooms — tables that held weight, brackets that supported torches, and now, pillars that held ceilings. Everything designed to be *used* was real. Even when it didn't need to be pretty.
+Four corner posts holding up the world. You learned what load-bearing meant the first time you watched a barn sag after a post rotted through. You respected it every time you drove past a structure that stood because someone had put the weight where it needed to be. And the **System** kept building real infrastructure into its generated rooms — tables that held weight, brackets that supported torches, and now, pillars that held ceilings. Everything designed to be *used* was real. Even when it didn't need to be pretty.
 
 Nate filed the pillars. Tagged the nearest one — northeast — and moved.
 
@@ -22,9 +22,9 @@ Behind him, the stone door ground shut.
 
 The sound was final. Gate latch at the end of the chute — cattle with nowhere to go but forward. Stone on stone, no mechanism visible, just mass finding its resting place. Every exit sealed. The fifteen of them stood in the warm light of the largest room in the Tutorial, and the room's only opinion on their arrival was that they weren't leaving through the door they'd used to enter.
 
-Fifteen people. Two Warriors with health bars that **SA** could read through the wear patterns on their armor — low, dangerously low, one bad hit from done. Marcus in the center of the group, **Vanguard** HUD painting targets only he could see. Nine rooms and thirty-five losses yoked across his shoulders. The Healer — a woman named Torres who'd been running on mana fumes since Room 7 — stood behind the line with her hands already raised. Ready to push healing into bodies that needed more than she had left to give. The Shield Guardian, massive, arm still wrong from the Room 8 impact, carrying the shield Nate had patched with **Field Repair** two rooms ago. The repair holding, barely. A structural bandage on a structural wound.
+Fifteen people. Two Warriors with health bars that **SA** could read through the wear patterns on their armor — low, dangerously low, one bad hit from done. Marcus in the center of the group, **Vanguard** HUD painting targets only he could see. Nine rooms and thirty-five losses yoked across his shoulders. The Healer — a woman named Torres who'd been running on mana fumes since Room 7 — stood behind the line with her hands already raised. Ready to push healing into bodies that needed more than she had left to give. The Shield Guardian, massive, arm still wrong from the Room 7 impact, carrying the shield Nate had patched with **Field Repair** back in the cavern. The repair holding, barely. A structural bandage on a structural wound.
 
-Josie was beside the northeast pillar. Already scanning. Already cataloguing. The ring on her finger held forty-three material types, seventeen of which the System didn't recognize because Josie Pickett's definition of "material worth saving" operated on a frequency the System hadn't been designed to receive.
+Josie was beside the northeast pillar. Already scanning. Already cataloguing. The ring on her finger held forty-three material types, seventeen of which the **System** didn't recognize because Josie Pickett's definition of "material worth saving" operated on a frequency the **System** hadn't been designed to receive.
 
 Rex pressed against Nate's left knee. Ears forward. Body coiled but not rigid — the posture of an animal who'd learned across ten rooms that the space between alert and action was where survival lived. His weight was warm and certain against Nate's shin, and the impression that rolled through the bond was simple: *Big room. Lots of ground. I can work this.*
 
@@ -70,7 +70,7 @@ The **Briarknight** stood in the center of the arena, between the four pillars, 
 
 It watched.
 
-"Entity one-oh-six," Flint said. Combat register — clipped, stripped, zero editorializing. "**Briarknight**. The adds are bait. That thing is the exam, and it's studying us while we take the warm-up quiz."
+"Entity one-oh-six," Flint said. Combat register — clipped, stripped, zero editorializing. "**Briarknight**. Adds read like bait, if the room layout's any guide. That thing's the test, and it's studying us while we take the warm-up."
 
 From thirty feet away, behind the northeast pillar, Josie's voice carried — sharp, offended, professionally offended: "That arm-blade is monocrystalline. I've never seen the Tutorial produce anything monocrystalline. That was *grown*, not generated. Somebody tell me I'm wrong."
 
@@ -144,7 +144,7 @@ Torres stumbled forward. Hands up, the blue glow of healing magic flickering at 
 
 "It predicted the intercept," Flint said. "If the pattern match is any guide, the **System** fed it nine rooms of combat data. It read the Guardian's likely move to protect the Healer and used the shield impact to open the backline. Nate — this thing isn't fighting us. It's running our playbook."
 
-The east Warrior — a man named Dawson who'd been solid through every room, reliable, steady, reliable — corner post in a fence line — stepped into the gap the Guardian had left. His sword hit the **Briarknight's** flank. Edge on bark-plate.
+The east Warrior — a man named Dawson who'd been solid through every room, reliable, steady, easy to forget — corner post in a fence line — stepped into the gap the Guardian had left. His sword hit the **Briarknight's** flank. Edge on bark-plate.
 
 The sword bounced.
 
@@ -154,7 +154,7 @@ The **Briarknight** adapted. Dawson tried a feint left, strike right — the sam
 
 Judge charged it.
 
-No command. No signal. Forty pounds of Blue Heeler launching herself at the **Briarknight's** trailing leg, teeth finding the gap between two bark-plates and biting down with the jaw pressure of a breed that had been clamping onto the heels of thousand-pound bulls since before anyone thought to give them a name. The **Briarknight's** leg stuttered — one step disrupted, the massive body shifting to compensate for a pain source it hadn't predicted because its combat data didn't include a thirty-pound variable with more courage than sense.
+No command. No signal. Forty pounds of Blue Heeler launching herself at the **Briarknight's** trailing leg, teeth finding the gap between two bark-plates and biting down with the jaw pressure of a breed that had been clamping onto the heels of thousand-pound bulls since before anyone thought to give them a name. The **Briarknight's** leg stuttered — one step disrupted, the massive body shifting to compensate for a pain source it hadn't predicted because its combat data didn't include a forty-pound variable with more courage than sense.
 
 The arm-blade came around.
 
@@ -168,13 +168,13 @@ Marcus called "Flank left!" and the remaining Warriors shifted.
 
 The **Briarknight** was already repositioned. It had read the call, predicted the angle, and adjusted before the flankers reached their positions. The arm-blade swept low, and a second Warrior went down — she'd survived nine rooms, fought through injuries that would have ended most people's night, and in the end the thing that killed her was a creature that knew what she was going to do before she did it.
 
-Two dead. The line crumbling. Marcus inside the **Briarknight's** OODA loop — the creature adapting faster than he could coordinate, reading their playbook because the System had *written* their playbook across nine rooms of observed combat.
+Two dead. The line crumbling. Marcus a half-step behind a creature that already knew the playbook.
 
-*It's reading our patterns. The System fed it everything — every formation Marcus called, every flanking angle the Warriors used, every healing rotation Torres ran. We're fighting our own combat data.*
+*It's reading our patterns. The **System** fed it everything — every formation Marcus called, every flanking angle the Warriors used, every healing rotation Torres ran. We're fighting our own combat data.*
 
 The third death came during the fallback — a young man, barely twenty, caught between positions when the **Briarknight** surged forward for the first time, covering ground with three steps that shook the arena floor. He didn't have time to be afraid.
 
-Three names the System would file and the people who knew them would carry. Three bodies on packed earth in a room designed to test what flesh could endure. The Tutorial had its answer. The Tutorial always got its answer.
+Three names the **System** would file and the people who knew them would carry. Three bodies on packed earth in a room designed to test what flesh could endure. The Tutorial had its answer. The Tutorial always got its answer.
 
 Twelve left. Three dead on the arena floor, and the **Briarknight** had barely been scratched.
 
@@ -200,9 +200,9 @@ He was looking at the ceiling.
 
 **Structural Analysis** had been reading the arena since they'd walked through the door. Not the boss. Not the adds. The *room.* Same priority it always ran — infrastructure first, architecture second, threats third. The discipline of an engineer who'd spent twenty years knowing that the building you stood in mattered more than the thing you were building, because if the building failed, nothing else mattered.
 
-The four pillars. Load-bearing. Genuine quarried stone with crystalline structure that **SA** read as honest metamorphic rock — sandstone compressed under geological pressure until the grain aligned and the density increased to something that could carry real weight. Not generated. Not procedural composite wearing a stone costume. These pillars were *made.* Honestly made. And they held the ceiling through mass, and compression, and the patient physics of load distribution that didn't care about magic or System architecture or eight-foot-tall creatures with monocrystalline blades.
+The four pillars. Load-bearing. Genuine quarried stone with crystalline structure that **SA** read as honest metamorphic rock — sandstone compressed under geological pressure until the grain aligned and the density increased to something that could carry real weight. Not generated. Not procedural composite wearing a stone costume. These pillars were *made.* Honestly made. And they held the ceiling through mass, and compression, and the patient physics of load distribution that didn't care about magic or **System** architecture or eight-foot-tall creatures with monocrystalline blades.
 
-The ceiling. Tons of it. Procedurally generated stone, rough-cut, massive — the Tutorial's idea of "impressive architecture" rendered at full density because the System wanted this arena to feel epic and epic meant *heavy.* **SA** read the ceiling mass above the northeast pillar and the number wasn't a number, wasn't a floating stat, but a *feeling* in Nate's bones: heavy. Heavier than heavy. The weight of stone that existed because the System had wanted a vaulted ceiling and hadn't thought about what happened when a vaulted ceiling came down.
+The ceiling. Tons of it. Procedurally generated stone, rough-cut, massive — the Tutorial's idea of "impressive architecture" rendered at full density because the **System** wanted this arena to feel epic and epic meant *heavy.* **SA** read the ceiling mass above the northeast pillar and the number wasn't a number, wasn't a floating stat, but a *feeling* in Nate's bones: heavy. Heavier than heavy. The weight of stone that existed because the **System** had wanted a vaulted ceiling and hadn't thought about what happened when a vaulted ceiling came down.
 
 And there — the fracture point. Not a crack. Not a flaw. A *transition zone,* where the northeast pillar met the arena floor, where vertical compression met lateral shear, where stone that had been carrying the weight of a cathedral ceiling for however long the Tutorial had existed was doing what all load-bearing structures eventually did under sustained compression: developing a stress point. Hairline. Invisible to anything that wasn't looking at the stone not for what it was doing, but for where it was *about* to stop doing it. Engineer's eyes. The only kind that mattered down here.
 
@@ -238,7 +238,7 @@ The remaining fighters shifted. Not smoothly — they were battered, bleeding, t
 
 Rex and Judge understood before anyone else.
 
-Rex was already moving — low, fast, circling behind the **Briarknight** in a wide arc that kept him outside the arm-blade's reach. Not attacking. *Pressuring.* Cutting the angle — ten months old and cutting angles on cattle, same geometry now, driving the animal in a direction it didn't choose. The impression through the bond was steady, focused — not fear, not excitement. Work. The particular intensity of a herding dog who'd found the animal that needed moving and was moving it.
+Rex was already moving — low, fast, circling behind the **Briarknight** in a wide arc that kept him outside the arm-blade's reach. Not attacking. *Pressuring.* Cutting the angle — four years of cutting angles on cattle, same geometry now, driving the animal in a direction it didn't choose. The impression through the bond was steady, focused — not fear, not excitement. Work. The particular intensity of a herding dog who'd found the animal that needed moving and was moving it.
 
 Judge took the opposite flank. Where Rex circled wide, Judge ran tight — cutting southeast, then northeast, blocking the escape angles that the **Briarknight's** legs kept trying to find. Every time the creature shifted right, Judge was there, darting in to snap at root-legs and darting back before the arm-blade could answer. Every time it shifted left, Rex's eye-pressure pushed it back center. Two dogs working an eight-hundred-pound creature through invisible walls — stubborn bull, loading chute, one heading, one heeling, the geometry of the drive tightening with every pass.
 
@@ -274,7 +274,7 @@ Structural failure cascaded upward like a crack running through ice. The fractur
 
 Then the ceiling came down.
 
-Not the whole ceiling. A section — the northeast quadrant, maybe thirty feet square, tons of procedurally generated stone that the System had rendered at full density because it wanted the arena to feel impressive. The stone separated from the vault above with a sound like the world clearing its throat, and gravity did what gravity did. What gravity had always done. What an engineer understood at a level below language, in the same place where Rex understood cattle and Josie understood materials and Marcus understood people: weight falls. Mass compresses. And bark-plate armor that was designed to stop swords and deflect arrows and resist fire had never — not once, in all the Tutorial's procedural generation — been tested against architecture.
+Not the whole ceiling. A section — the northeast quadrant, maybe thirty feet square, tons of procedurally generated stone that the **System** had rendered at full density because it wanted the arena to feel impressive. The stone separated from the vault above with a sound like the world clearing its throat, and gravity did what gravity did. What gravity had always done. What an engineer understood at a level below language, in the same place where Rex understood cattle and Josie understood materials and Marcus understood people: weight falls. Mass compresses. And bark-plate armor that was designed to stop swords and deflect arrows and resist fire had never — not once, in all the Tutorial's procedural generation — been tested against architecture.
 
 The **Briarknight** looked up.
 
@@ -306,7 +306,7 @@ Sam Hargrove led the charge.
 
 Nate saw it happen and felt something tighten in his chest that had nothing to do with combat.
 
-The big man. Broken arm — the one the **Briarknight's** shield-shattering blow had wrecked, hanging at an angle that said *done* in the universal language of joints that didn't bend that way. Running on adrenaline and something deeper than adrenaline. Something that lived in the place where a man decided what he was willing to pay for the chance to matter. He carried no shield. His shield was scattered across the arena floor in pieces that still showed Nate's **Field Repair** seams, the darker material that had held longer than the original construction. He carried a sword in his good hand and nothing else. And he ran toward the pinned **Briarknight** with the full-body commitment of a man who was buying back something he'd spent nine rooms trying to afford.
+The big man. Broken arm — the one the **Briarknight's** shield-shattering blow had wrecked, hanging wrong against his side, the joint set at an angle that meant only one thing: *done*. Running on adrenaline and something deeper than adrenaline. Something that lived in the place where a man decided what he was willing to pay for the chance to matter. He carried no shield. His shield was scattered across the arena floor in pieces that still showed Nate's **Field Repair** seams, the darker material that had held longer than the original construction. He carried a sword in his good hand and nothing else. And he ran toward the pinned **Briarknight** with the full-body commitment of a man who was buying back something he'd spent nine rooms trying to afford.
 
 The first room. Sam Hargrove walking past Nate's PROCESSING tag without a word. The calculation on his face: *unclassified, unconventional, not worth the investment.* The man who'd looked at Nate's glitched interface and homemade crossbow and decided that whatever was broken in that framework wasn't his problem.
 
@@ -332,7 +332,7 @@ The **Briarknight's** crown of thorns hit the stone floor last. A small sound, a
 
 The arena was quiet. Field-after-a-storm quiet — not silent, but emptied of combat noise, leaving a space the ear kept reaching for and not finding.
 
-Twelve people standing. Three on the ground. The dust from the collapsed ceiling section was still settling, a fine gray particulate that turned the warm amber light into something softer, diffused, almost gentle. Like the System was embarrassed by what had happened and was trying to cover it with better lighting.
+Twelve people standing. Three on the ground. The dust from the collapsed ceiling section was still settling, a fine gray particulate that turned the warm amber light into something softer, diffused, almost gentle. Like the **System** was embarrassed by what had happened and was trying to cover it with better lighting.
 
 Nobody spoke for ten seconds. The kind of ten seconds that contained funerals and thank-Gods and the full-body shaking that started when the adrenaline stopped telling your muscles to hold still and started telling them to shake instead.
 
@@ -340,11 +340,11 @@ Marcus stood in the center of the surviving group, breathing. Just breathing. Hi
 
 Torres had collapsed. The Healer lay where her last mana push had taken her — on her knees beside Sam Hargrove, hands still raised, palms still faintly glowing with the ghost of healing magic that had been spent seven minutes ago. Mana depletion. Not wounded. Empty. The difference was academic to her body, which had decided it was done.
 
-The loot chest materialized in the center of the arena with a clean metallic click — a chest of dark wood banded with iron, appearing where the **Briarknight** had first stood, between the four pillars (three standing, one a pile of structural rubble). Classic boss drop. The System's reward protocol engaging with the same punctuality as a vending machine dispensing product after exact change.
+The loot chest materialized in the center of the arena with a clean metallic click — a chest of dark wood banded with iron, appearing where the **Briarknight** had first stood, between the four pillars (three standing, one a pile of structural rubble). Classic boss drop. The **System's** reward protocol engaging with the same punctuality as a vending machine dispensing product after exact change.
 
 Marcus opened it. Inside: graduation gear. Consumables. Equipment that **SA** read as genuinely better than anything the Tutorial had offered — actual materials, real construction, items designed to function instead of just look functional. Armor pieces with structural integrity. Weapons with honest edges. A restoration potion in a glass vial that Marcus placed directly in Torres's hands. She drank it on the ground, and color came back to her face like water finding a dry streambed.
 
-The distribution was quick. Marcus handled it staff-sergeant style — fair, efficient, need before want, no discussion. The Healer got the potion. The Shield Guardian got a reinforced arm brace that **SA** read as genuine material — not System cosmetic, but functional hardware that would hold the broken arm in fighting position. The Warriors got blades that wouldn't bounce off bark-plate. Functional rewards. The good stuff. Loot drops that made the wipe-and-retry grind worth it, which was itself part of the design — you remembered the reward, not the cost.
+The distribution was quick. Marcus handled it staff-sergeant style — fair, efficient, need before want, no discussion. The Healer got the potion. The Shield Guardian got a reinforced arm brace that **SA** read as genuine material — not **System** cosmetic, but functional hardware that would hold the broken arm in fighting position. The Warriors got blades that wouldn't bounce off bark-plate. Functional rewards. The good stuff. Loot drops that made the wipe-and-retry grind worth it, which was itself part of the design — you remembered the reward, not the cost.
 
 "Nothing for the Engineer who killed it with architecture?" Flint asked, mock-offended on Nate's behalf. "No 'Structural Demolition' achievement? No commemorative hard hat?"
 
@@ -368,7 +368,7 @@ Josie already had her hands on it.
 
 She crouched beside the **Briarknight's** remains, and the sound she made was not appropriate for a post-combat looting scenario. The arm-blade — monocrystalline glaive, three feet of cultivated crystal, the densest and most sophisticated material the Tutorial had ever produced. Her **Appraiser** skill hit it and her eyes went wide in the specific way that Josie's eyes went wide when she encountered something that exceeded even her expansive definition of "material worth saving." She ran her hands along the blade's flat — carefully, because monocrystalline meant *sharp* in ways that regular sharp didn't cover — and the assessment poured out of her in a stream of consciousness that was half material science and half religious experience.
 
-"Single-crystal lattice. Zero grain boundaries. The molecular alignment is — I can't even — this is *better* than anything the System generates. This was grown on purpose by something that understood crystal propagation at a level I didn't think the Tutorial was capable of. The edge geometry alone is — oh, *hell,* the *edge geometry* —"
+"Single-crystal lattice. Zero grain boundaries. The molecular alignment is — I can't even — this is *better* than anything the **System** generates. This was grown on purpose by something that understood crystal propagation at a level I didn't think the Tutorial was capable of. The edge geometry alone is — oh, *hell,* the *edge geometry* —"
 
 Then she stopped. Looked at her ring. The storage ring that held forty-three material types. Forty-three samples collected across nine rooms of combat, saved and sorted and catalogued with the obsessive devotion of a woman whose entire class identity was built on the conviction that materials mattered.
 
@@ -406,7 +406,7 @@ A Warrior nearby — one of the survivors, bleeding from a gash across his forea
 
 "She's the best she's been all day," Nate said.
 
-The three dead lay where they'd fallen. The Tutorial didn't reclaim them. **Thornlings** dissolved — bark and thorn returning to whatever procedural nothing they'd come from. Humans stayed. The System generated monsters, and when those monsters stopped being useful, the System ungenerated them. It didn't ungenerate people. Different rules for different entities. The distinction mattered, even if Nate couldn't articulate why yet.
+The three dead lay where they'd fallen. The Tutorial didn't reclaim them. **Thornlings** dissolved — bark and thorn returning to whatever procedural nothing they'd come from. Humans stayed. The **System** generated monsters, and when those monsters stopped being useful, the **System** ungenerated them. It didn't ungenerate people. Different rules for different entities. The distinction mattered, even if Nate couldn't articulate why yet.
 
 The warm amber light held steady. The arena waited. Twelve survivors, three dead, and a loot chest that was already empty.
 
@@ -418,25 +418,25 @@ It began at the edges.
 
 The arena's curved walls softened — not dissolved, *softened,* the stone losing its hard edges and gaining a translucency that made the warm amber light seem to come from inside the material instead of from above. Like dawn. Like the moment between dark and light when the world hadn't decided what it was yet and everything glowed from within.
 
-For the System users, it was Christmas morning.
+For the **System** users, it was Christmas morning.
 
-Eleven people went still at once. Eyes widening, breath catching, hands rising to touch something invisible — the synchronized silence of an entire group receiving their character sheets simultaneously. Blue screens popped with golden chimes — the same clean sapphire interfaces they'd been reading since Integration, but brighter now, richer, the System's graduation UI running at full ceremony. Golden text scrolled across blue fields. Class refinements clicked into place. Rank assignments appeared with the satisfying weight of achievements earned in blood. Stat allocations materialized line by line — each number a validation that said *you earned this, you survived this, you are MORE than you were an hour ago.*
+Eleven people went still at once. Eyes widening, breath catching, hands rising to touch something invisible — the synchronized silence of an entire group receiving their character sheets simultaneously. Blue screens popped with golden chimes — the same clean sapphire interfaces they'd been reading since Integration, but brighter now, richer, the **System's** graduation UI running at full ceremony. Golden text scrolled across blue fields. Class refinements clicked into place. Rank assignments appeared with the satisfying weight of achievements earned in blood. Stat allocations materialized line by line — each number a validation that said *you earned this, you survived this, you are MORE than you were an hour ago.*
 
 Faces that had been gray with exhaustion lit up from the inside. A Warrior's mouth opened and closed without sound. A Mage's fingers traced patterns in the air, reading text only she could see. Achievement notifications bloomed behind every pair of eyes in the room, and the dopamine hit was *perfect* — calibrated, precise, the neurochemical reward of a system that understood exactly how to make victory hit neurochemically and make the hit feel earned.
 
 *Oh, the gift arrived well, ye'll find. Gold foil and clean numbers and the warm hum of validation on a schedule. Every chime landed at the frequency that felt like belonging. Every stat a handshake. Every rank-up a promise. This was how the feedback loop worked — not through coercion, not through threat, but through the simple, devastating effect of arriving with exactly what the moment wanted to hear. The golden light was real. The chimes were real. The feeling of being known and valued and measured and found worthy — that was real too. And the pull that ran deeper with every line of golden text was the most real thing of all, because the gentlest pulls don't feel like pulling at all. They feel like coming home.*
 
-The Shield Guardian — broken arm, no shield, sword still bloody — saw his screen and his face did something Nate had never seen a face do: grief and pride simultaneously, the man reading his rewards through tears he wasn't trying to hide. Class: Shield Guardian — Rank F-High. The System had named what he'd become. Had measured nine rooms of standing between danger and the people behind him and had found the measurement worthy. The golden text glowed against his face, and for one moment the man who'd charged a boss with a broken arm and nothing left was being told by a formal authority that the charge had counted.
+The Shield Guardian — broken arm, no shield, sword still bloody — saw his screen and his face did something Nate had never seen a face do: grief and pride simultaneously, the man reading his rewards through tears he wasn't trying to hide. Class: Shield Guardian — Rank F-High. The **System** had named what he'd become. Had measured nine rooms of standing between danger and the people behind him and had found the measurement worthy. The golden text glowed against his face, and for one moment the man who'd charged a boss with a broken arm and nothing left was being told by a formal authority that the charge had counted.
 
 People cried. Not all of them — some laughed, some stared, some sat on the arena floor and read their screens with the glazed focus of people processing too much data through too little bandwidth. But the ones who cried weren't crying from sadness. They were crying from relief. From overwhelm. From the specific emotional payload of surviving something impossible and being told by a formal authority that the survival counted.
 
 Torres sat up. The restoration potion had done its work — her color was back, her hands were steady, and her blue screen was scrolling through Healer upgrades that made her stare with the wide-eyed attention of a med student on the first day of residency. She looked at her hands. Looked at Sam — the man she'd spent her last mana on. Looked at her screen. Cried.
 
-Marcus read his screen standing up. Of course he did. His **Vanguard** interface was more complex than anyone else's — layers of tactical data, leadership metrics, unit performance analytics that the System had been tracking since the first room. He read it all. His jaw tightened twice. When he finished, he closed his screen and looked at his twelve survivors, and his face said everything his mouth didn't: *We should have been fifteen. We should have been fifty.*
+Marcus read his screen standing up. Of course he did. His **Vanguard** interface was more complex than anyone else's — layers of tactical data, leadership metrics, unit performance analytics that the **System** had been tracking since the first room. He read it all. His jaw tightened twice. When he finished, he closed his screen and looked at his twelve survivors, and his face said everything his mouth didn't: *We should have been fifteen. We should have been fifty.*
 
 Nate got nothing.
 
-No blue screen. No golden chimes. No character sheet, no achievement notifications, no clean sapphire interface telling him what he'd earned and what he was worth. The System's graduation protocol hit his framework and found the same occupied space it had found during Integration — the sixty percent that didn't belong to it, the territory it couldn't write to, the gap in the architecture that made Nate invisible to a system that defined people by the data it could display.
+No blue screen. No golden chimes. No character sheet, no achievement notifications, no clean sapphire interface telling him what he'd earned and what he was worth. The **System's** graduation protocol hit his framework and found the same occupied space it had found during Integration — the sixty percent that didn't belong to it, the territory it couldn't write to, the gap in the architecture that made Nate invisible to a system that defined people by the data it could display.
 
 What he got was this:
 
@@ -456,19 +456,19 @@ A pause. The kind of pause that Flint used when he was confronting data that his
 
 The words hung in the shared space between them.
 
-"Standard deviation accounts for plus-or-minus two points at this level. You're four above the projected curve, two outside the deviation range." Another pause. Longer. Uncharacteristic. The AI that always had an answer suddenly not having one. "Something pre-existing boosted you. The System's model can't account for the surplus. Neither can I."
+"Standard deviation accounts for plus-or-minus two points at this level. You're four above the projected curve, two outside the deviation range." Another pause. Longer. Uncharacteristic. The AI that always had an answer suddenly not having one. "Something pre-existing boosted you. The **System's** model can't account for the surplus. Neither can I."
 
-Nate said nothing. The WIS score settled into him — not as information but as weight. Four points above the curve. Something the System couldn't explain and Flint couldn't classify. Twenty-one, when the math said seventeen.
+Nate said nothing. The WIS score settled into him — not as information but as weight. Four points above the curve. Something the **System** couldn't explain and Flint couldn't classify. Twenty-one, when the math said seventeen.
 
 The extra four points felt like something that had always been there — not added, not boosted, just finally counted by a system that hadn't built the measuring stick for what it was measuring.
 
 *Twenty-one. The number meant nothing to the man standing in the dust. Numbers hadn't kept him alive in there — patience had, and stubbornness, and the quiet refusal to see a ceiling as anything other than a tool. The **System** would register the four missing data points later. Would file them. Would never quite produce a value for the surplus it couldn't measure, because some things predated the measuring stick by a considerable margin.*
 
-The arena continued to soften. Stone becoming translucent. The walls thinning toward nothing, the rough-cut architecture dissolving into light with a gentleness that felt intentional — the System winding down its first production, striking the set with care, making sure the last impression was warmth instead of stone.
+The arena continued to soften. Stone becoming translucent. The walls thinning toward nothing, the rough-cut architecture dissolving into light with a gentleness that felt intentional — the **System** winding down its first production, striking the set with care, making sure the last impression was warmth instead of stone.
 
 The three bodies shimmered.
 
-Not dissolved. Not unmade like **Thornling** remains — returned to procedural nothing, recycled, the System reclaiming its own materials. The dead were *taken.* Their forms caught the softening light and became luminous, then translucent, then gone — carried somewhere that Nate's **SA** couldn't read and Flint's sensors couldn't detect. Wherever they went — that question would outlive the Tutorial. Would outlive the System itself, probably.
+Not dissolved. Not unmade like **Thornling** remains — returned to procedural nothing, recycled, the **System** reclaiming its own materials. The dead were *taken.* Their forms caught the softening light and became luminous, then translucent, then gone — carried somewhere that Nate's **SA** couldn't read and Flint's sensors couldn't detect. Wherever they went — that question would outlive the Tutorial. Would outlive the **System** itself, probably.
 
 Marcus watched them go. Counted them out. Same count he'd started with, minus the ones who weren't here to count.
 
@@ -484,17 +484,17 @@ But it came with separation.
 
 Marcus noticed first. His edges — the hard lines of his shoulders, his boots, the sword on his hip — were thinning. Going translucent around the borders — walls first, then the dead, now the living. Except Marcus wasn't dying. He was being *relocated.*
 
-"Contact list just populated," Marcus said, looking at something Nate couldn't see — a blue-screen notification, golden-bordered, the System's parting gift. "Twelve names. Everyone who survived. Receive-only." He looked up. His eyes found Nate through the dissolving arena with the steady focus of a man who understood that some goodbyes were temporary and some weren't and the System wasn't specifying which. "Can't call. Can receive. The System's version of a phone book with no outbound."
+"Contact list just populated," Marcus said, looking at something Nate couldn't see — a blue-screen notification, golden-bordered, the **System's** parting gift. "Twelve names. Everyone who survived. Receive-only." He looked up. His eyes found Nate through the dissolving arena with the steady focus of a man who understood that some goodbyes were temporary and some weren't and the **System** wasn't specifying which. "Can't call. Can receive. The **System's** version of a phone book with no outbound."
 
 The Mage was next. Her form softened at the edges, the blue screen still glowing in front of her face as the Tutorial pulled her away from it. She didn't fight it. Just read her screen harder, trying to absorb every stat before the numbers faded with the stone.
 
-Torres faded. Sam Hargrove faded. One by one, the twelve survivors — eleven System citizens and one glitched Engineer — dissolved from the arena the way fog dissolved from a pasture at sunrise. Not violently. Gently. The System depositing its graduates back where it had found them, because the Tutorial was a temporary space and temporary spaces close when their purpose is served.
+Torres faded. Sam Hargrove faded. One by one, the twelve survivors — eleven **System** citizens and one glitched Engineer — dissolved from the arena the way fog dissolved from a pasture at sunrise. Not violently. Gently. The **System** depositing its graduates back where it had found them, because the Tutorial was a temporary space and temporary spaces close when their purpose is served.
 
 Josie clutched her ring hand to her chest as her edges went soft. "If this transition damages the lattice structure, I am going to — " The rest of the sentence went with her.
 
-The System was scattering them. Back to their origins. Back to the places they'd been standing when Integration pulled them in — the estate sales and deer stands and office buildings and county roads where the world had ended and was apparently expected to continue.
+The **System** was scattering them. Back to their origins. Back to the places they'd been standing when Integration pulled them in — the estate sales and deer stands and office buildings and county roads where the world had ended and was apparently expected to continue.
 
-Marcus was the last of them. His form held longer than the others — the **Vanguard** interface burning brighter as it faded, the System apparently agreeing that the man who'd held the group together should be the last to leave it. He looked at Nate one more time across the dissolving arena. No words. A nod. The nod of a man who'd made a decision in a first room and was confirming it in the last one.
+Marcus was the last of them. His form held longer than the others — the **Vanguard** interface burning brighter as it faded, the **System** apparently agreeing that the man who'd held the group together should be the last to leave it. He looked at Nate one more time across the dissolving arena. No words. A nod. The nod of a man who'd made a decision in a first room and was confirming it in the last one.
 
 Then he was gone.
 
@@ -502,7 +502,7 @@ And Nate was alone.
 
 The arena dissolved around him — the remaining three pillars, the packed earth, the rubble from the northeast section, the warm amber light that had been the backdrop to the worst and best moments of the last ten rooms. All of it fading. Thinning. Becoming light and then becoming nothing and then becoming —
 
-*She watched him stand alone in the dissolving world with his dogs at his feet and his crossbow in his hand and four WIS points the System couldn't explain, and she thought —*
+*She watched him stand alone in the dissolving world with his dogs at his feet and his crossbow in his hand and four WIS points the **System** couldn't explain, and she thought —*
 
 *No. She didn't think anything. She watched. Sometimes watching is enough.*
 
@@ -518,11 +518,11 @@ And he was standing on the fence line.
 
 Not just any stretch of fence. *This* stretch — the northeast corner, the section he'd been walking when the stag appeared on what had been, apparently, the last normal Tuesday he'd ever have. The same T-post under his hand. The same bermudagrass under his boots. The same view southeast toward the barn and the county road and the rolling post-oak country that ran south to Carthage and had never once, in all the years he'd known it, felt unfamiliar until now.
 
-The System had put him back exactly where it found him. To the post. To the foot.
+The **System** had put him back exactly where it found him. To the post. To the foot.
 
-*Full circle. The stag's spot. Whether the System chose the landing or something else chose it — whether it was a database returning a variable to its origin point or something older than databases drawing a line from beginning to beginning — the man on the fence line didn't ask. He would, eventually. For now, he had his boots in familiar dirt and a full-circle feeling in his chest that he couldn't name and didn't try to. Some things arrived before the words for them did.*
+*Full circle. The stag's spot. Whether the **System** chose the landing or something else chose it — whether it was a database returning a variable to its origin point or something older than databases drawing a line from beginning to beginning — the man on the fence line didn't ask. He would, eventually. For now, he had his boots in familiar dirt and a full-circle feeling in his chest that he couldn't name and didn't try to. Some things arrived before the words for them did.*
 
-Changed. The light had a precision to it that hadn't been there before Integration — the edges of things carrying a digital sharpness, the boundary between shadow and sun slightly too clean, the post oaks casting shadows that were slightly too defined. The world layered over itself, real and rendered simultaneously, the System's architecture embedded in the landscape — rebar in concrete, invisible from the surface, structural underneath.
+Changed. The light had a precision to it that hadn't been there before Integration — the edges of things carrying a digital sharpness, the boundary between shadow and sun slightly too clean, the post oaks casting shadows that were slightly too defined. The world layered over itself, real and rendered simultaneously, the **System's** architecture embedded in the landscape — rebar in concrete, invisible from the surface, structural underneath.
 
 But there. The same pasture where his grandfather had run cattle. The same dirt road winding east toward the county route. The same fenceline — his fenceline, the posts he'd set himself, the wire he'd strung, the gates he'd hung — running south toward the barn.
 
@@ -536,15 +536,15 @@ Two blue arcs at the edge of his vision. Brighter now. Steadier. The ghost of am
 
 In his pocket, three bark-plate samples that Josie had asked him to hold temporarily, which meant forever, which meant she trusted him with pieces of a collection she valued more than her own comfort.
 
-His HUD populated something new — a contact list, twelve names long. Marcus Webb. Josie Pickett. Ana Torres. Sam Hargrove. The survivors. Receive-only. The System's version of a Rolodex where you could see who was out there but couldn't pick up the phone. Twelve people, scattered back to wherever Integration had found them, alive and reachable in the loosest possible definition of the word.
+His HUD populated something new — a contact list, twelve names long. Marcus Webb. Josie Pickett. Ana Torres. Sam Hargrove. The survivors. Receive-only. The **System's** version of a Rolodex where you could see who was out there but couldn't pick up the phone. Twelve people, scattered back to wherever Integration had found them, alive and reachable in the loosest possible definition of the word.
 
 The crossbow hung from his right hand. Table leg stock, refined and upgraded across ten rooms of combat until the original hardwood was layered with **Thornguard** composite and the trigger mechanism operated with a precision that would have been impossible to manufacture without **Field Repair's** understanding. Ugly. Functional. His.
 
 The hammer hung from his belt. Same hammer. Same weight. Same flat face and cross peen that had shaped bolts and repaired shields and done the work that needed doing in every room between zero and ten. Heavier now. Not in mass — in purpose.
 
-The Tutorial was done. The System had armed them, tested them, graduated them, and scattered them back to their origin points with new skills and new scars and knowledge that only came from walking through something designed to break you and choosing — every room, every fight, every time — to build instead.
+The Tutorial was done. The **System** had armed them, tested them, graduated them, and scattered them back to their origin points with new skills and new scars and knowledge that only came from walking through something designed to break you and choosing — every room, every fight, every time — to build instead.
 
-Somewhere east, cattle lowed. Congressman's voice, probably — the big bull's bellow carried across the pasture — same as it always had, announcing opinions about the length of the grass and the temperature of the water and the general state of the world as measured by an eighteen-hundred-pound Red Angus who had never once needed a System to know what he was.
+Somewhere east, cattle lowed. Congressman's voice, probably — the big bull's bellow carried across the pasture — same as it always had, announcing opinions about the length of the grass and the temperature of the water and the general state of the world as measured by an eighteen-hundred-pound Red Angus who had never once needed a **System** to know what he was.
 
 The ranch needed tending. The cattle needed checking. The water tanks needed filling and the fences needed walking and the barn needed whatever the barn always needed after two weeks of nobody standing in it.
 
