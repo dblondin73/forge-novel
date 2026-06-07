@@ -232,7 +232,7 @@ Nate almost smiled. Almost. "He's going to burn down the hay barn."
 
 "I'm a big fan of your work. Truly. Fence: riveting. Please continue."
 
-He drove past the wellhead without stopping. The water pump sounded worse than yesterday, the grinding audible through the closed cab now, a bearing on its last argument with physics. He cataloged it automatically: intermittent vibration, frequency increasing under load, probable race degradation on the inner bearing. It was the sound of a machine that had been telling you it needed attention for three months and was now clearing its throat for the final time.
+He drove past the wellhead without stopping, windows down. The water pump sounded worse than yesterday, the grinding clear over the engine now, a bearing on its last argument with physics. He cataloged it automatically: intermittent vibration, frequency increasing under load, probable race degradation on the inner bearing. It was the sound of a machine that had been telling you it needed attention for three months and was now clearing its throat for the final time.
 
 "Damn bearing," Nate said. But it was still running, still pulling water, and right now _still running_ wasn't on the top of the triage list. Same as it always was on a ranch. Same as it always was anywhere. You didn't fix the thing that was working ugly. You fixed the thing that stopped.
 
@@ -242,7 +242,7 @@ Flint was quiet for a moment, the full kind of quiet, the shape of someone else'
 
 "Inner race. Started back around Christmas."
 
-"And you just... you heard a pump grinding from ten yards away through a closed truck cab and identified the specific bearing failure mode. Without tools. Without opening any panels. Without..." Flint stopped. When he came back, his voice carried something new, not sarcasm, not performance. The genuine surprise of an analytical system encountering data it hadn't modeled for. "What _are_ you?"
+"And you just... you heard a pump grinding from ten yards away, over the noise of your own engine, and identified the specific bearing failure mode. Without tools. Without opening any panels. Without..." Flint stopped. When he came back, his voice carried something new, not sarcasm, not performance. The genuine surprise of an analytical system encountering data it hadn't modeled for. "What _are_ you?"
 
 "A man who's been fixing that pump since he was fourteen."
 
