@@ -22,7 +22,7 @@ Then the room came into focus, and the screaming started making sense.
 
 Stone walls. High ceiling — arched, rough-cut, stonework that belonged in fantasy games and medieval cathedrals and nowhere in real life. Torches in iron sconces every ten feet, casting orange light that moved wrong — too steady, too even, the flames burning without smoke or flicker in a pattern that registered as *generated, not combustion.* The room was large — seventy feet long, maybe forty wide. Weapon racks along both long walls, eight of them. Crafting tables in the center cluster, three heavy wooden stations with tools racked on their surfaces. Armor stands between the weapon racks. And at the far end, a door — dark stone, no handle, no hinges, sealed — part of the wall since the wall was built.
 
-He'd been in this room a hundred times in a hundred games. Tutorial staging area. Safe room before the first dungeon. Loading zone. Starter gear on the walls, sealed exit that opens when the event triggers. The loading screen tip that said *Equip your weapon before entering the combat zone!* Except the NPCs were real people and the wooden swords were —
+He'd been in this room a hundred times in a hundred games. tutorial staging area. Safe room before the first dungeon. Loading zone. Starter gear on the walls, sealed exit that opens when the event triggers. The loading screen tip that said *Equip your weapon before entering the combat zone!* Except the NPCs were real people and the wooden swords were —
 
 He'd get to the swords.
 
@@ -44,7 +44,7 @@ The **System** was distributing power, and every face around the room that recei
 
 Something about it sat wrong in his chest.
 
-He couldn't say why. The expression on every face was wonder, gratitude — the face of someone who had just gotten a gift. And his chest was still tight.
+He couldn't say why.
 
 He let the feeling sit.
 
@@ -92,7 +92,7 @@ Nate looked at the racks — *really* looked — and **Structural Analysis** fir
 
 Not the tooltip version. Not the flat readout that had spent six seconds in the pasture telling him his F-250 was made of steel. Something deeper was happening inside the skill. The blue arcs flared once, and a faint wireframe ghosted over the nearest sword rack — monochrome blue lines tracing edges and joints like a blueprint drawn on smoke by a drafter who was mostly sober. Not solid. Flickering. But *architecture*, not labels. The overlay was rough, unstable, and kept cutting out at the edges of his focus before snapping back with the embarrassed persistence of software being asked to do something the documentation had not covered. But where it held, objects became *legible* — not as names and numbers but as structures. Load paths. Stress points. The bones of the thing.
 
-"I'm watching a skill that was documented as a tooltip go full architectural CAD on a Tutorial sword rack," Flint said, "and I would like it noted for the record that the **System's** own specification document is currently *lying to me,* which — and I say this with genuine affection — is a hell of a Tuesday."
+"I'm watching a skill that was documented as a tooltip go full architectural CAD on a tutorial sword rack," Flint said, "and I would like it noted for the record that the **System's** own specification document is currently *lying to me,* which — and I say this with genuine affection — is a hell of a Tuesday."
 
 "Useful."
 
@@ -130,7 +130,7 @@ The crafting tables were built for function, not display. **Structural Analysis*
 
 Everything that got *used* was real. Everything that got *chosen* was fake.
 
-The weapons looked good. The infrastructure *was* good. The split sat wrong in his chest — two categories of honesty in the same room, and he had no words yet for what that meant.
+The split snagged at him — two categories of honesty in the same room, and he had no words yet for what that meant.
 
 "Flint."
 
@@ -268,7 +268,7 @@ Nate didn't look up. He was testing the trigger pull. Click. Reset. Click. "I bu
 
 It wasn't. But it was close enough that he looked at her for the first time.
 
-She was five-four, maybe. Compact, solid — not petite, *dense*. The build of a woman who'd hauled furniture and loaded trucks since she was old enough to help. A smudge of something on her forearm already — dust or leather dye, hard to tell. She'd been working. Clean clothes clearly lasted about twenty minutes on this woman. Every surface around her had been touched, tested, sorted, and either accepted or dismissed.
+She was five-four, maybe. Compact, solid — not petite, *dense*. The build of a woman who'd hauled furniture and loaded trucks since she was old enough to help. A smudge of something on her forearm already — dust or leather dye, hard to tell. She'd been working. Clean clothes clearly lasted about twenty minutes on this woman.
 
 She held up a strip of synthetic leather from the armor pile in one hand and a different strip in the other. "This one's fake — no grain. This one's real." She held up the genuine strip. "Some of these are real. Most aren't. I'm keeping the real ones. Everyone's grabbing chest pieces. Nobody's checking belts."
 
@@ -328,13 +328,13 @@ Judge's ears dropped half a millimeter. She did not take the leather. She did, h
 
 Nate found the mother before he found Marcus.
 
-She was still on her knees near the center of the room, hands pressed to her face, no longer calling the name but the silence where the name had been was worse. Her shoulders shook. Nobody had stopped. The warriors were comparing swords, the Mages were testing their new lights, Marcus was organizing, and the woman was on the floor and the crowd flowed around her like water around a stone.
+She was still on her knees near the center of the room, hands pressed to her face, no longer calling the name but the silence where the name had been was worse. Her shoulders shook. Nobody had stopped. The warriors were comparing swords, the mages were testing their new lights, Marcus was organizing, and the woman was on the floor and the crowd flowed around her like water around a stone.
 
 There was a water skin on the supply table. One of the ones the **System** had provided — generated but it held actual water. Nate picked it up. Walked to the woman and crouched.
 
 "Ma'am."
 
-She looked up. Mid-forties. Red-eyed, face wet, raw grief that didn't care about audience or dignity. The nameplate above her had settled into something she hadn't been when she'd hit her knees: **HEATHER KIM — WARD MAGE [RANK F — LOW]**. She didn't seem to have noticed.
+She looked up. Mid-twenties. Red-eyed, face wet, raw grief that didn't care about audience or dignity. The nameplate above her had settled into something she hadn't been when she'd hit her knees: **HEATHER KIM — WARD MAGE [RANK F — LOW]**. She didn't seem to have noticed.
 
 "I don't know where my daughter is." Her voice was flat. Emptied.
 
@@ -342,7 +342,7 @@ She looked up. Mid-forties. Red-eyed, face wet, raw grief that didn't care about
 
 She took it. Drank. Handed it back. "Thank you."
 
-He stood. Walked to the supply table. Picked up the other three water skins and the small stack of dried rations the **System** had included. He distributed them. The older woman he though was from Illinois. The teenager in the Oregon hoodie — **PETE BOWMAN — PATHFINDER [RANK F — LOW]** above his head — who took the water without looking up. The bald man — **KYLE GREENE — BERSERKER [RANK F — LOW]** floating above him — who had stopped hitting the wall and was standing with his back against it, breathing hard, staring at nothing. Nate handed him water. Kyle took it.
+He stood. Walked to the supply table. Picked up the other three water skins and the small stack of dried rations the **System** had included. He distributed them. The older woman he thought was from Illinois. The teenager in the Oregon hoodie — **PETE BOWMAN — PATHFINDER [RANK F — LOW]** above his head — who took the water without looking up. The bald man — **KYLE GREENE — BERSERKER [RANK F — LOW]** floating above him — who had stopped hitting the wall and was standing with his back against it, breathing hard, staring at nothing. Nate handed him water. Kyle took it.
 
 Nobody asked why the man with the **PROCESSING** tag was handing out water while everyone else was grabbing weapons. Nobody noticed. That was fine.
 
@@ -410,13 +410,13 @@ Judge went the other direction. Where Rex compressed, she *ignited* — stub tai
 
 The sealed door began to glow.
 
-Lines of amber light traced the doorframe, following seams that **Structural Analysis** showed Nate had been there all along — channels cut into the stone, filled with something that moved like liquid light. The door didn't open. It dissolved. Stone became translucent, then transparent, then gone, and behind it a corridor stretched into darkness beyond the torchlight's reach.
+Lines of amber light traced the doorframe, following seams that **Structural Analysis** showed had been there all along — channels cut into the stone, filled with something that moved like liquid light. The door didn't open. It dissolved. Stone became translucent, then transparent, then gone, and behind it a corridor stretched into darkness beyond the torchlight's reach.
 
-**Structural Analysis** fired hard. The wireframe overlay flared, steadier than it had been all morning — still flickery at the edges, still rough, but the core data was clean and it unfolded the corridor's architecture in his vision — blueprint reading itself. Stone walls, twelve-foot ceiling, repeating tile patterns every forty feet. And in the floor, starting thirty yards down the corridor, points of light pulsed beneath the surface. Dim. Rhythmic. Dormant heartbeats buried under six inches of generated stone.
+**Structural Analysis** fired hard. The wireframe overlay flared, steadier than it had been all morning — still flickery at the edges, still rough, but the core data was clean and it unfolded the corridor's architecture in his vision — blueprint reading itself. Stone walls, twelve-foot ceiling, repeating tile patterns every forty feet. And in the floor, starting thirty yards down the corridor, points of light pulsed beneath the surface in loose clusters. Dim. Rhythmic. Dormant heartbeats buried under six inches of generated stone.
 
 Rex's growl started before Nate's brain finished processing what he was seeing. Low, mechanical, the sound of a working dog who'd found the problem and was telling the boss where it was. His head angled toward the corridor, and through the contact at Nate's shin came the shape of it — not the walls, not the ceiling, the *floor.* Not a picture. A direction. Whatever was down there had a heartbeat, and Rex's herding instinct had classified it as livestock that hadn't been sorted yet and was about to move.
 
-"Spawn points," Flint said. Combat mode — rapid, precise, stripped of everything that wasn't immediately useful. "Fifteen down the first visible stretch. More beyond range. Dormant but warming up — I'm reading activation timers through the ambient **System** broadcast. Whatever they are, they go live when the first person crosses the threshold." A beat, and the showmanship crept back in despite itself. "The **Tutorial** handed out the party favors. Now it's about to introduce the pinata. Except the pinata hits back."
+"Spawn points," Flint said. Combat mode — rapid, precise, stripped of everything that wasn't immediately useful. "Six in the first chamber. More past it, clusters of them down the stretch, beyond my range. Dormant but warming up — I'm reading activation timers through the ambient **System** broadcast. Whatever they are, the first batch goes live when you reach them." A beat, and the showmanship crept back in despite itself. "The **Tutorial** handed out the party favors. Now it's about to introduce the pinata. Except the pinata hits back."
 
 Numbers appeared between Nate's blue arcs — not because he'd asked, but because the HUD had decided he needed them.
 
