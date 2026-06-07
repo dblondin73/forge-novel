@@ -146,7 +146,7 @@ There was no rest of it.
 
 "Yes. That is... that is _precisely_ the problem. Congratulations, Mr. Hall. You have been issued the tooltip version of your own job."
 
-**Structural Analysis**. Nate had spent thirty years reading load paths and stress distribution and the particular shape of how a piece of steel wanted to fail under real conditions. The readout named the metal and stopped.
+**Structural Analysis**. Nate had spent twenty years reading load paths and stress distribution and the particular shape of how a piece of steel wanted to fail under real conditions. The readout named the metal and stopped.
 
 "That's not nothing," Nate said.
 
