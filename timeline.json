@@ -34,6 +34,24 @@
       "source": "epistemic-states after_ch02 (learned: 'The Integration changed him physically')"
     },
     {
+      "id": "ev-ch02-03",
+      "chapter": 2,
+      "seq": 3,
+      "kind": "system",
+      "event": "Nate's assigned MSG construct (un-booted, generic, nameless — writer-facing 'Flint v1.0') voices and guides his interactive Integration character-creation menu, subtly favoring MSG-skewed options but never overriding his choices.",
+      "who": ["Nate"],
+      "source": "research/ch02-interactive-integration-design.md + the-thread-and-integration-network.md (2026-06-17)"
+    },
+    {
+      "id": "ev-ch02-04",
+      "chapter": 2,
+      "seq": 4,
+      "kind": "character",
+      "event": "After the Integration craters (the class-seal binding fails to anchor to Nate's pre-System core), the Spirit rewrites Nate AND his construct in one grace-event during the unconscious gap; the construct's MSG loyalties are severed and it will boot as Flint (v2.0) in Ch3. Offstage / effect-only.",
+      "who": ["Nate", "Flint"],
+      "source": "research/ch02-interactive-integration-design.md + the-thread-and-integration-network.md (2026-06-17)"
+    },
+    {
       "id": "ev-ch03-01",
       "chapter": 3,
       "seq": 1,
@@ -59,6 +77,17 @@
       "event": "Nate learns to use Structural Analysis in combat, reading weak points under pressure; the Rex bond transmits danger-impressions in a fight.",
       "who": ["Nate", "Rex"],
       "source": "epistemic-states after_ch04 (learned: 'How SA works in combat', 'Rex bond transmits impressions in danger')"
+    },
+    {
+      "id": "ev-ch04-02",
+      "chapter": 4,
+      "seq": 2,
+      "kind": "world",
+      "event": "Offstage during the ~2-week Tutorial window, the Labyrinth connection solidifies and Earth dimensionally unfolds: pocket-space un-compresses, traversal roughly triples, cities/continents keep shape but spread apart, and new frontier opens between the settled cores. The old grid breaks (copper/fiber can't span the new distance); fuel-fed plants keep local power while fuel lasts; The Thread (the Labyrinth-powered info network) replaces infrastructure. Revealed to Nate later via interludes (~Ch9).",
+      "who": ["(world)"],
+      "where": "Earth",
+      "when": "Tutorial window (~2 earth weeks)",
+      "source": "research/the-thread-and-integration-network.md (2026-06-17)"
     },
     {
       "id": "ev-ch05-01",

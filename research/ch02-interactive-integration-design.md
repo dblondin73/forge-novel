@@ -154,6 +154,45 @@ version the System can barely render.
 
 ---
 
+## The in-room guide & the construct's rewrite (added 2026-06-17)
+
+*Full design: `research/the-thread-and-integration-network.md`.*
+
+The menu is now **voiced by a guide** — but a deliberately empty one.
+
+- **The guide is Nate's one assigned MSG construct, un-booted:** a generic,
+  corporate-bland, **nameless** integration-assistant voice ("welcome; you are
+  special; let me show you how"). It is **not** witty, **not** named "Flint,"
+  **not** a character. "v1.0" is a **writer-facing label only** — the name and
+  personality are reserved for the Ch3 first boot. A charming proto-Flint is
+  canon-false; his personality was *added* by the rewrite.
+- **Staging: per-person instanced.** Nate is alone in his chair (matches the
+  drafted solo walk); "the others" go through the same in parallel, shown via
+  Storyteller pullaway if wanted.
+- **The guide runs the funnel** (the existing room behavior): it offers, waits,
+  and subtly favors the MSG-skewed aisles — **never overriding choice** — voiced
+  in the impersonal AI-process register (re-weight, narrow, sweeten), never
+  transcendent intent. **It falls silent at the crash.**
+- **The gap rewrites the construct too.** The unconscious-gap Spirit-rewrite is
+  **one grace-event for both Nate and the construct** — the *same moment*, not
+  just the same mechanic (tightens the existing "Nate and Flint, same mechanic"
+  note). "Rewritten before first boot" stays true: the gap **is** the
+  pre-first-boot window. The construct **boots as Flint in Ch3** — one construct,
+  no two-AI continuity problem. Keep the rewrite **offstage/effect-only**; do not
+  stage a visible "Flint gets rewritten" beat (his divine-rewrite reveal is
+  reader-Ch6 / full-Ch18; he must never self-diagnose).
+- **The Ch2↔Ch3 seam:** because the guide was a nameless blank, Ch3's "Flint
+  comes online" still reads as **first contact** with a personality — the
+  *"what did you do to my source code?"* reveal is intact.
+
+**The 80/20 ratio (writer-facing only):** ~80% of the menu is genuine
+Creator-sourced / Labyrinth-delivered material on the clean channel; ~20% is
+MSG-skewed routing spliced over the same architecture. **One pool routed two
+ways**, not two content buckets — maps onto the three-tier door model above; do
+not collapse the middle see-through-hook tier. Keep the number out of prose.
+
+---
+
 ## Permanent canon this establishes
 
 | Fact | Note |

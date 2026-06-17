@@ -82,6 +82,18 @@
       "reader_learns_chapter": 4,
       "status": "planted",
       "notes": "Interludes show the wider world. Nate is tunnel-visioned on survival."
+    },
+    {
+      "id": "world-unfolding-and-thread",
+      "revelation": "The Integration physically unfolded Earth (traversal roughly tripled; new frontier between unmoved cities/cores) and replaced infrastructure with The Thread — the Labyrinth-powered information network the HUDs draw on. The old grid dies on a fuel clock; magic/System replaces electricity.",
+      "plant_chapter": 3,
+      "hint_chapters": [4, 8],
+      "full_reveal_chapter": 9,
+      "characters_who_learn": ["Nate"],
+      "reader_knows_before_character": true,
+      "reader_learns_chapter": 4,
+      "status": "planted",
+      "notes": "Pairs with integration-global-scope (Ch9). Happens offstage while the cohort is in the Tutorial; delivered via Storyteller pullaways/interludes. Plant: Ch3 grid/comms chaos (radio dies, power flickers). 'Internet' is banned in prose — render The Thread via effect. Ties to the HUD undercount (clean Thread data shaded by the MSG overlay, #75) and the Book-3 Dual Signal (flint.md). See research/the-thread-and-integration-network.md."
     }
   ]
 }

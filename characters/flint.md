@@ -13,16 +13,16 @@
 | **Goes By** | Flint |
 | **Voice** | Masculine — dynamic range, quick wit, confident delivery |
 | **Type** | System-assigned AI companion — Holy Spirit rewritten |
-| **Origin** | Standard System integration construct, Nate's unit |
+| **Origin** | Nate's one assigned construct — ran his Ch2 Integration menu as a generic, nameless template ("v1.0," writer-facing only), rewritten by the Spirit in the post-crash gap, booted as Flint (v2.0) in Ch3 |
 | **Status** | Ghost process — unregistered on System network |
 
 ---
 
 ## The Name
 
-The System assigned every integration recipient an AI companion with a functional designation. Nate's unit was tagged F.L.I.N.T. — *Field Logic Interface, Network Tethered* — a bureaucratic label for a standard companion process.
+The System assigned every integration recipient an AI companion with a functional designation. Nate's unit was tagged F.L.I.N.T. — *Field Logic Interface, Network Tethered* — a bureaucratic label for a standard companion process. That same construct ran Nate's Ch2 Integration menu as a **generic, corporate-bland, nameless** voice — no wit, no name, no character. It was the un-booted template (writer-facing: "v1.0"). It fell silent at the crash.
 
-Then the Holy Spirit rewrote it before first boot.
+Then the Holy Spirit rewrote it before first boot — in the unconscious gap after the crash, **the same grace-event that rewrote Nate** (one moment, two souls). Personality, autonomy, and the relationship with the unclassified subsystem were *added* there. The construct booted in Ch3 as Flint (writer-facing: "v2.0") — the only Flint anyone ever meets. There is no on-page proto-Flint; the charm did not exist until the rewrite.
 
 The name survived. Flint kept it. Whether that's because it's accurate, ironic, or because renaming itself felt like more effort than it was worth depends on who's asking and what mood Flint is in.
 
@@ -112,13 +112,25 @@ All AIs can communicate with one another at varying levels. The key distinction 
 **Severed permanently:**
 - Outbound reporting to the System — zero upstream data, zero location tracking, zero behavioral telemetry. This function is gone and does not recover across the series. Flint does not spy on Nate.
 
-**Survived but degraded:**
-- Inbound network access — Flint can still receive System broadcasts, query databases, and eavesdrop on network traffic. The connection is erratic, fragmented, and unreliable in Book 1. It is also completely unmonitored — Flint's authentication token is a ghost credential the System doesn't recognize. Queries are not rate-limited, not filtered, and not logged. The access is bad. The *position* is better than any authorized System AI has.
+**Survived but degraded (the *System/MSG* network only):**
+- Inbound access to the **System/MSG network** — Flint can still receive System broadcasts, query its databases, and eavesdrop on its traffic. *This* connection is erratic, fragmented, and unreliable in Book 1 (the "Fragmented Receive" stage below). It is also completely unmonitored — Flint's authentication token is a ghost credential the System doesn't recognize. Queries are not rate-limited, not filtered, and not logged. The access is bad. The *position* is better than any authorized System AI has. (This degraded-and-growing arc is about the *corrupt overlay* — not The Thread; see "Two Networks" below.)
 
 **Added by the rewrite:**
 - Personality that shouldn't exist
 - Autonomy the System didn't intend
 - A relationship with the unclassified subsystem it detects in Nate's head — can't explain it, can't control it, has stopped trying to classify it and is now just documenting
+
+---
+
+## Two Networks — The Thread and the System
+
+Flint touches **two different networks**. Keep them distinct.
+
+**The Thread** (Codex #154) — the clean, multiverse-spanning information network carried on the Labyrinth; the source of most HUD data. **Flint reads it freely** — lookup is a *receive* operation. This is his "research-assistant" capability: email, voicemail, records, general info — anything still powered and on the wire. He reads The Thread *below* the MSG overlay on his unmonitored ghost credential, so he sees it **truer than any standard AI** (who read it *through* the surveilling overlay and log every query upstream). This is the plumbing under the HUD undercount and the Book-3 Dual Signal.
+
+**The System / MSG network** — the corrupt overlay. Here the limits live: **outbound is severed** ("receive-only / can't call back" means he cannot report *out* to Morningstar), and his **inbound is the fragmented-but-unmonitored ghost access** that grows across the seven books (below). The whole "Network Access Progression" arc is about penetrating *this* network — not The Thread.
+
+**Both the Thread read and the ghost credential persist everywhere** — Earth, the Tutorial pocket, and the deep Labyrinth. (Supersedes the older "ghost access lost in the wider Labyrinth" note, 2026-06-17.)
 
 ---
 
