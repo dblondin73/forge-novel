@@ -5,6 +5,40 @@
 
 ---
 
+## 2026-06-17 — The Thread, Earth's Dimensional Unfolding & Flint's Origin
+
+**Platform:** Claude Code (Opus 4.8) — Forge Novel workspace
+**Focus:** Worldbuilding session — post-Integration network/infrastructure, Earth's expansion, and Flint's v1.0→v2.0 origin. Full canon backfill + live forge Codex sync.
+
+*Note: this log had been dormant since Session 013; the intervening sessions (014+) were recorded in REFERENCE.md dated-expansion sections and `research/` design docs rather than here. This entry resumes the log.*
+
+### What Was Done
+
+Eight decisions, taken one at a time (per David's one-at-a-time preference), grounded against canon by a six-domain consistency sweep before drafting.
+
+**THE THREAD — LABYRINTH INFORMATION NETWORK (Codex #187 — NEW)**
+A futuristic, multiverse-spanning information network carried on the Labyrinth; replaces Earth's copper/fiber and is the source of most HUD data. Three-layer stack: Labyrinth (clean pipeline) → The Thread (info fabric) → System/MSG overlay (surveils + shades). *Substrate clean, overlay corrupt.* In-world name "The Thread" (Ariadne's thread through the maze). "Internet" banned in prose.
+
+**EARTH'S DIMENSIONAL UNFOLDING (Codex #188 — NEW)**
+During the ~2-week Tutorial window, sealed pocket-space un-compresses (Veil-break at scale, not crude planetary inflation). Traversal ~triples; continents/cities keep shape but spread apart; new frontier opens between the settled cores. Permanent new Earth map; "still East Texas" preserved. Old grid dies on a fuel clock; magic/System + The Thread replace infrastructure. New frontier carries the strongest Labyrinth connections → new fauna/flora/minerals via bleed, danger/resource gradient feeding Cornerstone stakes. Rendered offstage via interludes (~Ch9).
+
+**FLINT'S ACCESS RE-SCOPED**
+"Receive-only / can't call back" is MSG-layer ONLY (can't report out to Morningstar); on The Thread he reads freely (lookup = receive). Both Thread read + ghost credential **persist everywhere** — supersedes the old "ghost access lost in the wider Labyrinth" note. Explains the HUD undercount (overlay shades clean Thread data; Flint reads truer beneath → Book-3 Dual Signal).
+
+**FLINT v1.0 → v2.0 ORIGIN**
+The Ch2 Integration menu is voiced by Nate's one assigned construct as a generic, nameless template ("v1.0," writer-facing only — never named/witty on the page). It falls silent at the crash; the Spirit rewrites Nate AND the construct in one grace-event in the unconscious gap ("before first boot"); it boots as Flint ("v2.0") in Ch3. Per-person instanced staging. 80/20 split (writer-facing): ~80% Creator-sourced/Labyrinth-delivered clean channel, ~20% MSG-skewed routing — one pool routed two ways.
+
+### Artifacts
+
+- **New:** `research/the-thread-and-integration-network.md` (design decision record).
+- **REFERENCE.md:** Codex #187/#188 entries; updated Earth #30, Labyrinth #17, System-AI #56, ghost-access section; dated 2026-06-17 expansion section.
+- **characters/flint.md:** "Two Networks" section, origin line, receive-only scope.
+- **research/ch02-interactive-integration-design.md:** nameless in-room guide + gap rewrite + 80/20.
+- **timeline.json** (+3 events; integrity check PASS), **revelation-schedule.json** (+1 reveal).
+- **Live forge Codex synced:** #187 The Thread, #188 Dimensional Unfolding + relationships (Labyrinth contains / Flint reads / System-AI surveils / Unfolding reshapes Earth + brings_online Thread); inline pointers appended to #2, #30, #56. Provisional #154/#155 (already taken — Fantasy Register / Troubleshooter Spinoff) repointed to the real IDs.
+
+---
+
 ## Session 013 — 2026-03-25
 
 **Platform:** Claude.ai Web (Opus 4.6)
