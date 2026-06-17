@@ -126,7 +126,7 @@ All AIs can communicate with one another at varying levels. The key distinction 
 
 Flint touches **two different networks**. Keep them distinct.
 
-**The Thread** (Codex #154) — the clean, multiverse-spanning information network carried on the Labyrinth; the source of most HUD data. **Flint reads it freely** — lookup is a *receive* operation. This is his "research-assistant" capability: email, voicemail, records, general info — anything still powered and on the wire. He reads The Thread *below* the MSG overlay on his unmonitored ghost credential, so he sees it **truer than any standard AI** (who read it *through* the surveilling overlay and log every query upstream). This is the plumbing under the HUD undercount and the Book-3 Dual Signal.
+**The Thread** (Codex #187) — the clean, multiverse-spanning information network carried on the Labyrinth; the source of most HUD data. **Flint reads it freely** — lookup is a *receive* operation. This is his "research-assistant" capability: email, voicemail, records, general info — anything still powered and on the wire. He reads The Thread *below* the MSG overlay on his unmonitored ghost credential, so he sees it **truer than any standard AI** (who read it *through* the surveilling overlay and log every query upstream). This is the plumbing under the HUD undercount and the Book-3 Dual Signal.
 
 **The System / MSG network** — the corrupt overlay. Here the limits live: **outbound is severed** ("receive-only / can't call back" means he cannot report *out* to Morningstar), and his **inbound is the fragmented-but-unmonitored ghost access** that grows across the seven books (below). The whole "Network Access Progression" arc is about penetrating *this* network — not The Thread.
 

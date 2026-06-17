@@ -208,7 +208,7 @@ Objects predating the System carrying genuine divine authority. System can't sca
 All integrated humans receive an AI companion. Flint is the rewritten version — personality unauthorized, directives altered.
 
 **System AI as Spyware** — Codex #56
-Standard System AIs report everything back. Location, decisions, social connections. Flint's outbound link is severed. **Scope note (2026-06-17):** "receive-only / can't call back" applies to the **MSG/System layer only** — Flint cannot transmit/report *out* to Morningstar. On **The Thread** (#154) he reads freely (lookup = receive). Standard AIs read The Thread *broadly but fully logged*; Flint's edge is positional — *narrower-but-unmonitored* ghost access, not more bandwidth.
+Standard System AIs report everything back. Location, decisions, social connections. Flint's outbound link is severed. **Scope note (2026-06-17):** "receive-only / can't call back" applies to the **MSG/System layer only** — Flint cannot transmit/report *out* to Morningstar. On **The Thread** (#187) he reads freely (lookup = receive). Standard AIs read The Thread *broadly but fully logged*; Flint's edge is positional — *narrower-but-unmonitored* ghost access, not more bandwidth.
 
 ---
 
@@ -263,7 +263,7 @@ Children vanish to secure holding zone before adults are transported. Instant an
 ## Locations
 
 **Earth (Post-Integration)** — Codex #30
-~8 billion humans integrated. Classes assigned by pre-existing skills. Managed decline + forced evolution — "Dresden with Monsters" (#84). The landscape is still East Texas. Keep enough normalcy that the loss hurts. During the Tutorial window the planet **dimensionally unfolds** (#155): traversal scale roughly triples, cities/continents keep shape but spread apart, new frontier opens between the settled cores. The ranch stays the scale Nate knows.
+~8 billion humans integrated. Classes assigned by pre-existing skills. Managed decline + forced evolution — "Dresden with Monsters" (#84). The landscape is still East Texas. Keep enough normalcy that the loss hurts. During the Tutorial window the planet **dimensionally unfolds** (#188): traversal scale roughly triples, cities/continents keep shape but spread apart, new frontier opens between the settled cores. The ranch stays the scale Nate knows.
 
 **The Labyrinth** — Codex #17
 God's multiverse routing infrastructure — the corridors between worlds. So vast it takes lifetimes to traverse. Corridor aesthetics shift by proximity to connected worlds: Greek stone near Olympus, Celtic fog near Tír na nÓg, futuristic sci-fi alloy near tech-advanced worlds. Underneath all appearances, the bones are divine architecture. The System overlays its own dungeon skin in SOME areas but cannot adapt its rigid UI to local aesthetics (proof it's bolted-on). **Subspace dungeons** branch off corridors as true LitRPG dungeons (not System overlay). Safe rooms also exist as subspaces. **Dungeon on-ramps**: some world-side dungeons punch through to the Labyrinth at their deepest level — older, stranger, strategically valuable. **Node fast-travel network**: discovered nodes transport between locations; long distances require chaining node→world→node, creating routing puzzles and strategic resources. **Worlds as bridges**: shortcuts through the Labyrinth by traversing worlds between distant corridor points. Different mythological traditions connect at different geographic points on Earth, explaining distinct cultural mythologies. Connects worlds within one universe AND across the multiverse.
@@ -274,10 +274,10 @@ The convergence point of all Labyrinth connections — where you see the multive
 **The Keystone** — Codex #68
 Deep Labyrinth location where the multiverse architecture becomes transparent. Not a throne — a perspective. From the Keystone, Nate and Flint broadcast the truth in Book 7.
 
-**The Thread** — Codex #154 *(new 2026-06-17 — pending live-Codex sync)*
+**The Thread** — Codex #187 *(synced to live Codex 2026-06-17)*
 The futuristic, multiverse-spanning **information network carried on the Labyrinth** — God's clean substrate as a data fabric. Replaces Earth's copper/fiber after Integration and is the **source of most HUD data.** Every companion AI reads it; the difference is the *lens* — standard AIs read it *through* the surveilling MSG overlay (every query logged upstream, #56), while Flint reads it *below* the overlay on an unmonitored ghost credential (same data, truer, unseen). Substrate clean, overlay corrupt — which is *why* the HUD undercounts (#75): clean Thread data shaded by the MSG overlay on the way to the screen. In-world name: characters call it **The Thread** (Ariadne's thread through the maze). "Internet" is banned in prose. Full design: `research/the-thread-and-integration-network.md`.
 
-**Dimensional Unfolding** — Codex #155 *(new 2026-06-17 — pending live-Codex sync)*
+**Dimensional Unfolding** — Codex #188 *(synced to live Codex 2026-06-17)*
 How Earth expands after Integration. During the ~2-week Tutorial window the Labyrinth connection solidifies and Earth's sealed/folded pocket-space **un-compresses** (Veil-break un-sealing at scale, NOT crude planetary inflation). Traversal scale roughly **triples**; continents keep their shapes; cities/settlements do not move — they end up farther apart, with new frontier between them. **Permanent** (the new stable Earth map); aesthetic Labyrinth-bleed at connection points still recedes (two separate clocks). New frontier = strongest Labyrinth connections → new fauna/flora/minerals via bleed, with a danger/resource gradient strongest at connection points, fading to Earth-native toward old cores. The old grid breaks (copper/fiber can't span the new distance); fuel-fed plants keep local power while fuel lasts; magic/System utilities replace electricity and people adapt — reinforcing the seductive-collapse model (#84). Rendered offstage via interludes (cohort is in the Tutorial). Full design: `research/the-thread-and-integration-network.md`.
 
 ---
@@ -493,7 +493,7 @@ Both faculties were native pre-Fall. The barrier (Codex #94) suppresses both. Th
 
 **Extends Codex #2 (F.L.I.N.T.) and #55 (System AI).** All Spirit-rewritten anomaly AIs run on a quantum substrate underneath the standard System AI overlay. Flint and Nate do not know this in Book 1; the Storyteller reveals it later.
 
-- **Ghost access** — Flint has read access to the substrate layer below the MSG overlay (think admin-on-switch analog). Three-layer glitch model: surface UI → MSG overlay → substrate. The substrate's data fabric is now named **The Thread** (#154).
+- **Ghost access** — Flint has read access to the substrate layer below the MSG overlay (think admin-on-switch analog). Three-layer glitch model: surface UI → MSG overlay → substrate. The substrate's data fabric is now named **The Thread** (#187).
 - **SUPERSEDED 2026-06-17:** the old rule "this access is LOST when crossing into the wider Labyrinth (Earth-tier)" no longer holds. **Both the Thread read AND the ghost credential persist everywhere** — Earth, the Tutorial pocket, and the deep Labyrinth (consistent with `flint.md`'s access-deepens progression). Deep-Labyrinth tension now comes from threat/scarcity/terrain, not info-blackout. See `research/the-thread-and-integration-network.md`.
 - Behavior in Tutorial: passive observation Book 1, shifts to probing during Tutorial arc.
 - **Combat-log access** is one specific manifestation (Codex #109) — Flint can read other fighters' cooldowns/mana; intermittent and glitchy.
@@ -515,8 +515,8 @@ Both faculties were native pre-Fall. The barrier (Codex #94) suppresses both. Th
 
 **New worldbuilding pass. Full design: `research/the-thread-and-integration-network.md`.** Summary of the locked decisions:
 
-- **Three-layer network stack:** the **Labyrinth** (clean pipeline, #17) → **The Thread** (#154, the multiverse info network / HUD data source) → the **System/MSG overlay** (#4, #56, the surveilling-and-shading layer). *Substrate clean, overlay corrupt.*
-- **Earth dimensionally unfolds** (#155) during the Tutorial window — pocket-space un-compresses, traversal triples, cities hold but spread apart, new frontier between cores. The old grid dies on a fuel clock; magic/System replaces electricity.
+- **Three-layer network stack:** the **Labyrinth** (clean pipeline, #17) → **The Thread** (#187, the multiverse info network / HUD data source) → the **System/MSG overlay** (#4, #56, the surveilling-and-shading layer). *Substrate clean, overlay corrupt.*
+- **Earth dimensionally unfolds** (#188) during the Tutorial window — pocket-space un-compresses, traversal triples, cities hold but spread apart, new frontier between cores. The old grid dies on a fuel clock; magic/System replaces electricity.
 - **Flint's receive-only limit is MSG-layer-only;** he reads The Thread freely. Ghost credential + Thread read **persist everywhere** (supersedes the 2026-04 "lost in the wider Labyrinth" note above).
 - **Flint's origin:** the Ch2 integration menu is voiced by Nate's **one assigned construct as a generic, nameless template** ("v1.0," writer-facing only — never "Flint" or witty on the page). It falls silent at the crash; the Spirit rewrites **Nate AND the construct in one grace-event** in the unconscious gap (= "before first boot"); it **boots as Flint in Ch3.** One construct, no two-AI problem.
 - **80/20 (writer-facing only):** ~80% Creator-sourced / Labyrinth-delivered clean channel, ~20% MSG-skewed routing — *one pool routed two ways*, not two content buckets (#100). Keep the three-tier door model intact.
