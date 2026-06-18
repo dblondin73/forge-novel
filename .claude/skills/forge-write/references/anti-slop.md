@@ -51,6 +51,7 @@ every use. Watch them by eye; rewrite only the slop sense.
 - **leverage** — slop as a buzzy verb ("leverage synergies"); fine as a noun (mechanical leverage).
 - **testament** — slop as "a testament to"; fine in its literal / scriptural sense.
 - **nuanced** — slop as empty filler; fine when an actual nuance follows.
+- **honest / honestly** — forge-novel motif-tic, not generic slop; fine once or twice, but it clusters (Ch4 ran it 8×: "honest material," "honest weight," "honest-ugly"). Watch by eye; vary with *real / true / sound / genuine* and keep at most one or two per chapter.
 
 ---
 

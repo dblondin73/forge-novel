@@ -292,6 +292,12 @@ How the Old Powers (Codex #8) magic works. Fundamentally different from both Sys
 7. The discovery arc: Nate gradually realizes the System didn't give anyone anything — it just claimed what was already there
 8. The System HATES Nate's settlements because he's showing people what's behind the curtain
 
+### Skill attribution labeling — Tutorial vs post-Tutorial (2026-06-17)
+
+**Three layers, one visible name.** The **Labyrinth** is the true source but is NEVER named on-page in Book 1 — the hidden truth; no skill is ever labeled "from the Labyrinth." **The System** is the generic in-world attribution for *everything*: the counterfeit hides the source, so every skill reads as "the System gave / granted / logged it." **MSG / Morningstar** is the System's corporate brand face, NOT a separate source.
+
+**Tutorial (Ch4-10) = "the System" only.** No Morningstar branding, no hooks — the free-sample phase. The reward-chime is System scaffolding, not MSG. **MSG branding + hooks debut post-Tutorial** as the hook-rate ramps. Never split skills into two visible sources (System vs MSG) — MSG is the System wearing a suit. See `research/skill-system-design.md` → "Skill attribution labeling."
+
 ---
 
 ## System Term Formatting
