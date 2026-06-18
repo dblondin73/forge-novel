@@ -338,6 +338,53 @@ Overlap between life-domains is common (Teaching sits in Profession and Social; 
 
 ---
 
+## Skill Acquisition Modes
+
+How a skill *first appears*. Distinct from how it *levels* (all skills level use-based, numbered, Codex #109), from its *channel* (clean/skewed is orthogonal — either mode can be either channel), and from *base/enhanced* (that axis is about Abilities **within** a skill, not how the skill is born).
+
+Two families, sorted by **who originates the skill**.
+
+### Granted / Installed — the System authors and pushes it
+
+A push event. Arrives as a packaged install, tied to **Class + Level**, wrapped in scaffolding (mana cost, cooldown, named Ability, the dopamine chime).
+
+| Sub-mode | Trigger | Example |
+| -------- | ------- | ------- |
+| Class starter | Class assignment | Universal starter strike/bolt (#97) |
+| Class-affinity unlock | Level pacing | Fire affinity, weapon specialization |
+| Patron bond | Threshold offer accepted | Bonus skills outside class (#97 — binding cost) |
+| Skill-book / shop | Consume / purchase | System-economy acquisition (the "bought" path) |
+
+The System **authored** the package — counterfeit scaffolding wrapped around the Creator-sourced skill pool.
+
+### Revealed / Recognized — the System reads a capacity it did not author
+
+A recognition event. No install. The competence was already in the person (Imago Dei capacity); the System only *labels* what the body did. Skews toward Life Skills (D10), Gathering, Crafting, Physical.
+
+| Sub-mode | Trigger | Example |
+| -------- | ------- | ------- |
+| Back-fill | First integration scan reads existing mastery | Nate's SA / Horsemanship surfacing high (Ch2) |
+| **Recognition Threshold** (cold-start) | Doing a novel activity past a meaningfulness threshold | A true novice scavenges enough → Scavenging Rank 1 |
+| Budding | Repeated use spawns an adjacent skill | Sword Swing → Sword Thrust |
+| Graduation | An Ability matures into its own Skill at C-rank | Butchery from Cooking |
+
+**Cold-start ruling (locked 2026-06-17):** a brand-new life-skill for someone with *no* prior competence uses the **Recognition Threshold** — the same event as back-fill, just live. Do the thing past a threshold; the System *recognizes* it and surfaces a Rank-1 skill. No class tie, no mana/cooldown until it later buds an Ability. One rule covers every do-it skill, and it keeps the theology intact: the System **recognizes**; it does not **author**.
+
+### The distinguishing tells
+
+| Tell | Granted / Installed | Revealed / Recognized |
+| ---- | ------------------- | --------------------- |
+| Origin | System authors the package | System reads existing/earned capacity |
+| Trigger | A push you receive | A thing you did the System noticed |
+| Tie | Class + Level | None — stands alone |
+| Domain skew | Martial 1–3 | Life Skills, Gathering, Crafting, Physical |
+| HUD framing (Ch2 scan) | `COMBAT / class skill granted` | `LIFE SKILLS / read from prior capacity` |
+| Theology | Counterfeit scaffolding | Creator-authored, merely labeled |
+
+**Prose tell:** a granted skill lands as something *given* (pressure, install, the chime). A revealed skill lands as the System *catching up* to what the person already did. The reader should feel the difference without it being named.
+
+---
+
 ## Ability Design Patterns
 
 Four patterns for how Abilities unlock and surface:
@@ -517,6 +564,7 @@ Remaining:
 - **Spirit → Conduit Gifts:** direct, bypasses Labyrinth
 - **Substrate is always clean:** mana pools, physical energy, life, breath — Creator-owned, incorruptible. Only skill-use carries channel routing
 - **Nate's mana pool:** clean by default, like every pool. His Conduit amplification rides on top; no skewing anywhere in his casts
+- **Skill acquisition modes (2026-06-17):** two families — Granted/Installed (System authors; Class+Level; scaffolded) vs Revealed/Recognized (System reads a capacity it didn't author; Life-skill skew). Cold-start novel skills use the **Recognition Threshold** (live back-fill). See "Skill Acquisition Modes" above
 
 ---
 
