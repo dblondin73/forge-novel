@@ -146,39 +146,60 @@ Stasis, not decay. When Nate returns to alignment — repentance, reorientation 
 
 ---
 
-## Three-Tier Hierarchy
+## Four-Tier Hierarchy
 
 ```text
 Domain (grouping)
-  └── Skill (rank container — the thing you have a rank in)
-        └── Ability (named usable move / power — active or passive)
+  └── Skill (main — the headline rank container)
+        └── Sub-skill (a ranked facet of the main skill; carries its own rank)
+              └── Ability (named usable move / power — active or passive)
 ```
 
-### Why "Ability" for the leaves
+*(Revises the earlier three-tier model. "Sub-skill" had been retired in favor of "Ability," but the approved Ch2 readout and the progression bible both rank sub-entries under each skill. This reinstates **Sub-skill** as a distinct, ranked middle tier and keeps **Ability** for named moves. Locked 2026-06-17.)*
 
-- Matches LitRPG genre convention (Kong, Zogarth, Shirtaloon all use "Ability" for named moves)
-- Covers active and passive both — simpler than splitting sub-skill / technique / ability into three names
-- Clean HUD reading: Skills in the skill window; Abilities on the action bar
+### The four tiers
+
+- **Domain** — top-level grouping (Martial, Perception, Life Skills…). Organizational only.
+- **Skill (main)** — the headline competence you "have a rank in" (Structural Analysis, Cooking, Sword Mastery).
+- **Sub-skill** — a ranked facet/component of the main skill, each with its own rank (Load-Path Read, Knife Work). The passive breakdown of competence; this is the `├` tier in the Ch2 readout.
+- **Ability** — a named, *usable* move or power that unlocks at a rank threshold (Riposte, Power Strike, a fast failure-mode call). The thing you *do*; lives on the action bar.
+
+### Why this split (sub-skill ≠ ability)
+
+- **Different objects:** a sub-skill is a ranked *facet of competence*; an Ability is a *move you fire*. The Ch2 scan shows sub-skills (each ranked); prose shows Abilities (named in action).
+- **Genre-native:** *The Land* (Kong) runs an explicit "Skills and Sub-skills" structure; "Ability" for named moves matches Kong / Zogarth / Shirtaloon.
+- **Clean HUD reading:** Skill + sub-skills in the skill window; Abilities on the action bar.
 
 ### Prose flavor
 
 "Technique" is acceptable prose vocabulary for low-register / mundane / no-HUD actions ("she fell into her knife-work technique"). Reserve capitalized **Ability** for System-surfaced action-bar moves. Same mechanical object; different prose register.
 
-### Worked example — System-granted martial Skill
+### Worked example — Acquired Perception Skill (the Ch2 canonical)
+
+| Tier | Value |
+| ---- | ----- |
+| Domain | **Perception** |
+| Skill (main) | **Structural Analysis** |
+| Sub-skills | Load-Path Read · Failure Prediction · Materials (each separately ranked) |
+| Abilities | named reads unlocked at thresholds (e.g. a fast failure-mode call) |
+
+### Worked example — Granted martial Skill
 
 | Tier | Value |
 | ---- | ----- |
 | Domain | **Martial — Weapons** |
-| Skill | **Sword Mastery** |
-| Abilities | Guard Stance · Riposte · Cleave · Pierce · Disarm · Flourish |
+| Skill (main) | **Sword Mastery** |
+| Sub-skills | Footwork · Bladework · Guard |
+| Abilities | Riposte · Cleave · Pierce · Disarm · Flourish |
 
-### Worked example — Life Skill (clean channel by default)
+### Worked example — Acquired Life Skill (clean channel by default)
 
 | Tier | Value |
 | ---- | ----- |
 | Domain | **Life Skills — Home** |
-| Skill | **Cooking** |
-| Abilities | Knife Work · Heat Management · Seasoning · Timing · Preservation · Butchery (graduates to own Skill at C-rank) |
+| Skill (main) | **Cooking** |
+| Sub-skills | Knife Work · Heat Management · Seasoning · Preservation |
+| Abilities | named techniques at higher ranks; Butchery graduates to its own Skill at C-rank |
 
 ---
 
@@ -342,9 +363,9 @@ Overlap between life-domains is common (Teaching sits in Profession and Social; 
 
 How a skill *first appears*. Distinct from how it *levels* (all skills level use-based, numbered, Codex #109), from its *channel* (clean/skewed is orthogonal — either mode can be either channel), and from *base/enhanced* (that axis is about Abilities **within** a skill, not how the skill is born).
 
-Two families, sorted by **who originates the skill**.
+Two families — **Granted** and **Acquired** — sorted by **who originates the skill**. The in-world notification verb is the tell: the System prints *Class skill granted* for one family and *Skill acquired* for the other (the genre-native signal).
 
-### Granted / Installed — the System authors and pushes it
+### Granted — the System authors and pushes it
 
 A push event. Arrives as a packaged install, tied to **Class + Level**, wrapped in scaffolding (mana cost, cooldown, named Ability, the dopamine chime).
 
@@ -357,7 +378,7 @@ A push event. Arrives as a packaged install, tied to **Class + Level**, wrapped 
 
 The System **authored** the package — counterfeit scaffolding wrapped around the Creator-sourced skill pool.
 
-### Revealed / Recognized — the System reads a capacity it did not author
+### Acquired — the System reads a capacity it did not author (you earned it by doing)
 
 A recognition event. No install. The competence was already in the person (Imago Dei capacity); the System only *labels* what the body did. Skews toward Life Skills (D10), Gathering, Crafting, Physical.
 
@@ -372,8 +393,9 @@ A recognition event. No install. The competence was already in the person (Imago
 
 ### The distinguishing tells
 
-| Tell | Granted / Installed | Revealed / Recognized |
-| ---- | ------------------- | --------------------- |
+| Tell | Granted | Acquired |
+| ---- | ------- | -------- |
+| Notification verb | *Class skill granted* | *Skill acquired* |
 | Origin | System authors the package | System reads existing/earned capacity |
 | Trigger | A push you receive | A thing you did the System noticed |
 | Tie | Class + Level | None — stands alone |
@@ -381,7 +403,7 @@ A recognition event. No install. The competence was already in the person (Imago
 | HUD framing (Ch2 scan) | `COMBAT / class skill granted` | `LIFE SKILLS / read from prior capacity` |
 | Theology | Counterfeit scaffolding | Creator-authored, merely labeled |
 
-**Prose tell:** a granted skill lands as something *given* (pressure, install, the chime). A revealed skill lands as the System *catching up* to what the person already did. The reader should feel the difference without it being named.
+**Prose tell:** a Granted skill lands as something *given* (pressure, install, the chime). An Acquired skill lands as the System *catching up* to what the person already did. The reader should feel the difference without it being named.
 
 ---
 
@@ -564,7 +586,8 @@ Remaining:
 - **Spirit → Conduit Gifts:** direct, bypasses Labyrinth
 - **Substrate is always clean:** mana pools, physical energy, life, breath — Creator-owned, incorruptible. Only skill-use carries channel routing
 - **Nate's mana pool:** clean by default, like every pool. His Conduit amplification rides on top; no skewing anywhere in his casts
-- **Skill acquisition modes (2026-06-17):** two families — Granted/Installed (System authors; Class+Level; scaffolded) vs Revealed/Recognized (System reads a capacity it didn't author; Life-skill skew). Cold-start novel skills use the **Recognition Threshold** (live back-fill). See "Skill Acquisition Modes" above
+- **Skill hierarchy is four-tier (2026-06-17):** Domain → Skill (main) → Sub-skill (ranked facet) → Ability (named move). Reinstates Sub-skill as a distinct ranked tier (reverses the earlier "sub-skill retired" call). See "Four-Tier Hierarchy" above
+- **Skill acquisition modes (2026-06-17):** two named families — **Granted** (System authors & pushes; Class+Level; scaffolded; popup *Class skill granted*) vs **Acquired** (System reads a capacity it didn't author; earned by doing; Life-skill skew; popup *Skill acquired*). Cold-start novel skills use the **Recognition Threshold** (live back-fill). See "Skill Acquisition Modes" above
 
 ---
 
