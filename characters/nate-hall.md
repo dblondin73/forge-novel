@@ -157,7 +157,7 @@ WIS is primary stat — drives perception, discernment, System resistance. Grows
 
 - **Type:** Fighter-pilot HUD overlay (NOT a blue screen, NOT System-built)
 - **Cannot be turned off.**
-- **Nate has NO character sheet** — his info is felt and interacted with mentally through his HUD.
+- **Nate has NO persistent character sheet and no stat-sheet recaps** — his info is felt and interacted with mentally through his HUD. Skill notifications (acquired / rank-up) **do** surface in his HUD, but stripped of the MSG golden-chime fanfare — clean signal, no dopamine hook (the hook is the fanfare, not the notification). He can pull a skill's detail up on demand, and Flint can give him a rundown. *(Refined 2026-06-17 — supersedes the older "crunch reaches the page only via Flint" framing.)*
 - **Mixed geometry:** Hard angles + organic curves. System UI is rigid boxes. Nate's has curves because its source is organic.
 
 **Evolution (Beta Build → Catches Up → Surpasses):**
@@ -200,7 +200,7 @@ Nate does NOT pick a weapon from the racks. He picks materials and BUILDS his lo
 ## Book 1 Progression
 
 - Starts: no class, no skills, monochrome HUD barely showing health/stamina (Phase 1A)
-- Tutorial: Level 4 Engineer. Improvised crossbow + hammer. Glitchy SA, developing Field Repair. HUD grows through Phases 1A-1D (craft overlay → threat awareness → targeting + Flint co-pilot)
+- Tutorial: Level 4 Engineer. Improvised crossbow + hammer. Glitchy SA, developing Field Repair; **Salvage** + **Maker** sub-skills (under his **Engineering** main skill) surface during the Ch4 crossbow build — Nate's first Acquired-family dings (fanfare-free). HUD grows through Phases 1A-1D (craft overlay → threat awareness → targeting + Flint co-pilot)
 - Mid-book: 4 skills, HUD Phase 2A (color arrives, toggle control, crossover moment — surpasses blue panels)
 - End: Level 10, 5 skills (including one unauthorized), HUD Phase 2B (full tactical), settlement of ~20
 
