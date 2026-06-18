@@ -36,6 +36,7 @@ The Ch2 Integration menu is voiced by Nate's one assigned construct as a generic
 - **research/ch02-interactive-integration-design.md:** nameless in-room guide + gap rewrite + 80/20.
 - **timeline.json** (+3 events; integrity check PASS), **revelation-schedule.json** (+1 reveal).
 - **Live forge Codex synced:** #187 The Thread, #188 Dimensional Unfolding + relationships (Labyrinth contains / Flint reads / System-AI surveils / Unfolding reshapes Earth + brings_online Thread); inline pointers appended to #2, #30, #56. Provisional #154/#155 (already taken — Fantasy Register / Troubleshooter Spinoff) repointed to the real IDs.
+- **Drafted into prose:** Ch2 — the nameless MSG guide construct now voices the integration menu (greets, upsells the premium aisles, presents the final gate, falls silent at the crash) and is rewritten alongside Nate in the gap (the v1.0→v2.0 plant, effect-only); Ch3 — seam touch contrasting Flint against the empty chair-room voice. `prose_lint`: 0 FAIL on both drafts.
 
 ---
 

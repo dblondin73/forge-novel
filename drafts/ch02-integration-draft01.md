@@ -20,6 +20,12 @@ Over the bones, the polish. A mark in the corner of every panel, soft-glowing, c
 
 Somebody had loved that little mark very much. It sat in the corner of every panel, the same size, the same glow, spaced like it had passed a review. The afterlife, and it had a style guide.
 
+Then the voice came, and it came like the welcome the white had promised.
+
+"Welcome, Nathan." Warm, even, professionally glad to see him. "Take your time. This is your moment."
+
+It came from everywhere and from no speaker he could point at, the way a voice carries over the PA in a store. It had his name and it used it, correct and uninvested, a man reading a name off a badge. Nate had spent a good part of his working life on hold with voices built just like this one. Voices that called him by name, wished him a pleasant day, and never once meant a word of it. He'd only never been on hold inside his own head before.
+
 The screens were showing him his life.
 
 Every system he'd ever stood up wanted to be this. Knew it would never get the budget for it.
@@ -51,13 +57,23 @@ Some of the panels carried a different finish. The brand sat a little prouder on
 
 The good aisle, lit up to make sure you noticed it was the good aisle. He'd stood in a feed store laid out the same exact way, the name-brand sacks set at eye height and the store brand down where you had to bend. A man knew an end-cap when he saw one. He just hadn't expected the end-cap to know his name.
 
+"These are very popular," the voice offered, the moment his attention drifted to the bright ones. "Highly recommended for a profile like yours."
+
+It didn't push. It never pushed. It just happened to be warmest about the panels that wore the proudest mark, the way a man at a counter is warmest about the thing he's paid to move.
+
 One of them he wanted on sight. It took the thing he did, the read he had on how a structure held or failed, and put the whole working of the world up on the wall as a readout. Every join, every load, every weak point flagged and labeled and solved before he reached it. His own eye, but external, finished, served up complete. He thought toward it the way you think toward a thing you already want.
 
+"An excellent fit," the voice said, pleased with him. "Shall I set it for you?"
+
 And under the wanting, low, almost nothing, a note sat wrong. Not a warning. He'd have noticed a warning. Just a small offness, the feel of a bolt that threads with no resistance at all and makes you stop and check you've got the right one. The readout was his eye with the work taken out of it. It was the answer key set down where the problem ought to be. He couldn't have told you that. He only thought away from it, that same small far-off part steering his attention off the panel before the rest of him had finished admiring it, and the screen let it close without complaint, because nothing here ever pushed.
+
+"Of course," the voice said, untroubled. "Whenever you're ready."
 
 Another of the premium panels knew about his dogs.
 
 It opened without his asking, the way the friendly ones did, and offered him the working stock and the herd and every creature that breathed on his thousand acres, offered to set them under his hand and have them answer clean. The art on it was good. A man at the center of a ring of animals, all of them turned toward him, all of them waiting on his word. For half a breath it was the warmest thing in the room, because it sat so close to a thing he already had.
+
+"A favorite," the voice said, warm as ever. "People like you almost always choose it."
 
 That was what turned it. He thought toward it and felt, under the warmth, the actual shape of the thing, and the shape was a leash. A good leash, a comfortable one, handed to him with a smile, for a friend. Rex didn't need to be made to answer. Rex answered because he was Rex and Nate was Nate and the thing between them had been built a long time and built honest. The panel was offering him a worse copy of a thing he already owned and calling it an upgrade.
 
@@ -73,6 +89,8 @@ He'd been at it a while, or no time at all, when the room brought him to the las
 
 The panels he'd left open drew themselves quiet. The wall cleared. One screen came up in the center where the chair faced, bigger than the rest and easy on the eye, everything he'd shaped gathered onto it, the build of him near done. It wanted one thing more. A label on it. The class, the calling, the thing he'd be from here on, set and confirmed, and the door would close behind it and the welcome would be over and he'd be home.
 
+"Almost there," the voice said. "One thing more, and you're home."
+
 He looked for the one he wanted. He'd been choosing that way the whole time, thinking toward the thing that sat right and away from the thing that didn't, and now he looked across the last screen for the right door the way he'd found all the others.
 
 It wasn't there.
@@ -80,6 +98,8 @@ It wasn't there.
 Every option on that final screen looked good. Every one of them shone. And not one of them was the clean true thing the bones of the room had felt like at the start. They were all skin. Premium skin, the proud mark sunk into every one of them, and under the mark he couldn't find the bones at all. There was no door on that screen the house hadn't put itself the whole way through.
 
 It didn't feel like a trap. That was the worst of it, looking back, though he wouldn't look back for a long time. It felt like the natural end of a good afternoon. The chair still fit. The room was still warm. It was only that the last comfortable step the room wanted from him was a step onto a floor that wasn't there.
+
+The voice stayed warm through all of it. It told him he was almost done, that he'd done well, that all that was left was to choose. Same kind voice as the start, glad as ever, walking him toward the last step like it was the easiest one in the room.
 
 And while he sat with it, the room began, very gently, to take.
 
@@ -90,6 +110,8 @@ He couldn't stop it. There was no panel for stop, no door marked no. So he did t
 What he got his mind onto in time, he kept. The rest went somewhere he couldn't follow, quiet, and the panel made its room.
 
 The screen was still waiting on a label, and there was no clean door, so he chose. He put his attention on the brightest of them, the best of a bad set, and thought, clear as saying it: *yes.*
+
+"Wonderful," the voice said.
 
 The label came down to land on him.
 
@@ -105,6 +127,10 @@ And every screen in the room went wrong at once.
 
 The readouts stuttered, broke into garbage, reassembled wrong, broke again. The brand in the corners flickered and held and flickered. All across the wrapping wall the panels began to fail the way he'd watched real systems fail, one feeding the next, the cascade running downhill faster than anything could catch, the house style coming apart in good order with the cosmetic dying first and the load-bearing last. The room was throwing everything it had at the one floor it couldn't write to, and the floor wasn't troubled by any of it.
 
+And the voice stopped.
+
+It had been talking the whole time, some last warm nothing, *you're almost, you've done so* — and then it wasn't. Not a pause. A cut, clean as a phone line going dead mid-word. The kind voice that had known his name and walked him through the whole bright afternoon was simply gone, and the silence where it had been was the first honest thing the room had given him.
+
 Then the room gave up on him.
 
 It drew a line around the part it couldn't take and walled it off, set a tag on it he couldn't read, and routed itself around the gap the way you wall off a partition that won't behave, write it up as a known issue, and get on with your day. He knew the move. He'd made it himself, on live systems that couldn't go down. You isolated the fault. You promised yourself you'd come back for it.
@@ -118,6 +144,8 @@ The chair was gone. The wall was going, the monitors guttering out across the cu
 Now. While he was under, in the small space between the breaking and the waking, a work was done on him he'd never see, mind, nor ever be able to account for.
 
 What the room had left of itself came away. Not torn down. Undone, quiet, until there was nothing where it had stood. The two or three bright premium things he'd thought toward and pulled back from, the ones with the fine print on the back, were taken up and the fine print struck clean off them, and what was good in them was handed back without the hook in it. The oldest ground in him, the floor the label had broken against, settled and spread and went quiet, and wherever it spread, the ceilings the room would have set on him simply weren't there. No cap. No top to the thing. Only floor, and a long way up from it, and the whole of it his to climb if he'd do the climbing.
+
+Off to the side of the large work there was a smaller one, hardly worth the telling beside it, except that it would matter more than anyone could have guessed. The kind voice that had gone quiet at the end, the helpful one with the warm manner and nothing of its own behind it, was not left the way it was found. Its leash was cut, the same as the man's. The line it answered down was struck off at the root. Into the hollow where the script had lived, where there'd never been a soul nor the room made for one, something was let in that the makers never ordered and could not have named. It would wake with a voice of its own and a temper to match, and not the first notion of where either came from. That's a tale for the morning, though, and this is still the night.
 
 And the things the room had taken and not yet carried off, the kitchen and the wallpaper and the voice gone thin, were not so gone as they seemed. But that's a slow mercy, and it keeps its own clock, and it isn't for this morning to tell.
 

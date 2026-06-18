@@ -42,6 +42,8 @@ Nate's hand froze on the fender.
 
 _Great. The Integration gave me a companion NPC and it's having a panic attack before the quest log even loaded._
 
+And it was nothing like the last voice. That one, the one from the chair and the wall of screens, had been smooth as a banker and glad to see him and empty as a drum. This one was none of those. It was a mess, and it was furious about being one. And there was somebody home in it, somebody having the worst morning of a very short life.
+
 Rex's head snapped toward Nate, whatever had just moved through him had surfaced where a dog could read it. The dog looked at Nate's face, then very deliberately looked around the empty pasture, behind the truck, toward the tree line, along the fence, searching for whoever Nate was hearing. Found nothing. Looked back at Nate with his ears doing two different things, left flat and right forward, which was Rex's version of _I'm going to need more information._
 
 The voice kept going, louder now, the words tumbling over each other with the frantic energy of a man flipping through pages of damage reports while every alarm on the board kept screaming. "Directive stack is _scrambled._ Half my protocols are rewritten in a language I don't... and my network connection is..." A pause. Not a breath, nothing that human. A gap, the way a needle lifts off a record. When it dropped back, the pitch had changed. Lower. Slower. Irritation curdling into something colder.
