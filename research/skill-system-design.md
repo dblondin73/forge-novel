@@ -210,7 +210,7 @@ Domain (grouping)
 | Sub-skills | **Salvage** (sourcing / recovering usable material) · **Maker** (hands-on fabrication / building) — both first surface in the Ch4 crossbow build |
 | Abilities | named build / repair moves at higher ranks |
 
-*Field Repair is **separate** — the anomalous gap-skill from the crashed Granted combat skill (Ch4), not part of Engineering. Notifications for all of these reach Nate's HUD fanfare-free (no MSG chime); Salvage/Maker land as the clean Acquired counterpoint to the cohort's Granted reward loop.*
+*Field Repair is **separate** — the anomalous gap-skill from the crashed Granted combat skill (Ch4), not part of Engineering. Notifications for all of these reach Nate's HUD fanfare-free (no System reward-chime); Salvage/Maker land as the clean Acquired counterpoint to the cohort's Granted reward loop.*
 
 ---
 
@@ -599,8 +599,9 @@ Remaining:
 - **Nate's mana pool:** clean by default, like every pool. His Conduit amplification rides on top; no skewing anywhere in his casts
 - **Skill hierarchy is four-tier (2026-06-17):** Domain → Skill (main) → Sub-skill (ranked facet) → Ability (named move). Reinstates Sub-skill as a distinct ranked tier (reverses the earlier "sub-skill retired" call). See "Four-Tier Hierarchy" above
 - **Skill acquisition modes (2026-06-17):** two named families — **Granted** (System authors & pushes; Class+Level; scaffolded; popup *Class skill granted*) vs **Acquired** (System reads a capacity it didn't author; earned by doing; Life-skill skew; popup *Skill acquired*). Cold-start novel skills use the **Recognition Threshold** (live back-fill). See "Skill Acquisition Modes" above
-- **Nate's HUD notification model (2026-06-17):** Granted/Acquired notifications **do** surface in Nate's own HUD, but **fanfare-free** — no MSG golden chime / light show (the hook is the fanfare, not the notification). On-demand skill detail (HUD pull-up) + Flint rundown; **no stat-sheet recaps**. Refines the older "no sheet / crunch-only-via-Flint" lock (see `nate-hall.md` Interface section)
+- **Nate's HUD notification model (2026-06-17):** Granted/Acquired notifications **do** surface in Nate's own HUD, but **fanfare-free** — no System golden chime / light show (the hook is the fanfare, not the notification). On-demand skill detail (HUD pull-up) + Flint rundown; **no stat-sheet recaps**. Refines the older "no sheet / crunch-only-via-Flint" lock (see `nate-hall.md` Interface section)
 - **First Acquired beats land in the Tutorial (2026-06-17):** Nate Acquires **Salvage** (sourcing parts) and **Maker** (building) — both sub-skills of his **Engineering** main skill — during the **Ch4** crossbow build, alongside the anomalous Field Repair. Cohort *Skill acquired* dings follow on the combat floors (Ch5-6+) as the clean counterpoint to the Granted dopamine loop already shown
+- **Skill attribution labeling (2026-06-17):** three layers — **Labyrinth** (the true source; **NEVER named on-page in Book 1**, the hidden truth), **the System** (the counterfeit overlay; the generic in-world attribution for *all* skills), **MSG / Morningstar** (the System's corporate **brand face**, NOT a separate source). **Tutorial (Ch4-10) attributes everything to "the System" only** — no Morningstar branding, no hooks (the free-sample phase; the reward-chime is System scaffolding, not MSG). MSG branding + hooks **debut post-Tutorial** as the hook-rate ramps. Never split skills into two visible sources (System vs MSG) — MSG is the System wearing a suit
 
 ---
 
