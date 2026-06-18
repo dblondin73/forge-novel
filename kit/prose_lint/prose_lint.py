@@ -98,6 +98,8 @@ def load_config(path: Path | None) -> dict:
             "transition_cluster_window": 5,
             "transition_cluster_max": 2,
             "tier2_cluster_min": 3,
+            "motif_word_max": 2,
+            "motif_words": [],
         },
         "chapters": {},
     }

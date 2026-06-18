@@ -10,7 +10,9 @@
     "consecutive_same_ending_max": 2,
     "transition_cluster_window": 5,
     "transition_cluster_max": 2,
-    "tier2_cluster_min": 3
+    "tier2_cluster_min": 3,
+    "motif_words": ["honest"],
+    "motif_word_max": 2
   },
   "chapters": {
     "ch01": { "audiobook_locked": false, "tts_narrated": true,  "narration_stale": true },

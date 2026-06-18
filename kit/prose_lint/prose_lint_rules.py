@@ -418,6 +418,42 @@ def check_paragraph_uniformity(doc: Doc) -> list[Finding]:
     return findings
 
 
+def check_motif_overuse(doc: Doc) -> list[Finding]:
+    """Configurable motif-word overuse.
+
+    A word that is fine once or twice but clusters into a tic across a chapter
+    (forge-novel's 'honest' is the seeded case). Counts stem matches across the
+    prose and WARNs when a motif exceeds its per-chapter cap. Portable: a no-op
+    unless ``motif_words`` is bound in config, so the Standards layer stays
+    genre-agnostic.
+    """
+    motifs = doc.thresholds.get("motif_words", [])
+    if not motifs:
+        return []
+    cap = doc.thresholds.get("motif_word_max", 2)
+    findings: list[Finding] = []
+    for motif in motifs:
+        stem = str(motif).strip().lower()
+        if not stem:
+            continue
+        pattern = re.compile(r"\b" + re.escape(stem) + r"\w*", re.I)
+        hits: list[tuple[int, str]] = []
+        for ln in doc.prose_lines:
+            for m in pattern.finditer(_plain(ln.text)):
+                hits.append((ln.lineno, m.group(0)))
+        if len(hits) > cap:
+            forms = ", ".join(sorted({h[1].lower() for h in hits}))
+            locs = ", ".join(f"L{n}" for n, _ in hits[:8])
+            more = "" if len(hits) <= 8 else f" (+{len(hits) - 8} more)"
+            findings.append(Finding(
+                hits[0][0], WARN, "motif-overuse",
+                f"'{stem}' motif used {len(hits)}x (cap {cap}); forms: {forms}. "
+                "Clustering into a tic. Vary the wording (e.g. real / true / "
+                f"sound / genuine). At: {locs}{more}.",
+            ))
+    return findings
+
+
 DETECTORS = [
     check_emdash_density,
     check_not_just_construction,
@@ -430,4 +466,5 @@ DETECTORS = [
     check_consecutive_same_ending,
     check_tricolon_density,
     check_paragraph_uniformity,
+    check_motif_overuse,
 ]
