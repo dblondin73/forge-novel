@@ -102,6 +102,18 @@
       "who": ["Nate", "Sonja"],
       "notes": "revelation-schedule status is 'not_yet_planted' - Sonja is introduced post-Tutorial (ch9); the plant has not been written yet.",
       "source": "revelation-schedule.json:sonja-witness-gift"
+    },
+    {
+      "id": "fore-earned-vs-given-skills",
+      "kind": "foreshadow",
+      "promise": "Skills earned by doing (the quiet, fanfare-free 'Acquired' kind — Nate's Salvage/Maker, Pete's and Josh's survival skills) are set against the System's loud granted-skill reward loop; the earned/clean path is planted as the one that will matter over the hooked/given one.",
+      "planted_chapter": 4,
+      "reinforced_chapters": [5, 6],
+      "status": "open",
+      "paid_chapter": null,
+      "who": ["Nate", "Flint", "Pete Bowman", "Josh Miller"],
+      "notes": "Ties to the binding-hook arc (the dopamine reward loop as the hook) and rev-nate-pre-system-origin (Nate's skills arrive without fanfare / before the class-seal). Theology: earned/clean vs given/hooked.",
+      "source": "ch04-06 drafts (2026-06-17 Acquired-skill weave)"
     }
   ]
 }

@@ -147,6 +147,12 @@ And the teenager — Pete Bowman — watched Isabel's chime land with the specif
 
 Pete's next swing was late. He caught it halfway, corrected on the fly, and got the shortsword up in time to block a thorn-arm that would otherwise have taken him across the face. Nate saw the exact second the kid understood that watching the chime had nearly killed him. The block shuddered through Pete's elbow; his knees bent and held; he stepped back and reset and came in again with a thrust that landed flat in the bark-plate. Not pretty. But seated. No chime for Pete. Not yet. The **System** had watched him watch Isabel and had decided, in whatever way the **System** decided such things, that hesitation was not the currency it paid out milestones for.
 
+"Hang on." Flint's register shifted, the working flatness cracking just enough to let something curious through. "I caught another packet. Not like Isabel's. The kid didn't tier anything up. He acquired something." A beat, parsing. "There's a category in here for skills you earn by *doing* the thing instead of getting handed it at level-up. Pete just opened one. Evasion, near as I can read it. He stayed alive long enough, hard enough, that the **System** noticed and wrote him a new line."
+
+Nate watched the kid reset his feet. Watched him not die a second time.
+
+"It came in quiet, though," Flint added. "No chime. No gold. Isabel kills a Thornling with a skill the **System** gave her and she gets a parade. Pete keeps his own skin on by sheer cussedness and the **System** logs it like a receipt. If the spec sheet I can read means anything, the loud rewards are the ones it *wants* you chasing. The quiet ones you just have to go earn."
+
 Isabel's next swing took that Thornling too.
 
 ---

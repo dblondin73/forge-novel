@@ -90,6 +90,17 @@
       "source": "research/the-thread-and-integration-network.md (2026-06-17)"
     },
     {
+      "id": "ev-ch04-03",
+      "chapter": 4,
+      "seq": 3,
+      "kind": "progression",
+      "event": "While building his improvised crossbow, Nate acquires his first earned-by-doing skills — Salvage (sourcing/recovering usable material) and Maker (hands-on fabrication), both sub-skills under his Engineering practice. The notifications surface in his HUD fanfare-free (no System reward-chime), unlike the cohort's granted skills, and arrive while he is still flagged PROCESSING.",
+      "who": ["Nate", "Flint"],
+      "where": "Tutorial safe room",
+      "when": "Tutorial, safe room",
+      "source": "ch04 draft (2026-06-17 Acquired-skill weave)"
+    },
+    {
       "id": "ev-ch05-01",
       "chapter": 5,
       "seq": 1,
@@ -99,6 +110,17 @@
       "source": "epistemic-states after_ch05 (learned: 'He can kill when he has to', 'The Tutorial escalates')"
     },
     {
+      "id": "ev-ch05-02",
+      "chapter": 5,
+      "seq": 2,
+      "kind": "progression",
+      "event": "Pete Bowman acquires a skill by surviving rather than by grant — Evasion, read off Flint's combat-log packet. It logs quietly, with none of the chime-and-gold the System gives granted skill tier-ups (e.g. Isabel's Power Strike). First on-page cohort instance of the earned-by-doing (Acquired) family.",
+      "who": ["Pete Bowman", "Flint", "Nate"],
+      "where": "Tutorial combat room",
+      "when": "Tutorial, first blood",
+      "source": "ch05 draft (2026-06-17 Acquired-skill weave)"
+    },
+    {
       "id": "ev-ch06-01",
       "chapter": 6,
       "seq": 1,
@@ -106,6 +128,17 @@
       "event": "Nate meets Josie Pickett in the Tutorial — the first proof he is not alone — and learns she is an Appraiser class.",
       "who": ["Nate", "Josie"],
       "source": "epistemic-states after_ch06 (learned: 'Josie exists', 'He's not alone', 'Appraiser is a class')"
+    },
+    {
+      "id": "ev-ch06-02",
+      "chapter": 6,
+      "seq": 2,
+      "kind": "progression",
+      "event": "Josh Miller earns a skill by gritting through (not a granted tier-up); Flint, recognizing the pattern from Pete two chapters earlier, articulates that the System distributes skills two ways — the loud granted ones (chime, gold, the reward loop) and the quiet ones earned by doing. Establishes the Granted-vs-Acquired distinction for Nate and the reader.",
+      "who": ["Josh Miller", "Flint", "Nate"],
+      "where": "Tutorial combat room",
+      "when": "Tutorial, reward-counter room",
+      "source": "ch06 draft (2026-06-17 Acquired-skill weave)"
     },
     {
       "id": "ev-ch07-01",

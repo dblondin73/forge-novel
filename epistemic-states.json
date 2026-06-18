@@ -78,7 +78,9 @@
           "SA reveals structural weak points in enemies and environment",
           "His crossbow and hammer are effective tools",
           "Rex fights alongside him — physical combat, not magical",
-          "The bond with Rex transmits emotional impressions"
+          "The bond with Rex transmits emotional impressions",
+          "Doing the work can earn a skill — the System recognizes and logs earned competence (Salvage, Maker)",
+          "His HUD surfaces skill notifications, but stripped of the System's reward fanfare"
         ],
         "doesnt_know": [
           "System binding progression",
@@ -92,7 +94,9 @@
         ],
         "learned_this_chapter": [
           "How SA works in combat",
-          "Rex bond transmits impressions in danger"
+          "Rex bond transmits impressions in danger",
+          "Skills can be acquired by doing the work, not only granted (he picked up Salvage and Maker building his crossbow)",
+          "His own skill notifications arrive without the reward fanfare the rest of the cohort gets"
         ]
       },
       "after_ch05": {
@@ -101,7 +105,8 @@
           "Killing is necessary for survival",
           "His abilities are growing with use",
           "The Tutorial is testing him specifically",
-          "Rex's combat instincts are reliable"
+          "Rex's combat instincts are reliable",
+          "The System can log a skill earned by surviving/doing — and earned skills come quietly, without the chime-and-gold of granted ones"
         ],
         "doesnt_know": [
           "System binding",
@@ -116,7 +121,8 @@
         ],
         "learned_this_chapter": [
           "He can kill when he has to",
-          "The Tutorial escalates"
+          "The Tutorial escalates",
+          "Watched another fighter earn a skill by sheer survival, logged without the chime-and-gold the granted skills get"
         ]
       },
       "after_ch06": {
@@ -125,7 +131,8 @@
           "Josie is an Appraiser class",
           "Other humans survived the Integration and are in Tutorials",
           "The rooms get harder",
-          "Flint has access to System information Nate can't see"
+          "Flint has access to System information Nate can't see",
+          "The System distributes skills two ways: granted (loud reward loop) vs earned-by-doing (quiet, no fanfare)"
         ],
         "doesnt_know": [
           "System binding",
@@ -140,7 +147,8 @@
         "learned_this_chapter": [
           "Josie exists",
           "He's not alone",
-          "Appraiser is a class"
+          "Appraiser is a class",
+          "Flint frames it plainly: the System gives skills two ways — the loud granted ones (chime, gold) and the quiet ones you earn by doing"
         ]
       },
       "after_ch07": {

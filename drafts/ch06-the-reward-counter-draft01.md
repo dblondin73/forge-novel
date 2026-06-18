@@ -284,6 +284,8 @@ Josh watched the chime land. Nate saw it happen — the kid's eyes widening, his
 
 Josh's next swing was late. He caught it halfway, corrected on the fly, got the axe up in time to not-die to the Thornling in front of him — and then stepped back, breath shuddering, eyes wet, and reset. He came in again with a downward cut that landed flat in the bark-plate. Not pretty. But seated. No chime for Josh. Not yet. The **System** had watched him watch Mack and had decided, in whatever way the **System** decided such things, that hesitation was not the currency it paid out milestones for.
 
+The packet flickered across Flint's stolen feed again. "There. Same event I flagged earlier." His voice had the quiet of something clicking into place. "Josh didn't earn a chime. He earned a *skill.* Different drawer entirely. The **System** keeps two of them, near as I can tell. One for what it gives you, all bells and gold so you keep coming back for more. One for what you drag out of yourself when the giving stops. That second drawer doesn't ring. It just fills." A beat. "The kid's name goes in it whether the room claps or not."
+
 "I want that kid to live through this chapter," Flint said. Quietly, no joke attached. "I am registering that as a preference. The spec sheet I can read did not ask me for preferences, and I am having one anyway."
 
 "Noted," Nate said.

@@ -108,7 +108,7 @@ The swords: polished. Blades catching the torchlight and looking heroic the way 
 
 The wireframe flickered, died, came back a fraction sharper. Each pulse added detail, stress points resolving as brighter nodes, load-bearing joints separating visually from decorative ones, the whole overlay learning his focus like a dog learning what part of the ranch actually needed watching. Point, hold, read.
 
-The shields: same problem, different shape. Decorated faces over wood that **Structural Analysis** read as generated composite, structural filler wearing a wood costume and hoping nobody checked the tags. Two of the shields had bosses, the metal center pieces, that came back as genuine forged iron. Crystalline structure, real density, actual thermal history. The one structural-honest component on the shields was the one nobody was going to notice, which struck Nate as either an accident or a punchline he didn't have the data to judge.
+The shields: same problem, different shape. Decorated faces over wood that **Structural Analysis** read as generated composite, structural filler wearing a wood costume and hoping nobody checked the tags. Two of the shields had bosses, the metal center pieces, that came back as genuine forged iron. Crystalline structure, real density, actual thermal history. The one genuinely sound component on the shields was the one nobody was going to notice, which struck Nate as either an accident or a punchline he didn't have the data to judge.
 
 The bows: recurve limbs of generated composite, uniform grain tip to tip, no natural variation, no life in the wood because there had never been any wood. They'd fire arrows. They'd do it the way a printer fired a page, functionally, without joy, and with roughly the same expected service life. The arrows were worse. Straight enough, but the shafts were hollow composite. They'd shatter on impact with anything harder than flesh. Given what was presumably about to come through the sealed door, that was a specification decision someone was going to regret.
 
@@ -126,11 +126,11 @@ He turned his attention to the rest of the room.
 
 And the rest of the room told a different story.
 
-The crafting tables were built for function, not display. **Structural Analysis** read them as structural, real materials, real density, load-bearing. Honest material, where nobody would think to check. The table legs were straight-grain hardwood. Dense. True. The wall brackets were forged iron, simple, heavy, functional. The torch mounts were solid steel anchored into genuine stone.
+The crafting tables were built for function, not display. **Structural Analysis** read them as structural, real materials, real density, load-bearing. The real thing, where nobody would think to check. The table legs were straight-grain hardwood. Dense. True. The wall brackets were forged iron, simple, heavy, functional. The torch mounts were solid steel anchored into genuine stone.
 
 Everything that got *used* was real. Everything that got *chosen* was fake.
 
-The split snagged at him, two categories of honesty in the same room, and he had no words yet for what that meant.
+The split snagged at him, two categories of truth in the same room, and he had no words yet for what that meant.
 
 "Flint."
 
@@ -172,6 +172,18 @@ A **Warrior** type nearby, big, already holding two swords he didn't need, watch
 
 The man walked away with the expression of someone who had decided Nate was not his problem.
 
+Something surfaced at the edge of his vision while the man walked off. Not the gold. He'd watched the gold break over half the room by now, that warm wash of light that found a person the second the **System** handed them something and made sure everyone nearby felt it. This wasn't that. This was a line of plain text, low and to the left, there and gone, the way a status light blinks once to say *acknowledged* and goes back to minding its own business.
+
+**[ SKILL ACQUIRED — SALVAGE ]**
+
+No chime. No sunrise. The **System** had watched him pull the one good part out of a pile of junk, decided that was worth a name, filed it, and moved on without so much as a flourish.
+
+"Huh," Flint said. "It just logged you a skill. Salvage. Quietly, too. None of the fireworks the rest of the room's getting. You did a thing it recognized, it wrote the thing down, and it didn't throw you a parade." A beat. "Which is interesting, because you're still flagged **PROCESSING**. If the spec sheet I can read is any guide, skills come after the class seal, not before it. You've got the order backward and the **System** is letting you. I'd call that a glitch if it didn't keep happening on purpose."
+
+"Useful?"
+
+"Better than useful. First thing in this room that's handed you something and didn't try to sell you on it."
+
 Nate turned to the nearest crafting table. The wireframe overlay showed the table itself, the legs, the frame, the joints. One leg was slightly thicker than the others. Overbuilt for its role. More material than the table needed.
 
 "You're looking at the table like the table owes you money," Flint said.
@@ -180,7 +192,7 @@ Nate turned to the nearest crafting table. The wireframe overlay showed the tabl
 
 "I'm going to regret saying this, but… explain."
 
-"Weapons on those walls are built to look good. This table's built to hold weight. Different jobs. Honest material shows up where honest material has to do actual work." He tapped the leg. High, dense ring. Not a dull thunk. Not composite filler. Actual hardwood. "Hear that? Straight grain. Thirty inches of stock that'll hold a prod better than anything on those racks."
+"Weapons on those walls are built to look good. This table's built to hold weight. Different jobs. The sound stuff shows up where the actual work is." He tapped the leg. High, dense ring. Not a dull thunk. Not composite filler. Actual hardwood. "Hear that? Straight grain. Thirty inches of stock that'll hold a prod better than anything on those racks."
 
 "You're going to take the table apart."
 
@@ -190,7 +202,7 @@ Nate turned to the nearest crafting table. The wireframe overlay showed the tabl
 
 "It'll manage."
 
-He grabbed the forging hammer from the crafting station. Flat face on one side, cross peen on the other. Solid steel, honest weight, a blacksmith's tool, not a carpenter's. Built for shaping metal, not pulling nails. Nate's hand closed around the handle and something settled in his chest, a tool in his hand when the world stopped making sense. That always felt right.
+He grabbed the forging hammer from the crafting station. Flat face on one side, cross peen on the other. Solid steel, true weight, a blacksmith's tool, not a carpenter's. Built for shaping metal, not pulling nails. Nate's hand closed around the handle and something settled in his chest, a tool in his hand when the world stopped making sense. That always felt right.
 
 He worked the table leg joint with the hammer until the leg released. The weight landed in his palm exactly the way he'd expected.
 
@@ -229,6 +241,12 @@ Grip wrapped in a strip of leather from the inside of a belt buckle, where the *
 Ten minutes. The crossbow looked like someone built it in a barn. The stock was a table leg. The trigger was a wall bracket. The prod was the only piece in the whole room that someone had bothered to *temper*.
 
 It was ugly, honest-ugly, the kind that came from function winning every argument with form, and dangerous with the quiet certainty of something engineered to a purpose. That morning it was just a man and a crossbow that looked like it had been assembled during a bar fight, and neither of them knew what they were starting, mind.
+
+The last of it settled as he tightened the final wrap, the parts gone from a pile of salvage to a single object that did one thing and did it on purpose. The plain line came back, low and to the left, no warmer than the first.
+
+**[ SKILL ACQUIRED — MAKER ]**
+
+Still no chime. Across the room a **Warrior** took a golden wash for swinging a sword the **System** had handed him, and the light found his face and made him beautiful with it for a second, the way the rest of them had been made beautiful all morning. Nate built a working weapon out of furniture and got a line of text the color of nothing. He found he didn't mind. A chime was a thing somebody gave you. This he'd made.
 
 "I have catalogued what you just did," Flint said, "and I want you to know that from a strictly technical standpoint, you just built a ranged weapon from furniture and wall fixtures while forty-something people with functioning class assignments selected purpose-built armaments designed by a god-tier intelligence." A beat, and his voice shifted from clinical to something that sounded almost like pride, if you didn't know better. "And yours is better. I find that personally offensive on their behalf."
 
